@@ -8,11 +8,7 @@ nav_order: 1
 
 # ReadMe
 
-![The Green Book.png](https://iili.io/Fg93eou.png)
-
-*Font used in pseudo cover: [Switzer](https://www.fontshare.com/fonts/switzer)*
-
-Welcome to *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
+Welcome to *Designing Education Systems*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
 **Last Updated: December 3, 2025**
 
@@ -45,11 +41,10 @@ Table of contents for each chapter written below:
 - [Roadblocks To Teaching](Z006_Roadblocks_To_Teaching.html)
 - [Metrics Of Success](Z007_Metrics_Of_Success.html)
 - [Math, Calculus, and Beyond](Z007x_Math_And_Calculus.html)
-- [Probability and Statistics](Z007y_Probability_And_Statistics.html)
-- [Analysis (for Instructors)](Z007z_Analysis_Primer.html)
+- [Probability, Statistics, and Analysis](Z007y_Probability_And_Statistics.html)
 - [Source(s) of Truth](Z008_Source(s)_Of_Truth.html)
 - [Communication, Design, and Usability](Z009_Communication_Design_Usability.html)
-- [“Agile” Teaching Framework](Z010_Agile_Teaching_Framework.html)
+- [“Agile” Teaching Framework - An Educational System](Z010_Agile_Teaching_Framework.html)
 - [Accommodations](Z010a_Accommodations.html)
 - [Learning Methodologies and Teaching Methods](Z011_Learning_Methodologies.html)
 - [Homework](Z012_Homework.html)
@@ -58,7 +53,7 @@ Table of contents for each chapter written below:
 - [Guest Teachers, Speakers, and Presenters](Z015_Guest_Teachers_Presenters.html)
 - [Passporting & Information Transfer](Z016_Passporting_Information_Transfer.html)
 - [Other Additional Duties](Z017_Other_Additional_Duties.html)
-- [Maintaining Your Health](Z018_Maintaining_Your_Health.html)
+- [Maintaining Work Health](Z018_Maintaining_Your_Health.html)
 - [Money and Budget Management](Z019_Money_Budget_Management.html)
 - [The Use of AI and Technology](Z020_The_Use_Of_AI_And_Technology.html)
 - [Design Systems and EdTech](Z021_Design_Systems_EdTech.html)
@@ -87,7 +82,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, December 3). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
+  - Rogler, E. (2025, December 3). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 

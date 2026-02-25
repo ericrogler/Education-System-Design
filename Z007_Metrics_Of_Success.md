@@ -9,28 +9,26 @@ nav_order: 13
 
 ## **Short Answer**
 
-Being the "best" is simply a title. Nothing more. What is the best one day can no longer be the best the next day.
+Being the "best" is simply a title based on a specific situation and circumstances. What is the best one day could no longer be the best the next day.
 
-Being "good" is, pragmatically speaking, being better than others.
+Being "good" is, pragmatically speaking, simply being better than others.
+- An example of this is a staff engineer asking a lower level engineer about their opinion on what to do
 
-Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see cobra effect below). If a metric has no influence on answering someone's question or drive a real decision, it's probably a useless metric.
+Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
 
-**Goodhart's Law (1975)** 
 > When a measure becomes a target, it ceases to be a good measure.
+- Goodhart's Law (1975) 
 
-**Campbell's Law (1979)**
 > The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
+- Campbell's Law (1979)
 
-**The Cobra Effect:** A solution unintentionally makes a problem worse (Siebert, 2001).
+The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
 
 When academics are a primary measure of a student's worth, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
 
-When money is tied to metrics of success, people do things they normally wouldn't do to positively affect, or even inflate, those metrics. 
-- Just about everyone cares about money. 
-- If they don't have enough money, they care about getting more money.
-- If they have plenty of money, they care about keeping money (but also getting more).
+When money is tied to metrics of success, people do things they normally wouldn't do to positively affect, or even inflate, those metrics. For example, a lot of people care about money. If they don't have money, they care about getting more money. If they have already have money, they still care about getting money but also want to keep their money.
 
-**Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** You use metrics to inform decisions a human should make, not to replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric to inform decisions.
+**Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** Metrics should inform decisions humans make, not replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric.
 - **Metrics are *diagnostic*, not prescriptive.**
 - **Correlation does not imply causation.**
 
@@ -42,11 +40,11 @@ As an opinion: if you implement ANY new specialized learning program (which is e
 
 There's a joke where, in education, we traded stamina for engagement.
 
-Sadly, it isn't a joke. This chapter explains some parts on why a joke is now reality.
+Sadly, it isn't a joke. This chapter help explains why that joke is now reality.
 
 ### **Why Metrics of Success?**
 
-Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system is performing as intended or requires changes. Measures are objective, and sometimes subjective, depending on user needs. These measures also apply to educational systems to determine the effectiveness of implementation based on its outcomes (U.S. Department of Education, 2025).
+Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
 You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the teacher and organization using them. Goals may include maximizing outcomes (scores, pass rates), cultivating qualitative aspects (engagement, relationships), or encouraging growth (attitudes, perspectives, character). It could also be a mix of these or just simply making it to the next day.
 
@@ -56,7 +54,7 @@ It is possible to convert qualitative data into quantitative data through method
 
 Details of these techniques are beyond this guide, but awareness helps if you decide to pursue deeper analysis later.
 
-Measuring data may allow bias to creep in through various means like sampling choices and demographics . Interpretations and student factors may also introduce bias. Several examples of bias include, but are not limited to, the following (Rogers, Jonker, 2024):
+Measuring data may allow bias to creep in through various means like sampling choices and demographics. Interpretations and student factors may also introduce bias. Several examples of bias include, but are not limited to, the following (Rogers, Jonker, 2024):
 
 - Confirmation bias
 - Observer bias
@@ -68,9 +66,9 @@ Measuring data may allow bias to creep in through various means like sampling ch
 - Measurement bias
 - Social bias
 
-**Bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias will lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. You can reduce bias with strict verifications, transparency, and representative sampling over selective subsets.
+Measures are intended to be objective; not influenced by bias or prejudice. The problem is **bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias will lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. You can reduce bias with strict verifications, transparency, and representative sampling over selective subsets.
 
-You may see two standard terms used for metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs track progress and direction toward specific goals and KPIs monitor performance and outcomes over time. KPIs are better for recurring tasks while OKRs are better for one-off tasks. OKRs often use qualitative data while KPIs use quantitative data.
+You may see two terms associated with metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs track progress and direction toward specific goals while KPIs monitor performance and outcomes over time. KPIs are better for recurring tasks while OKRs are better for one-off tasks. OKRs often use qualitative data while KPIs use quantitative data.
 
 Any metric can be "gamed" or optimized. Despite this, the teacher/instructor goal of ensuring students learn what you teach remains. 
 
@@ -105,6 +103,26 @@ There's also metrics not related just to students, but also staff members (and s
 - Counselor-to-Student Ratio
 
 There are a whole host of metrics, but there's a few I want to call out because I usually see them as "objectives" rather than performance indicators.
+
+### **"Lines of Code"**
+
+*Alternatively: Why Context Matters*
+
+**In short: context validates metrics.**
+
+Here's an example I want to cover quickly. A metric I've seen mentioned here and there in 2022-2025 is "lines of code."
+
+People phrase it like [number of] lines of code is better if it's a big number and worse if it's a low number. For someone unaware, it *sounds* like it makes sense, but we're actually dealing with perverse incentives here.
+
+It's improper to treat the metric this way. The context isn't interpreted correctly and the logic behind the story is misconstrued. It betrays one important fundamental design concept, amongst many others: simplicity (or clarity) trumps complexity. 
+
+I'll put it another way: Imagine you have a problem to solve and there's two solutions to handle it. One option contains 10,000,000 lines of code and the other option contains 10,000 lines of code. Both options will perform the job to the user's needs.
+
+Programming languages have wildly varying quantities of lines of code due to the logic and structure of those languages. It's like comparing two different spoken languages. "I love you" vs "Ich liebe dich" both mean the same thing, but the latter has more letters. That's something you cannot reconcile easily between languages, so it dilutes the metric's veracity.
+
+If something goes wrong while you're solving a problem, what would you rather troubleshoot/fix: the 10,000,000 lines option or the 10,000 lines option? I'd choose the 10,000 lines option because it'd be way faster and simpler; you probably would too.
+
+I could go on and on about other examples. Number of pages, word count, step count, number of clicks etc. Metrics that only sound good on paper to "optimize," but don't prove something is effective/efficient, are functionally worthless.
 
 ### **What If Metrics Mean Different Things?**
 
@@ -171,12 +189,12 @@ This exception is here to remind you of two things:
 
 ### **100% Graduation Rate**
 
-This is a funny metric to use for success and the same applies for job placement rate. It's also a case of why you need *multiple* metrics of success instead of just one to help verify data authenticity, and why making a metric a target proves Goodhart's Law.
+This is a funny metric to use for success and the same applies for job placement rate. It's also a case of why you need *multiple* metrics of success instead of just one to help verify data authenticity and why making a metric a target proves Goodhart's Law.
 
-100% graduation rate means you're telling me *every* student in the school (or specific year) got passing grades on every subject they went through?
+100% graduation rate means you're telling me *every* student in the history of the school (or specific year) got passing grades on every subject they went through.
 
 If you see this value, be skeptical. Be doubly skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it.
-- I'd also be skeptical of >=95% as well, but that's my personal opinion.
+- I'd also be skeptical of >= 95% as well, but that's my personal opinion.
 - You'd also want to reference standardized scores the school achieves for testing it cannot easily manipulate, like SAT and ACT scores.
 
 There's two immediate ways that came to my mind to manipulate this.

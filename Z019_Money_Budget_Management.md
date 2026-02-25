@@ -1,7 +1,7 @@
 ---
-title: 27. Money and Budget Management
+title: 26. Money and Budget Management
 layout: default
-nav_order: 29
+nav_order: 28
 ---
 # Money and Budget Management
 
@@ -11,13 +11,21 @@ nav_order: 29
 
 **Money affords mistakes.**
 
-**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives.**
+**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases.** Afterall, the goal of a business (and financial operations) is *making* money, not saving money.
 
-Two typical strategies for staying within budget:
-1. Buy less, but buy better.
-2. Buy more, but buy at a discount.
+If you're deciding between two or more options to spend money on, the following factors should be examined for tie-breakers:
+- Users (who it works for)
+- Scale (can it handle larger workloads in the future)
+- Performance (how well does it work and handle failure/delays)
+- Cost (is it affordable in the short/long term)
 
-If you're trying to teach a child/student about wealth, go over the following:
+The typical goal of an organization is to improve performance (effectiveness) and/or cut costs (efficiency). Money is a large motivator behind decision making. 
+
+If selling products or services, it's typically better to offer incentives towards customers to buy something rather than force customers to buy something.
+
+One of the biggest risks to your own wealth is you. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management.
+
+If you're trying to teach a student about wealth, go over the following:
 - How to be humble and gracious.
 - How *not* to be an asshole.
 - Instilling self-awareness about their own wealth and privilege/opportunities they're given due to it.
@@ -25,11 +33,15 @@ If you're trying to teach a child/student about wealth, go over the following:
     - They also cannot admit it with shame or defensiveness; they have to acknowledge it and the responsibility with it.
 
 Lastly, this isn't financial advice but a notice: The [IRS 529](https://www.irs.gov/newsroom/529-plans-questions-and-answers) plan exists to help parents fund education for their children through investments (Internal Revenue Service, 2025f).
-- If not in the United States, you may have a similar investment option.
+- If not in the United States, you may have a similar means to help afford student education.
 
 ## **Long Answer**
 
-While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. Your wage is also affected by money available for budgets.
+Here's a joke: I only had a small amount of money at the time. I ask for some funds to afford a small breakfast from a millionaire friend of mine so I don't go hungry. Later that day, they're asking me for three dollars to cover it. I replied: "Here's ten dollars; keep the change."
+
+In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
+
+While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. How much you're paid is also affected by money available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
 
 Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a school, or any group providing education as a service, has typically correlates positively with its quality of education. 
 
@@ -49,7 +61,25 @@ Because money affords comfort and (many) resources, having too much money risks 
 
 Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
 
-### **Wealth Dynamics**
+### **Business, Operations, and Embedded Analytics**
+
+A fair bit of decision-making happens through two means: operational analytics and business analytics. Operational analytics seeks to enable immediate action whereas business analytics seeks actionable insights from data.
+
+Operations focuses on real-time and streaming data so organizations can respond as events occur. Examples of implementations may be dashboards, alerts, automated responses and triggers, and so on to respond to when conditions change.
+
+Business focuses on aggregations, forecasting, comparisons, and batching data. It doesn't respond to individual events, but guides planning and strategy over time. 
+
+The biggest difference between them is time (or decision latency). Operational analytics minimizes time between an event and action taken while business can suffice without immediate action for a deeper analysis and improved context. The lines between these two blur as technology advances and can do both types at once.
+
+As for how this ties into wealth, think about managers and administrators handling finances. They may use operational analytics for monitoring revenue and expenses throughout the day, while business analytics aggregates financial performance for weekly reviews, monthly reviews, and yearly reviews. Systems could be designed to cater to real-time data and streaming, then add options to batch data for long-term analysis. Be warned, however, that streaming data without acting on it introduces excess storage costs, complexity, and maintenance requirements.
+
+For users in education systems, they may do more business analytics due to domain charactertistics rather than technology choice. Many academic events occur discretely, such as assignments, exams, and grades, and update only as students complete them. The system will prefer periodic analysis over continuous monitoring by design. A user can extract data, process it through scripts, and aggregate results by classroom, grade level, or demographic for presentation and decision-making. An engineer may favor batch pipelines and architecture over stream architecture in education systems.
+
+A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
+
+Amongst all approaches, system design involves tradeoffs. This includes availability, consistency, partitioning, latency, query performance, and concurrency (the ability to execute multiple tasks simultaneously). Business analytics may tolerate lower availability and higher latency, but operational and embedded analytics typically require high availability and low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so people should design for scalability and adaptability early on to reduce issues down the road.
+
+### **Wealth Dynamics (for Education)**
 
 *Notice: Much of this section comes from personal observations.*
 
@@ -59,14 +89,13 @@ How much wealth a school has, or the students and parents attending a school has
 Despite this optimism, socioeconomic status (SES) of a child and their parents is statistically significant as a prediction of mobility and success in said child's future (CEW Georgetown, 2019).
 - For a visual representation, consider looking at the [Opportunity Atlas from Opportunity Insights](https://www.opportunityatlas.org/) (Opportunity Insights, 2024).
 
-Understand that teaching is difficult no matter the type of school and how much funding it has. What changes most are the *types* of problems encountered.
-- For example, higher wealth may have more open defiance and entitlement while lower wealth may have more chaos and immature behaviors
+Understand that teaching is difficult no matter the type of school and how much funding it has. Problems don't disappear; they change. For example, higher wealth may have students exhibit more open defiance and entitlement while lower wealth may have more chaos and immature behaviors.
 
-Teachers will still teach based on the abilities and motivations of students with available resources. Additionally, at every level of school, you may still face bad parents, staff, students, etc.
+Teachers still teach based on the abilities and motivations of students with available resources. Additionally, at every level of school, you may still face bad parents, staff, students, etc.
 - I'm mainly focusing on what may occur from X amount of wealth.
 - Some readers may correlate problems with wealth listed here to levels in [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html) (McLeod, 2025).
 
-Generally speaking, as a school goes from lower wealth to higher wealth, the following may  occur (*this is a lot of things!*):
+Generally speaking, as a school goes from lower wealth to higher wealth, the following may occur (*this is a lot of things!*):
 - The amount teachers pay out-of-pocket decreases
 - More opportunities available for students
 - Physiological and psychological needs are better met
@@ -165,7 +194,7 @@ To put this into perspective for many readers, it's like being told to complete 
 Your "budget" alloted to you as a teacher comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
 
 Unless you're teaching outside of a normal educational institution, your spending limit is typically defined by someone else, like your principal, and not you. Items covered by that learning budget are also not always up to you; instead, this may be defined by principals, districts, states, organizations providing funds, U.S. Department of Education, and the IRS (Internal Revenue Service, 2025b)(U.S. Department of Education, 2025). 
-- Even if you're not subject to principal control, you are very much subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general* (Internal Revenue Service, 2025a, 2025d).
+- Even if you're not subject to principal control, you may be subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general* (Internal Revenue Service, 2025a, 2025d).
 
 Learning budgets typically range from 200 USD to 1000+ USD. Money may also come from a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you won't have much difficulty. 
 

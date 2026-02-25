@@ -1,7 +1,7 @@
 ---
-title: 21. Teacher-Client Relations
+title: 20. Teacher-Client Relations
 layout: default
-nav_order: 23
+nav_order: 22
 ---
 # Teacher-Client Relations
 
@@ -9,8 +9,18 @@ nav_order: 23
 
 ## **Short Answer**
 
-Teaching and instruction involves working with people. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and not your fault. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
-- To put it plainly, teachers may be treated like punching bags by parents and other adults as they're the visible "frontline" of education people *can* reach.
+> Crowley: "...What was it he said that got everyone so upset?
+> 
+> Aziraphale: "Be kind to each other."
+> 
+> Crowley: "Oh yeah. That'll do it."
+- Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019)
+
+Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and not your fault and significant determine how good or bad a job is in a given environment.
+
+You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
+- This includes handling brilliant jerks; those who are smart and know what they're doing, but are generally unkind.
+- You may also have to work with decisions you'll personally disagree with.
 
 Goals are often, if not almost always, mismatched amongst different roles. To keep it simple:
 1. People above you (e.g. managers, administration) care about outcomes and communication.
@@ -26,6 +36,8 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 ## **Long Answer**
 
+*Notice: This is written primarily for teachers/instructors.*
+
 Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney.
 
 Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
@@ -36,6 +48,10 @@ The amount of information you can display about students (the *legally* allowed 
 
 Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos.
 - Key word: *Sometimes.*
+
+You may also hear the terms "upstream stakeholders" and "downstream stakeholders" for people. Though more common in supply chain and system contexts, think of upstream stakeholders as those who supply goods and services to deliver and downstream stakeholders as those who receive said goods or services. If an instructor were an example, support staff and administrators may be upstream stakeholders while students may be downstream stakeholders to an instructor, who is the manufacturer (or "hub") managing resources to create and deliver instruction.
+
+Before we go any further, let me emphasize one point clearly. **Every stakeholder listed here holds responsibility and accountability in an education system. Every one of them.**
 
 ### **Perceptions and Stereotypes**
 
@@ -56,11 +72,30 @@ Should this happen in a teaching setting, from anyone, then keep the following i
 - Judge based on the values, actions, and conduct of a person; not their background.
 - Notions on respect and disrespect towards someone regardless of gender, etc. can be taught.
 
+### **A Non-Education Analogy**
+
+Earlier I mentioned how teachers and instructors in the education system are the ones most likely to receive complaints from students, parents, and other "downstream" stakeholders.
+
+For some readers, it may make more sense to compare it to complaining about a piece of technology or application you use daily. I'll use video games as an example.
+
+You may enjoy playing a video game, but you encounter multiple issues within the game that, fairly or not, drive you to complain about it. Who do you complain to? The developers. 
+
+These employees are accessible targets for feedback and represent the front-facing, interface layer users engage with. Developers and instructors/teachers are in the same position. Both help create the content you interact with, but neither holds full control of the design process and final product. Developers implement design within technical constraints whereas teachers implement curricula within institutional and policy constraints.
+
+There's usually less consideration given for other stakeholders influencing the product. This includes publishers, stakeholders (external and internal), QA, Legal, Marketing and Sales, and executives. Some users may investigate further and figure out upstream issues, but that usually requires deeper knowledge of how the system(s) functions.
+
+Within both simple and complex systems, complaints flow downstream to the most visible participant in a system even if they're not responsible. This isn't limited to only instructors and developers either; any front-facing role may face these same issues.
+
 ### **Administrators**
 
-Principals, deans, and assistant principals are your "boss." They're like directors or higher level managers. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
+Principals, deans, and assistant principals are your "boss" if you were an instructor/teacher. They're like directors or higher level managers. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
+- i.e. they're not easily replaced because they work with *people* and relationship management.
 
-They have a lot of real power over you, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
+They have a lot of real power, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
+
+Much like how employees have bosses, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand.
+
+As for signs of a bad administrator, usually an administrator that gets hired in and immediately works towards changing things is a red flag. This goes for any manager+ in general, but it's generally better to observe and understand how the current system works for at least 1 month (or longer), *then* figuring out what the real problems are and implementing solutions. It allows time to ask questions, collect data, and verify circumstances.
 
 A primary goal is to ensure good PR for the facility (or facilities) they manage and avoiding lawsuits. This may mean bending the knee to demands both reasonable and unreasonable.
 
@@ -80,16 +115,14 @@ As a teacher or instructor, your role, in their eyes, is to produce the results 
 - Keep gradebooks and lesson plans updated
 - Make their job easier and they'll usually make yours easier in turn
 
-Another interesting reality about teachers and principals is potentially misaligned goals. A teacher may, validly, focus their goal on educating students. A principal may focus on meeting graduation rates and test scores as their goal. Your goals, despite both of you working towards showcasing high levels of student learning, will probably not align and you'll have conflicts over teaching methodologies as a result. Expect and prepare for when that happens.
-
-Overally, your best bet is becoming a more effective teacher, improving your curriculum, resolving issues independently, and improving professional relationships with students and staff.
+Another interesting reality about teachers and principals is potentially misaligned goals. A teacher may, validly, focus their goal on educating students. A principal may focus on meeting graduation rates and test scores as their goal. The goals, despite both working towards showcasing high levels of student learning, will probably not align and you'll have conflicts over teaching methodologies as a result. Expect and prepare for when that happens.
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and still true today. 
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and likely still true today. 
 
-Parents are also the closest thing teachers/instructors have to "customers."
-- ...Which means they're "always" right, even when they're beyond a doubt incorrect.
+Parents and adult students are also the closest thing educational systems have as "customers."
+- ...Which means they're "always" right, even when they're beyond a doubt incorrect. The power of the wallet is strong.
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
@@ -116,19 +149,24 @@ If I were to describe some ways parents can negatively affect their children's v
 - Maintaining negative views about education and particular subjects, like math
 - Always, and/or immediately, fixing any uncomfortable situation or getting rid of obstacles
 - Not reading to kids or at least encouraging kids to read
+- Meeting children's physical needs, but not their emotional needs
 
 There's also the parent(s) who claim there's nothing they can do after trying everything. More often than not, it comes from parents where their children still have their phones, drive themselves to school, can freely spend money, have access to video games, etc. In other words, they don't enact punishments which affect what the child, your student, values until behavior is fixed.
 
-Without parents and their children, school enrollment drops, funding soon follows, and schools cannot operate effectively. The power of speaking with their wallet is far-reaching. Parents may also make complaints and reviews out of ignorance or without consideration to the resources and constraints of educational systems. Though they are complaints, they still lead to decisions which, for better *or* worse, affect education as a whole.
+Without parents and their children, school enrollment drops, reduced funding soon follows, and schools cannot operate effectively. This could be due to parents leaving the school from concerns mostly outside of your control, like parents lacking funds, or concerns about the educational system in general. At the same time, parents may also make complaints and reviews out of ignorance or without consideration to the resources and constraints of educational systems. Though they are complaints, they still lead to decisions which, for better *or* worse, affect education as a whole.
 
-What this means is educational staff across multiple organizational layers may make decisions to keep parents, and also donors by extension, satisfied, even when it conflicts with educational interests. It may not always be your principal, or you, who enforces this, but instead someone with influence or a group higher up the chain-of-command making the decision for your organization. You also may not see the negative consequences of these decisions for years to come, but they could be still be happening in the present.
+What this means is educational staff across multiple organizational layers may make decisions to keep parents, and donors by extension, satisfied, even when it conflicts with educational interests. It may not always be a principal, or you, who enforces this, but instead someone with influence or a group higher up the chain-of-command making the decision for your organization. You also may not see the negative consequences of these decisions for years to come, but they could still be happening in the present.
 
 Lastly, the ideal scenario is a parent's child, the teacher's student, is never written up or they receive a communication from education staff about their negative behaviors. If that occurs, that is almost always happening *after* multiple intervention methods were tried and failed. That now means the parent is expected to exercise their rights and privileges as a parent and enforce consequences for the student's actions. A permissive parent in this scenario will backfire on everyone, including the student, in the education system.
 - If there is no structure, consequences, and expectations for students, don't be surprised when a child/student cannot function in a society later on in life.
 - This scenario also does not immediately mean said student is being "targeted." The Earth revolves around the Sun, not the parent or the student, and teachers have to balance this one student with every other student and moving piece in the classroom.
 - Depending on the parent(s) response, they may or may not be reported for failure to educate.
 
-### **Other Teachers**
+### **Other Teachers/Instructors**
+
+It's easy to spot a bad teacher/instructor. They think they're amazing.
+
+The good teachers I've seen and worked with have an air of humility behind them. They think their work is flawed in some way, but still strive to improve in areas they believe they're lacking in. By allowing themselves to view their own work with some negativity (not *complete* negativity; there's a difference), they can spot problems and design solutions an overoptimistic, or perhaps arrogant, teacher may not catch.
 
 You'll almost certainly work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
@@ -144,12 +182,16 @@ Lastly, if you're planning events for teachers where they receive something or g
 
 **Why do students fall under clients? It's because they're the ones receiving your services: the material you're teaching them!** 
 
-That's where the comparison to clients/customers stop with them, because this section talks about minors. They're strictly considered children unless they're the legal, adult age.
+You might also think only parents are "stakeholders" for their children/the students. That's not the case in reality. In fact, the education system we're familiar with today has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals to then contribute to society later in their lives. 
 
-There are two consistent truths I observed with students (young *and* adult) in classes.
+That's where the comparison to clients stops with them, because this section talks about minors. They're strictly considered children unless they're the legal, adult age in your sovereign state/country.
+
+There are some consistent "truths" I observed with students (young *and* adult) in classes.
 1. The best students are held accountable at school, home, *and* outside of school in general.
 2. Students lie to avoid doing "work" and to avoid consequences.
     - A major reason why I say to collect evidence and document events.
+3. They deal with many of the same problems you had as a child (assuming the reader is an adult here), but with somewhat different mechanisms depending on their environment.
+4. Students cannot control whether or not they come to school. Parents and legal mandates do.
 
 If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. That type of comment is typically a red flag. If a student were truly smart or benevolent, they'd also be smart enough to know not to cause behavioral issues. I've also seen cases where smart people are extremely good at manipulation of staff, peers, etc. to get what they want as well.
 
@@ -169,7 +211,7 @@ Think of teaching like sales. If material is engaging and desireable, students b
 
 One strategy I've used is explicitly asking the students what kind of activities they want to learn and do within the limits of the curriculum. This method ensures they have a way to "buy in" or invest their time into what I'm teaching. For already motivated students, this won't do as much. For students on the fence or less motivated, it's like providing a free side with their entree, which may boost their motivation and increase the chances of buying in.
 
-It is possible students bring in factors you may not be able to fix or fall outside initial assumptions. These may include lack of accountability, apathy, learning accommodations, and more. They may refuse to do things and also refuse to use the accommodations provided, even if legally required to make available to said student(s). There's only so much you can do for these cases, which is why documenting learning efforts and interactions with students is extremely important in case someone claims you didn't appropriately perform your duties as a teacher.
+It is possible students bring in factors you may not be able to fix or fall outside initial assumptions. These may include lack of accountability, apathy, learning accommodations, and more. They may refuse to do things and also refuse to use the accommodations provided, even if legally required to make available to said student(s). They may even have no respect for adults because they've seen adults in their own life be disrespectful! There's only so much you can do for them, which is why documenting learning efforts and interactions with students is extremely important in case someone claims you didn't appropriately perform your duties as an instructor.
 
 Additionally, it's also easy to tell signs of when a student has too much screen time and/or not enough time to sleep. Some examples, which lead to that conclusion from personal observation, include the following:
 - Sleeping a lot *in class* (poor sleep hygiene/management).
@@ -193,7 +235,7 @@ Lastly, remember to be friendly, but keep professional boundaries, between you a
 
 ### **Support Staff**
 
-Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, custodians, maintenance staff, paraprofessionals, security, nurses, cafeteria staff, groundskeepers, and more.
+Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, IT, developers, engineers, custodians, maintenance staff, paraprofessionals, security, nurses, cafeteria staff, groundskeepers, and far more. Essentially, if they're working in an education system or for an educational facility, they count here.
 
 Without these staff members, your school wouldn't be able to keep rooms clean, offload specialized tasks from your own workload, and maintain a safe and orderly environment. Many support staff also focus on arranging substitutes to cover for you when you're absent as well. Without them, you may have to take on more administrative tasks. In short, **they help *you* do *your* job–albeit indirectly.**
 
@@ -256,13 +298,15 @@ My favorite PD days were typically:
 - When I was allowed to choose which PD to pursue.
 - Sessions covering my content area(s).
 - An unofficial "do a quick, 15-minute report and check-up, then you can do your own work" day.
-- The PD is showing a program, process, system, etc. to go over relatively quickly (e.g. 15 minutes in a 1 hour session), then the rest of the time was working with a team. Sometimes food was included.
+- The PD is showing a program, process, system, etc. to go over relatively quickly (e.g. 15 minutes in a 1 hour session), then the rest of the time was working with a team. Usually food was included, but not always.
 
-In general, PD is good if it isn't a waste of time. Some people also use PD as a way to network with other professionals as well.
+In general, PD is good if it isn't a waste of time.
 
 ## **Bibliography**
 
 1. Child Welfare Information Gateway. (2025, June 2). *Definitions of child abuse and neglect | Child welfare Information Gateway*. www.childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/)
+
+1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video.Episode Name: “Hard Times”
 
 1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
 

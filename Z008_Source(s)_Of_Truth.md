@@ -1,15 +1,16 @@
 ---
-title: 15. Source(s) of Truth
+title: 14. Source(s) of Truth
 layout: default
-nav_order: 17
+nav_order: 16
 ---
 # Source(s) of Truth
 
-### [Previous Chapter](Z007z_Analysis_Primer.html)
+### [Previous Chapter](Z007y_Probability_And_Statistics.html)
 
 ## **Short Answer**
 
-**"Absence of evidence is not evidence of absence" – Mr. Dugald Bell (Sheppard, 1895, p. 132).**
+> Absence of evidence is not evidence of absence
+- Mr. Dugald Bell (Sheppard, 1895, p. 132)
 
 Even if you are the innovator and/or pioneer of the subject/field you are teaching, you won't know *everything.* Expect to use external sources to reinforce and supplement teaching. 
 
@@ -21,9 +22,10 @@ Last, but not least, your school or district very likely doesn't need a shiny ne
 
 There are two sources of truth to work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 
-For both ways, I like this quotation from the former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002):
+For both ways, I like this quotation: 
 
 > *"Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."*
+- Former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002)
 
 There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. A fourth category was observed and added by Steve Rayner (2012), called "uncomfortable knowledge," are unknown knowns. To sum each category:
 
@@ -107,8 +109,10 @@ There are also reasons why I criticize using it as a source for essays and paper
 - Subject to heavy bias from contributors
 - Wikipedia may be less accurate than the academia/research it claims to cite from
 
-Additionally, **a Wikipedia article does not hold the same weight as a peer-reviewed, academia research article, *even if they have the exact same information*, due to each source's perceived credibility.**
-- i.e. it isn't a primary source.
+Additionally, **a Wikipedia article does not hold the same weight as another primary source, *even if they have the exact same information*, because you normally shouldn't cite encyclopedias anyway.**
+
+Despite the primary source issue, **I would genuinely prefer a citation from Wikipedia over an AI-generated response used as a citation.** You *could* link back to search engine results (like I've done in the Roadblocks chapter). That's still "fine" to do if pointing to an example of where further research can be done. You're not supposed to pull out the answers a search engine gives you though; a search engine *finds* citations you then look into and use as sources. 
+- While you're not *supposed* to cite encyclopedias over original research and other primary sources, at least Wikipedia has revision histories, discussion methods, and is checked quite often by humans (as of originally writing this on December 2025).
 
 Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, if not at least look at it. To counter this, consider implementing the following for work where students do research:
 
@@ -123,11 +127,14 @@ To emphasize again: I find Wikipedia better suited as a reference *after* you ha
 
 ### **The Dark Side of the Moon (Not by Pink Floyd)**
 
-**In short, what should work in theory doesn't always work as well in practice.**
+**What should work in theory doesn't always work as well in practice.**
 
 Academia operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research). It's precisely *because* it's controlled conditions, which can be replicated and reproduced for veracity, it's considered valid as research.
 
-That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, retract their own studies and refute their findings based on later evidence.
+That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, refute their findings based on later evidence.
+
+As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, work well but have relatively dated sources. I've also seen new research crop up, but only last for 3-5 years as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100 years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
+- This may be formally referred to as part of the Lindy Effect (Mandelbrot, 1982).
 
 Because the conditions are controlled, however, this may lead to "Luxury Beliefs" which is ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, which runs counter against providing consistent equity for education in the first place!
 
@@ -138,6 +145,20 @@ Additionally, some people conducting the research on education and classrooms ma
 All the theory in the world cannot fully correct problems at a real-life, systemic level. At its best, the theory is implemented and can solve a *set* of problems in a class, but not the entire classroom system as a whole at varying success. At its worst, the theory falls apart completely, or is adjusted to suit the interests of its implementers, and may make the classroom environment much worse.
 
 Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party should have an interest in, including teachers. Nevertheless, be mindful of how research is conducted and how well it translates to real-life scenarios.
+
+### **The Panel Council**
+
+Perhaps you're a teacher, instructor, or something similar and want to explore content you have *some* familiarity with. Perhaps you have *no* familiarity with the content itself, but you are familiar with the system, its rules/laws, and the process to integrate content from outside into the system.
+
+This is where a panel of experts, or subject matter experts (SMEs) comes in. To stay concise, they are "individuals who have a deep understanding of a specific subject" (Watts, 2024). You may need one of these people for examples such as:
+- A virologist making corrections to your explanations on infectious diseases.
+- An aviation expert checking the algorithms and formulae for aerodynamics and physics.
+
+Straightforward ways to identify subject matter experts are through an advanced degree (Master's or PhD), years of experience (Senior vs Junior), and/or licensure (a non-licensed architect vs a licensed architect). You could also include inventors of a particular tool or software, such as the inventor of hammers being a subject matter expert on hammers... because they made it.
+
+If these experts are not available, usually the next best source becomes people who may not have any of these qualities, but developed a vested interest into the content you're working on. Examples for this are harder to describe, but perhaps someone with a thousand hours into Pathfinder Second Edition is more knowledgeable about the TTRPG vs someone who just started Pathfinder.
+
+These experts you should happily accept into helping design an education system, or even a curriculum, because they'll verify facts with certainty vs a non-expert verifying facts with *some* certainty instead. Even if you don't directly enlist their help, they may have resources you can cite from to better design your own systems or curricula.
 
 ## **Bibliography**
 
@@ -157,11 +178,14 @@ Not all educational research is bad. Some research is good and research on how t
 
 7. Kansas State University Libraries. (n.d.). *Evaluate Sources.* [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 
-8. Knaflic, C. N. (n.d.). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
+8. Knaflic, C. N. (2025). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
 
 9. Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to solve big problems and test new ideas in just five days.* Simon & Schuster. [https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
 
 10. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
+
+11. Mandelbrot, Benoit B. (1982). *The Fractal Geometry of Nature.* W. H. Freeman and Company. p. 342. ISBN 978-0-7167-1186-5.
+    - [Alternative Source/Direct Link](https://archive.org/details/fractalgeometryo00beno/page/342/mode/2up)
 
 11. McCandless, D., et al. (n.d.). *Information is beautiful.* [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
@@ -179,7 +203,7 @@ Not all educational research is bad. Some research is good and research on how t
 
 18. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing.
 
-19. Knaflic, C. N. (n.d.). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
+19. Watts, M. (2024, October 14). *Subject Matter Experts: Key Players in Process Improvement and Business Success.* iSixSigma. [https://www.isixsigma.com/dictionary/subject-matter-expert-sme/](https://www.isixsigma.com/dictionary/subject-matter-expert-sme/)
 
 
 ## **[Next Chapter](Z009_Communication_Design_Usability.html)**

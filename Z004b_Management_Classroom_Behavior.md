@@ -10,14 +10,16 @@ nav_order: 10
 ## **Short Answer**
 
 **The more people you have to manage, the more likely something can go wrong.**
+- i.e. Anything that can go wrong *will* go wrong.
 
-**You can fix most (80-90%) classroom management issues with one action: limiting the size of classrooms/number of students each teacher manages.**
-- Sadly, it often means more resources like real estate, staff, and wealth which may not be available.
+**You can fix most (80-90%) classroom management issues with two actions: enforcing consequences for behavior and limiting the size of classrooms/number of students instructors manage.**
+- Though a solution is scaling down, it typically demands more resources like real estate, staff, and wealth which may not be available.
+- To describe it technically: that solution is horizontal scaling, but vertical scaling is deployed instead due to lack of resources.
 
 A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, etc.). It's a reality your plan may experience failure due to factors outside your control.
 
 Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
-- It's so significant I'd even recommend you find out about *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
+- It's so significant I'd  recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
   - E.g. teaching middle schoolers requires different techniques compared to teaching college students.
 
  To quickly sum up various stages of pedagogy (children/minors) and andragogy (adults) in learning and management:
@@ -32,17 +34,16 @@ You may also need licensure or certifications to teach specific subjects or do p
 Fair, well-designed procedures are necessary to manage classrooms and behaviors from day one. Without them, you spend more time managing instead of teaching. A "fun" or casual teacher that lets students essentially do what they want is a nightmare to deal with for other teachers, administrators, and substitute teachers covering for the "fun" teacher. Do *not* be that teacher.
 
 **When people are not held to standards, they will not perform to standards.**
-- This includes consequences for actions.
 
 PBIS, or Positive Behavioral Interventions and Supports (rewards, restorative circles, etc.), has the letters "B" and "S" in it for a reason, despite being evidence-based. It shouldn't replace disciplining people and if there are no strict interventions and supports, there is no positive behavior due to a lack of consequences for actions.
 
+If you need a one-liner? Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery.
+
 ## **Long Answer**
 
-*Notice: This is its own dedicated "chapter" as there are myriad ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
+*Notice: This is its own dedicated "chapter" as there are many ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
-If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now.
-
-If you told a typical teacher/instructor they had 40 students (which are essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
+If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (which are essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
 
 What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You may have affinity with a particular type of student, or students, or just be "good" across all disciplines; it varies a lot person-to-person.
 
@@ -68,7 +69,7 @@ Also, depending on how many resources you have, or the type of educational facil
 
 ### **One Plan to Rule Them All**
 
-Lord of the Rings reference aside, your ideal goal is one plan to handle every student. The *only* exceptions are students with legal documents, such as IEPs or 504s, where a change is mandated. 
+Lord of the Rings reference aside, your ideal goal is one plan to handle every student. The *only* exceptions are students with legal documents or accommodations with a legal backing, such as IEPs or 504s, where a change is mandated. 
 
 In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may make minor edits to accommodate special education students.
 - This may mean one plan for everything is infeasible. If that's true, the new goal is *minimizing* the number of different plans.

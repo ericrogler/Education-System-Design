@@ -1,7 +1,7 @@
 ---
-title: 24. Passporting & Information Transfer
+title: 23. Passporting & Information Transfer
 layout: default
-nav_order: 26
+nav_order: 25
 ---
 # Passporting & Information Transfer
 

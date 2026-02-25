@@ -27,7 +27,7 @@ This chapter may seem foreign to readers unfamiliar with video games. For those 
 
 If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts also apply to management. If you read the last chapter (Management Case B) on operations and milsims, any leadership position there also counts!
 
-For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player.
+For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know strategies and tactics to meet their goals ("winning" the game) Muddling around and confusion causes issues every time it happens.
 
 ### **Rock, Paper, Scissors**
 
@@ -100,6 +100,39 @@ As stated before in macro, you still need to know theory and what your units are
 There's also a term called "trading" where you're balancing the supply costs of your own units vs the opponent's units and determining your gains and losses by supply efficiency. 
 - If you engage an opponent and you lose 12 dollaroos compared to their 8 dollaroos, you still lose based on how much value you lost (12 vs 8).
 - In other words, your opponent accomplished more with less and have a more efficient army.
+
+### **Bringing on New Assets**
+
+*Alternatively: Hiring or Firing.*
+
+Resources and tools may become obsolete. It may always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
+
+The costs to bring in, and get of, assets is typically really high so you want to be careful when doing so. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
+
+If this applies to real people, i.e. human beings, you're better off consulting with HR, or a legal expert to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to. You want to avoid stepping on the legal trouble minefield.
+
+In our simulation case, though, asset management happens as more resources, such as revenue, affect your strategies, tactics, and management priorities. You're evaluating based on performance, actions, and capabilities of assets rather than the assets itself. Mismanagement can cause issues and affect the productivity of the entire organization later. It may be tough to get rid of something, but sometimes eliminating something is the best course of action.
+
+This also means you're raising the bar constantly. It might be small increments or big increments, but the bar is rising over time. Early on, when resources are scarce and systems are not fully in place, you may be ok with weaker options to suit your goals. Later on, when resources and systems are set up, you're less likely to use the "old" option and go for the better options you can now afford.
+
+Allocating resources to bring on the appropriate talent will take a significant amount of time, preparation, and research on your end. While you could shirk duties here and not do due diligence in researching units, buildings, etc., you'll also be unable to draw out their full potential.
+
+### **Real-World Application**
+
+The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
+
+Every employee is capable of doing work; you likely wouldn't bring them onboard if they couldn't do the work you needed! Since they are capable, *you have to let them do the work.*
+
+You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
+
+Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're now in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
+- New hires: unsure where to find resources or what should be done.
+- Regulars/mid-levels: how to transition into higher work and level up in their role
+- Veterans/seniors/principals: working in cross-team functions, perfecting their technical expertise, and/or working up to become managers like yourself.
+
+The more senior someone is, the less you *need* to check in with them. You'll still want to check in, though, to ensure they're on track but not being hand-held. Newer people you may do a quick fly-by every day, older people may be a meeting once a week, and masters of their craft only as needed.
+
+It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have a separate set of goals and need to look at the overall strategy and not just the tactics employed. Let the other people handle (most of) the tasks.
 
 ### **Relating Back to Instruction**
 

@@ -9,7 +9,7 @@ nav_order: 8
 
 ## **Short Answer**
 
-Just like in the Scaling Growth chapter, similar answers apply. If Scaling Growth focused on your interactions and managing staff, this chapter will align more closely with managing students in your class and how communications flow.
+Just like in the Scaling Growth chapter, similar answers apply. If Scaling Growth focused on your interactions and managing staff, this chapter will align more closely with managing people and communications.
 
 As a reminder for those coming from Case A, scaling up typically involves things like:
 - New layers of management
@@ -18,7 +18,7 @@ As a reminder for those coming from Case A, scaling up typically involves things
 - Formalization of communication and meetings
 - Difficulty in cross-team communications and organizational communication
 
-In general, you want to ensure standard procedures and rules for your class (i.e. classroom management) are covered and understood first *before* diving into your lesson content.
+In general, you want to ensure standard procedures and rules are covered and understood first *before* diving into content.
 
 After procedures are established and everyone knows what should be done in their given position, you focus on optimizing communications to ensure operations proceed effectively, efficiently, and without issues. The difficulty of communicating exponentially skyrockets as more networks to communicate on and the number of people to communicate with increase.
 

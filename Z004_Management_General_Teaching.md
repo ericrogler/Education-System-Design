@@ -9,43 +9,49 @@ nav_order: 6
 
 ## **Short Answer**
 
-**God Entity, Futurama (2002)**
 > "When you do things right, people won't be sure you've done anything at all." 
+- God Entity, Futurama (2002)
 
 As great as the quotation above is, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
 - Put another way: the perception you know what you're doing is as important as knowing what you're doing.
 - You can still measure the "quiet" things.
 
-*Notice: Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.*
-
 **The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** You make sure the work gets done correctly, legally, and safely.
 - In other words: clarity, ownership, and decisions over tasks. That's management in a nutshell.
 
-**The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at your likely risk of rework costs and every other metric suffering.
+**The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's a parallel with "passing up students" and "failing upward" somewhere soon.*
 
-Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** This also applies for managers in multiple industries, like programming and software, and also applies to teachers/instructors. You may be able to manage people well as a teacher, but your curriculum's content suffers if you don't know how to effectively teach. 
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult without appropriate background knowledge. As an instructor/teacher, you may be able to manage people, but your curriculum's content suffers if you cannot effectively teach. 
+- Similar advice applies for managers in multiple industries, like programming and software.
 
 If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
 **Prepare for the worst, but assume the best of people.**
 
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
-- I have to say this is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
+- This is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
 
 ## **Long Answer**
 
-Teaching and instruction is anywhere from extremely hands-off (many online "courses" avoid interfacing with students almost entirely) to extremely hands-on (constant assistance in classrooms). It can also be anywhere between those two extremes, but management exists across the entire spectrum.
+Teaching and instruction is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
-Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt you when an opportunity arises, or even resort to physical contact.
+Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. 
+
+Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt teachers when an opportunity arises, or even resort to physical violence.
 
 This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. You have to manage people. 
 
-Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good" that's rarely, if ever, going to be the case in practice and you'll still have accountability and autonomy issues.
+Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good," that's rarely, if ever, going to be the case in practice. Even the best plan still deals with accountability and autonomy issues.
 
-**You still need to plan for the worst-case scenarios.**
+**This means you still need to plan for the worst-case scenarios.**
 
-If you can figure out how to handle students at their worst, then you can handle them at every other degree of behavior. 
+If you can handle students at their worst, then you can handle them at every other degree of behavior.
+
+Even if you can handle the worst behaviors, you'll have to account for lost time anyway. If you're estimating how long something will take, chances are you might be wrong. There's additional overhead you may not have accounted for, or can control, which may incur delays. For example: just because you have 8 hours in a day to do work, you'll rarely *ever* be using all 8 hours to get work done.
+- When in doubt, underpromise and overperform.
+- Involve your team/students/etc. because they may know how long something takes better than you.
+    - They can underestimate a lot though. E.g. If another teacher says 1 week, considering planning for 1.5 weeks in case of emergencies.
 
 If a manager, or someone who manages, consistently encounters the same problem(s) over and over, then that manager is likely the problem.
 
@@ -113,6 +119,7 @@ Here's many examples of what I mean:
 - Ensuring you don't exceed budget
 - Hiring people and retaining people in the company
 - Facilitating growth and mentorship of people
+- Setting clear and definitive expectations
 - Firing people who cannot meet performance expectations
 - Reporting to leadership above, and sometimes reports below or at the same level, about progress and results
 - Working with team and external elements, like stakeholders, to learn requirements and what work should be done
@@ -222,6 +229,7 @@ If a student wants to learn something, they'll at least try to learn something�
 **Fighting for attention can be remedied with some of these techniques.** They may not work perfectly and their effects vary, but it's significantly better than *not* using any of them.
 
 - Keep an overall level of focus (look up "utilization rate") at 85% to 90%.
+    - Enough work to not be bored, but not so much work to incur undue stress and burnout.
     - Some mental wandering, breaks, and loss of focus among students should be expected and accounted for.
     - Multiple study techniques are designed with breaks, so learning and teaching techniques should incorporate breaks too.
 - Do not carelessly give away rewards for good behavior, as they can be detrimental to intrinsic motivation by replacing it with extrinsic motivation.
@@ -247,7 +255,7 @@ That new issue sits and remains unaddressed, which forms a new kind of waste.
 
 You can afford workers having some idle time, but you cannot afford workers unable to address idle work. If work gets delayed, you incur the cost of that delay. The problem isn't idle work; it's lacking capacity to complete work or not having workers *idle* to assign to it.
 
-If you think idle workers are bad compared to idle work, consider a game of baseball or a relay race in track. You have multiple people, part of a team, where part of their workload is literally standing around in an assigned location. While they aren't actively *doing* something, they're preparing for, or are prepared, for an important task to come. In the case of baseball, this is when a player out in the field needs to run after and catch a ball to get the batter out or to help stop runners. In the case of relay races, this is a player getting ready to perform when their turn arrives and ensure the next person in the relay gets to their turn faster.
+If you think idle workers are bad compared to idle work, consider a relay race in track. You have multiple people, all part of a team, where part of their workload is literally standing around in an assigned location. While they aren't actively *doing* something, they're preparing to react to an important task when it arrives. This is a player getting ready to run when their turn arrives and ensure the other people in the relay get to their turns faster.
 
 Keeping players, employees, workers, and people not 100% busy opens them up to do work as it arrives and complete their goals. Keeping them 100% busy, however, exponentially increases the backlog of things they need to do, but cannot do so without significant issues and pushes back the finish line further and further.
 
@@ -369,6 +377,18 @@ Additionally, if you're a teacher, there are specific actions that only other st
 
 **Remember: All it takes is one disruptive, mismanaged student to ruin a classroom.**
 
+### **What about Restorative Justice?**
+
+Restorative justice exists both inside and outside of education systems. It's been explored back at least one generation before today (February 2026).
+
+This system addresses the needs of the offender, the needs of the victim(s), and the needs of the community. The community is also involved as it holds some responsibility for why the offender committed the crime in the first place due to social conditions and relationships. Restorative justice is also intended as "a complementary process" to add onto an existing justice system rather than a wholesale replacement for justice systems (Marshall, 1998). **It must also be victim-focused; the victim gets what is reasonably desired to ensure the offender is held accountable for their actions.**
+
+The concept works well in theory, but in practice it requires sufficient personnel, workflows to follow through with it, and a lot of available time from everyone involved to support it. Without any of these resources, it will fail. There's also two other factors:
+1. While victim-offender meetings can provide restitution, they can mistakenly focus on the offender instead and reintroduce a victim's trauma.
+2. It asks of offenders to care about the problems caused and whom they affected. If there is no buy-in, it is ineffective.
+
+For teachers and other employees involved in education, the absence of troublemaker students can make a night and day difference in productivity and improve the education systems at a school. That is a short term solution, but it is an effective solution as it improves the community aspect in educational systems. Restorative justice is a long-term solution, but if it doesn't have the proper supports or works well in practice, it should not be implemented (or discarded if already implemented).
+
 ### **Employing Negotiation Tactics**
 
 Though it's a bit extreme of an application, you can utilize hostage negotiation strategies in a classroom setting. Don't do this everywhere, though; there's a time and place for this. 
@@ -389,12 +409,13 @@ Delving into this area further brings you into the world of psychology and subje
 
 You can automate or improve efficiency with solutions that aren't AI and probably already have before. All automation is is predefined rules to perform tasks consistently without human intervention. It's not trying to emulate human (and beyond) thinking to complete tasks like AI might. 
 - All this is to say there's a good chance you need an *automated* solution and not an AI solution for your problem(s).
+- With any automation (and AI), ensure you understand how its underlying mechanics work or you may become someone with 30,000+ HIPAA/FERPA/GDPR violations in less than 30 seconds.
 
-The general rule of thumb is that if something *can* be automated, it isn't as costly to do so, and it has strictly, pre-defined rules to ensure consistent output/quality, you should consider automating it. For example: why spend hours grading multiple-choice questions by hand when you can instantly grade them in a fraction of the time by supplying an answer key and putting it through software or even hosting the assignment on a platform like Google Forms to do most heavy-lifting for you... without *any* AI.
+The general rule of thumb is that if something *can* be automated, it isn't as costly to do so, and it has strictly, pre-defined rules to ensure consistent output/quality, you should consider automating it. For example: why spend hours grading multiple-choice questions by hand when you can instantly grade them in a fraction of the time by supplying an answer key. This can be done with low-cost software or even hosting the assignment on a platform like Google Forms to do most heavy-lifting for you... without *any* AI involved whatsoever.
 
 You want to make sure you don't automate yourself out of a job, however. I'm assuming you'd probably want to get paid for your work.
 
-As a teacher, whatever you do should be optimized to free up more time. The more time you have, the more time you can dedicate to your other students–or matters outside of teaching.
+As an instructor, whatever you do should be optimized to free up more time. The more time you have, the more time you can dedicate to your other students–or matters outside of teaching.
 
 Automation–and AI (Artificial Intelligence) by extension–is not a one-size-fits-all solution. Not everything can–and should–be automated. If you're unsure of what existing technology can automate, I'll provide examples below:
 
@@ -408,6 +429,25 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 
 **Remember: Time is your most valuable resource. Once gone, it cannot be restored.**
 - **Also remember: automation (and/or AI) can get very expensive very quickly and may not always solve EVERY problem.**
+
+### **Scaling Culture**
+
+As systems grow, such as classrooms, companies, and so on, what seems fine with only a small group of people doesn't work with a larger group of people. Additionally, the "personality" of said group could affect how things operate; an aggressive group of people holds different values over a passive group of people.
+
+These aspects of group culture can be many things. It could be having dinners with everyone in your group on a set day. It could be one person doing a set of tasks for the organization. It could even be an all-hands meeting with everyone in the group. Some aspects you can scale surprisingly well, while other aspects work well only with specific group sizes.
+
+You can also measure "success" by growth; it's a valid metric, afterall, and can evaluate many things such as wealth, status, and size. Should you evaluate the quality of a culture by its size/growth? Generally, no. Look for cultures having the values you value, redundant as that sounds. If it's a culture for work, aim for leadership that is visionary and looking forward, rather than looking backwards; the kind that inspires you to dream of greatness.
+
+As your group changes, procedures also change. For example, you may understand why a person in the group has extra benefits provided, whether it be an accommodation or a reward for excellent work. When more people from outside the original group get involved, you'll have to define ranges and provide further context to avoid unwanted fires.
+
+For example, it may've been fine to call everyone a teacher when it was just a couple teachers, but now you have an entire cohort and you need to redefine teachers by their topic specialty. While it's not incorrect to call everyone a "teacher" instead of a specific kind of teacher, lumping too many people into one category may cause ambiguity and issues later on as you scale in size.
+
+This also applies to seniority. Two people may be "engineers," but there's a vast difference in experience, time done, and wisdom between a "junior" engineer and a "senior" engineer. It's not wrong to generalize those two as engineers, but the distinction is needed to remove ambiguity and reduce multiple issues as you bring on more and more engineers later.
+
+One other thing you may think scales well, but actually doesn't, is teaching things to others. You may have the resources to teach someone how to use a particular tool, understand a process, and so on without impacting work significantly (and do it quickly!). You may not, however, have the resources to train an entirely new mindset to settle down into an educational system, adjust to a classroom setting, or develop critical thinking skills. It may take *years,* if not decades, to change those aspects and people may not be equipped or willing to dedicate resources to fix these issues on a particular person.
+
+Lastly, if you're considering bringing in someone new into the culture, you should give them time to *observe* the culture first before they make any changes to that culture.
+- You may see me echo similar advice multiple times in this book.
 
 ## **Bibliography**
 

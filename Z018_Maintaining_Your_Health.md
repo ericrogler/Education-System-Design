@@ -1,20 +1,26 @@
 ---
-title: 26. Maintaining Your Health
+title: 25. Maintaining Work Health
 layout: default
-nav_order: 28
+nav_order: 27
 ---
-# Maintaining Your Health
+# Maintaining Work Health
 
 ### [Previous Chapter](Z017_Other_Additional_Duties.html)
 
 ## **Short Answer**
 
-If possible, have a nice day.
+***Disclaimer: All items in this section are not medical advice nor should be interpreted as such.***
+
+If possible, have a nice day. Enjoy your life when you can.
+
+Additionally, avoid a culture emphasizing 24/7 work over an appropriate work life balance. If the system you work with cannot survive without you, the system has a problem to address.
+
+It is possible to be the best employee, teacher, etc. in your organization and still get fired without a second thought. That's not necessarily failure; that's life.
 
 You are allowed to quit/walk away and not have an opinion on everything.
 - What consequences follow, though, is still your responsibility, but you can and may stop.
 
-You are human, so you have human needs. For many, teaching is a job and not their life.
+You are human, so you have human needs. For many, a job is a job and not their life.
 
 I view two ways to approach teaching and instruction: as a job and as a career.
 - Job: you go in before contract hours, do your role to the best of your ability, then leave after contract hours. 
@@ -23,17 +29,24 @@ I view two ways to approach teaching and instruction: as a job and as a career.
 
 Both ways are valid. You can have amazing and passionate teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. 
 
-With either way, though, be careful not to get taken advantage of and know when to set boundaries.
-
-***Disclaimer: All items in this section are not medical advice.***
+With either way, be careful not to get taken advantage of and know when to set boundaries. Even if teaching/instruction is your calling, there is *always* a threshold where you'll no longer tolerate bad working conditions and/or impossible standards.
 
 ## **Long Answer**
 
-Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to be at a school performing duties. 
+I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on.
 
-For first-year teachers, it's nearly inevitable because you're probably designing everything from scratch. If not going from scratch, then you're spending more time figuring out how the systems work. 
+Alternatively, I could talk about how nurses and some licensed medical staff can know something is wrong with someone and put the information together to get the right people involved, but not have permission to diagnose someone themselves.
 
-For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up a pool of resources to quickly draw from.
+Nevertheless, here's to hoping this chapter doesn't attract too much ire.
+
+As a reminder, this is practical advice, *not* medical advice. Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
+
+Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to perform duties. You may also deal with increased workloads/duties, fewer support networks, reduced protections, and countless demands to do what's needed regardless of resources available. If it gets bad enough, someone may be in "survival mode" and simply doing what they can to get by rather than excel.
+- E.g. it feels like you have to always do more with less with every passing year.
+
+For first-year teachers, it's nearly inevitable they'll go beyond contract hours because you're likely designing everything from scratch. If not going from scratch, then you're spending more time figuring out how your particular education system(s) works. 
+
+For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up resources to quickly draw from.
 
 Is it normal to work outside of contract/normal work hours? For most people, no.
 
@@ -51,20 +64,24 @@ Most of what's mentioned below are from things you may find, or deduce, from sou
 - Make time, at least 4 hours (ideally 6-8 hours), for yourself and family each day.
 - Make grading easy for you.
 - Do not sacrifice health for work. Take time off if you're really sick.
-- You will have good days and you will have bad days. Sometimes the bad days will ruin your entire day, and the best course of action is to try and focus on something else–outside of work–on that day.
-- You may get sick more often because you're exposed to more germs and bacteria. In your shoes, I'd stay up to date with vaccines, reduce exposure to sick people, and sanitize/wash hands a lot.
+- You will have good days and you will have bad days. Sometimes the bad days will ruin your entire day and the best course of action is to try and focus on something else–outside of work–on that day.
+- You may get sick more often because you're exposed to more germs and bacteria, so I'd say to stay up to date on vaccines, reduce exposure, and sanitize/wash hands a lot.
 - Exercise, even a little bit, will help keep you in moderate shape. Even walking is fine.
 - Since COVID-19, masks are more normal and useful in high-risk health settings.
 - Ensure you're meeting nutritional needs, such as vitamin and calorie intake.
-- Manage stress.
+- Manage stress. If, at any point the career is costing you your health and stress levels, you need to seriously examine if staying in it is viable.
 
-If you're in a position where you also happen to be teaching basic health (not advanced health and medicine; leave that to health professionals like nurses, doctors, and dieticians), you can look into sources such as the CDC, NIH, and nutrition.gov as starting references, but have the same disclaimers about what type of source they are: information vs medical advice.
+If you're in a position where you happen to teach basic health (not advanced health and medicine; leave that to health professionals like nurses, doctors, and dieticians), you can look into sources such as the CDC, NIH, and nutrition.gov as starting references. They'll likely have the same disclaimers about what type of source they are: information and not medical advice.
 
 ### **A Quick Life Lesson From An Unexpected Source**
 
 There's an exchange between the characters Dr. Cox and J.D. from the TV show *Scrubs* in the episode "My Lunch" that sticks in my head more than I care to admit. [I'll link that scene in particular sourced from IMDB](https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk).
 
-You shouldn't always be blaming yourself for your students' failure. Even with all the aid you provide to a student, that student may still fail, and there's a point where you're going to have to accept that. You've done your duty in the classroom, school, or learning environment, and that is your primary duty: properly teaching during your professional working hours. 
+Teachers/instructors shouldn't always be blaming themselves for their students' failure. Even with all the aid you provide to a student, that student may still fail. 
+
+There's a point you're going to have to accept that. 
+
+You've done your duty in the classroom, school, or learning environment: properly teaching during your professional working hours. 
 
 It may take less than a month, or a year, or even your entire teaching career before this happens. Still, there's always the chance it will happen to you, and you have to overcome that challenge or else have it eat away at you the rest of your life.
 
@@ -72,24 +89,25 @@ Your responsibility ends at doing your best within professional means and hours.
 
 ### **An Isolating Profession**
 
-Another thing about being a teacher is it's an isolating profession. This may sound odd at first, because a teacher is interacting with many other human beings a lot. Still, many teachers are working alone most of the time.
+Being a teacher or instructor is being in an isolating profession. This may sound odd at first, because a teacher is interacting with many other human beings a lot compared to many other roles. Still, many teachers are working alone most of the time.
 
-In a teaching setting, your brain is processing multiple things at once:
+In an instructional/teaching setting, your brain is processing multiple things at once, such as:
 - The content you're teaching
 - How to explain the content to students to be best understood
-- The possible dozen to 100+ social dynamics happening in the background, where any one of them can escalate into an issue
+- The possible dozen to 100+ social dynamics happening in the background, where any one of them can escalate into an out-of-control issue within seconds
 - Checking the entries and exits for any sudden visitors, which means potential interruptions to the class
-- Scanning the room occasionally for emergencies which always have a low, but not zero, chance of happening.
+- Scanning the room occasionally for emergencies which always have a low, but not zero, chance of happening
 - Maintaining a "high alert" state the entire class period, multiple hours at once, or even the entire day without pause or rest
 - How to not undergo a sensory overload during the day
 
-These occurrences aren't exclusive to teachers. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, CEOs, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies, but the environment you're in places a higher amount of stress than you may first expect.
+These occurrences aren't exclusive to teachers. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies, but the environment you're in places a higher amount of stress than you may first expect.
 
-It's like your brain is at 90-95% active utilization and 5-10% downtime at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location at work may not be ideal for decompressing, so you might wait for a later opportunity again, likely at the end of the day when you're back home from work.
+It's like your brain is at 90-95% active utilization and 5-10% downtime, at best, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location at work may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
-Venting and decompressing vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. Maybe it takes 15 minutes, 30 minutes, or even an hour before you mentally reach a "normal" state and de-escalate from a "high alert" state.
+Venting and decompressing methods vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. Maybe it takes 1 minute, 15 minutes, 30 minutes, or even an hour before you mentally return to a "normal" state and de-escalate from a "high alert" state.
 
-**Keep in mind, these mental states and decompression processes are surprisingly normal.** Be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. If it reaches that point or feels it's reaching that point, that's when it's gone too far, and you'll want professional help (e.g., therapists, doctors, etc.) to get through those hardships.
+**Keep in mind, these mental states and decompression processes are surprisingly normal.** Be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. Also ensure it doesn't reach the point where it involves drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
+- Even if you're currently one of these professionals, a "physician-patient" still needs appropriate help (Rosvold (MD), 2004).
 
 ## **Bibliography**
 
@@ -98,6 +116,9 @@ Venting and decompressing vary among individuals. It can be done through body la
 2. Centers for Disease Control and Prevention. (2024, February 27). *About Hand Hygiene for Patients in Healthcare Settings*. [https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html](https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html)
 
 3. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. [https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html](https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html)
+
+5. Elin Olaug Rosvold. (2004, September 1). *Doctor, Don’t Treat Thyself.* Patient Safety Network.[https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself](https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself)
+    - ((Alternative citation)) Rosvold EO. Doctor, Don't Treat Thyself. PSNet [internet]. Rockville (MD): Agency for Healthcare Research and Quality, US Department of Health and Human Services. 2004.
 
 4. Lawrence, B (Director). (n.d.). *Scrubs* [Film quote]. IMDB. [https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk](https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk)
 

@@ -13,17 +13,24 @@ nav_order: 5
 
 What rules you must follow depends on location, subject, and employer.
 
+Self-regulation in practice works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from outside, third parties and higher authorities exist.
+- More often than not, regulations are written in blood.
+
 Tertiary education (colleges, universities, etc.) and secondary education offering college courses may operate under different rules compared to primary and secondary education.
 
 ## **Long Answer**
 
-Legality protects both your students and you as a teacher and determines what you can teach.
+*Repeat Notice: All information in this chapter is NOT legal advice.*
 
-First, the obvious. What is a law is still a law you follow in the classroom.
+It doesn't matter if you're a teacher, an administrator, or a non-education role working with education systems. There's a *lot* of laws to get familiar with and they're all important.
+
+Legality protects everyone involved in an education system.
+
+First, the obvious. What is a law is still a law you follow in education.
 
 As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so my examples are from there and I will use Colorado as my primary reference for this chapter. Other states should have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
-Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to list or remember every organization, act, and law here; only a sample.
+Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to list or remember every organization, act, and law here, because that would be its own book, if not several books, describing those alone.
 
 **Federal/National Level**
 - U.S. Department of Education
@@ -32,7 +39,7 @@ Using the State of Colorado as an example, I had some level of interaction with 
 - U.S. Department of Labor
 - American Council on Education (ACE)
 - Department of Public Safety (Mandatory Reporting)
-- HIPAA/FERPA
+- HIPAA, FERPA, and GDPR
 - Fair and Appropriate Public Education (FAPE)
 - Individuals with Disabilities Education Act (IDEA)
 - Every Student Succeeds Act (ESSA)
@@ -52,7 +59,7 @@ Using the State of Colorado as an example, I had some level of interaction with 
 **Other Classification**
 - Software Organizations
 - Service Agencies
-- Contractors
+- Contractors and "Subs" (sub-contractors)
 
 For high schools with specialized tracks, colleges, and universities, your list may include, but is not limited to, accreditations necessary for licensing and job requirements, such as:
 
@@ -178,15 +185,34 @@ Again, this isn't legal advice; it's a summary of what educators and copyright e
 ### **Social Media and "The Blame Game"**
 
 In a teacher role, you're usually the front line. If something goes wrong, you're often the first person blamed because you're easy to reach, limited in defense mechanisms, and convenient to blame.
-- From personal experience, these issues usually come from people with little power over their own lives given the chance to shift blame and exert power over another person.
-- These issues also typically stem from chronic non-performers who refuse to do work or follow directions then look for external issues to justify failures.
 
-Additionally, social media is not always your friend. Besides potentially violating FERPA/HIPAA, you aren't necessarily protected in saying whatever you want. If you have a "spicy" political opinion, you shouldn't post that in written form and have it drafted as evidence against you in a court of law.
+Social media is not always your friend. Besides potentially violating FERPA/HIPAA, you aren't necessarily protected in saying whatever you want. If you have a "spicy" political opinion, you shouldn't post that in written form and have it drafted as evidence against you in a court of law.
 
 For case studies related to social media and speech, I see these three cited often:
 - [Pickering v. Board of Education | 391 U.S. 563 (1968)](https://supreme.justia.com/cases/federal/us/391/563/)
 - [Tinker v. Des Moines Independent Community School District | 393 U.S. 503 (1969)](https://supreme.justia.com/cases/federal/us/393/503/)
 - [Garcetti v. Ceballos | 547 U.S. 410 (2006)](https://supreme.justia.com/cases/federal/us/547/410/)
+
+### **Age Verification Systems**
+
+This is a touchy subject. As you may be aware, there's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
+
+If you, or an institution, store personal information of students in your software, systems, etc. then you now face one of two scenarios.
+1. Nothing bad happens.
+2. Data gets breached/leak and legal liabilities may ensue.
+
+Most users won't deal with the underlying currents of these softwares, but all users with access to this information will deal with it. Programmers and engineers may stay far away from these systems precisely to avoid the compliance required from these laws and avoid the risk altogether.
+- This is especially true for people who are new and not well versed in their legal literature, because the risk of messing up drastically increases.
+
+If I had to work with HIPAA (or similar) data, I'd consider a resource already verified as HIPAA/FERPA/GDPR-compliant in the first place. It might be a hosted service managing the data, handling the security around it, and providing a separate layer (i.e. an API) for access to then build solutions around. That ensures one extra layer of protection for myself and the host in case issues arise, but I'd also have to set up security protocols on my own end, such as tokenization and restricting request types (request minimization).
+
+In short, there's a lot more work handling sensitive data that it may seem at first. This book won't go into all the details regarding how these systems work though, as it's outside scope and generally its own book, if not multiple books, on that topic.
+
+Lastly, I'll cover one situation where a data leak did happen: Discord. This isn't putting a target on said application; only an observation [reported on by Cyber Security News](https://cybersecuritynews.com/discord-data-breach-sensitive-data/) (Baran, 2025) and [confirmed by Discord themselves](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service) (Discord, 2025). There was a security breach of a third party vendor from an unauthorized source. There may also be concerns about *how* said sensitive data was handled, such as the way it was stored, processed, and encrypted. Nevertheless, this one incident showcases what happens if someone misuses sensitive data: investigations happen and law enforcement gets involved.
+
+This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected too alongside children. Add onto this integrating age checks (which means storing and handling personal data) with these types of programs and you're looking at another hefty risk. Doing it "for the children" is a thin argument at best. Uploading it on the Internet *period* opens up people to data theft.
+
+Despite all of this, storing this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate.
 
 ### **Teaching/Instructional Contracts**
 
@@ -215,6 +241,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 5. American Council on Education. (n.d.). *American Council on Education*. [https://www.acenet.edu/Pages/default.aspx](https://www.acenet.edu/Pages/default.aspx)
 
 6. American Council on Education. (2024). *Accreditation toolkit: New England*. [https://www.acenet.edu/Documents/Accreditation-Toolkit-NE.pdf](https://www.acenet.edu/Documents/Accreditation-Toolkit-NE.pdf)
+
+6. Baran, G. (2025, October 9). *Discord Data Breach - 1.5 TB of Data and 2 Million Government ID Photos Extorted.* Cyber Security News; CybersecurityNews. [https://cybersecuritynews.com/discord-data-breach-sensitive-data/](https://cybersecuritynews.com/discord-data-breach-sensitive-data/)
 
 7. Centers for Disease Control and Prevention. (2024, July 10). *Public health law program resources*. [https://www.cdc.gov/phlp/php/resources/index.html](https://www.cdc.gov/phlp/php/resources/index.html)
 
@@ -246,7 +274,11 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 21. *Definitions of Child Abuse and Neglect - Colorado | Child Welfare Information Gateway.* (2025). Childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/)
 
+21. *Update on a Security Incident Involving Third-Party Customer Service | Discord.* (2025). Discord.com. [https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)
+
 21. GED Testing Service. (n.d.). *GED*. [https://www.ged.com/](https://www.ged.com/)
+
+22. GDPR. (2018). *General Data Protection Regulation (GDPR).* GDPR. [https://gdpr-info.eu/](https://gdpr-info.eu/)
 
 22. Higher Learning Commission. (2025). *Higher Learning Commission*. [https://www.hlcommission.org/](https://www.hlcommission.org/)
 

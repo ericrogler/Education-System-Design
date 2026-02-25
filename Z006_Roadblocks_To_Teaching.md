@@ -30,13 +30,13 @@ For simplicity's sake, I'll sort blockers into four categories.
 Before I proceed, I'll make one assurance: 
 
 **"Old school" style teaching, or teaching without fancy tech, gadgets, widgets, etc. is perfectly fine (and sometimes encouraged!). If this is the case for you, you may have fewer technical blockers.**
-- This also includes having fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students.
+- This also includes fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students in your educational system.
 - Personally speaking, I'd use pencil and paper when I could, but technology, like computers, for things I cannot reasonably do with low tech solutions.
 - Each new person using technology is one more person you may have to troubleshoot issues for.
 
 *Moving on!*
 
-In one sentence, is there a device that cannot operate the software and/or perform the tasks I need for teaching?
+In one sentence: is there a device that cannot operate the software and/or perform the tasks I need for teaching?
 
 *If no, proceed with whatever plans you have; you're good.*
 
@@ -45,13 +45,13 @@ In one sentence, is there a device that cannot operate the software and/or perfo
 - Cannot use it
 - Need to find an alternative fitting technical requirements
 
-For example, a Chromebook can’t run Windows or Mac games, but it can run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
+For example, a Chromebook might not run Windows or Mac games, but it can run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
 
 Another example: you want students to run a flight simulator on school computers, but “dxdiag” shows the computer specs are far too low. That's OK, though, because there are less resource-intensive browser alternatives available for use instead.
 
 **Be warned, though:** using alternative software may not meet all of your needs or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
 
-The only time you are *stuck* with teaching a given software is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required software or they cannot get the certification or license. Some software may require the teacher to hold a license to teach or administer tests related to the software, so double-check first.
+The only time you are *stuck* with a given software/tool is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required software or they cannot get the certification or license. Some software may require the teacher to also hold a license to teach or administer tests related to the software, so double-check first.
 
 **Does this mean I should use technology when it's available?**
 

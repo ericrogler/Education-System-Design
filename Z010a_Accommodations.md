@@ -1,7 +1,7 @@
 ---
-title: 18. Accommodations
+title: 17. Accommodations
 layout: default
-nav_order: 20
+nav_order: 19
 ---
 # Accommodations
 
@@ -9,20 +9,27 @@ nav_order: 20
 
 ## **Short Answer**
 
-**Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student.**
+> Be careful of charity and kindness, lest you do more harm with open hands than with a clenched fist.
+- *Source for both quotations:* Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
-Differentiation and inclusion works *when there's resources available for it,* such as time, support, and staff. When there's not enough resources, it's harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers to provide sufficient differentiation and inclusion to *every* student under their care.
+*Notice: The quotation above isn't here to show I'm against accommodations. It's warning against treating accommodations as generosity over obligation.* 
+
+Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections.
+
+There are unreasonable accommodations, which you can push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Lastly, there's accommodations made purely to avoid litigation, which are dubious in intent and likely weaponize accommodations, but probably need to be followed anyways.
+
+Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student in every context. This is not a moral failure, but a system limitation. When there's not enough resources, it's harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers/instructors to provide sufficient differentiation and inclusion to *every* student under their care.
 - E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved.
 
-Accommodations are meant to help students perform like their peers, NOT provide an advantage over their peers. 
-- We should support student learning and provide accommodations if it's reasonable.
+Accommodations are meant to help students perform like their peers, NOT provide an advantage over their peers or perpetual excuses for poor learning. 
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
     - Opinion: students should not be permitted in "tough" classes without proof of competency and/or recommendation in the first place!
-- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does is help their efforts in learning.
+- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does in practice is try to help their efforts in learning.
 
-You also may not openly disclose accommodations for any students, as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections. 
+**Lastly, and this is the ONE takeaway every reader should remember if nothing else: Accommodations in educational systems do not mean anything outside of them.**
+- They also do not act as "get out of jail free" cards.
 
 ## **Long Answer**
 
@@ -33,14 +40,16 @@ You also may not openly disclose accommodations for any students, as they're typ
 
 If a teaching framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire graduate thesis from 0 to 100 in under 2 weeks.
 
-Add on top of this many accommodations are *legally required*, thanks to IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact.
+Add on top of this that many accommodations are *legally required*, thanks to IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expect to adapt and adjust how you deliver content with, or without, whatever supports you have.
+
+**I believe the ideal goal of a student going through any education system is functional independence.** Students should leave that system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by either students (or third parties assisting students) to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
+- Put another way: they shouldn't move on when they aren't ready.
 
 ### **The "Reasonable" Accommodation**
 
-Per the [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024):
-
 > A reasonable accommodation enables a person with a disability to enjoy equal
 employment opportunities, benefits, and privileges.
+- [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024)
 
 Accommodations provide equity, not advantages, to students with physical, mental, or medical conditions putting them at disadvantages compared to peers. That means assisting people with diseases and conditions like dyslexia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their healthier peers. Accommodations are not just for one type of student; it's for many types of students. 
 
@@ -92,7 +101,7 @@ At the end of the day, accommodations are still legally required to be provided 
 
 **The intent of accommodations is to provide supports to people and remove barriers to entry in a given environment.** They should elevate someone up to the level of their peers without accommodations. 
 
-It is *not* meant to reduce or replace rigor/requirements to perform the necessary work or bypass the effort required for learning.
+It is *not* meant to reduce or replace rigor/requirements to perform the necessary work or bypass the effort required for learning. It is also not meant to abuse a system, commit fraud, or acquire unjust advantages over other students.
 
 Consider accommodations another way: Two students need to get 100 points.
 - Student A receives 100 points on their own.
@@ -150,9 +159,7 @@ You may not even need a school-provided accommodation either. In the Information
 
 Short answer: It's fine as long as it comes with strict conditions increasing/maintaining accountability and demonstrating learning.
 
-Long answer:
-
-Sometimes this is a general policy for all students at schools. Other times it's written as part of an accommodation. Is it reasonable? Depends.
+Long answer: Sometimes this is a general policy for all students at schools. Other times it's written as part of an accommodation. Is it reasonable? Depends.
 
 Overally, I'd say to avoid offering retakes unless any one of these following is true:
 1. You're willing to take on the additional workload.
@@ -199,9 +206,9 @@ This format means no extra paperwork, no extra assignments written out, and I ge
 
 ### **"Student not given assignments when [mentally] unavailable for learning"**
 
-Firstly, yes this is a real accommodation. Secondly, this is an unreasonable accommodation. 
+Firstly, yes this is a real accommodation. Secondly, I'd almost immediately call it an unreasonable accommodation. Thirdly, if I ever see this again, you bet it is saved as documentation in case said student ever fails and people ask about it.
 
-I'm documenting when and how the student utilizes this accommodation and seeking an emergency meeting as soon as humanly possible to remove. This accommodation, if approved, effectively excuses the student from *all* classwork and may undermine their learning experience.
+I'm documenting when and how the student utilizes this accommodation and seeking an emergency meeting as soon as humanly possible to remove. This accommodation, if approved, effectively excuses the student from *all* work and will undermine their learning experience.
 
 If the student decides this means napping excessively, I'll need to treat it as a medical issue and request they go to the nurse's office, or the front office in case nurse unavailable, mark them under an excused absence, and provide make-up work.
 
@@ -281,9 +288,9 @@ These accommodations range from somewhat understandable to impossible.
 
 If a trigger word is being told "No" then that's unreasonable.
 
-If the trigger word is a slur or already offensive word, that's excessive; people shouldn't be saying that in the first place and may face punishments anyways.
+If the trigger word is a slur or already offensive word, that's excessive; society deemed it socially unacceptable, so people shouldn't be saying that in the first place and may face punishments anyways.
 
-If the trigger word is a socially acceptable word, then it's the risk of that word suddenly appearing in text, said, or shown to them without me knowing about it. That means it's now an accountability issue where the teacher can be held responsible, despite the teacher not being at fault, and more documentation.
+If the trigger word is a socially acceptable word, then it's the risk of that word suddenly appearing in text, said, or shown to them without the instructor knowing about it. That means it's now an accountability issue where the teacher can be held responsible, despite the teacher not being at fault, and more documentation.
 
 ### **Nonverbal Reminders and Cues**
 
@@ -297,7 +304,11 @@ I'd say to review which cues and reminders to use with the student(s) in a separ
 
 Depends on how many other students have this same requirement.
 
-One to a few students? Totally reasonable. Several students? Less reasonable. Several students in a classroom environment that, by architecture and engineering constraints, prohibits certain seating arrangements? Unreasonable.
+This accommodation also could let teachers decide where to best put students to maximize their learning potential and limit distractions.
+
+Even if that's stuck in a corner with a wall in front of them.
+
+Besides that: One to a few students? Totally reasonable. Several students? Less reasonable. Several students in a classroom environment that, by architecture and engineering constraints, prohibits certain seating arrangements? Unreasonable.
 
 There's only so much space to assign seats in a classroom. The difficulty and accommodation issues also spike if it's a case like "must sit next to the teacher" when there's only one reasonable spot next to the teacher in the first place.
 
@@ -358,7 +369,7 @@ Please never add this.
 
 This accommodation removes accountability on student work, which means it's harming the student and left entirely to the motivation of said student to do the work and keep up with the class.
 
-It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial.
+It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and many deadlines are actually a good thing instead.
 
 If this accommodation is forced, despite clear implications of what it allows, the typical "split 1 large task into multiple smaller tasks" tactic could alleviate it a bit. Also consider looking into frequent meetings and check-ins to help with organizational skills. Despite whatever tactics you employ, the drive to complete their work and learn the material is still heavily in favor of the student.
 
@@ -366,21 +377,22 @@ Again, this is a bad accommodation.
 
 ### **Extended ("Extra") Time and Deadlines**
 
-*It's complicated* who really needs this accommodation and where it applies. There's cases for it, but I'd say they're exceptions for medical conditions significantly affecting reading and writing abilities. In general, I'd avoid giving this accommodation unless truly necessary. 
+*It's complicated* who really needs this accommodation and where it applies. There's cases for it, but I'd say they're exceptions for medical conditions significantly affecting reading and writing abilities. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
+- I'd also say this accommodation is not a way for a student to play games, watch non-educational videos, or be on social media instead of time *for their course's work*.
 
 I'll give some examples where I think it's reasonable: 
 - Example 1: A student with ADHD requests extra time for tests as they perform well in the class in general but poorly under test-specific conditions. 
 - Example 2: A student with cerebral palsy receives extra time because they physically cannot write down all their answers in the normal timeframe.
 - Example 3: The law in a given state/nation mandates the accommodation(s) for student.
 
-Additionally, I would force a specific extension amount to NEVER leave it open to interpretation. I'd say only 100% extended time *at most* beyond the due date and limit *which* assignments get the extension. 
+Additionally, I would force a specific extension amount and NEVER leave it open to interpretation. I'd say only 100% extended time *at most* beyond the due date and strictly limit *which* work gets that extension. 
 
 From personal experience, even if you do grant extended time and deadlines, that usually results in a student putting it off longer and feeds into procrastination.
 - Easy proof of this is checking submission time vs deadline time
 
 Extended deadlines, and extended time in general, is a slippery slope where the student risks falling behind and unable to keep up with classroom pacing and work. If that happens, the accommodation is harmful rather than beneficial.
 
-Extended time also opens the door to a student asking for, and getting, and extension on *all* work, which means harming the student and hurting their accountability. For example, if the accommodation says "double time" on assignments, that puts them in a compromised position where massive amounts of work can pile up and all become due on the same day. 
+Extended time also opens the door to a student asking for, and getting, and extension on *all* work, which means harming the student and hurting their accountability. For example, if the accommodation says "double time" on assignments, that puts them in a compromised position where massive amounts of work can pile up and all become due on the same day. That's when a teacher should be documenting extensively what happens with that student so they don't lose their job. 
 
 **A Case for Abusing Time Extensions**
 
@@ -482,6 +494,8 @@ This is easier to apply in scenarios where "showing work" is required, like scie
 1. Davis, S. (2025, June 23). *What Is Aquagenic Urticaria?* (Z. Sheikh, Ed.). WebMD. [https://www.webmd.com/allergies/what-is-aquagenic-urticaria](https://www.webmd.com/allergies/what-is-aquagenic-urticaria)
 
 1. Kulow, M., & Missirian, D. (2019). *Building STEPs Down the Precipitous Cliff from University to Workplace: A Proposal to Modify Regulation of Higher Education Mental Disability Accommodations.* Texas Journal on Civil Liberties & Civil Rights (U Texas Austin), 24(2). [https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf](https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf)
+
+2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. Chris Parker.
 
 1. *HANDBOOK FOR REASONABLE ACCOMODATIONS DEPARTMENTAL HANDBOOK ACSH-OFO-011.* (2024). U.S. Department of Education. [https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf)
 

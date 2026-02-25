@@ -9,7 +9,15 @@ nav_order: 7
 
 ## **Short Answer**
 
-As the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. If you do not plan appropriately, you will face stagnation or, worse, the death of the organization you're a part of.
+If you're going into management, or transitioning from an individual contributor (employee) to manager, here's the shortened version:
+- You have to learn to let go of what you were good at; you're doing a *different* job now by managing people, amplifying employee talents, and giving credit where it's due.
+- The people working for you/beneath you are probably smarter than you.
+- You lead by example in *everything*. What you do and show is what your employees do and show.
+- Properly delegating time, tasks, and people is paramount to survival as a manager.
+- Notifications and distractions *will* kill your productivity if you let them.
+- Give people what they need, not what they want.
+
+As the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. If you do not plan appropriately, you face stagnation or even organizational death.
 
 Scaling up typically involves things like:
 - New layers of management
@@ -19,6 +27,8 @@ Scaling up typically involves things like:
 - Difficulty in cross-team communications and organizational communication
 
 A 5 minute email can have the same, if not better, results than a 1 hour meeting. Learn when to do emails over meetings.
+
+**If you don't know why your manager (or superior in general) wants something, it's usually ok to just ask them why it is important.**
 
 The typical ratio of manager to direct reports is around 1 to 7-10, given or take a few more or less direct reports, depending on role, scope, manager experience, and proficiency. It's basically a judgment call.
 - If interested in why I say these numbers specifically, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm).
@@ -99,7 +109,7 @@ If you're at the top level here, or close to the top level, above, your goals st
 - Put another way: finding methods to earn money, improving the state of the company, and getting employees to perform better.
 - If it doesn't cover one of these areas, consider delegation.
 
-An assumed "upper limit" is about 4-5 managers with 8-10 employees each on average in a ~40-50 person organization. These people, called direct reports, are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors,  and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
+An assumed "upper limit" is about 4-5 managers with 8-10 employees each on average in a ~40-50 person organization. These people, called direct reports, are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors, and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
 
 You may also consider hiring on new individual contributors to assist you, the director, but remember they count towards the limit of direct reports. If their roles are not well-defined, they risk redundancy.
 
@@ -117,9 +127,9 @@ As for you, the CEO, you become a director, or a manager of managers. There are 
 - Specialization occurs to avoid redundancy
 - Oversight of more projects instead of only a few projects
 
-Remaining as CEO/director at this stage requires committing more to management to maintain organizational effectiveness. Expect some loss/reduction of certain technical skills to dedicate towards learning and executing in leadership roles. It's possible only 10% of your time as director is what you would've done as an IC
-- For example, if you worked on development for 8 hours as an IC, it may be only 30-45min as a director at most. Your other duties, taking up more time now, focus on improving the organization and its employees.
+Remaining as CEO/director at this stage requires committing more to management to maintain organizational effectiveness. Expect some loss/reduction of certain technical skills to dedicate towards learning and executing in leadership roles. It's possible only 10% of your time as director is what you would've done as an IC. If you worked on development for 8 hours as an IC in a given day, it may now be only 30-45min *at most* as a manager+. It's not your job anymore and other duties are far more important for the organization's well-being.
 - This effect magnifies as your organization scales up.
+- **You'll also have to accept your direct reports, or team, may be or become smarter than you on certain aspects. Learn to respect them.**
 
 If there's no employee(s) to fulfill organization responsibilities, it falls upon you and everyone else in the organization instead until you bring in more external expertise. If losing one employee risks the failure of most or all of the organization, that is failure in allocation. There should be succession plans and contingency systems across each management layer to address emergencies.
 
@@ -153,7 +163,9 @@ From 120-140 to 350-400 people, it's another layer of management before scaling 
 4. Managers
 5. Individual Contributors
 
-Executives (top management) establishes direction for the organization. Directors (middle management) translate that direction into strategy. Managers, (low management) develop tactics to execute strategies within teams.
+Executives (top management) establish direction for the organization. Directors (middle management) translate that direction into strategy. Managers (low management) take strategy and develop tactics to meet goals within teams.
+- Depending on how many management layers are present, a manager may have to think about strategy/direction alongside tactics.
+- Strategy is why; tactics is how.
 
 Additionally, things like all-hands meetings, organization-wide events, and similar items face more problems as you scale upward:
 - They become significantly more expensive
@@ -168,6 +180,51 @@ Scaling beyond this breakpoint seems like repeating the same strategies at large
 - Establish a steady ratio of managers:direct reports for each management layer
 - Formalizing communications across layers
 
+### **The "Hidden Costs" Problem**
+
+*Alternatively: Small Things Lead to Big Problems*
+
+Imagine you're running a coffee shop and you want to sell a cup of coffee to customers.
+
+There's many things involved in the process. You have many direct costs, such as:
+- Ingredient/Material costs
+- Packaging costs
+- Labor costs
+
+Don't forget about multiple indirect costs, which aren't put into the coffee but still used to help make the coffee:
+- Debt/interest payments on estate, like rent
+- Franchise costs
+- Maintenance/Remodeling costs
+- Machinery/Equipment costs
+
+You may go with a rule of thumb, like 3x material costs to cover labor, taxes, etc. and still generate profit. Another rule of thumb may be to visit your closest competitor, see what they're selling at, and price your coffee 25 cents lower or so.
+
+Costs of goods sold (COGS) is sneaky on prices and why you may optimize adding *as little* of an ingredient needed for your coffee without sacrificing quality. This may sound like penny pinching and hurting the customer, but it'll hurt the seller's pockets far more than you may expect. 
+
+Let's put it into hypotheticals. You sell 1000 cups of coffee at averaging 3 dollars each, with an average COGS of 1.25 dollars each. That's 1.75 dollars in revenue per cup of coffee for 1750 dollars total.
+
+On that same example, one ingredient suddenly increased in price but it's necessary to maintain your standard of quality. The COGS is raised to 1.50 dollars per cup now, so there's an additional running cost of 0.25 dollars for each coffee you make. Over 1000 cups, like before, that's instead 1500 dollars total revenue.
+ 
+In *a single day* that's 250 USD less in revenue because *one* part changed. It may seem small now, but losses like these compound over time. Many people *want* to earn money, so it's in their best interest to establish processes, like strict portion controls and packaging methods, to keep the bottom line low and profitability high.
+
+### **The Technical Debt Problem**
+
+As a company grows, the more likely it is held together by duct tape and glue rather than a robust system.
+
+This isn't entirely the company's fault; it's the nature of complexity. You add in more employees, then the number of relationships skyrockets. You develop or implement more systems or processes, the interactions and complexity also increases (exponentially so!).
+
+Because it takes time to sort out complexity, and people often resort to fast solutions which work now, you accumulate "technical debt." Techincal debt is the maintenance cost of a system for choosing quick, working solutions now instead of robust solutions later. You "pay off" the debt by rewriting the systems to go beyond just functional.
+
+It's another reason why I believe Tony Fadell, the author of *Build*, developed the breakpoints I examined earlier: to find concrete points you must ensure sustainability at before continuing growth.
+
+Where this debt is most visible is for anyone working behind the scenes and/or on the systems an organization uses. In terms of jobs, this is mainly programmers and software engineers. You *can* see technical debt in multiple areas, like if you're working in a retail store and utilize a POS system that barely functions, but was affordable for your budget and is quickly implemented.
+
+It is an important skill to manage technical debt, much like managing financial debt. You "borrow" future capabilities to boost current capabilities. Sometimes it comes from something you *thought* was OK at first, but realize it doesn't work later and now you pay back interest on it. Accuring debt is *sometimes* the best, if not only, choice to meet your needs and/or meet regulations/requirements. How you plan and pay back that debt before it compounds out of control and affects your processes is what separates great managers from poor managers.
+- This includes balancing shipping/selling products to generate revenue vs paying down the cost of debt. 
+- Velocity (i.e. how fast you get money) is still important; you cannot get money to pay off debt if no money is coming in!
+
+There's also "bad engineering" which affects technical debt, but is worse. Think of bad engineering as making terrible decisions with whatever assets, liabilities, and equity you have now and acquired via debt/loans. There's no control, tradeoffs, or any benefits; it's just costs. The decisions might be slow to appear, but once they appear it may already be too late or extremely costly to fix. You might never avoid techincal debt, but good processes can certainly avoid bad engineering and not put the organization at undue risk. Combine debt with bad practices and you're in trouble.
+
 ### **Taking Time Off**
 
 A manager has many freedoms.
@@ -180,7 +237,7 @@ This also applies to finding coverage for roles. A manager may have to cover def
 
 Does leadership have the same 24 hours a day like people do? Yes.
 
-Does leadership have to spend it the same way their employees do? Rarely, if ever. Some leadership may work a lot of hours compared to a 9-5 or 40 hour per week employees doing every single job in the organization. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving people's issues instead of their own issues.
+Does leadership spend it the same way their employees do? Not really. Some leadership may many more hours compared to a 9-5 or 40 hour per week employee doing every single job in the organization. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving people's issues instead of their own issues.
 
 As people "climb up the ladder;" they tend to spend less time on production/labor tasks and more time in managing. That's a trait consistent across multiple roles and companies, where you "work" less, but your brain works harder. Some days could be 2 hours of smooth sailing and other days 12+ hours of putting out (almost) literal fires. This is further exacerbated by how a high level leadership mistake can have vastly greater consequences than a low level employee mistake.
 

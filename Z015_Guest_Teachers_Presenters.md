@@ -1,7 +1,7 @@
 ---
-title: 23. Guest Teachers, Speakers, and Presenters
+title: 22. Guest Teachers, Speakers, and Presenters
 layout: default
-nav_order: 25
+nav_order: 24
 ---
 # Guest Teachers, Speakers, and Presenters
 

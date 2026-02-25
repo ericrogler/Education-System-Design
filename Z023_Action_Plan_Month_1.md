@@ -1,7 +1,7 @@
 ---
-title: 31. Action Plan - Month 1
+title: 30. Action Plan - Month 1
 layout: default
-nav_order: 33
+nav_order: 32
 ---
 # 23. Action Plan: Month 1
 

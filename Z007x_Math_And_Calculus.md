@@ -9,9 +9,9 @@ nav_order: 14
 
 ## **Short Answer**
 
-WIP
-
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional. The next few chapters are separated to avoid spilling over material and causing undue confusion.*
+
+**If there's one thing you at least need to take away from this chapter, it's to memorize your times tables.**
 
 The average adult (and people becoming adults) should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
 - *Let me stress once again: every adult should care about math and have some knowledge in it.*
@@ -96,6 +96,8 @@ You also should not completely sacrifice memorization for abstraction and concep
 - To put it another way: you "memorize" systems, stories, and processes to solve problems.
 - Memorization is also a way to avoid looking up something every time you need it.
 
+Despite the potential desire to explain proofs and reasoning to students, some students may not care and instead want the shortest sequence of steps. They're mostly in it for a grade, rather than learning. If it's a couple students out of a large classroom it's not a major issue. If it's most students though, you may be sacrificing productivity and deep learning to stick with high-level concepts instead.
+
 ### **Back to the Basics**
 
 Basics as in functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more.
@@ -103,14 +105,41 @@ Basics as in functions, decimals, percentages, fractions, times tables, and rudi
 It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (PEMDAS or GEMS) and what a percent actually means.
 
 It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing.
+- Really, the same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important.
 
-I'll also include reading because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations effectively.
+Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations effectively. You cannot escape language arts that easily!
 
-This also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
+Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
+
+### **"But I'll Never Use This"**
+
+*Alternatively: Why are we learning this?*
+
+If this question comes up, I suppose these responses or something similar suffices. It depends upon the group of students.
+
+"I don't expect you to use these skills in your everyday life. I do expect you to learn the things required to perform well though, like problem solving and critical thinking. That, and you need to pass this course for graduation."
+
+Or
+
+"You might not, but your classmates will."
 
 ### **Algebra and Trigonometry**
 
-WIP
+These are important because they're used practically in many ways seen and unseen. Examples include:
+- Excel and spreadsheets
+- Cooking
+- Making triangles
+- Percentages
+
+Algebra also puts into writing many concepts you may intuitively do already, such as figuring out how much more money you need to afford X. You *can* do things without Algebra, but knowing it enables complexity, grants knowledge for practical tools, and grows thinking in abstracts.
+
+Even "2+2=4" (or "a+b=c") is technically Algebra. There are many concepts and properties requiring learning Algebra as the basis to comprehend their existence. It generalizes mathematics and shows how numbers can transform through various operations.
+
+It also introduces you to many other concepts you'll see in advanced math, such as polynomials, simplification, and inequalities. Many people will stick with classical Algebra and not get into Abstract (or Modern) algebra, as the former suits many use cases in practice.
+
+Geometry serves as further introductions into logic and proofs and reinforces critical thinking and spatial thinking. You can also utilize Algebra in Geometry as well. Without geometry, you'd be hard-pressed to interpret shapes, spaces, and many parts of a home you're living in. 
+
+For many people outside of math-heavy fields, like design or art, you're missing out on much potential without learning Geometry. For people in technical fields, like architecture and engineering, and not knowing Geometry means haphazardly creating a building plan that won't pass legal codes and strict standards.
 
 ### **Calculus: Why it's Important**
 
@@ -180,9 +209,9 @@ It's like how you can recall a topic and the general direction of what you need,
 
 In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent; just more abstract and dependent on your notion of numbers.
 
-That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder. *Much harder.*
+That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder.
 
-When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* These proofs are not necessarily exclusive to higher math, but are definitely more abundant in higher math. Depending on how math was taught, someone may've experienced proofs far earlier in their learning journey.
+When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* You have to argue *why* an equation, formulae, or theorem works the way it does. These proofs are not necessarily exclusive to higher math, and could be learned at an early age, but are definitely more abundant in higher math. Depending on how math was taught, someone may've experienced proofs far earlier in their learning journey.
 
 Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it followed the rules.
 - In other words, you're learning more how you can solve things without numbers readily available and deterministic models unavailable.
@@ -202,7 +231,19 @@ Which means "For every x in the set of natural numbers, if x belongs to set {1, 
 
 Half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
 
-As a reminder, I'm not expecting the average reader to go above and beyond to the level where they, for example, [can seamlessly interpret the entirely of Kimi Linear](https://arxiv.org/abs/2510.26692). Knowing the high-level concepts will suffice for most cases.
+As a reminder, I'm not expecting the average reader to go above and beyond to the level where they, for example, [seamlessly interpret the entirely of Kimi Linear](https://arxiv.org/abs/2510.26692). Knowing the high-level concepts will suffice for most cases.
+
+### **What about Machine Learning?**
+
+Normally I'd place this under beyond Calculus, but it's its own section due to popularity of AI in 2026.
+
+You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about supervised vs unsupervised learning, structured vs unstructed data, streaming vs batching, and what even is machine learning without too much difficulty. The basics are doable.
+
+The next stage is going into the high-level overview of concepts, like linear regression, gradient descent, hyperparameters, learning rate, and so on. I could give you a less technical explanation of these and you might go away with understanding it just fine.
+
+The issue is when you need to go *beyond* high-level overviews and working with them in practice. At that point, the math provided in courses like Calculus, Linear Algebra, Optimization, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
+
+If your goal is to get into and/or work with machine learning, you'd best learn math.
 
 ## **Bibliography**
 

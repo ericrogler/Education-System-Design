@@ -1,7 +1,7 @@
 ---
-title: 22. Assistant Teachers
+title: 21. Assistant Teachers
 layout: default
-nav_order: 24
+nav_order: 23
 ---
 # Assistant Teachers
 
