@@ -1,12 +1,8 @@
 # ReadMe
 
-![The Green Book.png](https://iili.io/Fg93eou.png)
-
-*Font used in pseudo cover: [Switzer](https://www.fontshare.com/fonts/switzer)*
-
 Welcome to *Designing Education Systems*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: December 3, 2025**
+**Last Updated: February 24, 2026**
 
 ### Wait, a book hosted on GitHub?
 
@@ -19,7 +15,7 @@ Surprisingly though, it has more benefits than expected:
 - Supports Markdown
 - Can be converted further from here
 - You can copy it freely and without issue
-- It's self-published, so no other middle man
+- It's self-published, so no middle man
 - It's free for you, the user/reader
 
 ## Navigation by Chapter
@@ -78,7 +74,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, December 3). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
+  - Rogler, E. (2026, February 24). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
