@@ -9,13 +9,15 @@ nav_order: 11
 
 ## **Short Answer**
 
-Standards depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.
+*Notice: This chapter is catered more towards teachers.*
+
+Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.
 
 **Your main goal here is to meet all standards and go into the appropriate depth on each relevant topic.**
 - Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the curriculum.
 
 Another lesser known reality, which should be common knowledge in my opinion, is teachers have a widely varying range of autonomy when deciding standards and their curriculum. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies established standards. Teacher autonomy goes anywhere from 0% to 100%.
-- This isn't to say all standardization is *bad*, but it does come with the cost of customization and differentiation.
+- This isn't to say all standardization is *bad*, but it does trade off differentiation.
 
 If you're transitioning or changing into new standards or curriculums, be aware you typically can't solve every problem. Any change, however, should solve at least *some* of your major pain points.
 - i.e. Achieve a "net benefit."
@@ -29,10 +31,10 @@ If you're transitioning or changing into new standards or curriculums, be aware 
 There are several reasons why:
 
 - It's hard to build a good curriculum without them
-- Some teaching materials may not align with your standards
+- Some teaching materials may not align with standards
 - Not adequately covering standards risks legal and financial trouble
 
-**Once you firmly establish your standards and objectives, *then* you can be creative in your teaching methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
+**Once you firmly establish standards and objectives, *then* you can be creative in your teaching methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
 
 While standards can limit what is done, strong standards elevate teaching, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
 
