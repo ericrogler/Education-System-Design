@@ -167,7 +167,7 @@ As for why it's happening, you'll need to investigate, collect evidence, and loo
 
 Once you start identifying which issues exist, and if they're *valid* issues (veracity) that exist, then you can gather data for them, then disaggregate the data to determine how universal or specific a problem is.
 
-After data is collected and process, then you can effective design whatever solution is needed to solve the problem(s). Keep in mind three things, however:
+After data is collected and processed, then you can effective design whatever solution is needed to solve the problem(s). Keep in mind three things, however:
 - A seemingly good solution may actually generate more problems than before. 
 - Even the perfect solution can still fail due to factors outside of your control.
 - Designing solutions for problems and issues which don't exist is a waste of time, a waste of resources, and a detriment to every involved.
