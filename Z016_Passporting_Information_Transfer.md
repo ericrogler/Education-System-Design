@@ -198,7 +198,7 @@ Here is an example of a work plan below for each period. It includes what studen
 
 - Students do **[Assignment]** today.
     - Available on **[Platform/Medium]** located **[Computer/Desk/Etc.]**.
-        - Username: **[Username]** - Password: **[Password]**
+        - Username: **[Username]** & Password: **[Password]**
     - Work is turned in **[Online/Physical Location/Kept]**.
     - Expected to complete **[In-Class/Out-of-Class/Partially done]**.
     - Due date is **[Month Day, Year]** or **[End of class/End of day/Tomorrow/By midnight]**.
@@ -216,13 +216,13 @@ What if it's for multiple activities? We modify the template slightly.
 
 - **[Assignment 1]**
     - Available on **[Platform/Medium]** located **[Computer/Desk/Etc.]**.
-        - Username: **[Username]** - Password: **[Password]**
+        - Username: **[Username]** & Password: **[Password]**
     - Work is turned in **[Online/Physical Location/Kept]**.
     - Expected to complete **[In-Class/Out-of-Class/Partially done]**.
     - Due date is **[Month Day, Year]** or **[End of class/End of day/Tomorrow/By midnight]**.
 - **[Assignment 2]**
     - Available on **[Platform/Medium]** located **[Computer/Desk/Etc.]**.
-        - Username: **[Username]** - Password: **[Password]**
+        - Username: **[Username]** & Password: **[Password]**
     - Work is turned in **[Online/Physical Location/Kept]**.
     - Expected to complete **[In-Class/Out-of-Class/Partially done]**.
     - Due date is **[Month Day, Year]** or **[End of class/End of day/Tomorrow/By midnight]**.
@@ -240,7 +240,7 @@ If the students have something with more nuance/detail, like an activity or lab,
 - **[Activity]**
     - Students prepare at **[desks/assigned stations/other]**
     - Available on **[Platform/Medium]** located **[Computer/Desk/Etc.]**.
-        - Username: **[Username]** - Password: **[Password]**
+        - Username: **[Username]** & Password: **[Password]**
     - Work is turned in **[Online/Physical Location/Kept]**.
     - Expected to complete **[In-Class/Out-of-Class/Partially done]**.
     - Due date is **[Month Day, Year]** or **[End of class/End of day/Tomorrow/By midnight]**.
