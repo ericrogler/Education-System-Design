@@ -5,7 +5,7 @@ nav_order: 7
 ---
 # Management Case A: Scaling Growth
 
-### [Previous Chapter](Z004_Management_101.html)
+### [Previous Chapter](Z004_Management_General_Teaching.html)
 
 ## **Short Answer**
 

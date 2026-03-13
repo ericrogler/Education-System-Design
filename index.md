@@ -55,6 +55,7 @@ Table of contents for each chapter written below:
 - [Money and Budget Management](Z019_Money_Budget_Management.html)
 - [The Use of AI and Technology](Z020_The_Use_Of_AI_And_Technology.html)
 - [Design Systems and EdTech](Z021_Design_Systems_EdTech.html)
+- [Engineering & Architecture](Z021a_Engineering_Architecture.html)
 - [Action Plan: Week 1](Z022_Action_Plan_Week_1.html)
 - [Action Plan: Month 1](Z023_Action_Plan_Month_1.html)
 - [Action Plan: Year 1](Z024_Action_Plan_Year_1.html)

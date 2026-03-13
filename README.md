@@ -49,6 +49,7 @@ This splits the text by chapter across multiple pages.
 - Money and Budget Management
 - The Use of AI and Technology
 - Design Systems and EdTech
+- Engineering & Architecture
 - Action Plan: Week 1
 - Action Plan: Month 1
 - Action Plan: Year 1
