@@ -321,7 +321,7 @@ My favorite PD days were typically:
 
 ## **Bibliography**
 
-1. Child Welfare Information Gateway. (2025, June 2). *Definitions of child abuse and neglect | Child welfare Information Gateway*. www.childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/)
+1. Child Welfare Information Gateway. (2025, June 2). *Definitions of child abuse and neglect - Child welfare Information Gateway*. www.childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/)
 
 1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video.Episode Name: “Hard Times”
 

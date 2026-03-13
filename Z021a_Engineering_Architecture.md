@@ -236,11 +236,11 @@ Six Sigma is one way these systems are utilized for process improvement if you'r
 
 1. International Code Council (ICC). (2024). *I-Codes.* Codes.iccsafe.org. [https://codes.iccsafe.org/codes/i-codes](https://codes.iccsafe.org/codes/i-codes)
 
-2. *NCS Content | United States National CAD Standard - V7.* (2025). Nationalcadstandard.org. [https://www.nationalcadstandard.org/ncs7/content.php](https://www.nationalcadstandard.org/ncs7/content.php)
+2. *NCS Content - United States National CAD Standard - V7.* (2025). Nationalcadstandard.org. [https://www.nationalcadstandard.org/ncs7/content.php](https://www.nationalcadstandard.org/ncs7/content.php)
 
 2. Norman, D. (2013). *The Design of Everyday Things.* MIT Press. (Original work published 1988)
 
-3. OSHA. (2022). Ergonomics - Overview | Occupational Safety and Health Administration. Www.osha.gov; Occupational Safety and Health Administration. [https://www.osha.gov/ergonomics](https://www.osha.gov/ergonomics)
+3. OSHA. (2022). Ergonomics - Overview - Occupational Safety and Health Administration. Www.osha.gov; Occupational Safety and Health Administration. [https://www.osha.gov/ergonomics](https://www.osha.gov/ergonomics)
 
 3. The Franklin Institute. (2014, January 15). *Donald Norman.* Fi.edu. [https://fi.edu/en/awards/laureates/donald-norman](https://fi.edu/en/awards/laureates/donald-norman)
 

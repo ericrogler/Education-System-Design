@@ -145,7 +145,7 @@ Venting and decompressing methods vary among individuals. It can be done through
 
 3. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. [https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html](https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html)
 
-4. *Engineers’ Creed | National Society of Professional Engineers.* (2021). Nspe.org. [https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed)
+4. *Engineers’ Creed - National Society of Professional Engineers.* (2021). Nspe.org. [https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed)
 
 5. Elin Olaug Rosvold. (2004, September 1). *Doctor, Don’t Treat Thyself.* Patient Safety Network.[https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself](https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself)
     - ((Alternative citation)) Rosvold EO. Doctor, Don't Treat Thyself. PSNet [internet]. Rockville (MD): Agency for Healthcare Research and Quality, US Department of Health and Human Services. 2004.

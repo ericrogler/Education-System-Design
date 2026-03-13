@@ -144,7 +144,7 @@ Knowledge blockers will be talked about more later, but know there's always a ch
 
 2. NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
 
-3. *Revit Subscription and License FAQs | Autodesk.* (2025). Autodesk.com. [https://www.autodesk.com/solutions/revit-subscription-faq](https://www.autodesk.com/solutions/revit-subscription-faq)
+3. *Revit Subscription and License FAQs - Autodesk.* (2025). Autodesk.com. [https://www.autodesk.com/solutions/revit-subscription-faq](https://www.autodesk.com/solutions/revit-subscription-faq)
 
 5. Thomas A. Edison Quotes (2026). Goodreads.com. [https://www.goodreads.com/author/quotes/3091287.Thomas_A_Edison](https://www.goodreads.com/author/quotes/3091287.Thomas_A_Edison)
 

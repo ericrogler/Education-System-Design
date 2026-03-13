@@ -205,9 +205,9 @@ In a teacher role, you're usually the front line. If something goes wrong, you'r
 Social media is not always your friend. Besides potentially violating FERPA/HIPAA, you aren't necessarily protected in saying whatever you want. If you have a "spicy" political opinion, you shouldn't post that in written form and have it drafted as evidence against you in a court of law.
 
 For case studies related to social media and speech, I see these three cited often:
-- [Pickering v. Board of Education | 391 U.S. 563 (1968)](https://supreme.justia.com/cases/federal/us/391/563/)
-- [Tinker v. Des Moines Independent Community School District | 393 U.S. 503 (1969)](https://supreme.justia.com/cases/federal/us/393/503/)
-- [Garcetti v. Ceballos | 547 U.S. 410 (2006)](https://supreme.justia.com/cases/federal/us/547/410/)
+- [Pickering v. Board of Education - 391 U.S. 563 (1968)](https://supreme.justia.com/cases/federal/us/391/563/)
+- [Tinker v. Des Moines Independent Community School District - 393 U.S. 503 (1969)](https://supreme.justia.com/cases/federal/us/393/503/)
+- [Garcetti v. Ceballos - 547 U.S. 410 (2006)](https://supreme.justia.com/cases/federal/us/547/410/)
 
 ### **"Punishable by Fine"**
 
@@ -283,7 +283,7 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 8. ChildCare.gov. (n.d.). *Child protective services*. [https://childcare.gov/consumer-education/child-protective-services](https://childcare.gov/consumer-education/child-protective-services)
 
-9. *Penalties for Failure to Report and False Reporting of Child Abuse and Neglect | Child Welfare Information Gateway.* (2019, February). Child Welfare Information Gateway. [https://www.childwelfare.gov/resources/penalties-failure-report-and-false-reporting-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/penalties-failure-report-and-false-reporting-child-abuse-and-neglect/)
+9. *Penalties for Failure to Report and False Reporting of Child Abuse and Neglect - Child Welfare Information Gateway.* (2019, February). Child Welfare Information Gateway. [https://www.childwelfare.gov/resources/penalties-failure-report-and-false-reporting-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/penalties-failure-report-and-false-reporting-child-abuse-and-neglect/)
 
 10. College Board. (n.d.). *College Board*. [https://www.collegeboard.org/](https://www.collegeboard.org/)
 
@@ -307,9 +307,9 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 20. Coursera Staff. (2025, July 15). *What are college credits?* Coursera. [https://www.coursera.org/articles/what-are-college-credits](https://www.coursera.org/articles/what-are-college-credits)
 
-21. *Definitions of Child Abuse and Neglect - Colorado | Child Welfare Information Gateway.* (2025). Childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/)
+21. *Definitions of Child Abuse and Neglect - Colorado - Child Welfare Information Gateway.* (2025). Childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/)
 
-21. *Update on a Security Incident Involving Third-Party Customer Service | Discord.* (2025). Discord.com. [https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)
+21. *Update on a Security Incident Involving Third-Party Customer Service - Discord.* (2025). Discord.com. [https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)
 
 21. GED Testing Service. (n.d.). *GED*. [https://www.ged.com/](https://www.ged.com/)
 
@@ -319,7 +319,7 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 23. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/](https://www.ibo.org/)
 
-24. Interstate Commission for Juveniles. (2025, August 13). *Age Matrix | Interstate Commission for Juveniles.* www.juvenilecompact.org. [https://www.juvenilecompact.org/age-matrix](https://www.juvenilecompact.org/age-matrix)
+24. Interstate Commission for Juveniles. (2025, August 13). *Age Matrix - Interstate Commission for Juveniles.* www.juvenilecompact.org. [https://www.juvenilecompact.org/age-matrix](https://www.juvenilecompact.org/age-matrix)
 
 1. Justia. (2019). *Garcetti v. Ceballos, 547 U.S. 410 (2006).* Justia Law. [https://supreme.justia.com/cases/federal/us/547/410/](https://supreme.justia.com/cases/federal/us/547/410/)
 
@@ -365,7 +365,7 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 39. U.S. Department of Justice. (2025, March 24). *Title VI of the Civil Rights Act of 1964.* [https://www.justice.gov/crt/fcs/TitleVI](https://www.justice.gov/crt/fcs/TitleVI)
 
-1. U.S. Department of Labor. (2025). Retaliation | U.S. department of labor. Www.dol.gov. [https://www.dol.gov/agencies/whd/retaliation](https://www.dol.gov/agencies/whd/retaliation)
+1. U.S. Department of Labor. (2025). Retaliation - U.S. department of labor. Www.dol.gov. [https://www.dol.gov/agencies/whd/retaliation](https://www.dol.gov/agencies/whd/retaliation)
 
 40. WASC Senior College and University Commission. (n.d.). *WSCUC*. [https://www.wscuc.org/](https://www.wscuc.org/)
 

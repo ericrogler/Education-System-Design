@@ -371,14 +371,14 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
 
 1. Hirschfeld Davis, J. (2015, December 11). President Obama Signs Into Law a Rewrite of No Child Left Behind. The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
 
-1. Institute of Education Sciences (IES). (2025, July 31). *Understanding Results | NAEP.* Nces.ed.gov. [https://nces.ed.gov/nationsreportcard/guides/]
+1. Institute of Education Sciences (IES). (2025, July 31). *Understanding Results - NAEP.* Nces.ed.gov. [https://nces.ed.gov/nationsreportcard/guides/]
 
 2. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/about-the-ib/](https://www.ibo.org/about-the-ib/). Accessed on December 17, 2025.
 
 1. Klein, M., Sosu, E. M., & Dare, S. (2020). Mapping inequalities in school attendance: The relationship between dimensions of socioeconomic status and forms of school absence. Children and Youth Services Review, 118(118), 105432. [https://doi.org/10.1016/j.childyouth.2020.105432](https://doi.org/10.1016/j.childyouth.2020.105432)
     - Alt Link: [https://www.sciencedirect.com/science/article/pii/S0190740920303698](https://www.sciencedirect.com/science/article/pii/S0190740920303698)
 
-1. O'Connor, Ericka. (2019, March 22). *Orange You Accessible? A Mini Case Study on Color Ratio | Bounteous.* www.bounteous.com. [https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)
+1. O'Connor, Ericka. (2019, March 22). *Orange You Accessible? A Mini Case Study on Color Ratio - Bounteous.* www.bounteous.com. [https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)
 
 2. Organisation for Economic Co-operation and Development (OECD). (n.d.). *PISA Frequently Asked Questions (FAQs). OECD.* Retrieved March 8, 2026, from [https://www.oecd.org/en/about/programmes/pisa/pisa-frequently-asked-questions-faqs.html](https://www.oecd.org/en/about/programmes/pisa/pisa-frequently-asked-questions-faqs.html)
 

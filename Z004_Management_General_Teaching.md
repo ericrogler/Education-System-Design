@@ -481,7 +481,7 @@ Lastly, if you're considering bringing in someone new into the culture, you shou
 
 2. “Futurama” Godfellas (TV Episode 2002) - Quotes - IMDb. (2025). IMDb. [https://www.imdb.com/title/tt0756880/quotes/](https://www.imdb.com/title/tt0756880/quotes/)
 
-3. Marshall, T. F. (1998). *Restorative Justice: An Overview | Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
+3. Marshall, T. F. (1998). *Restorative Justice: An Overview - Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
 
 4. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. [https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463)
 

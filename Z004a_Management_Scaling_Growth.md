@@ -315,7 +315,7 @@ This same general incompetence applies cross-functionally as well. You may have 
 
 2. Fadell, T. (2022). *Build.* HarperCollins.
 
-3. IRS. (2019). *Employers | Internal Revenue Service.* Irs.gov. [https://www.irs.gov/affordable-care-act/employers](https://www.irs.gov/affordable-care-act/employers)
+3. IRS. (2019). *Employers - Internal Revenue Service.* Irs.gov. [https://www.irs.gov/affordable-care-act/employers](https://www.irs.gov/affordable-care-act/employers)
 
 4. Nickols, F. (2019). *The Span of Control - the formulas of V A Graicunas.* Nickols.us. [https://www.nickols.us/graicunas.htm](https://www.nickols.us/graicunas.htm)
 

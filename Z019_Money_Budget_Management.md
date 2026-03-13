@@ -287,7 +287,7 @@ All it takes is the ability to find them.
 
 7. Internal Revenue Service. (2025, June 20). *Digital assets*. [https://www.irs.gov/filing/digital-assets](https://www.irs.gov/filing/digital-assets)
 
-8. Internal Revenue Service. (2025, September 4). *529 Plans: Questions and answers | Internal Revenue Service.* Irs.gov. [https://www.irs.gov/newsroom/529-plans-questions-and-answers](https://www.irs.gov/newsroom/529-plans-questions-and-answers)
+8. Internal Revenue Service. (2025, September 4). *529 Plans: Questions and answers - Internal Revenue Service.* Irs.gov. [https://www.irs.gov/newsroom/529-plans-questions-and-answers](https://www.irs.gov/newsroom/529-plans-questions-and-answers)
 
 8. Kenton, W. (2024, August 10). *Lead Time: Definition, How It Works, and Example*. Investopedia. [https://www.investopedia.com/terms/l/leadtime.asp](https://www.investopedia.com/terms/l/leadtime.asp)
 
