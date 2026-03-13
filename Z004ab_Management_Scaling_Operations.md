@@ -13,6 +13,7 @@ nav_order: 8
 
 - Gen. George S. Patton, USA
     - *Notice: Finding an exact source for this quotation is surprisingly difficult, so assume it is quoted in good faith.*
+
 ---
 
 Just like in the Scaling Growth chapter, similar answers apply. If Scaling Growth focused on your interactions and managing staff, this chapter will align more closely with managing people and communications.

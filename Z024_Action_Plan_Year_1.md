@@ -7,6 +7,8 @@ nav_order: 34
 
 ### [Previous Chapter](Z023_Action_Plan_Month_1.html)
 
+## **Summary**
+
 By end of Year 1, you should have your bearings in the classroom and an idea of your teaching style. You'll know which activities work, which activities don't, and how you prefer to deliver lectures, tests, quizzes, and more. You may have also formed initial impressions, conscious or not, of many students as well.
 
 At this point, focus on refinement and continous improvement of teaching systems. Teaching combines many roles into one and you'll want to develop yourself professionally. Advice from here only helps if you put it into pracice and implement it.
