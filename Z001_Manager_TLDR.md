@@ -23,7 +23,7 @@ nav_order: 3
 
 This book treats education as a system as a whole, not purely a pedagogical abstraction. In short, **this book utilizes cross-domain knowledge to improve education.**
 
-Instruction is discussed in an operational environment and covers topics such as:
+Education is discussed in an operational environment and covers topics such as:
 - Legal, financial, and human constraints
 - Stakeholder/client relationships
 - Metrics of success
