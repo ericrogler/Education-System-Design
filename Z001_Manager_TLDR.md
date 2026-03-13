@@ -12,24 +12,22 @@ nav_order: 3
 - **Role:** In-person Science/STEM Teacher, including substitute teacher roles
 - **Main School Types:** Public & private schools
 
-I owned instruction end-to-end, including curriculum design, delivery, iteration, assessments, and communications.
-
 ## **Results**
 
 - Designed and delivered multiple, complete curricula.
-- Operated within time and budget constraints. 
+- Executed all projects within time and budget constraints. 
 - Maintained consistency and performance across classes.
 - Built scalable systems supporting students, schedules, and staff.
 
 ## **The Elevator Pitch**
 
-This book treats education as a production system, not purely a pedagogical abstraction. In short, **this book utilizes cross-domain knowledge to improve education.**
+This book treats education as a system as a whole, not purely a pedagogical abstraction. In short, **this book utilizes cross-domain knowledge to improve education.**
 
-Instruction is discussed in an operational environment and covers:
+Instruction is discussed in an operational environment and covers topics such as:
 - Legal, financial, and human constraints
 - Stakeholder/client relationships
 - Metrics of success
-- General implementation frameworks
+- Methodology from other disciplines to enhance existing education systems.
 
 Rather than discussing educational theory in isolation, system design and engineering concepts, such as scaling, management, and communications, are applied to everyday classroom operations.
 
