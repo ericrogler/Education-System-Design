@@ -6,6 +6,8 @@ nav_order: 3
 
 # A Manager TL;DR
 
+### [Back to Home](index.html)
+
 ## **My Role Overview**
 
 - **Duration:** 2.5+ years (2022-2025+)
