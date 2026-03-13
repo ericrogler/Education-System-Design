@@ -15,7 +15,7 @@ They're in a situation where they start from, well, basically nothing.
 
 **That's my problem here to solve and this book is my solution. I take what seems complex and make it more accessible. For this purpose, this book is an INTRODUCTORY text and will not cover every possible edge case.**
 
-***Think of this book as the BLÅHAJ to your IKEA.*** It's the companion covering your essentials and what gets you into the door. From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about and gain more domain knowledge as well.
+***Think of this book as the BLÅHAJ to your IKEA.*** It's the companion covering your essentials and what gets you into the door. From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as well.
 
 A teacher exists in many different forms. There's the formal teacher many students are familiar with, but there are also teachers in unexpected places. Perhaps you've shown someone how to ride a bicycle, operate a piece of software, or help interpret a book passage. All those, and countless other examples, are taught by you as you assume the role of a teacher.
 
@@ -71,10 +71,18 @@ Chapters are split apart by "general domain" and where I feel the information be
 Some statements and information may not be independently verifiable because they rely on internal evidence like grades, timelines, surveys, and more. Please understand that this is information I cannot openly share legally. I must purposely omit personal identifying information to comply with law. Many "results" are based on direct observation and estimations rather than controlled observations. It's hard to do data collection while teaching simultaneously.
     - Additionally, student data may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 
-A lot of advice provide will assume you're dealing with reasonable students capable of completing assigned work. While disabilities are considered, only up to minor to moderate disabilities and accommodations will be covered. Frameworks written here are primarily designed for teaching technical subjects (math, engineering, science, etc.), but can apply to other fields with some minor adjustments.
+A lot of advice will assume you're dealing with reasonable students capable of completing assigned work. While disabilities are considered, only up to minor to moderate disabilities and accommodations will be covered. Any frameworks and systems written here are primarily designed for technical subjects (math, engineering, science, etc.), but can apply to other fields with some minor adjustments.
 
-References to products or tools are not endorsements. They're included because they were useful in writing this book and/or for when I taught.
+References to products or tools are not endorsements. They're included because they were useful in writing this book, better explain a point  I would write about anyway, and/or were useful for when I taught.
 
 Sources used are listed and divided into each chapter's respective bibliography. Sources are directly cited if I'm quoting challengeable text, numbers, figures, etc. or linking directly to text to explain a point. There may be indirect citations if I can cite, in-text, a link directly to the source(s) for reference or further reading. (e.g. "Here's a [blank hyperlink]() showcasing X idea." and "Here's an idea ([Further Reading]())")
+
+### **Why Make This Free?**
+
+If you've ever been in education and had to pay out-of-pocket, with your own money, for education supplies, you'll understand why.
+
+If you haven't, think about it this way. I don't want to deny you access to information purely due to financial blockers. As long as you have a means to connect to the Internet and read web pages, you can read this.
+
+As for an ulterior motive? It's a good talking point at least. I don't have to flaunt about the book like a marketing campaign, but whenever education comes up I'll know more than the average bear.
 
 ## **[Next Chapter](Z003_Legality.html)**

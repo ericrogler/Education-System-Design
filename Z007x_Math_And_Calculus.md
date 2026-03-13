@@ -9,9 +9,14 @@ nav_order: 14
 
 ## **Short Answer**
 
+>   
+    “It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.” 
+- Henri Poincaré, *Science and Method* (2011) 
+
+---
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional. The next few chapters are separated to avoid spilling over material and causing undue confusion.*
 
-**If there's one thing you at least need to take away from this chapter, it's to memorize your times tables.**
+**If there's one thing you at least need to take away from this chapter, it's people should memorize their times tables.**
 
 The average adult (and people becoming adults) should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
 - *Let me stress once again: every adult should care about math and have some knowledge in it.*
@@ -100,14 +105,14 @@ Despite the potential desire to explain proofs and reasoning to students, some s
 
 ### **Back to the Basics**
 
-Basics as in functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more.
+Basics as in functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization;* there's no way around it for how you'll learn it and retain it throughout your life.
 
 It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (PEMDAS or GEMS) and what a percent actually means.
 
-It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing.
-- Really, the same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important.
+It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition.
 
-Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations effectively. You cannot escape language arts that easily!
+Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations or apply the math you learn effectively. The same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important.  You cannot escape language arts that easily!
+- Students can solve many of their frustrations by simply reading the problem(s) too.
 
 Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
 
@@ -250,6 +255,8 @@ If your goal is to get into and/or work with machine learning, you'd best learn 
 1. Dawkins, P. (2023, October 9). Pauls Online Math Notes. Tutorial.math.lamar.edu. [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
 
 2. *Senate-Administration Workgroup on Admissions Final Report.* (2025). University of California San Diego. [https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf)
+
+3. Poincaré, H. (2011). *Science and Method.* Dover Publications. 
 
 3. U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), various years, 1990–2024 Mathematics Assessments.
     - Alt: *NAEP Mathematics: Performance Trends for States and Districts.* (2024). Nationsreportcard.gov. [https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4)

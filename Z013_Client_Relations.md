@@ -1,22 +1,24 @@
 ---
-title: 20. Teacher-Client Relations
+title: 20. Client Relations
 layout: default
 nav_order: 22
 ---
-# Teacher-Client Relations
+# Client Relations
 
 ### [Previous Chapter](Z012_Homework.html)
 
 ## **Short Answer**
 
-> Crowley: "...What was it he said that got everyone so upset?
 > 
-> Aziraphale: "Be kind to each other."
-> 
-> Crowley: "Oh yeah. That'll do it."
+    Crowley: "...What was it he said that got everyone so upset?"
+
+    Aziraphale: "Be kind to each other."
+
+    Crowley: "Oh yeah. That'll do it."
 - Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019)
 
-Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and not your fault and significant determine how good or bad a job is in a given environment.
+---
+Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and significantly determine how good or bad a job is in a given environment.
 
 You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
 - This includes handling brilliant jerks; those who are smart and know what they're doing, but are generally unkind.
@@ -36,7 +38,7 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 ## **Long Answer**
 
-*Notice: This is written primarily for teachers/instructors.*
+*Notice: This chapter is written from the perspective of an educator/instructor.*
 
 Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney.
 
@@ -164,9 +166,12 @@ Lastly, the ideal scenario is a parent's child, the teacher's student, is never 
 
 ### **Other Teachers/Instructors**
 
-It's easy to spot a bad teacher/instructor. They think they're amazing.
+It's easy to spot a bad teacher/instructor. They think they're amazing. On top of that, the worst teachers are those who are authoritarian figures, strict to be strict, strict so they just don't have to deal with students, or overall just mean. That, or they don't even know what material they're teaching. It can be both.
 
 The good teachers I've seen and worked with have an air of humility behind them. They think their work is flawed in some way, but still strive to improve in areas they believe they're lacking in. By allowing themselves to view their own work with some negativity (not *complete* negativity; there's a difference), they can spot problems and design solutions an overoptimistic, or perhaps arrogant, teacher may not catch.
+
+The great teachers I've seen are what I'm going to call "middle" teachers; fair but firm. They balance the line between being strict enough to not tolerate misconduct or learning disruptions, but also aware enough to know when they should ease up, be flexible, read the room, and lighten the mood. If they're strict and teach in a way students understand and stay quiet so they can focus, then they're *really* great.
+- All of this includes what I said about good teachers before too.
 
 You'll almost certainly work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
@@ -271,12 +276,24 @@ There's also some "rules of thumb" to emails/texts I like to follow:
 
 Over time, you'll develop the intuition for what matters and when/how to respond.
 
+### **What If I Don't Know What They're Talking About?**
+
+An indication of adulthood is one's ability to be forward about what they do know and don't know. After that, it's the ability to learn how to ask about things you don't know and finding answers. You might not be a manager, but a manager's approach is OK for just about everyone here.
+
+Let's say your engineer buddy comes around and they start talking about Google Cloud Platform, Amazon Web Serices, and Azure (as purely examples). Chances are, you probably are not familiar with all three of these things.
+
+This is a case where you don't know enough to make an informed decision or even an informed opinion. All it takes to fix this is asking said buddy about what they are and how they're different. You may not be an expert in your buddy's field, but you might catch a few things, like similar metrics.
+
+From there, you can ask about tradeoffs, try and translate that back into what they're talking about, and go from there. You could also take that information and figure out something else to implement or create as well.
+
+It'll take practice, but simply put: it's like having a conversation and you don't want to fake it.
+
 ### **Professional Developments (PD)**
 
-I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here.
+I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here. **In general, PD is good if it isn't a waste of time.**
 
-In every professional development or administrative presentation, however, I want the person *to just get to the point.* There's no reason to ever infantilize *other adults;* students or minors aren't attending these events but other adult professionals.
-- It's why every chapter has a "Short Answer" section at the top. I try to get to the point for those who want! It's useful and desired!
+In every professional development or administrative presentation, I want the person *to just get to the point.* There's no reason to infantilize *other adults;* students or minors aren't attending these events, so learning methods should cater towards adults, not minors/children.
+- It's why every chapter has a "Short Answer" section at the top. I try to get to the point for those who want it! It's useful and desired!
 
 Professional development are electives/continuing education for *professionals* (i.e. teachers, staff, etc.) and provided, typically, by people with active roles outside of education. Teachers/instructors usually need X number of hours to maintain a certificate, license, etc. PD is based around andragogy, adult learning, rather than pedagogy teachers may be used to, so you may experience a disconnect while attending them. Nevertheless, if you do go to a PD, be reasonably respectful to presenters and other attendees.
 
@@ -299,8 +316,6 @@ My favorite PD days were typically:
 - Sessions covering my content area(s).
 - An unofficial "do a quick, 15-minute report and check-up, then you can do your own work" day.
 - The PD is showing a program, process, system, etc. to go over relatively quickly (e.g. 15 minutes in a 1 hour session), then the rest of the time was working with a team. Usually food was included, but not always.
-
-In general, PD is good if it isn't a waste of time.
 
 ## **Bibliography**
 

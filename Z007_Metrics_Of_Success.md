@@ -8,21 +8,22 @@ nav_order: 13
 ### [Previous Chapter](Z006_Roadblocks_To_Teaching.html)
 
 ## **Short Answer**
+> 
+    "When a measure becomes a target, it ceases to be a good measure."
+- Goodhart's Law (1975) 
 
+> 
+    "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
+- Campbell's Law (1979)
+
+---
 Being the "best" is simply a title based on a specific situation and circumstances. What is the best one day could no longer be the best the next day.
 
 Being "good" is, pragmatically speaking, simply being better than others.
 - An example of this is a staff engineer asking a lower level engineer about their opinion on what to do
 
 Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
-
-> When a measure becomes a target, it ceases to be a good measure.
-- Goodhart's Law (1975) 
-
-> The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
-- Campbell's Law (1979)
-
-The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
+- The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
 
 When academics are a primary measure of a student's worth, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
 
@@ -187,6 +188,31 @@ This exception is here to remind you of two things:
 1. Metrics are not always perfect and still diagnostic.
 2. You should still aim to meet some level of standard(s) even if all metrics aren't perfectly favorable.
 
+### **How Education is Evaluated (with Examples)**
+
+In the United States, as of March 2026, there's multiple ways to evaluate its learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
+- These particular examples deal with K-12 education instead of tertiary/university education.
+
+TIMSS is an ongoing assessment handling mathematics and science; I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
+- There's also evaluations based on the environment, such as home environments vs school environments, to provide context and better interpret reasons for any results.
+
+PISA focuses on mathematics, reading, and science to test student's subject understanding "in and out of schools for their full participation in societies" (OECD, n.d.). Though PISA focuses on those subjects, they alternate which subject has the greatest focus on a given survey year and include minor topics, such as financial literacy and creative thinking. Multiple countries across Earth take part in its assessments and testing is done by student *age* (15-year-old students) as it's when they're nearing the end of compulsory education. Unique aspects compared to other assessments PISA achieves is similar to how data analysts approach data: finding ways to answer "business" questions. To summarize some examples what it aims to answer from OECD's own website (same OECD source as before, n.d.):
+- Are schools preparing young people for adult life?
+- Can students properly apply skills and knowledges to problems?
+- What are their motivations and beliefs for learning and self-improvement?
+
+NAEP's purpose is to evaluate education achieve within the United States, rather than compare the USA against other nations. Since results are done with student samples, IES (Institute of Education Sciences) has some basic rules for interpretation I'll post here verbatim (2025):
+- Individual scores are not reported.
+- NAEP data cannot support cause-and-effect claims.
+- Differences in scores must be statistically significant to be reported as actual differences.
+- State and district score rankings imply score differences that may not be statistically significant. 
+- Scoring *NAEP Proficient* is not equivalent to achieve a proficient score on other assessments.
+- NAEP results cannot be compared across other subjects.
+
+NAEP's rules better enforce what the metrics stand for and mitigate the risk of misinterpretation for audiences knowledgeable and unknowledgeable. They also provide transparency about exclusions, such as students with allowable accommodations that cannot participate. Scores for assessments are reported using point scales from 0-500 or 0-300, where a higher number means a better score. There's a variety of subjects involved, including the Arts, Science, Economics, History, Reading, Mathematics, and so on; essentially the "core" disciplines you may see students encounter in schools.
+
+There's other forms of testing conducted by organizations aside from these. The main thing to watch out for is whether or not educators also get individualized data back. While an average of a large sample, or even a population, is useful, **if you cannot drill down data into how specific students/groups, you risk a distorted view of what's really happening.**
+
 ### **100% Graduation Rate**
 
 This is a funny metric to use for success and the same applies for job placement rate. It's also a case of why you need *multiple* metrics of success instead of just one to help verify data authenticity and why making a metric a target proves Goodhart's Law.
@@ -336,11 +362,15 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
 
 1. Campbell, Donald T (1979). *Assessing the impact of planned social change.* Evaluation and Program Planning. 2 (1): 67–90. [doi:10.1016/0149-7189(79)90048-X](https://doi.org/10.1016%2F0149-7189%2879%2990048-X).
 
+1. von Davier, M., Kennedy, A., Reynolds, K., Fishbein, B., Khorramdel, L., Aldrich, C., Bookbinder, A., Bezirhan, U., & Yin, L. (2024). *TIMSS 2023 International Results in Mathematics and Science*. Boston College, TIMSS & PIRLS International Study Center. [https://doi.org/10.6017/lse.tpisc.timss.rs6460](https://doi.org/10.6017/lse.tpisc.timss.rs6460)
+
 1. Fields, E. (2024, November 15). *How do you measure student success?* Enrollify. [https://www.enrollify.org/blog/how-do-you-measure-student-success](https://www.enrollify.org/blog/how-do-you-measure-student-success)
 
 3. Goodhart, C. (1975). *Problems of Monetary Management: The UK Experience.* Papers in Monetary Economics. Papers in monetary economics 1975; 1; 1. - [Sydney]. - 1975, p. 1-20. Vol. 1. Sydney: Reserve Bank of Australia.
 
 1. Hirschfeld Davis, J. (2015, December 11). President Obama Signs Into Law a Rewrite of No Child Left Behind. The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
+
+1. Institute of Education Sciences (IES). (2025, July 31). *Understanding Results | NAEP.* Nces.ed.gov. [https://nces.ed.gov/nationsreportcard/guides/]
 
 2. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/about-the-ib/](https://www.ibo.org/about-the-ib/). Accessed on December 17, 2025.
 
@@ -348,6 +378,8 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
     - Alt Link: [https://www.sciencedirect.com/science/article/pii/S0190740920303698](https://www.sciencedirect.com/science/article/pii/S0190740920303698)
 
 1. O'Connor, Ericka. (2019, March 22). *Orange You Accessible? A Mini Case Study on Color Ratio | Bounteous.* www.bounteous.com. [https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)
+
+2. Organisation for Economic Co-operation and Development (OECD). (n.d.). *PISA Frequently Asked Questions (FAQs). OECD.* Retrieved March 8, 2026, from [https://www.oecd.org/en/about/programmes/pisa/pisa-frequently-asked-questions-faqs.html](https://www.oecd.org/en/about/programmes/pisa/pisa-frequently-asked-questions-faqs.html)
 
 2. Rogers, J., & Jonker, A. (2024, October 4). *What is data bias?* IBM. [https://www.ibm.com/think/topics/data-bias](https://www.ibm.com/think/topics/data-bias)
 

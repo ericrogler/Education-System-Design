@@ -8,6 +8,12 @@ nav_order: 17
 ### [Previous Chapter](./Z008_Source(s)_Of_Truth.html)
 
 ## **Short Answer**
+
+> 
+    “A wealth of information creates a poverty of attention.”
+- Herbert Simon (1971)
+
+---
 Being a teacher also means being a designer. Materials extend and enhance your teaching and communication. 
 
 If it already works, don't reinvent the wheel.
@@ -89,6 +95,8 @@ You might also claim that accessibility will harm the design and content of what
 ## **Bibliography**
 
 1. Creative Commons. (n.d.). *About CC licenses.* [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)
+
+2. Simon, H. (1971). *Designing Organizations for an Information-Rich World* [Review of *Designing Organizations for an Information-Rich World*].
 
 2. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
 

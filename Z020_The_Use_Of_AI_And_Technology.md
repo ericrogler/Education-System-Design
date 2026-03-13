@@ -9,9 +9,11 @@ nav_order: 29
 
 ## **Short Answer**
 
-> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
+> 
+    "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
 - Roy Batty to Rick Deckard, *Blade Runner* (Scott, 1982)
 
+---
 AGI (Artificial general intelligence) is possible and AI may even replicate human behaviors. It may take a while to get there *and* not be feasible with current technology, however.
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
@@ -27,7 +29,7 @@ It's overkill and not appropriate for many situations, costs a lot to use and de
 - The biggest "hidden cost" is ambiguity and accidental complexity.
 - Other examples of overkill: giving frying pans and coffee machines firmware updates and AI.
 
-For a viewpoint on AI centralized primarily on education, I'd reference the work of Anne Lutz Fernandez, [specifically her *Help Sheet: Resisting AI Mania in Schools* in Google Documents](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing), as I'll share some viewpoints with them (2025). 
+For a viewpoint on AI centralized primarily on education, I'd give the work of Anne Lutz Fernandez, [specifically her *Help Sheet: Resisting AI Mania in Schools* in Google Documents](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing), a glance as I'll share some viewpoints with them (2025). 
 
 As for technology, we have enough tools to do things we never could've done before in the past, but we also lose the nuance for *how* things work "under the hood." There's also a lot of ways to abuse, exploit, and use technology, despite whatever guardrails you may implement.
 - E.g. Chances are you probably don't know how to change over half the settings on a smart phone do, even if you're someone with one (almost) always on your person.
@@ -38,7 +40,7 @@ As for technology, we have enough tools to do things we never could've done befo
 
 Technology is permeating into classrooms at primary, secondary, tertiary, post-graduate, and adult education. This has accelerated greatly since COVID back in 2020. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments.
 - Whether or not this becomes a system administrator's nightmare in the future remains to be seen.
-- Though technology may intend to make education accessible, it can also hinder learning.
+- Though technology may intend to make education accessible, it can also make the education process longer and more cumbersome.
 
 To give an example: a high school now provides every student with their own personal iPad (electronic tablet). It may have the following features:
 - Specifications to run school required software at acceptable parameters

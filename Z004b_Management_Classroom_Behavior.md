@@ -9,6 +9,12 @@ nav_order: 10
 
 ## **Short Answer**
 
+>   
+    I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous. I can be a tool of torture or an instrument of inspiration, I can humiliate or humor, hurt or heal. In all situations, it is my response that decides whether a crisis is escalated or de-escalated, and a person is humanized or de-humanized. If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming.
+- Haim G. Ginott, *Teacher and Child: A Book for Parents and Teachers* (1972)
+
+---
+
 **The more people you have to manage, the more likely something can go wrong.**
 - i.e. Anything that can go wrong *will* go wrong.
 
@@ -352,6 +358,8 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 2. Bacher-Hicks, A., Billings, S., & Deming, D. (2019, August). *The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime.* [https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf](https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf)
 
 2. Budish, E. B., Cramton, P., & Shim, J. J. (2013). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
+
+3. Ginott, H. G. (1972). *Teacher and Child: A Book for Parents and Teachers.* New York, Macmillan.
 
 2. Google Scholar. (2025). *Scholar.google.com.* [https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en](https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en)
 

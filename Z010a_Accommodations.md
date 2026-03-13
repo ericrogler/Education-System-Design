@@ -9,10 +9,14 @@ nav_order: 19
 
 ## **Short Answer**
 
-> Be careful of charity and kindness, lest you do more harm with open hands than with a clenched fist.
-- *Source for both quotations:* Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
+>   
+    "Be careful of charity and kindness, lest you do more harm with open hands than with a clenched fist."
+- Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
-*Notice: The quotation above isn't here to show I'm against accommodations. It's warning against treating accommodations as generosity over obligation.* 
+---
+
+The quotation above isn't here to show I'm against accommodations. It's warning against treating accommodations as generosity over obligation and misapplying accommodations when they aren't needed in the first place.
+- If I were to put it another way, will this accommodation make it harder to succeed outside of education where that accommodation no longer exists?
 
 Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections.
 
@@ -21,7 +25,7 @@ There are unreasonable accommodations, which you can push back against as permit
 Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student in every context. This is not a moral failure, but a system limitation. When there's not enough resources, it's harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers/instructors to provide sufficient differentiation and inclusion to *every* student under their care.
 - E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved.
 
-Accommodations are meant to help students perform like their peers, NOT provide an advantage over their peers or perpetual excuses for poor learning. 
+The whole point of accommodations is to provide equal opportunity for students to succeed in their courses and showcase their potential. It is NOT meant to elevate them *above* their peers; only bring them closer to the level of their peers.
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
@@ -154,6 +158,25 @@ You may not even need a school-provided accommodation either. In the Information
 - Because external resources may offer more depth than typical coursework, I'd advise starting/reviewing content at least one level below student's target level first.
 - This helps catch gaps they might have missed on earlier concepts before going into advanced material.
 - If, with certainty, they're well-prepared, then raise difficulty up to accelerated goals.
+
+### **Anxiety (and ADHD) Accommodations**
+
+Depending on how the accommodation addresses student anxiety, it ranges from reasonable to unreasonable. Many accommodations here are based on anxiety too.
+- Think about it this way: your future work boss likely won't give you another day to do an urgent report because you were anxious.
+
+I'm not sure how controversial this opinion is, but if a student is anxious their accommodations should help them *overcome* the source of anxiety, not avoid it. I've also seen many cases where a student *claims* they're anxious, much like how someone claims they're OCD, and detract from those who actually have the issue(s). I'd also be wary about a student whose *only* accommodation is anxiety, or requested accommodations only due to anxiety.
+
+Though there is general advice on how to handle it, a unique treatment plan on anxiety for each individual should be deferred to a licensed medical professional. Some examples of general advice, which do not act as diagnostic tools or formal assessments, include (APA, 2026): 
+- Being patient with the student
+- Giving warning about what will happen and why
+- Normalizing uncertainty and mistakes
+    - Because learning certain content actually *is* just hard.
+- Trusting the student actually is struggling and not just seeking attention.
+
+To emphasize once more, per what the American Psychological Association states, "Only a qualified mental health professional can determine whether the anxiety a student displays should be diagnosed as an anxiety disorder" (2026).
+
+As for when it is unreasonable? I would say when the accommodation ignores the root problem. Additionally, if the accommodation is from someone who isn't medically licensed wants to formalize the disorder OR it drastically alters the curriculum/course in its current state. The former is based on an ethical standpoint and handling medical conditions, while the latter can be resolved through support staff (like a disability resources office) about the issue. 
+
 
 ### **Test Retakes**
 
@@ -369,7 +392,7 @@ Please never add this.
 
 This accommodation removes accountability on student work, which means it's harming the student and left entirely to the motivation of said student to do the work and keep up with the class.
 
-It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and many deadlines are actually a good thing instead.
+It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and strict deadlines (even if extended a bit), set in stone, are actually a good thing instead.
 
 If this accommodation is forced, despite clear implications of what it allows, the typical "split 1 large task into multiple smaller tasks" tactic could alleviate it a bit. Also consider looking into frequent meetings and check-ins to help with organizational skills. Despite whatever tactics you employ, the drive to complete their work and learn the material is still heavily in favor of the student.
 
@@ -377,8 +400,8 @@ Again, this is a bad accommodation.
 
 ### **Extended ("Extra") Time and Deadlines**
 
-*It's complicated* who really needs this accommodation and where it applies. There's cases for it, but I'd say they're exceptions for medical conditions significantly affecting reading and writing abilities. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
-- I'd also say this accommodation is not a way for a student to play games, watch non-educational videos, or be on social media instead of time *for their course's work*.
+*It's complicated* who really needs this accommodation and where it applies. There's cases for it, but I'd say they're exceptions for medical conditions significantly affecting learning abilities. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
+- I'd also say this accommodation is not a way for a student to play games, watch non-educational videos, or be on social media instead of using that time *for their coursework*.
 
 I'll give some examples where I think it's reasonable: 
 - Example 1: A student with ADHD requests extra time for tests as they perform well in the class in general but poorly under test-specific conditions. 
@@ -487,6 +510,8 @@ This is easier to apply in scenarios where "showing work" is required, like scie
 
 ## **Bibliography**
 
+1. American Psychological Association (APA). (2026). *Students Experiencing Anxiety*. Apa.org. [https://www.apa.org/ed/schools/primer/anxiety](https://www.apa.org/ed/schools/primer/anxiety)
+
 1. Amy, J. (2025, August 21). Cellphone bans are changing US classrooms. AP News. [https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060)
 
 2. Center for Accessible Education. (n.d.). *Why do universities provide accommodations?* UCLA. [https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations](https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations)
@@ -495,7 +520,7 @@ This is easier to apply in scenarios where "showing work" is required, like scie
 
 1. Kulow, M., & Missirian, D. (2019). *Building STEPs Down the Precipitous Cliff from University to Workplace: A Proposal to Modify Regulation of Higher Education Mental Disability Accommodations.* Texas Journal on Civil Liberties & Civil Rights (U Texas Austin), 24(2). [https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf](https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf)
 
-2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. Chris Parker.
+2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* [PC Version]. Chris Parker.
 
 1. *HANDBOOK FOR REASONABLE ACCOMODATIONS DEPARTMENTAL HANDBOOK ACSH-OFO-011.* (2024). U.S. Department of Education. [https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf)
 

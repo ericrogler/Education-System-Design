@@ -9,6 +9,11 @@ nav_order: 9
 
 ## **Short Answer**
 
+>   
+    “It takes very little to govern good people. Very little. And bad people cant be governed at all. Or if they could I never heard of it.” 
+- Cormac McCarthy, *No Country for Old Men* (2006) 
+
+---
 Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
 - In short: a technical manager is almost always better than a non-technical manager
 
@@ -134,6 +139,59 @@ The more senior someone is, the less you *need* to check in with them. You'll st
 
 It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have a separate set of goals and need to look at the overall strategy and not just the tactics employed. Let the other people handle (most of) the tasks.
 
+### **Critical Path Analysis**
+
+*Alternatively: Critical Path Method*
+
+**Putting it simply: Optimizing Time.**
+- i.e. "Does Task B need the output of Task A to begin?"
+
+To give a simple example: imagine you're cooking food and following a recipe. The recipe has several steps you follow in sequence, one after another.
+
+In reality, it's possible to do *multiple* steps in parallel. The recipe may tell you to set the oven to 425 degrees Fahrenheit, *then* prepare other steps. While the oven is preheating, you can prepare other ingredients in the meantime, *but* you can't properly heat the food until it reached that temperature.
+
+To "map" out a strategy, steps include the following (Kenton, 2025):
+1. Listing each activity
+2. Determining activity orders
+3. Predicting time per task
+4. Draw a Diagram (or similar "flowchart", such as a Gantt chart)
+5. Identify the critical path
+6. Monitor progress and edit
+
+Step #5 requires further elaboration. A critical path is the *longest* path through all your *dependent* activities from start to finish without making the project even longer. You can affect how long a task may take through resource/technical allocation, like adding more workers to a job or bringing in a specialist instead of a generalist. Though you can affect timelines, you're still at the mercy of benefit vs cost analysis and weighing if dedicating more resources to shorten timelines results in higher monetary/resource savings in the project.
+
+Any project can have several, parallel, or pseudo-critical paths embedded inside of it depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
+- Start to Start (SS): Task A starts before Task B starts.
+- Start to Finish (SF): Task A starts before Task B completes.
+- Finish to Start (FS): Task A completes before Task B starts.
+- Finish to Finish (FF): Task A completes before Task B completes.
+
+To quickly cover additional terms you may see:
+- Earliest Start/Finish (ES and EF): Earliest times an activity may begin and finish.
+- Latest Start/Finish (LS and LF): Latest times an activity may begin and finish.
+- Float (Slack): Time you can delay without changing project completion time.
+    - Formula: Float = LS - ES
+- Total Float: Difference between finish time on latest activity vs project completion time.
+    - Generally speaking, the path with zero total float, or the lowest total float, is the "critical" path.
+    - It is possible to have negative total float, where the last activity takes longer than an established completion time.
+    - Activities outside critical path can have their own float too, called free float.
+- Lead: Time next activity can be brought forward (i.e. start earlier) to do activities in parallel.
+    - Lead only applies on Finish-to-Start (time between activity A ending and activity B starting)
+- Lag: Time next activity is delayed after previous activity.
+    - E.g. "waiting" period between submitting paperwork and getting new paperwork to fill out.
+
+Finding float is the least straightforward and is done with two methods: a Forward Pass and a Backward Pass. A Forward Pass goes from start to finish and finds all Earliest Starts and Finishes, whereas a Backward Pass goes from finish to start and finds all Latest Starts and Finishes. This repeats for every activity in the diagram and not just for the critical path.
+
+In a video game or real-time strategy setting, you may see this represented as a "build order," where you perform specific actions at X time with each action having its own time to complete. For example, you may start building one structure at 0:15, with a 1:00 build time, another structure at 0:30 with a 2:00 build time, and train units at the first structure at 1:20 (i.e. right after it finishes building) with 0:15 training time per unit.
+
+Across all of these build orders and sequences, there's a consistent theme:
+1. Set specific tasks into motion
+2. Complete other independent task(s) while waiting for previous tasks with dependencies to complete
+    - This includes waiting for resources (a dependency) before starting a task as well.
+3. Rinse and repeat
+
+Some downsides to this method are it doesn't scale terribly well as size and complex increases and requires reliable information for each "step" in the project (Greco, 2020). If these constraints aren't an issue, then it performs admirably well.
+
 ### **Relating Back to Instruction**
 
 Now, let's tie strategy and macro/micro to teaching/instruction.
@@ -157,6 +215,10 @@ Your ability to prepare, adapt, and scale, as well as learn what requires your a
 
 1. Fernando, J. (2025, May 31). *Opportunity Cost: Definition, Calculation Formula, and Examples.* Investopedia. [https://www.investopedia.com/terms/o/opportunitycost.asp](https://www.investopedia.com/terms/o/opportunitycost.asp)
 
-2. 
+2. Greco, J. (2020). *ProjectManagement.com - Critical Path Analysis.* Projectmanagement.com. [https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_](https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_)
+
+2. Kenton, W. (2025, June 30). *Understanding Critical Path Analysis.* Investopedia. [https://www.investopedia.com/terms/c/critical-path-analysis.asp](https://www.investopedia.com/terms/c/critical-path-analysis.asp)
+
+2. McCarthy, C. (2006). *No Country for Old Men.* Vintage International.
 
 ## **[Next Chapter](Z004b_Management_Classroom_Behavior.html)**

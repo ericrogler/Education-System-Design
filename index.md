@@ -10,7 +10,7 @@ nav_order: 1
 
 Welcome to *Designing Education Systems*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: February 24, 2026**
+**Last Updated: March 12, 2026**
 
 ### **Wait, a book hosted on GitHub?**
 
@@ -32,7 +32,7 @@ Table of contents for each chapter written below:
 - [Manager TL;DR](Z001_Manager_TLDR.html)
 - [Actual Overview](Z002_The_Actual_Overview.html)
 - [Legality](Z003_Legality.html)
-- [General Management (for Teaching)](Z004_Management_General_Teaching.html)
+- [General Management](Z004_Management_General_Teaching.html)
 - [Management Case A: Scaling Growth](Z004a_Management_Scaling_Growth.html)
 - [Management Case B: Communications and Operations](Z004ab_Management_Scaling_Operations.html)
 - [Management Case C: Macro and Micro](Z004ac_Management_Scaling_Macro_Micro.html)
@@ -48,7 +48,7 @@ Table of contents for each chapter written below:
 - [Accommodations](Z010a_Accommodations.html)
 - [Learning Methodologies and Teaching Methods](Z011_Learning_Methodologies.html)
 - [Homework](Z012_Homework.html)
-- [Teacher-Client Relations](Z013_Teacher_Client_Relations.html)
+- [Client Relations](Z013_Client_Relations.html)
 - [Assistant Teachers](Z014_Assistant_Teachers.html)
 - [Guest Teachers, Speakers, and Presenters](Z015_Guest_Teachers_Presenters.html)
 - [Passporting & Information Transfer](Z016_Passporting_Information_Transfer.html)
@@ -82,7 +82,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2026, February 24). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
+  - Rogler, E. (2026, March 12). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/Designing-Education-Systems/](https://ericrogler.github.io/Designing-Education-Systems/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 

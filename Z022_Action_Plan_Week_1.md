@@ -1,11 +1,11 @@
 ---
-title: 29. Action Plan - Week 1
+title: 30. Action Plan - Week 1
 layout: default
 nav_order: 31
 ---
-# 22. Action Plan: Week 1
+# Action Plan: Week 1
 
-### [Previous Chapter](Z021_Design_Systems_EdTech.html)
+### [Previous Chapter](Z021a_Engineering_Architecture.html)
 
 ## **Short Answer**
 
@@ -43,6 +43,7 @@ If you can only do one thing, then do classroom procedures and rules. Drill stud
 - Lesson plan for the day and/or first week
 - List of standards and objectives for your class(es) taught
 - Classroom procedures and rules
+  - Additionally emergency procedures too
 - Seating assignments (if applicable)
 - Cleaning supplies
 - Desks and chairs (if applicable)
@@ -166,6 +167,29 @@ There's also two other rules of thumb for FAKs I prefer to follow:
 1. Review FAKs each year and discard any expired items; many medical items have shelf lives of only 1 to 5+ years (American Red Cross, 2024).
 2. When you're experienced enough, create your own first aid kit(s) based on specific needs. This helps you know what supplies are in the kit, where they're located, and lower patient response times.
 
+### **Designing Classrooms**
+
+If you've ever hosted a dinner party for important guests, you may've taken extra care for how you set it up. For example, the area is presentable towards guests, the table(s) you're seated at is prepared with cutlery, napkins, and perhaps some condiments, and people are ready accommodate you with food and drink options, like a glass of water, while you wait for food to be fully served.
+
+Taking a similar approach to a classroom, this is like setting up desks for students to sit down at, preparing materials for your lectures, activities, and projects in advance, and the educator themselves is prepared to instruct at the designated classroom time.
+
+*The First Days of School* by H.K. Wong and R.T. Wong also emphasize the importance of classroom preparations (2018). To paraphrase further examples from their book:
+- Do not overcrowd and clutter the area.
+- Do not overdecorate.
+- Keep preparations as simple as necessary.
+- Ensure the area is safe, secure, and functional.
+- Design the classroom to best respond to emergencies as necessary.
+
+If it's the first week of instruction, I'd say to keep desks facing towards where the instructor is at so students can put a name to a face rather than disassociate instructor and material. After this first week, feel free to change things up.
+
+You'll also want to design the classroom in such a way to not make students think. That isn't to say they cannot pay attention, but instead to limit cognitive load when reasonable. For example:
+- Listing the agenda and/or procedures on a whiteboard or projector screen
+- Rules displayed and visible from any part of the area
+- Simple decorations to enhance the visual appeal of the room without risking distractions
+- Setting up furniture to not obscure vision and force students to move around often just to see
+- Preparing pre-made guides, like list of materials for a classroom, you may hand to students so they have a copy handy.
+  - You may also post them online or via email in case they're absent for this artifact.
+
 ### **What About Labs?**
 
 *This is mainly for science teachers.*
@@ -200,5 +224,7 @@ You *can* make students do labs individually, but expect to do groups for labs a
 4. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. [https://medlineplus.gov/ency/article/001958.htm](https://medlineplus.gov/ency/article/001958.htm)
 
 5. U.S. Food and Drug Administration. (2024, October 21). *N95 respirators, surgical masks, face masks, and barrier face coverings*. [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings)
+
+6. Wong, H. K., & Wong, R. T. (2018). *The First Days of School: How to Be an Effective Teacher.* Harry K. Wong Publications.
 
 ## **[Next Chapter](Z023_Action_Plan_Month_1.html)**

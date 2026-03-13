@@ -9,6 +9,12 @@ nav_order: 18
 
 ## **Short Answer**
 
+>   
+    "To believe in an ideal, is to be willing to betray it. It is something no Sith or Jedi has ever truly learned."
+- Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
+
+---
+
 *Disclaimer: I built this framework in mind for secondary and tertiary education (ages 12 and above). Elementary school/primary education may need adjustments beyond what is here. It is also independent of the subject(s) taught.*
 
 About 50% of teaching/instruction involves communication in some way. The other 50% is management. Communication and management are tightly integrated together here.
@@ -20,11 +26,8 @@ About 50% of teaching/instruction involves communication in some way. The other 
 
 If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover.
 
-That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption.
-- An ETL pipeline, for those readers with data backgrounds.
-
-From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
-- Think CAP Theorem, for those same readers with data backgrounds.
+That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
+- Think CAP Theorem and ETL pipelines, for those same readers with data backgrounds.
 
 **Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
 
@@ -67,16 +70,18 @@ Keep in mind the following information in this chapter is a *framework.* Not a s
 
 What's the difference? A framework provides a reference point, or a set of predefined rules and functions to work around. A system, on the other hand, is a self-contained, working entity, with its own flow, functions, and controls.
 
+Even if it were a system instead of a framework, **no single system (and framework) can satisfy *all* of your needs and do everything for you.** In practice, you will and should expect to incorporate other tools and technologies.
+
 I'll put it in several analogies.
 - If Windows OS is a system, .NET Framework is the framework to build applications on Windows.
 - If a website is a system, React is a framework which helps create that system.
-- If all teaching materials (i.e. curriculum, classroom management plan, etc.) together form a system, this chapter is a framework for determining how to split types of learning to meet standards.
+- If all teaching materials (i.e. curriculum, classroom management plan, etc.) together form a system, this framework helps determine how to split types of learning to meet standards.
 - If a toolkit is a system, a set of standardized wrenches is the framework used to solve problems.
 
 What I'm asking you to do is think in terms of problems to solve and what frameworks (tools, structures, or otherwise) to apply to solve the problem. You may see this concept called "Jobs to Be Done" in other spaces, which is figuring out the steps to complete a job, why the job is being done, and researching solutions to complete that job.
 - E.g. A person wants to browse the web on their phone. You use frameworks, like UI toolkits and coding libraries, to create a system, which is a web browser in this case, to do that job.
 
-Though this advice may run counter to this chapter's focus, it will help you in the future when you need to design your own systems from scratch or adapt existing curriculums to a framework or system.
+Though this advice may run counter to this chapter's focus, it will help you in the future when you need to design your own systems from scratch or adapt curricula to an existing framework or system.
 
 ### **Where does Agile fit into this?**
 
@@ -84,7 +89,25 @@ Though this advice may run counter to this chapter's focus, it will help you in 
 
 For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). 
 
-It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to traditional waterfall practices and its original intent, guidelines, and purpose gets thrown to the wayside.
+It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside.
+
+Despite that haphazard treatment in practice, it's still a philosophy focused on getting many people at different places in their lives and varied skill sets to work on one common goal (e.g. getting through a curriculum in a class). That is a great description for education and the people who go through education systems.
+
+If you were to really compress Agile down, it's basically everyone talks to each other (students, teachers, administrators, etc.), the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
+
+Scrum is a framework compatible with Agile (Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a product, or a completed product, at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
+- Fortunately, you don't need a Scrum Master here because their duties are already covered by you, the person designing the education system! That's a major bonus.
+
+**The stages of a Scrum "sprint" are the following** ([further reading](https://www.atlassian.com/agile/scrum/sprints)):
+
+- Planning
+- Implementation
+- Review
+- Retrospective
+
+I'll go over these four stages and where they apply in a teaching context below. Each unit or "cycle" repeats these four stages continuously from start to end during a school year, semester, or trimester. Though you go through iterations with a sprint, it's not ideal to go across stages in a sprint, such as moving from Implementation to Planning. It's best to go through a whole cycle of Planning, Implementation, Review, and then Retrospective whenever possible, as the Retrospective stage is time dedicated to adjusting your approach, seeing what went wrong or right, and more.
+
+I should also explicitly call out I cannot, in good faith, call this framework Scrum. The Scrum framework itself doesn't actually do that much on its own and is intentionally imperfect. I am cherry-picking and implementing parts of Scrum specifically to fit education systems, so I absolutely do not expect it to work as intended outside of that. Normally the intention is to implement Scrum in its entirety, but I also have to cover *how* certain aspects should be done, rather than focus purely on the "what" and leave the "how" entirely up to whomever reads it.
 
 When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
@@ -92,7 +115,7 @@ When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curr
 - (20%) 2 days projects and/or activities
 - (20%) 2 days tests and/or review
 
-I set this up because I had, in the worst case, 24 units in a single school year to cover. In science, I also had much theoretical information to cover compared to practical experiments to do. I had to be sensible and efficient. With this setup, I met standards, and I regained an entire week to explore other future concepts with students in the field of science!
+I set this up because I had, in the worst case, 24 units in a single school year to cover. Despite planning in short-term sprints, I didn't neglect planning for the long-term either. In science, I also had much theoretical information to cover compared to practical experiments to do. I had to be sensible and efficient. With this setup, I met standards, and I regained an entire week to explore other future concepts with students in the field of science!
 
 Some readers may see the above and wonder why I spend entire days on just *one* category of teaching. That was simply how I did things at the time. It's entirely possible to mix categories together and do those 3 categories in 1 day as well. 
 
@@ -112,17 +135,6 @@ More important notes with the above distribution:
 
 Some parts in each unit I can summarize and explain fully in a few sentences. Other parts required significantly more depth or required methods where typical text or verbal explanations alone were insufficient.
 
-**The stages of a Scrum "sprint" in Agile are the following** ([further reading](https://www.atlassian.com/agile/scrum/sprints)):
-
-- Planning
-- Implementation
-- Review
-- Retrospective
-
-Scrum is an Agile framework and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a product, or a completed product, at the end of each sprint. To put "product" another way, your goal is to complete parts of, or the whole, curriculum by your deadline(s).
-
-I'll go over these four stages and where they apply in a teaching context below. Each unit or "cycle" repeats these four stages continuously from start to end during a school year, semester, or trimester. Though you go through iterations with a sprint, it's not ideal to go across stages in a sprint, such as moving from Implementation to Planning. It's best to go through a whole cycle of Planning, Implementation, Review, and then Retrospective whenever possible, as the Retrospective stage is time dedicated to adjusting your teaching approach, seeing what went wrong or right, and more.
-
 ### **Pre-emptive Advisory**
 
 **Be wary of disregarding a type of learning completely, like never doing lectures, never doing activities, or never doing tests. It may likely affect learning negatively and not properly convey important concepts effectively.**
@@ -141,6 +153,24 @@ This framework focuses on categorizing methods and distributing their ratios to 
 2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. It should accommodate most systems though!
 3. Modifications are expected and *will* happen in practice; plan for when they're needed.
 4. Sometimes old methods work better than new methods.
+
+### **Artifact Overview**
+
+There's three parts representing the work involved inside of here: product backlogs, sprint backlogs, and increments (Schwaber & Sutherland, 2020).
+
+Product backlogs are a list of how you improve a product or service and owned by a Product Owner (which can be the educator) tied to a Product Goal. A person selects and orders items doable within a single sprint (typically the 2-week limit defined earlier). It defines value, stakeholders, and direction. Refinement is continuous and ensures items are small, clear, and actionable before Sprint planning stages.
+- Think of the product backlog as an ordered list of what helps achieve your goals.
+- It is intentionally never complete as well, because refinement is always ongoing.
+
+Sprint backlogs cover multiple things, such as the Sprint Goal, Sprint items from the product backlog, and actionale plans for increments. In other words, the why, what, and how. Every Sprint has a single Sprint Goal present in that Sprint. Designating two or more goals dilutes focus and may further risk not meeting your intended goals. If work is different than expected, or does not meet the goal, that's when you redefine the scope and refine the sprint's backlog to still fit the current Sprint goal.
+
+Increments are reusable steps representing value made towards the Product Goal, are additive as you go through increments, and verified at each "step" to ensure they fit together. Multiple increments may be included in each sprint and available for stakeholders before a sprint ends (e.g. updated grades available for viewing at any time during a sprint).
+
+The most critical part of Increments is the Definition of Done. This is a formalized description of an increment everyone involved across multiple teams to establish a defined boundary, like how people would agree on what a metric means. Without a clear definition, you risk micromanagement and poor work practices slipping in and poisoning the entire process. If an increment doesn't meet the definition of done, it cannot be released or presented as part of a Sprint.
+
+In this particular framework, there are some deviations. In education, students won't be in control of the Sprint Backlog, unlike a normal Scrum implementation, but may still provide feedback and discuss the work done within a Sprint. Additionally, the educator or higher level manager, like administrators, may affect *both* product and sprint backlogs because they're ultimately responsible for ensuring curriculum standards are met.
+
+When correctly implemented, everyone will be focused towards the goal (e.g. properly learning the material/curriculum) rather than the backlog (e.g. doing assignments and work to get a grade).
 
 ### **Planning (Teacher)**
 
@@ -393,6 +423,8 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 3. *Do I need to keep talks within 18 minutes?* (2025). TED. [https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes)
 
 3. Hattie, J. (2018). *Hattie effect size list - 256 Influences Related To Achievement.* VISIBLE LEARNING. [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
+
+2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. Chris Parker.
 
 4. Mason, L., & Otero, M. (2021). *Just How Effective Is Direct Instruction?* Perspectives on Behavior Science, 44(2-3). https://doi.org/10.1007/s40614-021-00295-x
 

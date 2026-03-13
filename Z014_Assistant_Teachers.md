@@ -5,10 +5,15 @@ nav_order: 23
 ---
 # Assistant Teachers
 
-### [Previous Chapter](Z013_Teacher_Client_Relations.html)
+### [Previous Chapter](Z013_Client_Relations.html)
 
 ## **Short Answer**
 
+>   
+    “When you hand good people possibility, they do great things.”
+- Biz Stone, *Things a Little Bird Told Me: Confessions of the Creative Mind* (2014)
+
+---
 Co-teaching and assistant teaching doesn't typically work as well as people think it does. It's like when you do a group project: one person inevitably does all the work anyways while the other members coast along for credit.
 - There *are* exceptions, but they're not the norm.
 
@@ -17,7 +22,7 @@ Assistant teachers support you as if they were a second teacher in the area. The
 The easiest way to have assistant teachers, and substitute teachers, like you as a teacher is having thorough lesson plans and well-behaved students for instruction instead of baby-sitting.
 - Sadly, reality has ways to make this not the ideal situation and the most difficult thing to do.
 
-Initially plan as if any assistant teachers may be absent or unable to assist effectively.
+Initially plan as if any assistant teachers may be absent or unable to assist effectively, because you might not have any of them in the first place.
 
 ## **Long Answer**
 
@@ -31,7 +36,9 @@ Substitute teachers technically act as replacements for primary teachers, rather
 
 ### **Assistant Teacher Types**
 
-**Special Education (or "SPED")** is a department consisting of 1 or more paraeducators, colloquially called "paras" by staff and students alike. They are professionals working alongside certified teachers. Paraeducators support special needs students, like those with IEPs or 504s, from basic help to more advanced assistance. They may need your guidance or access to your material to perform their duties and support classroom flows.
+**Special Education (or "SPED")** is a department consisting of 1 or more paraeducators, colloquially called "paras" by staff and students alike. They are professionals working alongside certified teachers and not technically assistants as they may work alongside multiple teachers throughout each day and/or educational period.
+
+Why they're included in this chapter is because paraeducators support special needs students, like those with IEPs or 504s, from basic help to more advanced assistance. They may need an educator's guidance or access to material(s) to perform their own duties and support classroom flows. Another way to think about it is they have a separate job within education, but need a subject matter expert (i.e. the instructor) to help them.
 
 Paraprofessionals, as well as teaching assistants, don't technically have qualification or credentialing requirements in the state of Colorado, as an example, but states may establish policies for expected backgrounds and skills required (Colorado Department of Education, 2025).
 
@@ -99,6 +106,8 @@ When concerns arise, you're better off sorting them out in a one-on-one conversa
 Lastly, I want to quickly go over the alternative teaching license as an aside. Some states adopt a non-traditional teacher pathway to address teacher shortages professionals in other fields can undergo (Colorado Department of Education, 2024)(Colorado Department of Education, n.d.). You may, however, need to be part of a teacher preparation program for the license. Still, you're permitted to do work in a classroom setting usually reserved for the preparation program or after acquiring a license.
 
 ## **Bibliography**
+
+1. Biz Stone. (2014). *Things a Little Bird Told Me: Confessions of the Creative Mind.* Grand Central Publishing.
 
 1. Colorado Department of Education. (2025, April 4). *Title II, Part A – Highly Qualified Professionals (HQP)*. [https://www.cde.state.co.us/fedprograms/tii/a_hqp](https://www.cde.state.co.us/fedprograms/tii/a_hqp)
 

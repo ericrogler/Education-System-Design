@@ -9,6 +9,11 @@ nav_order: 11
 
 ## **Short Answer**
 
+>   
+    “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” 
+- Antoine de Saint-Exupéry, *Airman's Odyssey* (1984)
+
+---
 *Notice: This chapter is catered more towards teachers.*
 
 Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.
@@ -93,6 +98,8 @@ You can easily set your own standards at a micro level (personal/school), but no
 Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
 
 ## **Bibliography**
+
+1. Antoine De Saint-Exupéry, Galantiére L., & Gilbert, S. (1984). *Airman’s Odyssey.* Harcourt Brace Jovanovich.
 
 1. Colorado Department of Education. (2025, July 3). *Colorado Department of Education*. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  
 

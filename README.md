@@ -2,7 +2,7 @@
 
 Welcome to *Designing Education Systems*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: February 24, 2026**
+**Last Updated: March 12, 2026**
 
 ### Wait, a book hosted on GitHub?
 
@@ -24,7 +24,7 @@ This splits the text by chapter across multiple pages.
 - Manager TL;DR
 - Actual Overview
 - Legality
-- General Management (for Teaching)
+- General Management
 - Management Case A: Scaling Growth
 - Management Case B: Communications and Operations
 - Management Case C: Macro and Micro
@@ -40,7 +40,7 @@ This splits the text by chapter across multiple pages.
 - Accommodations
 - Learning Methodologies and Teaching Methods
 - Homework
-- Teacher-Client Relations
+- Client Relations
 - Assistant Teachers
 - Guest Teachers, Speakers, and Presenters
 - Passporting & Information Transfer
@@ -74,7 +74,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2026, February 24). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
+  - Rogler, E. (2026, March 12). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/Designing-Education-Systems/](https://ericrogler.github.io/Designing-Education-Systems/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 

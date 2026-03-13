@@ -9,8 +9,10 @@ nav_order: 16
 
 ## **Short Answer**
 
-> Absence of evidence is not evidence of absence
-- Mr. Dugald Bell (Sheppard, 1895, p. 132)
+>
+    Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in its entirety... effortlessly... that is what it means... to truly "see."
+- Soho Takuan to Musashi Miyamoto, *Vagabond* (2003, Translation)
+---
 
 Even if you are the innovator and/or pioneer of the subject/field you are teaching, you won't know *everything.* Expect to use external sources to reinforce and supplement teaching. 
 
@@ -22,9 +24,14 @@ Last, but not least, your school or district very likely doesn't need a shiny ne
 
 There are two sources of truth to work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 
-For both ways, I like this quotation: 
+For both ways, I like these two quotations:
 
-> *"Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."*
+> 
+    "Absence of evidence is not evidence of absence"
+- Mr. Dugald Bell (Sheppard, 1895, p. 132)
+
+> 
+    "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."
 - Former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002)
 
 There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. A fourth category was observed and added by Steve Rayner (2012), called "uncomfortable knowledge," are unknown knowns. To sum each category:
@@ -175,6 +182,8 @@ These experts you should happily accept into helping design an education system,
 6. Harvard Library. (n.d.). *Evaluating Sources.* [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
 7. Henderson, R. (2022, June 12). *Luxury Beliefs are Status Symbols.* www.robkhenderson.com. [https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
+
+1. Inoue, T. (2003). *Vagabond* (Vol. 4). VIZ Media LLC. (Original work published 1999)
 
 7. Kansas State University Libraries. (n.d.). *Evaluate Sources.* [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 

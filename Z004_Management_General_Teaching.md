@@ -1,17 +1,19 @@
 ---
-title: 4. General Management (for Teaching)
+title: 4. General Management
 layout: default
 nav_order: 6
 ---
-# General Management (for Teaching)
+# General Management
 
 ### [Previous Chapter](Z003_Legality.html)
 
 ## **Short Answer**
 
-> "When you do things right, people won't be sure you've done anything at all." 
+> 
+    "When you do things right, people won't be sure you've done anything at all." 
 - God Entity, Futurama (2002)
 
+---
 As great as the quotation above is, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
 - Put another way: the perception you know what you're doing is as important as knowing what you're doing.
 - You can still measure the "quiet" things.
@@ -22,8 +24,8 @@ As great as the quotation above is, sometimes being visible is what gets you not
 **The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's a parallel with "passing up students" and "failing upward" somewhere soon.*
 
-Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult without appropriate background knowledge. As an instructor/teacher, you may be able to manage people, but your curriculum's content suffers if you cannot effectively teach. 
-- Similar advice applies for managers in multiple industries, like programming and software.
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
+- Similar advice applies for managers in other industries, like engineering.
 
 If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
@@ -34,7 +36,7 @@ Cooking something at 1200 degrees for 1 hour does *not* produce the same result 
 
 ## **Long Answer**
 
-Teaching and instruction is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
+Education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. 
 
@@ -108,12 +110,11 @@ Teaching is not a role one can easily get into and excel at. This is even with t
 
 ### **What does a Manager do?**
 
-Manage resources.
-- Resources includes people too.
+Manage resources. People are part of resources and the source of many ideas and methods to perform well. That's the simple, pragmatic answer. 
 
-That's the simple, pragmatic answer. What they actually do is handle communication and relationships between people, task delegation, creating schedules, and accomplishing a specific goal or completing a project/work.
+What they actually do is handle communication and relationships between people, task delegation, creating schedules, define why something is important and setting context, and accomplish goals in their projects/work. Ironically, a manager should train employees under them to perform their jobs so well they don't "need" a manager and become capable of operating without constant direction. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
 
-Here's many examples of what I mean:
+Here's more examples of what a manager may do:
 - Finding new projects and work to keep everyone in business and employed
 - Setting examples for people to follow
 - Ensuring you don't exceed budget
@@ -133,11 +134,11 @@ Here's many examples of what I mean:
 - Understanding how to do the actual work of their team to better delegate work and explain technical topics to assist more customers
 - Ensuring everything is done legally
 
-There's a lot of tasks here. It's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of every other element.
+There's a lot of things here. It reinforces the point that it's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of every other element.
 
 ### **Everyday Management Rules**
 
-There are rules (more like "guidelines") you should follow with every management style:
+There are rules (that are more like "guidelines") you should follow with every management style:
 
 - **It must be legal for you to do.**
 - Human behavior is surprisingly diverse, which means racing to conclusions may harm more than help.
@@ -190,6 +191,24 @@ You also want to avoid thinking outpacing speaking. It's hard to detect at first
 You can pause for a bit. It's ok. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. It'l help you. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
 
 Last part here is communicating impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
+
+### **The Rule of Two [Contracts]**
+
+There's two things to remember when handling written communications
+1. Replying in anger doesn't help your case. 
+2. When in doubt, get life-changing issues, contracts, and important documents in writing.
+
+For point #2, that includes *all* of them... or as many as is reasonable to get.
+
+Trust me, you don't want to handle the fallout of not having your metaphorical ducks in a line with every t crossed and i dotted when the law comes knocking.
+
+As you scale up in size, you'll want to review any legal contracts you wrote with past employmees, agencies, etc. This ideally happens at least once, if not more than once, somewhere before you reach 50 employees in a given company.
+
+While a small company of a few friends may have contracts with lenient terms approved when everyone was a group of friends, that "group of friends" mentality is extremely difficult, if not outright impossible, to maintain as you scale in size.
+
+I say this advice because you don't want to fire an employee, like one of your original founders, and then find out they have significant leverage and/or working knowledge of, well, many interal systems. For example, giving them ownership to the code, tools, infrastructure, designs, and licenses they leased out to the company that they could pull out easily and leave the entire company out to dry if they're no longer employed.
+
+While this may sound detrimental, it's also to protect everyone involved, ensured their importance is codified, and eliminating any single points of failure within your system. 
 
 ### **Enforcing Control**
 

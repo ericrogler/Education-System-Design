@@ -9,9 +9,11 @@ nav_order: 20
 
 ## **Short Answer**
 
-> "We don't make mistakes; we have happy accidents." 
-- Bob Ross
+> 
+    "And such teachings and their teachers is why I harbour doubts, why I wonder if something is missing from the Jedi Code. There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves. Many of the Jedi Council trained Exar Kun, Ulik... Revan and Malak. How could they not see the danger they posed? And if they could not... perhaps there was some essential part of their teachings that was flawed. Something beyond the Jedi Code that they were missing." 
+- Mical ("The Disciple"), Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
+---
 **Andragogy:** Learning, and theories, related to instruction catered towards adult, postgraduate, and professional audiences.
 - E.g. Professional development and continuing education.
 - From personal experience, I rarely hear this term outside of talking to other adults in education.
@@ -44,6 +46,8 @@ In general:
 
 ## **Long Answer**
 
+I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without appropriate support is tantamount to neglect.
+
 I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
 There are many ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
@@ -56,6 +60,11 @@ They're right. That's the teacher's job, to teach in a class.
 
 Learning *is* work. Were every day a free day, students wouldn't get any real learning done. If you're a teacher who's diligent, but other teachers provide too much free time or leeway, you might dislike the other teachers too.
 - Students may even complain if you give a free day too, despite it not being a "work" day, because it's boring. At that point, I'd say resort to more work so they have something *else* to do instead.
+
+Lastly, I'd also say to focus on the knowledge and not on the job. If you learn the knowledge behind how education works, then doing a job with education and offers for work come easier.
+- If you're asked about something you don't know, just say you don't know and will work on it in the future. People can tell you're lying better than you may think.
+
+*All that said, let's approach this subject carefully.*
 
 Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other parallels:
 - It is easier (and lower cost) to make and serve 1 type of hamburger to customers vs 30 types of hamburgers.
@@ -143,7 +152,11 @@ The biggest benefits are you get a framework where everyone gets the same accomm
 
 The biggest downside, though, is you risk lowering the average rigor, intensity, engagement rates, and level of learning given to every student with a poor implementation. Simply put, you cannot throw UDL into a system and expect it to perform magic.
 
-I'm positive about what UDL can do, but am careful not to sing praises about it. Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. In practice, though, it suffers the same resource/time problem like differentiation and not all education can be completely accessible to every student. If sufficient supports are not in place, it will still not work as intended. People may also claim UDL doesn't cover IEP/504/etc., which is what proper UDL implementation should cover anyways and not warrant double accommodations. There's aspects I'm against, such as letting students decide how they're evaluated vs the administrator/teacher deciding that for them. There's also still a point you cannot reasonably accommodate even the students several levels too low with UDL.
+I'm positive about what UDL can do, but am careful not to sing praises about it. Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. In practice, though, it suffers the same resource/time problem like differentiation and not all education can be completely accessible to every student. If sufficient supports cannot be provided with the resources available, it will still not work as intended. 
+
+UDL technically doesn't cover IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is designed to cover those accommodations anyway. It's a pedagogical philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
+
+There's other aspects I'm against, such as letting students decide how they're evaluated vs the administrator/educator deciding that for them. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL.
 
 ### **A "Secret" for Students**
 
@@ -433,14 +446,31 @@ Remember: you're not filling blanks. You're fixing work.
 
 Don't reward students who don't try. They should know how to do it (or at least make a try at it).
 
+### **Life and Death Learning**
+
+*Alternatively: LDL (for a euphemism)*
+
+Normally, this type of learning isn't suitable for minors and civilian populace. You may see it more in military or prison settings, where motivation and discipline is expected and enforced. Frankly speaking, most people cannot handle it and it has *some* ethical concerns when applied to its extreme. Much of this seems straightforward, but there's a reason this *isn't* the norm and you normally should NOT design learning this way by default.
+
+The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learned* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of learning.
+- This part aligns with what I mentioned in a previous chapter: "The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible."
+
+Because it's a high-stress environment, learning is also condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnenomics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
+
+There's also few, if any, potential distractions, such as a cell phone in your pocket, so you can maximize concentration. The impact of a *single* interruption can mean losing approximately 25 minutes before you're back on task and complete context switching (Mark et al, 2005). If this were an environment where distractions happen every few minutes, or even every few seconds, a distraction-free environment is a significant learning advantage.
+
+To put it all into an example: An instructor showcases a concept once, maybe twice if it's complex enough, you learn it, then do it immediately. Doesn't matter if you're fully ready or not; you're going to do it *now.* Your brain panic signals and thinks "oh shit, that's important" and it makes a conscious effort to actually learn it and map it to something relevant to your survival.
+
+Ironically, you prove learning it matters by failing it and experiencing the consequences, no matter how humiliating or detrimental it may be. Struggling and failing is expected, but it's necessary. Now that you know it's necessary, you're not going to let distractions pry you away from critical information.
+
+ You *can* dilute it down to what I'll lovingly call a "trial by fire," but that's after establishing multiple safeguards and providing at least a little bit of preparation so even children can utilize a part of this learning style.
+
 ## **Bibliography**
 
 1. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
 2. Bloom, B. S. (1984). *The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring.* Educational Researcher, 13, 4-16.
 [http://dx.doi.org/10.3102/0013189X013006004](http://dx.doi.org/10.3102/0013189X013006004) 
-
-2. Bob Ross. (n.d.). AZQuotes.com. Retrieved December 17, 2025, from AZQuotes.com. Web site: [https://www.azquotes.com/quote/346484](https://www.azquotes.com/quote/346484)
 
 2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
 
@@ -454,7 +484,13 @@ Don't reward students who don't try. They should know how to do it (or at least 
 
 5. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
 
-5. Martin-Chang, S., Gould, O. N., & Meuse, R. E. (2011). *The impact of schooling on academic achievement: Evidence from homeschooled and traditionally schooled students.* Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement, 43(3), 195–202. https://doi.org/10.1037/a0022697
+2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* [PC Version]. Chris Parker.
+
+3. Mark, G., Gonzalez, V., Harris, J., & Bren, D. (2005, April). No Task Left Behind? Examining the Nature of Fragmented Work. [https://ics.uci.edu/~gmark/CHI2005.pdf](https://ics.uci.edu/~gmark/CHI2005.pdf)
+
+5. Martin-Chang, S., Gould, O. N., & Meuse, R. E. (2011). *The impact of schooling on academic achievement: Evidence from homeschooled and traditionally schooled students.* Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement, 43(3), 195–202. [https://doi.org/10.1037/a0022697](https://doi.org/10.1037/a0022697)
+
+6. Moll, B., & Sykes, E. (2022). *Optimized virtual reality-based Method of Loci memorization techniques through increased immersion and effective memory palace designs: a feasibility study.* Virtual Reality. [https://doi.org/10.1007/s10055-022-00700-z](https://doi.org/10.1007/s10055-022-00700-z)
 
 6. Nickerson, C. (2022). *Learned Helplessness.* Simply Psychology. [https://www.simplypsychology.org/learned-helplessness.html](https://www.simplypsychology.org/learned-helplessness.html)
 

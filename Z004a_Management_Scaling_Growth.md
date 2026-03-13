@@ -9,6 +9,12 @@ nav_order: 7
 
 ## **Short Answer**
 
+>   
+    "Growth for the sake of growth is the ideology of the cancer cell."
+- Edward Abbey, The Journey Home: Some Words in Defense of the American West (1991)
+
+---
+
 If you're going into management, or transitioning from an individual contributor (employee) to manager, here's the shortened version:
 - You have to learn to let go of what you were good at; you're doing a *different* job now by managing people, amplifying employee talents, and giving credit where it's due.
 - The people working for you/beneath you are probably smarter than you.
@@ -95,6 +101,8 @@ You'll have two layers at this point:
 As there's only one true manager (and perhaps assistant managers if you hire them), your main duties are management and task delegation but you may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are straightforward. Everyone can fit into a single space without great difficulty and it's 1, maybe 2, managers directing employees/ICs.
 
 Some small businesses may purposely stay small and still be successful. These businesses may hire contractors to perform tasks rather than hiring more new employees and these contractors are applicable at any scale of business. Business growth depends on organizational structures, revenue streams, and expense management.
+
+Lastly, if you're at this breakpoint, I'll wager a guess you've probably started the group with a bunch of friends (or at least people you're friendly with). To grow past this point, you're going to need to set rules in place for how your "friends" interact with each other. If you do not, bringing in new people will swiftly backfire on your with various mixed opinions added and no codified means to appropriately communicate them.
 
 ### **Business Breakpoint 2: 40-50 People**
 
@@ -300,6 +308,8 @@ Additionally, as the differences in layers emerge, there is a risk of "general i
 This same general incompetence applies cross-functionally as well. You may have two separate teams, such as marketing and engineering, where one team barely understands what the other team is doing and pitches product(s) potentially misrepresented to clients, leading to a loss in business and trust.
 
 ## **Bibliography**
+
+1. Abbey, E. (1991). *The Journey Home: Some Words in Defense of the American West.* Plume.
 
 1. Chute, C. F., Gulick, L., & Urwick, L. (1938). *Papers on the Science of Administration.* Southern Economic Journal, 4(4), 506. [https://doi.org/10.2307/1052808](https://doi.org/10.2307/1052808)
 

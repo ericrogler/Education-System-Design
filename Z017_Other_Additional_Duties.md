@@ -9,7 +9,7 @@ nav_order: 26
 
 ## **Short Answer**
 
-You may still have more duties to take care of and many of them are not teaching-related.
+Educators may have more duties to take care of and many of them are not teaching-related.
 
 ## **Long Answer**
 
@@ -50,7 +50,7 @@ The groups meeting their homeroom teachers are typically at the start or end of 
 
 **Field trips** are part "in the name" and part deceptively simple. Field trips require a significant amount of time to prepare beforehand to sort things such as getting enough funds, permissions from guardians/parents, administrative approvals, and transportation/lodging arrangements. Other factors depend on your exact situation which I won't list here.
 
-In the United States, means of transportation are interesting–and surprisingly strict–for teachers. **Teachers may not transport students in personal vehicles due to liability issues outside of rare, pre-approved emergencies.** Due to this restriction, all transportation must be handled by vetted adults by the school or contracted services like buses, shuttles, boats, planes, and trains.
+In the United States, means of transportation are interesting–and surprisingly strict–for teachers. For example, teachers may not transport students in personal vehicles due to liability issues outside of rare, pre-approved emergencies. Due to this restriction, all transportation must be handled by vetted adults, that are not staff members, by the school or contracted services like buses, shuttles, boats, planes, and trains.
 
 **Proctoring** is when you're observing students taking a test and is typically done through state standard tests, college admission tests like ACT and SAT, advanced tests like AP and IB, online proctor testing, and traditional room/exam hall testing.
 

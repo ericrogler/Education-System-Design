@@ -9,7 +9,13 @@ nav_order: 28
 
 ## **Short Answer**
 
-**Money affords mistakes.**
+> 
+    “It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.” 
+- Warren Buffet
+    - It's an attribution, so unsure on exact source.
+
+---
+**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling.
 
 **If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases.** Afterall, the goal of a business (and financial operations) is *making* money, not saving money.
 
@@ -241,6 +247,22 @@ If it's near the end of the year and you need to reach net zero–where you spen
 **Your learning budget is supposed to last the entire teaching period, whether that is a year, semester, or otherwise.** If you spend it all at once, then you're in for a bad time. Remember to keep receipts and ensure items in your budget are reimbursed, so you don't pay too much out-of-pocket. You could get your school, sponsors, and grants to get you funds if you can show it's necessary for teaching and the funds are available.
 
 **Remember: Never pay out-of-pocket unless necessary, and don't go above your allotted learning budget whenever possible.** You don't have to spend much money for a good teaching experience; only as much as you need.
+
+### **What About NO Money At All?**
+
+Get used to being humble real quick then.
+
+On a serious note, you'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a useful amount of time). There's no sense listing them all because I'd use up several books worth of text real estate to do so.
+
+Instead, let's go over some methods. Keep in mind you may need to provide an ID or verification to access some of these.
+- Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data.
+- Free resources offered through physical and online services. Like mentioned earlier, think areas like [Adopt a Classroom](https://www.adoptaclassroom.org/).
+- For those with at least *some* money, some stores and merchants may offer discounts on items and purchases for applicable educational needs.
+- For designing education, there are multiple tools online free by default or free for educators. This includes software like [Google Docs](https://docs.google.com/) and [Canva](https://www.canva.com/education/back-to-school/).
+
+Whether you're an educator looking for ways to reduce financial burdens in teaching or someone inside education systems looking for low-cost solutions, there are many options.
+
+All it takes is the ability to find them.
 
 ## **Bibliography**
 

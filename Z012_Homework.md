@@ -9,6 +9,11 @@ nav_order: 21
 
 ## **Short Answer**
 
+>   
+    "Problems worthy of attack prove their worth by fighting back"
+- Piet Hein, *Grooks 1* (1969)
+
+---
 Class time should offset homework time, though this balance depends heavily on the subject(s) taught.
 
 It's possible, but not always feasible, to eliminate homework entirely for a class provided students demonstrate sufficient understanding of the material taught.
@@ -65,4 +70,8 @@ There were also "open book" tests. I reserved those tests for subjects and conce
 
 Overall, though, don't give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
-## **[Next Chapter](Z013_Teacher_Client_Relations.html)**
+## **Bibliography**
+
+1. Hein, P. (1969). *Grooks 1 (Grooks, #1).* Doubleday & Company.
+
+## **[Next Chapter](Z013_Client_Relations.html)**

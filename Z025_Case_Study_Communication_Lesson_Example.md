@@ -1,5 +1,5 @@
 ---
-title: 32. Case Study Communication Lesson
+title: 33. Case Study Communication Lesson
 layout: default
 nav_order: 34
 ---

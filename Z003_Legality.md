@@ -9,6 +9,12 @@ nav_order: 5
 
 ## **Short Answer**
 
+>   
+    "If they can get you asking the wrong questions, they don't have to worry about answers."
+- Thomas Pynchon, *Gravity’s Rainbow* (1973)
+
+---
+
 *Notice: All information in this chapter is NOT legal advice.*
 
 What rules you must follow depends on location, subject, and employer.
@@ -141,9 +147,19 @@ Another important note: you also cannot tell other students, even in the same cl
 - By extension, you also are heavily restricted on asking about any medical conditions related to the accommodations as well.
 - The only potential way around this is if the student, or parent/guardian depending on their age, discloses details of their own IEP/504/etc. and conditions publicly. That's when it's waived, but you're still only allowed to say what is now public knowledge.
 
+### **Behavioral Intervention Plans (BIPs)**
+
+I separated these from the previous section intentionally. For context, this is written on March 2026. There is also another
+
+In theory, these plans help students struggling to control behaviors and actions in class.
+
+In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers are supposed to receive specialized training for these but it's either only done on paper or completely disregarded. Due to these issues, BIPs are boilerplate solutions and there's often no resources or available personnel to help that student outside of specialized schools.
+
+For my opinion, I cannot help but view a BIP as a means to keep students and clients (i.e. parents) happy and in education, but stranded without sufficient help.
+
 ### **Mandatory Reporting**
 
-*Notice: This is primarily for the state of Colorado.*
+*Notice: This is primarily for the state of Colorado, but other states may apply.*
 
 Teachers (among other professions) are legally required to report **suspected** child abuse or neglect to the appropriate hotline (Childcare.gov, n.d.). Reports may vary by state, but typically go to the local Department of Human Services, Child Welfare Division (Colorado Department of Public Safety, n.d.). After filing a report, the investigation is then handled by CPS and law enforcement.
 - What may be defined as child abuse and neglect can differ across states.
@@ -192,6 +208,25 @@ For case studies related to social media and speech, I see these three cited oft
 - [Pickering v. Board of Education | 391 U.S. 563 (1968)](https://supreme.justia.com/cases/federal/us/391/563/)
 - [Tinker v. Des Moines Independent Community School District | 393 U.S. 503 (1969)](https://supreme.justia.com/cases/federal/us/393/503/)
 - [Garcetti v. Ceballos | 547 U.S. 410 (2006)](https://supreme.justia.com/cases/federal/us/547/410/)
+
+### **"Punishable by Fine"**
+
+...Can be joked about in three ways:
+
+1. It's a business plan; not a guardrail.
+2. Legal for a price.
+3. It's not nice, but legal.
+
+Outside of that, it depends how it's implemented. A small flat fee, without any additional consequences, implicitly creates an inequality gap on who can do what and deters only a handful of people compared to, ideally, as many people as possible.
+
+Even if said fee increases to percentage of revenue (or assets) and scales properly based on the damages done, that may decrease the number of issues. If it's not coupled with something you cannot "pay off," however, you'll still get people who do it because the consequences are of no consequence.
+
+Bribes can also go under here as well, though they aren't a "fine" you do after the fact and instead uses wealth to bypass a barrier in advance to avoid an issue altogether instead of escaping an issue.
+
+You could also place influence and power under here as well, though it's not a perfect comparison. Name brands and recognition makes you familiar to others. People tend to be friendlier with what is similar and known to them with plenty of research backing that claim.
+- E.g. [Schwyck et al. on *Similarity Among Friends*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11080385/) (paraphrased title; 2023)
+
+At the end of the day, these types of punishments turn moral/legal prohibitions into a cost-benefit analysis game.
 
 ### **Age Verification Systems**
 
@@ -296,9 +331,13 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 25. Office of Juvenile Justice and Delinquency Prevention. (n.d.). *OJJDP*. [https://ojjdp.ojp.gov/](https://ojjdp.ojp.gov/)
 
+26. Pynchon, T. (1973). Gravity’s Rainbow [Review of Gravity’s Rainbow]. Viking Press.
+
 26. Readiness and Emergency Management for Schools. (2024, August 13). *K-12 FERPA*. [https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1](https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1)
 
 27. Schultz, S. (2022, December). *Differences between 504 plan and individualized education program (IEP)*. [https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep](https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep)
+
+28. Schwyck, M. E., Du, M., Li, Y., Chang, L. J., & Parkinson, C. (2023, February 2). *Similarity Among Friends Serves as a Social Prior: The Assumption That “Birds of a Feather Flock Together” Shapes Social Decisions and Relationship Beliefs.* Personality and Social Psychology Bulletin, 50(6), 014616722211402. [https://doi.org/10.1177/01461672221140269](https://doi.org/10.1177/01461672221140269)
 
 28. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. [https://www.copyright.gov/](https://www.copyright.gov/)
 

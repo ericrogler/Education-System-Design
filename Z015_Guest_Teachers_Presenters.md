@@ -8,7 +8,13 @@ nav_order: 24
 ### [Previous Chapter](Z014_Assistant_Teachers.html)
 
 ## **Short Answer**
-Guest teachers are any individual partially, or fully, replacing you in a teacher role temporarily. They could teach topics you may not have licensure, certification, or availability to do yourself, or anyone able to ensure students accounted for when you're unavailable.
+>   
+    "The right man in the wrong place can make all the difference in the world."
+- G-Man, Half-Life 2 (2004)
+
+---
+
+Guest teachers are any individual partially, or fully, replacing you in a teacher role temporarily. They could teach topics you may not have licensure, certification, or availability to do yourself. They could also be anyone able to ensure students are accounted for when you're unavailable.
 
 Whether or not guest teachers are allowed is typically dependent on administrative approval, legal procedures, and background checks instead of only teacher approval.
 
@@ -88,5 +94,9 @@ If you're the teacher and the substitute does send you notes, I'd say take any n
 - Quizzes over the material covered on substitute teacher day(s)
 - A written conduct referral for specific student offenders
 - Class-wide or specific student punishments
+
+## **Bibliography**
+
+1. *Half-Life 2* [PC Version]. (2004, November 16). Valve.
 
 ## **[Next Chapter](Z016_Passporting_Information_Transfer.html)**

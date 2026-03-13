@@ -9,10 +9,12 @@ nav_order: 30
 
 ## **Short Answer**
 
-> “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
-- Anonymous
-  - *Finding the source for this quotation is a Herculean task, so if someone does know the original source, let me know.*
+> 
+    “Don’t try to be original, just try to be good.”
+- Paul Rand
+  - *This is an attribution.*
 
+---
 Everyone is a designer. Not everyone is a *good* designer.
 
 Even if you can design well, you'll still deal with *business problems* (not just design problems!), people management issues like managing upwards, and communication. These problems, and requirements to meet, may also come from non-technical people.
@@ -437,4 +439,4 @@ Some general rules of thumb you can quickly apply come from personal experience 
 10. Wathan, A., & Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
 
 
-## **[Next Chapter](Z022_Action_Plan_Week_1.html)**
+## **[Next Chapter](Z021a_Engineering_Architecture.html)**

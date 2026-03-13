@@ -1,9 +1,9 @@
 ---
-title: 31. Action Plan - Year 1
+title: 32. Action Plan - Year 1
 layout: default
 nav_order: 33
 ---
-# 24. Action Plan: Year 1
+# Action Plan: Year 1
 
 ### [Previous Chapter](Z023_Action_Plan_Month_1.html)
 
