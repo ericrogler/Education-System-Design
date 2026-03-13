@@ -9,8 +9,7 @@ nav_order: 21
 
 ## **Short Answer**
 
-> 
-    “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
+> “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
 - Anonymous
   - *Finding the source for this quotation is a Herculean task, so if someone does know the original source, let me know.*
 

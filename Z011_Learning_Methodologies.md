@@ -9,8 +9,7 @@ nav_order: 20
 
 ## **Short Answer**
 
-> 
-    "And such teachings and their teachers is why I harbour doubts, why I wonder if something is missing from the Jedi Code. There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves. Many of the Jedi Council trained Exar Kun, Ulik... Revan and Malak. How could they not see the danger they posed? And if they could not... perhaps there was some essential part of their teachings that was flawed. Something beyond the Jedi Code that they were missing." 
+> "And such teachings and their teachers is why I harbour doubts, why I wonder if something is missing from the Jedi Code. There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves. Many of the Jedi Council trained Exar Kun, Ulik... Revan and Malak. How could they not see the danger they posed? And if they could not... perhaps there was some essential part of their teachings that was flawed. Something beyond the Jedi Code that they were missing." 
 - Mical ("The Disciple"), Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
 ---

@@ -9,8 +9,7 @@ nav_order: 30
 
 ## **Short Answer**
 
-> 
-    “Don’t try to be original, just try to be good.”
+> “Don’t try to be original, just try to be good.”
 - Paul Rand
   - *This is an attribution.*
 

@@ -9,8 +9,7 @@ nav_order: 23
 
 ## **Short Answer**
 
->   
-    “When you hand good people possibility, they do great things.”
+> “When you hand good people possibility, they do great things.”
 - Biz Stone, *Things a Little Bird Told Me: Confessions of the Creative Mind* (2014)
 
 ---

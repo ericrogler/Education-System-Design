@@ -9,12 +9,11 @@ nav_order: 22
 
 ## **Short Answer**
 
-> 
-    Crowley: "...What was it he said that got everyone so upset?"
-
-    Aziraphale: "Be kind to each other."
-
-    Crowley: "Oh yeah. That'll do it."
+> Crowley: "...What was it he said that got everyone so upset?"
+>
+> Aziraphale: "Be kind to each other."
+>
+> Crowley: "Oh yeah. That'll do it."
 - Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019)
 
 ---

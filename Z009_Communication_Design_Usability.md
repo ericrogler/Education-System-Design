@@ -9,8 +9,7 @@ nav_order: 17
 
 ## **Short Answer**
 
-> 
-    “A wealth of information creates a poverty of attention.”
+> “A wealth of information creates a poverty of attention.”
 - Herbert Simon (1971)
 
 ---

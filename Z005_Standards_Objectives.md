@@ -9,8 +9,7 @@ nav_order: 11
 
 ## **Short Answer**
 
->   
-    “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” 
+> “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” 
 - Antoine de Saint-Exupéry, *Airman's Odyssey* (1984)
 
 ---

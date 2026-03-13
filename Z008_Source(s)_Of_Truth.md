@@ -9,8 +9,7 @@ nav_order: 16
 
 ## **Short Answer**
 
->
-    Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in its entirety... effortlessly... that is what it means... to truly "see."
+> "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in its entirety... effortlessly... that is what it means... to truly 'see.'"
 - Soho Takuan to Musashi Miyamoto, *Vagabond* (2003, Translation)
 ---
 
@@ -26,12 +25,10 @@ There are two sources of truth to work with: the knowledge you've already acquir
 
 For both ways, I like these two quotations:
 
-> 
-    "Absence of evidence is not evidence of absence"
+> "Absence of evidence is not evidence of absence"
 - Mr. Dugald Bell (Sheppard, 1895, p. 132)
 
-> 
-    "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."
+> "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."
 - Former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002)
 
 There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. A fourth category was observed and added by Steve Rayner (2012), called "uncomfortable knowledge," are unknown knowns. To sum each category:

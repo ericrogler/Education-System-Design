@@ -9,8 +9,7 @@ nav_order: 27
 
 ## **Short Answer**
 
->   
-    “Don’t get so busy making a living that you forget to make a life.”
+> “Don’t get so busy making a living that you forget to make a life.”
 - Dolly Parton (2010) 
 
 ---

@@ -8,8 +8,7 @@ nav_order: 24
 ### [Previous Chapter](Z014_Assistant_Teachers.html)
 
 ## **Short Answer**
->   
-    "The right man in the wrong place can make all the difference in the world."
+> "The right man in the wrong place can make all the difference in the world."
 - G-Man, Half-Life 2 (2004)
 
 ---

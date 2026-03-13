@@ -9,8 +9,7 @@ nav_order: 28
 
 ## **Short Answer**
 
-> 
-    “It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.” 
+> “It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.” 
 - Warren Buffet
     - It's an attribution, so unsure on exact source.
 

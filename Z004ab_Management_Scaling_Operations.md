@@ -9,8 +9,7 @@ nav_order: 8
 
 ## **Short Answer**
 
->   
-    “Gentlemen, the officer who doesn’t know his communications and supply as well as his tactics is totally useless.”
+> “Gentlemen, the officer who doesn’t know his communications and supply as well as his tactics is totally useless.”
 - Gen. George S. Patton, USA
     - *Notice: Finding an exact source for this quotation is surprisingly difficult, so assume it is quoted in good faith.*
 ---

@@ -9,8 +9,7 @@ nav_order: 14
 
 ## **Short Answer**
 
->   
-    “It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.” 
+> “It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.” 
 - Henri Poincaré, *Science and Method* (2011) 
 
 ---

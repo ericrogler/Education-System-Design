@@ -9,8 +9,7 @@ nav_order: 25
 
 ## **Short Answer**
 
->   
-    “It is better to have one person working with you than three people working for you.”
+> “It is better to have one person working with you than three people working for you.”
 - Dwight D. Eisenhower
     - *Notice: Finding an exact source for this quotation is surprisingly difficult, so assume it is quoted in good faith.*
 ---

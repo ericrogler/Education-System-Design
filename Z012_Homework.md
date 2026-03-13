@@ -9,8 +9,7 @@ nav_order: 21
 
 ## **Short Answer**
 
->   
-    "Problems worthy of attack prove their worth by fighting back"
+> "Problems worthy of attack prove their worth by fighting back"
 - Piet Hein, *Grooks 1* (1969)
 
 ---

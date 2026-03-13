@@ -9,8 +9,7 @@ nav_order: 6
 
 ## **Short Answer**
 
-> 
-    "When you do things right, people won't be sure you've done anything at all." 
+> "When you do things right, people won't be sure you've done anything at all." 
 - God Entity, Futurama (2002)
 
 ---
