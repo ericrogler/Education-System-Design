@@ -10,9 +10,11 @@ nav_order: 27
 ## **Short Answer**
 
 > “Don’t get so busy making a living that you forget to make a life.”
+
 - Dolly Parton (2010) 
 
 ---
+
 ***Disclaimer: All items in this section are not medical advice nor should be interpreted as such.***
 
 If possible, have a nice day. Enjoy your life when you can.

@@ -10,9 +10,11 @@ nav_order: 8
 ## **Short Answer**
 
 > “Gentlemen, the officer who doesn’t know his communications and supply as well as his tactics is totally useless.”
+
 - Gen. George S. Patton, USA
     - *Notice: Finding an exact source for this quotation is surprisingly difficult, so assume it is quoted in good faith.*
 ---
+
 Just like in the Scaling Growth chapter, similar answers apply. If Scaling Growth focused on your interactions and managing staff, this chapter will align more closely with managing people and communications.
 
 As a reminder for those coming from Case A, scaling up typically involves things like:

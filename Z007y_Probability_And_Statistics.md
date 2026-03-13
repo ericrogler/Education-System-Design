@@ -10,9 +10,11 @@ nav_order: 15
 ## **Short Answer**
 
 > "Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics. Perhaps it will be wise to approach the subject cautiously."
+
 - David L. Goodstein, States of Matter (2014)
 
 ---
+
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
 The average person will probably not go beyond basic concepts for Probability and Statistics unless they seek it out themselves, is required for a job, are or going through a math-heavy field of study.

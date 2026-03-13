@@ -1,7 +1,7 @@
 ---
 title: 29. Engineering & Architecture
 layout: default
-nav_order: 21
+nav_order: 31
 ---
 # Engineering & Architecture
 
@@ -10,10 +10,12 @@ nav_order: 21
 ## **Short Answer**
 
 > “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
+
 - Anonymous
   - *Finding the source for this quotation is a Herculean task, so if someone does know the original source, let me know.*
 
 ---
+
 There's a lot of things to consider when designing educational systems.
 
  Two of these things are engineering and architecture as you may deal with physical buildings with physical humans and explore how and why to improve your processes.

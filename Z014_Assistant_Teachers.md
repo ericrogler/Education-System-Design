@@ -10,9 +10,11 @@ nav_order: 23
 ## **Short Answer**
 
 > “When you hand good people possibility, they do great things.”
+
 - Biz Stone, *Things a Little Bird Told Me: Confessions of the Creative Mind* (2014)
 
 ---
+
 Co-teaching and assistant teaching doesn't typically work as well as people think it does. It's like when you do a group project: one person inevitably does all the work anyways while the other members coast along for credit.
 - There *are* exceptions, but they're not the norm.
 

@@ -10,9 +10,11 @@ nav_order: 21
 ## **Short Answer**
 
 > "Problems worthy of attack prove their worth by fighting back"
+
 - Piet Hein, *Grooks 1* (1969)
 
 ---
+
 Class time should offset homework time, though this balance depends heavily on the subject(s) taught.
 
 It's possible, but not always feasible, to eliminate homework entirely for a class provided students demonstrate sufficient understanding of the material taught.

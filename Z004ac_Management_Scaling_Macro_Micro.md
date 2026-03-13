@@ -10,9 +10,11 @@ nav_order: 9
 ## **Short Answer**
 
 > “It takes very little to govern good people. Very little. And bad people cant be governed at all. Or if they could I never heard of it.” 
+
 - Cormac McCarthy, *No Country for Old Men* (2006) 
 
 ---
+
 Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
 - In short: a technical manager is almost always better than a non-technical manager
 

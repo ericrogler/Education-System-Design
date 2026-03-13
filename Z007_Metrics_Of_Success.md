@@ -9,12 +9,15 @@ nav_order: 13
 
 ## **Short Answer**
 > "When a measure becomes a target, it ceases to be a good measure."
+
 - Goodhart's Law (1975) 
 
 > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
+
 - Campbell's Law (1979)
 
 ---
+
 Being the "best" is simply a title based on a specific situation and circumstances. What is the best one day could no longer be the best the next day.
 
 Being "good" is, pragmatically speaking, simply being better than others.

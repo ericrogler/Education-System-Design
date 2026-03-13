@@ -10,6 +10,7 @@ nav_order: 5
 ## **Short Answer**
 
 > "If they can get you asking the wrong questions, they don't have to worry about answers."
+
 - Thomas Pynchon, *Gravity’s Rainbow* (1973)
 
 ---

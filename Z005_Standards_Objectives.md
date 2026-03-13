@@ -10,9 +10,11 @@ nav_order: 11
 ## **Short Answer**
 
 > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” 
+
 - Antoine de Saint-Exupéry, *Airman's Odyssey* (1984)
 
 ---
+
 *Notice: This chapter is catered more towards teachers.*
 
 Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.

@@ -10,9 +10,11 @@ nav_order: 6
 ## **Short Answer**
 
 > "When you do things right, people won't be sure you've done anything at all." 
+
 - God Entity, Futurama (2002)
 
 ---
+
 As great as the quotation above is, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
 - Put another way: the perception you know what you're doing is as important as knowing what you're doing.
 - You can still measure the "quiet" things.

@@ -14,9 +14,11 @@ nav_order: 22
 > Aziraphale: "Be kind to each other."
 >
 > Crowley: "Oh yeah. That'll do it."
+
 - Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019)
 
 ---
+
 Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and significantly determine how good or bad a job is in a given environment.
 
 You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.

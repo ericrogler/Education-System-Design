@@ -10,6 +10,7 @@ nav_order: 19
 ## **Short Answer**
 
 > "Be careful of charity and kindness, lest you do more harm with open hands than with a clenched fist."
+
 - Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
 ---

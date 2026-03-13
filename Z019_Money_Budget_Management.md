@@ -10,10 +10,12 @@ nav_order: 28
 ## **Short Answer**
 
 > “It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.” 
+
 - Warren Buffet
     - It's an attribution, so unsure on exact source.
 
 ---
+
 **Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling.
 
 **If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases.** Afterall, the goal of a business (and financial operations) is *making* money, not saving money.

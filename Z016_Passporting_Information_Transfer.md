@@ -10,9 +10,12 @@ nav_order: 25
 ## **Short Answer**
 
 > “It is better to have one person working with you than three people working for you.”
+
 - Dwight D. Eisenhower
     - *Notice: Finding an exact source for this quotation is surprisingly difficult, so assume it is quoted in good faith.*
+
 ---
+
 Sometimes you need to help get a fellow teacher, or substitute teacher, set up in a classroom. You may not have to do it often, but it's better to know how because you may have to do it.
 
 Just because your passporting and information transfer procedures, especially with lesson plans, are long doesn't necessarily mean they're good. Quantity =/= quality and clear details/procedures are the winners.

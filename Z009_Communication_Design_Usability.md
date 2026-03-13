@@ -10,9 +10,11 @@ nav_order: 17
 ## **Short Answer**
 
 > “A wealth of information creates a poverty of attention.”
+
 - Herbert Simon (1971)
 
 ---
+
 Being a teacher also means being a designer. Materials extend and enhance your teaching and communication. 
 
 If it already works, don't reinvent the wheel.

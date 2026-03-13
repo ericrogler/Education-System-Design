@@ -10,7 +10,9 @@ nav_order: 16
 ## **Short Answer**
 
 > "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in its entirety... effortlessly... that is what it means... to truly 'see.'"
+
 - Soho Takuan to Musashi Miyamoto, *Vagabond* (2003, Translation)
+
 ---
 
 Even if you are the innovator and/or pioneer of the subject/field you are teaching, you won't know *everything.* Expect to use external sources to reinforce and supplement teaching. 

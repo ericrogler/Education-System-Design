@@ -10,6 +10,7 @@ nav_order: 18
 ## **Short Answer**
 
 > "To believe in an ideal, is to be willing to betray it. It is something no Sith or Jedi has ever truly learned."
+
 - Kreia, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
 ---

@@ -10,9 +10,11 @@ nav_order: 29
 ## **Short Answer**
 
 > "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
+
 - Roy Batty to Rick Deckard, *Blade Runner* (Scott, 1982)
 
 ---
+
 AGI (Artificial general intelligence) is possible and AI may even replicate human behaviors. It may take a while to get there *and* not be feasible with current technology, however.
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**

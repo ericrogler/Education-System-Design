@@ -10,10 +10,12 @@ nav_order: 30
 ## **Short Answer**
 
 > “Don’t try to be original, just try to be good.”
+
 - Paul Rand
   - *This is an attribution.*
 
 ---
+
 Everyone is a designer. Not everyone is a *good* designer.
 
 Even if you can design well, you'll still deal with *business problems* (not just design problems!), people management issues like managing upwards, and communication. These problems, and requirements to meet, may also come from non-technical people.

@@ -10,9 +10,11 @@ nav_order: 14
 ## **Short Answer**
 
 > “It is by logic that we prove, but by intuition that we discover. To know how to criticize is good, to know how to create is better.” 
+
 - Henri Poincaré, *Science and Method* (2011) 
 
 ---
+
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional. The next few chapters are separated to avoid spilling over material and causing undue confusion.*
 
 **If there's one thing you at least need to take away from this chapter, it's people should memorize their times tables.**
