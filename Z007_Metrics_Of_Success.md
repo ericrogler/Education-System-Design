@@ -310,6 +310,8 @@ To avoid delving into politics too much, the most practical consequence of not m
 
 These acts are responsible for establishing metrics as a target to meet, which means the education system changes, for better or for worse, towards a metrics-based system. You may also see more staff and more bureaucracy, at the administrative or support level, to hold people responsible for meeting these metrics. You may also see an increase in perverse incentives or initiatives which, despite good intentions, usually backfire.
 
+While these acts provide data for metrics and analysis, doing so at the cost of preventing funding for education is where it goes sour. Even if you did hide the inputs (the test scores and their results), a savvy person could deduce the outputs (funding) over time. Since these standards are tied to money, which a lot of people want and need, deviating from these standards is frowned upon, if not outright barred, in many education systems. This may mean more focus on the test(s) and its results, but perhaps at the cost of any actual learning and thinking.
+
 ### **Misalignment Case: IB vs Implementation**
 
 International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of their mission statement vs metrics.
@@ -342,6 +344,33 @@ Open enrollment shares parallels with the effects on economic growth as well. Po
 
 Though open enrollment permits mobility for many groups, system-wide issues affecting that same policy stop it from generating any real gains.
 - For video-game savvy readers, it's like developers opening access to a popular MMORPG server without adding hardware or capacity to support the sudden influx of players and creating "dead" servers as a byproduct.
+
+### **Data and Data Issues**
+
+Many organizations collect data on all sorts of things. This isn't limited to education systems; data is a trend for all kinds of businesses.
+
+The problem arises in three ways: 
+1. There is too much data to process in a reasonable timeframe.
+2. The data collected is messy and not cleaned properly.
+3. The collected data isn't even useful.
+
+#1 is an issue related to your system's capabilities, rather than any process being wrong, and delves into the cost of collection and analysis. Nevertheless, if you have too much data and aren't sure what to do with it, the question is *why* are you collecting so much data in the first place?
+
+#2 is a process issue concerning hygiene. Data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
+
+#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, this issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
+
+Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
+1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
+2. Very few people, if no one, wants to govern data (i.e. set data policies).
+3. Many stakeholders don't know what they want, are vague, or change expectations frequently.
+4. Access to data (and technology/tools) you need for your duties may be restricted outside your control.
+
+If you combine the first two points above, you get two new problems: the data "being wrong" and getting multiple reports with multiple numbers. The first problem means there's no clear definition of what is right or "normal" in the data context. The second problem means multiple people are operating with vague (and often different) requirements, rigor, and contexts, possibly even different data sources, so each creates their own version of what is "right" and scramble to find a resolution when things go wrong.
+
+The third problem is something to expect in any business across any context. What sounds like a fun idea in the moment risks scope creep and derailing a project if you try to implement it, so getting people to figure out what they actually want is almost its own skill entirely.
+
+Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
 ### **What about if the entire class fails?**
 

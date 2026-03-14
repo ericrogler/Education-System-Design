@@ -104,9 +104,9 @@ Before continuing, I must emphasize some extremely important points with substit
 4. NEVER write something that says or implies a substitute teacher should use physical contact with students.
 5. If the substitute plan includes downtime, generally let them have the downtime.
 
-Previously we covered what substitute teachers are and defined them as guest teachers. They replace you, partially or fully, as a teacher in your classes.
+Previously we covered what substitute teachers are and defined them as guest teachers. They replace, partially or fully, an educator in classes.
 
-Some passporting and information transfer, which normally may violate FERPA/HIPPA if distributed, may be shared to those with legitimate educational interests in your institution, like the substitute teacher in charge of students you're normally responsible for as their teacher of record.
+Some passporting and information transfer, which normally may violate FERPA/HIPAA if distributed, may be shared to those with legitimate educational interests in your institution, like the substitute teacher in charge of students you're normally responsible for as their teacher of record.
 - As a reference, [34 CFR 300.323 (d)](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323) covers IEP distribution and permits information transfer towards substitute teachers.
 
 Despite these legal restrictions and allowances, the primary teacher and the school are still responsible for informing the substitute teacher about specific student requirements and what should be done in the classes covered. Failure to do so may provide the substitute teacher reasonable defense for not meeting these requirements.

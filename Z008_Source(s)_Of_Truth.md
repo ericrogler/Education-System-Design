@@ -19,9 +19,11 @@ Even if you are the innovator and/or pioneer of the subject/field you are teachi
 
 If you find someone who knows and can do everything and anything, please tell me so I can add them to my network and get an excellent professional reference for my future career path.
 
-Last, but not least, your school or district very likely doesn't need a shiny new curriculum every time they appear or 6+ different online platforms for learning.
+Last, but not least, your education system very likely doesn't need a shiny new curriculum every time they appear or 12+ different online platforms and tools for learning.
 
 ## **Long Answer**
+
+Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit I've read more management books than education books. Funny how that works.
 
 There are two sources of truth to work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 

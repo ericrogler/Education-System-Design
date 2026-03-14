@@ -23,12 +23,11 @@ nav_order: 20
 - E.g. Primary and secondary education.
 - Pedagogy is often used in place of andragogy as pedagogy is more commonly known.
 
-It is in the nature of learning to get confused along the journey. That's normal.
+It is in the nature of learning to get confused along the journey. *That's normal.*
 
 In general:
 
-1. Get stakeholders (parents and students) to care about education
-    - Scores belong to students, not the educators. Just teach well and treat them well if your goal is to be a good teacher.
+1. If the educator is working harder than the students, there might be a problem.
     - Do NOT "meet them where they're at."
 2. Every method can be questioned. Without questioning methods, we cannot improve methods.
 3. Both motivation and intelligence are important to learning. Even if a student is smart, if they don't want to be motivated, then they cannot be motivated.
@@ -43,7 +42,7 @@ In general:
 - Decide between covering a few topics deeply vs many topics broadly.
 - An inclusive curriculum is extremely unlikely to be a rigorous curriculum.
 - **An every flavor cake doesn't taste that great.**
-    - i.e. it's impossible to scaffold for *every* student.
+    - i.e. it's practically impossible to scaffold and differentiate for *every* student.
 
 ## **Long Answer**
 

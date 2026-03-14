@@ -196,7 +196,7 @@ On the other hand, research into suspensions, as well as short-term and long-ter
 
 ### **How should I address student accommodations?**
 
-It's no secret when students see their peers get something they don't, they'll question why that is the case, whether it is out loud or kept to themselves. Frankly speaking, there's no perfect answer that works in every scenario while also complying with confidentiality laws like HIPAA and FERPA. It's also difficult when the accommodation is clearly visible and actively in use in the presence of other students, because you, as the teacher, still likely cannot say anything breaking those laws.
+When students see their peers get something they don't, they'll question why that is the case whether it is out loud or kept to themselves. Frankly speaking, there's no perfect answer that works in every scenario while also complying with confidentiality laws like HIPAA and FERPA. It's also difficult when the accommodation is clearly visible and actively in use in the presence of other students, because you, as the teacher, still likely cannot say anything breaking those laws.
 
 Personally, I'd frontload it from day one or as soon as possible while going over classroom management. The intent of this method is to normalize differences rather than call attention to differences.
 
@@ -226,6 +226,32 @@ Without quoting entire blocks of text here, here are some personal observations 
 5. He never yells.
 
 Simply put: if you don't know how to speak to children and/or don't know where to start, take a note from Fred Rogers and his proven success in public broadcasting.
+
+### **Dealing with "Emergencies"**
+
+I fear this may be taken as medical advice, so I'll emphasize: ***this is not medical advice.***
+
+Sometimes students have emergencies. Other times, they have situations that *sound* like emergencies, but really aren't and waste time for everyone else in a classroom setting.
+
+The advice offered here is more towards kids (i.e. elementary school children) vs other types of students.
+
+Simply put, unless that student is:
+- Dead/Dying
+- Bleeding
+- Burning (whether on fire or chemical burns)
+- Broken (e.g. bones or "My arm is bending weird")
+- Barfing
+- Symptomatic signs of a Fever
+- Willing to miss recess to see a nurse/medical professional
+- Showing me verified proof Daft Punk is back
+
+It's not an emergency. It's an excuse for students to distract themselves and potentially others.
+
+Now, that doesn't mean it's *not* an emergency too. Some complaints are mild and you can verify a lot of information from external visuals, such as elbows, legs, arms, and so on. Other complaints may involve subtler external visuals or internal components you may not equipped for dealing with, like neck, head, throat, stomach, nausea, etc. and *should* be taken more seriously.
+- E.g. Sepsis, a condition warranting hospitals establishing sepsis programs, can affect all ages, has a wide range of symptoms, and is life-threatening (Dantes, 2023).
+  - When in doubt, call it out (to a medical professional)
+
+Even for mild complaints, it's still worth double checking at a later point because what may seem mild at first can progress in severity and warrant an emergency.
 
 ### **What about allowing cell phones in the classroom?**
 
@@ -358,6 +384,8 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 2. Bacher-Hicks, A., Billings, S., & Deming, D. (2019, August). *The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime.* [https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf](https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf)
 
 2. Budish, E. B., Cramton, P., & Shim, J. J. (2013). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
+
+3. Dantes, R. B., Kaur H., Bouwkamp B. A., et al. (2023). Sepsis Program Activities in Acute Care Hospitals — National Healthcare Safety Network, United States, 2022. MMWR. Morbidity and Mortality Weekly Report, 72(34). [https://doi.org/10.15585/mmwr.mm7234a2](https://doi.org/10.15585/mmwr.mm7234a2)
 
 3. Ginott, H. G. (1972). *Teacher and Child: A Book for Parents and Teachers.* New York, Macmillan.
 

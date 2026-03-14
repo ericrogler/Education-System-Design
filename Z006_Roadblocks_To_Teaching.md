@@ -72,7 +72,7 @@ Additionally, with any new technology, there's also a learning curve. Some tech 
 It's simple.
 
 1. Turn it off and on again.
-2. If that doesn't work, Google it.
+2. If that doesn't work, Google the problem.
 
 ### **Physical Blockers**
 

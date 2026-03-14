@@ -42,13 +42,15 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney.
+Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney. On that same note, education systems must be allowed to enforce consequences. For many schools and education systems, this means enforcing consequences on the student *and* parent both, but at least the student in *every* education system.
 
 Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
 - E.g. A status quo (existing environment) may persist because people still benefit from it.
 
-The amount of information you can display about students (the *legally* allowed information, obviously) is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice and a lack of communication.
+The amount of information you can display about students is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice and a lack of communication.
 - The amount of time a teacher spends per day with a student is not a reasonable fix, despite people thinking it is. That's not the teacher's issue at that point.
+
+The amount of *legally* allowed information an educator can share is equally staggering. Even in cases such as one student bullying or physically threatening another student, educators may not be allowed to share the information of the students involved due to privacy laws. Though there are exceptions, they are quite narrow in scope.
 
 Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos.
 - Key word: *Sometimes.*
@@ -139,7 +141,7 @@ For adult learners, treat them as students and not friends. You aren't as age-re
 
 With everyone involved here, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
 
-**I also cannot stress enough: parents hold significant leverage.** They're like customers paying to use your product/service. Adult students have similar dynamics to parents, but more based on their own interests rather then their children's interests. Parents also spend significantly more time with students than teachers ever will, so their influence on said student's behavior and actions, as well as the environment they raise the student in, is much higher.
+**I also cannot stress enough: parents hold significant leverage over their children (or an educator's students).** They're like customers paying to use your product/service. Adult students have similar dynamics to parents, but more based on their own interests. Parents also spend significantly more time with these students than teachers ever will, so their influence on said student's behavior and actions, as well as the environment they raise the student in, is much higher.
 - **Simply put, the *parents* typically break or make a child's life, education, and future.**
 - The parent and their child (a teacher's student) should be told "no" sometimes to protect themselves, their children (students), and the entire education system from irreparable damage.
 - From personal observation: a problem at school with a student is typically a problem at home with parents, especially with students showing consistent/persistent bad behaviors.
@@ -189,7 +191,7 @@ Lastly, if you're planning events for teachers where they receive something or g
 
 **Why do students fall under clients? It's because they're the ones receiving your services: the material you're teaching them!** 
 
-You might also think only parents are "stakeholders" for their children/the students. That's not the case in reality. In fact, the education system we're familiar with today has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals to then contribute to society later in their lives. 
+You might also think only parents are "stakeholders" for their children/the students. That's not the case in reality; the education system has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals to then contribute to society later in their lives. 
 
 That's where the comparison to clients stops with them, because this section talks about minors. They're strictly considered children unless they're the legal, adult age in your sovereign state/country.
 
@@ -198,7 +200,8 @@ There are some consistent "truths" I observed with students (young *and* adult) 
 2. Students lie to avoid doing "work" and to avoid consequences.
     - A major reason why I say to collect evidence and document events.
 3. They deal with many of the same problems you had as a child (assuming the reader is an adult here), but with somewhat different mechanisms depending on their environment.
-4. Students cannot control whether or not they come to school. Parents and legal mandates do.
+4. Students (i.e. Minors) cannot control whether or not they come to school. Parents and legal mandates do.
+5. Students are always testing you.
 
 If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. That type of comment is typically a red flag. If a student were truly smart or benevolent, they'd also be smart enough to know not to cause behavioral issues. I've also seen cases where smart people are extremely good at manipulation of staff, peers, etc. to get what they want as well.
 
@@ -277,6 +280,40 @@ There's also some "rules of thumb" to emails/texts I like to follow:
 - [If the sender sends low-value messages like these, I'm ignoring it](https://nohello.net/en/) (No Hello, n.d.)
 
 Over time, you'll develop the intuition for what matters and when/how to respond.
+
+### **The Veteran Worker vs New Manager Scenario**
+
+This could apply to many similar cases, such as:
+- Platoon Sergeant vs 2nd Lieutenant
+- Veteran Nurse vs New Doctor
+- Staff-level Engineer vs Non-technical Manager
+
+In many fields like education, military, medicine, and so on, there's a distinct difference in authority between what I'll call "frontline" (i.e. enlisted) vs "midline/backline" (i.e. officer) staff.
+
+**To emphasize this point: People at all authority levels are not free of mistakes and authority =/= knowledge.** Even someone who is competent and became an authority in a field later on in life *can still be wrong.*
+
+You may have frontline workers with decades of experience under their hat. They know the in's and out's of the systems they work with, know what processes work well and don't work well, and, most importantly, know when someone is about to do something they'll regret.
+
+For stricter organizations, this typically means the lower-ranking employee *must* obey the orders and requests from a higher-ranking employee, even when said orders are definitely terrible ideas.
+
+In this scenario, let's assume you're the higher-ranking employee, you have little to no practical experience, and you want to not be a terrible "leader." Just the desire to not want to be terrible and do the right thing solves 80% of the problems already. The remaining 20% of problems are dealt with methods like:
+- Acknowledging you *will* screw things up and be treated like you don't know what you're doing at first, while accepting this is normal and shouldn't let it disturb you.
+    - Chances are, this organization functioned fine without you and may continue just fine without you too.
+- Not being an asshole.
+- Not changing anything for the first month by learning first how things work.
+    - Unless it's a dire emergency that must be fixed *right now.*
+- Trusting your employees who have significantly more experience than you.
+- Learning about your job and purpose.
+- Learning about the organization, its mission, the equipment you have, etc.
+- Learning about the people under you, what they do (at least at a basic understanding), and find ways to let them do their job well.
+- Seek out the advice of people more experienced than you.
+- Lead by example.
+- Be willing to get your hands dirty and figure out the technical details of how things work.
+
+You may encounter other scenarios, such as a team of veterans on equal authority with disgreements, non-cooperative agendas, and varying competence levels. In cases like these, you'll need proper evidence to support claims, figure out if there's bias in why they're recommending one method over another, and seeing if the dissenters are actually right or wrong. It's possible they could be right too, but poorly communicate or badly explain a point too! While picking a single advisor may seem correct, you also risk filtering decisions and opinions through one filter. Navigating scenarios like these is a skill you'll have to practice over time, but there are ways to help right now:
+- Listening to multiple sides
+- Find track records (historical data) that show where decisions were correct vs incorrect back then vs now.
+- Going through follow-up questions to figure out *why* instead of only what/how.
 
 ### **What If I Don't Know What They're Talking About?**
 

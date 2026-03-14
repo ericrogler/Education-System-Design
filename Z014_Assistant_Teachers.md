@@ -53,6 +53,11 @@ Depending on the subject(s), your TAs may need licenses and certifications to as
 
 **Co-teachers** are licensed teachers assisting with multiple parts of a classroom. Of the categories listed in this chapter, they are the only ones required to have a teaching license alongside the primary teacher/teacher of record. They may share or split teaching duties, work alongside the special needs students, and help with more specialized tasks like meeting accommodations or translating lessons across different languages. Co-teachers may have different backgrounds or similar background as the primary teacher, so they may not be as familiar with your content knowledge but still allowed to assist you in classrooms.
 
+**Student Teachers** are exactly that: students. They're not *your* students though; they're more like an intern you're overseeing at work. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
+
+Assuming you are a current educator reading this, it is safe to assume student teachers are one step below new teachers. It is also safe to assume they may not have much *management* experience like a typical teacher may need to do the role. They'll eventually be in the position current educators are, so your main goal is ensuring they aren't messing up *too* badly, able to mesh into the education system and the environment they operate in, and offering advice when reasonable to do so.
+- And yes, they *will* mess up. It's a matter of when and figuring out how to fix it when they do.
+
 ### **Handling Assistant Teachers**
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're the primary teacher, don't expect your assistant teachers to know what to do if you don't define what they *should* do. 

@@ -76,6 +76,9 @@ You may come across other sets of standards (not to be confused with curricula!)
 
 *They're a necessary evil.* 
 
+This is especially true on standardized tests hosted by third parties or enforced within your own education system. A test like this loses its importance if students can differentiate, opt out of it, and have no stakes if they fail.
+- Yes, not having any stakes counts as cutting corners.
+
 If I were asked for an opinion, I'll claim they help high-achieving, but low-income or underprivileged, students stand on the same stage as more privileged students. I'll also claim they can promote inequality because resources heavily determine what level of preparation you get for them.
 
 To give an example that applies, but isn't related to education to keep neutral context: Medical tests. Imagine you go to the doctor's office for a checkup, and they need to prescribe you a blood test. There might not be anything *wrong* with you, but they're making sure and ruling out possibilities. After you take the blood test, you'll get results and may see items like Albumin, WBC, RBC, Hct, Hgb, MCV, and more. These metrics are pretty well established in the medical community and doctors generally know what these metrics mean and how they're measured. They *could* be subjective on how they interpret results, which may cause a Type I or II error if severe enough, but there's a known, verified baseline they can reference and confirm results.
@@ -97,6 +100,20 @@ Additionally, standardized tests counters multiple issues with adhering to metri
 You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
 
 Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
+
+### **Is Funding Tied to Standards?**
+
+**Yes.**
+
+For a business, if a product didn't perform well and up to the standards of the user, the company producing it needs to figure out a way to recoup losses, cut costs, or risk going bankrupt and out of business.
+
+You may think it's harsh, but I'll ask a question of the reader: Would you knowingly stick with a brand or product that wasn't good?
+- What about if there were no alternatives?
+- What about if you *had* to use it despite whatever issues it had?
+
+The same parallel applies to education systems. Investors and governments consider how a school performs through its ability to meet, or exceed standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of quality. 
+
+If a school is performing well and has a reputable track record, you're more likely to contribute toward it because its ROI (Return on Investment) is higher. If a school doesn't have those qualities, you're less likely to invest into it. How this plays out in policy is through two key examples, No Child Left Behind and Every Student Succeeds Act, which I'll cover more in the Metrics chapter.
 
 ## **Bibliography**
 

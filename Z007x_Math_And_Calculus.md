@@ -24,20 +24,13 @@ The average adult (and people becoming adults) should have math skills. I'm not 
 - **Put another way: If you need to commute, you just need to know how to drive a car.**
     - **Alternatively: At a minimum, learn the high-level concepts.**
 
-I have bias writing this chapter because my background in education is as a Science/STEM Teacher (and substitute teacher). This chapter, however, covers math and some of its applications, *which relates directly to and was necessary to my graduate engineering degree (M.S.I.E.).*
-- Additionally, most Science in general requires a student being proficient in math.
+I have bias writing this chapter because my background in education is as a Science/STEM Teacher (and substitute teacher). This chapter, however, covers math and some of its applications, *based on what I use outside education systems and as part of a graduate engineering degree (M.S.I.E.).*
+- Additionally, most Science in general requires the student proficient in math.
 - Even if you forget most the math here in 5-10 years after initially learning, you'll still (hopefully) retain logical thinking and reasoning habits acquired during the learning process.
 
 I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. Many jobs, especially ones you may not expect at first, utilize higher mathematics to solve problems. A lot of math you may see was also made precisely to solve practical problems too, like in Physics and supply chains, so it's pretty cool to know about and see in action.
 
-If I were to tell you what *minimum* level of mathematics an adult should go through in their lifetime, or have an intuition of, I would likely say the following:
-- *Basic* Data Analysis
-- Calculus
-    - *Which also means Algebra and Trigonometry*
-- Probability
-- Statistics
-
-You don't need to be an expert in these topics, know how to do complex math well, or even expect you'll see an application for all math theories and methods. You should, however, acquire familiarity with the abstract and concepts behind the math to prove properties/things, recognize what is happening, *and* when math is used for deception. 
+You don't need to be an expert in mathematics, know how to do complex math well, or even expect you'll see an application for all math theories and methods. You should, however, acquire familiarity with the abstract and concepts behind the math to prove properties/things, recognize what is happening, *and* when math is used for deception. 
 
 Lastly, you'll want advanced knowledge precisely to know when an advanced method is not the best course of action and to know how to manipulate advanced methods to better suit your needs.
 
@@ -59,9 +52,9 @@ If I had to name *only two* issues affecting math, it'd be the following:
 1. Math perceived negatively is normalized, so being bad at math is "ok" and competency starts sliding down.
 2. How math is taught across *the entire learning sequence* and all related curricula is flawed.
 
-I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take many years to remedy. I'm not here to write a full solution to that because I'm focusing on the *importance* of math, which means more targeting issue 1 over issue 2.
+I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take beyond my lifetime to fix up. I'm not here to write a full solution to that because I'm focusing on the *importance* of math, which means more targeting issue 1 over issue 2.
 
-The main thing stopping people is math is "difficult," but not in ways you'd expect, and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. 
+The main thing stopping people is math is "difficult," but not in ways you'd expect, and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. Due to this difficulty, it may be better to frame certain math topics as "it's easier/more difficult than it appears" rather than a flat easy/hard rating.
 
 Much like with a musical instrument, there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
 
@@ -116,6 +109,27 @@ Reading is important because... well, if you cannot read, then you'll be unable 
 - Students can solve many of their frustrations by simply reading the problem(s) too.
 
 Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
+
+If I were to tell you what minimum level of mathematics a functional adult should go through sometime in their life or have an intuition of, whether through self-learning or formal education, I would say the following:
+- *Basic* Data Analysis
+- Calculus
+    - *Which also means Algebra and Trigonometry*
+- Probability
+- Statistics
+
+If I were to tell you what minimum level of mathematics every student should leave an education system with, because they're likely to use it in "real life" and I'd want them prepared for when math is used against them, it's the following:
+- Arithmetic (Addition, Subtraction, Multiplication, Division)
+- Mental Math and Number Sense (e.g. 7x7 or 6x21 solved quickly without a calculator)
+- Logic Rules (True/False and If/Then/Else)
+- Fractions, Percentages, and Ratios 
+    - e.g. a 1/3 pound hamburger has more meat than a 1/4 pound hamburger
+- Algebra (i.e. Abstraction)
+- Units and Dimensional Reasoning
+    - e.g. 1 liter is bigger than 100 mililiters
+- *Basic* Probability and Estimation
+    - e.g. a d10 consistently has a higher average than a d8, despite a larger range of numbers
+- Communication & Data Interpretation
+    - e.g. correctly reading graphs of various types, like bar and line charts
 
 ### **"But I'll Never Use This"**
 
