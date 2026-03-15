@@ -124,7 +124,7 @@ Let's pretend I'm creating a Force Reconnaissance detachment and I'm doing this 
 - What tasks they can and cannot do
 - What additional requirements for applications and membership
 
-After approval is designing the training further. Let's say I want the detachment to scout objectives and reconnaissance. This may mean training over things like:
+After approval is designing the training further. Let's say I want the detachment to scout objectives and do reconnaissance. This may mean training over things like:
 - Any additions or modifications to general procedures, if applicable
 - How to use detachment assets and equipment
 - New procedures and methods for specialized tasking
@@ -134,13 +134,14 @@ After approval is designing the training further. Let's say I want the detachmen
 
 Training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment.
 
-In a class setting, this is like bringing on teaching assistants from students who passed the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities.
+In a typical education system, this is like bringing on teaching assistants from students who passed the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities.
 
 **Officer/Leadership Training**
 
 Leadership in milsim groups typically requires a long time-in-service, training, and testing before billeting. This is first done by assuming an "acting" role within the milsim group, doubling as a trial period to see their performance acting as the role in live operations. 
 
-Many milsim groups draw upon formal military training (without the classified stuff, of course) to assist people. These programs intentionally weed out people unfit for leadership responsibilities.
+Many milsim groups draw upon formal military training (without the classified stuff, of course) to assist people. These programs intentionally weed out people unfit for leadership responsibilities and the consequence for failure is time lost and requiring you to undergo the entire training/testing once again.
+- Said training is also infrequently hosted in comparison to MOS, Basic, etc.
 
 Training is conducted by senior officers and leaders, covering multiple topics, but usually these at a minimum:
 - Leadership basics and conduct as an authority figure
@@ -159,9 +160,9 @@ Both student teachers and leadership applicants are expected to quickly take a b
 
 The closest comparison for these is "continuing education" or "professional development." 
 
-Typically this is hosted at the squad or platoon level in a milsim group due to constraints in space, scheduling, and getting personnel to attend. 
+Typically this is hosted at the squad or platoon level in a milsim group due to constraints in finding a location/space, scheduling, and getting personnel to attend. 
 
-People inside of these organizations may or may not have to go through multiple FTX to remain in a billet or maintain a particular "rank."
+People inside these organizations may or may not have to go through multiple FTX to remain in a billet or maintain a particular "rank." It depends on the rules and culture of said organization.
 
 The purpose of a FTX is to train cohesion within a group, address deficiencies observed in operations, and develop skills to prepare for future operations. A FTX is run with the implication people in a given role are certified and know *how* to operate that particular role to an acceptable level. This implication permits the instructor to focus less on micromanagement on any one person and permits macromanagement to improve the entire group at once.
 
@@ -170,10 +171,10 @@ Some examples of FTXes may include the following:
 - Bounding and Moving Cover-to-Cover
 - Unit/Weakpoint Identification
 - Shooting Range Drills
-- CQB/CQC Training in a Shoot House
+- CQB/CQC Training
 - Simulations of Operations
 
-For duration, they typically range from 30 minutes to 1.5 hours in length.
+In milsim, they typically range from 30 minutes to 1.5 hours in length.
 
 ### **Leaders Eat Last**
 
@@ -191,7 +192,7 @@ The "leaders eat last" concept is emphasized further through how officers and NC
 
 "Hungry" employees don't perform well, lack trust in the organization, and work out of obligation instead of desire if their well-being isn't taken care of.
 
-To stay concise, readers may look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information.
+To stay concise, readers may look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information (1991).
 
 ### **Precision and the Cost of One Mistake**
 
