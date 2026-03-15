@@ -257,7 +257,7 @@ This isn't a defense of executive pay disparity for people near the top vs the b
 
 As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy.
 
-Let's explore a *bad* implementation in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day. You also prefer explicit over implicit instructions, so you can verifying work was done right and there won't be many issues in the future.
+Let's explore a *bad* implementation in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day. You also prefer explicit over implicit instructions, so you can verify work was done right and there won't be many issues in the future.
 
 Despite that goal, the organization may require meetings to go over work. That's still "normal" because meetings communicate necessary information.
 
