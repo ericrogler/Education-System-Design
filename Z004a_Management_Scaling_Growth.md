@@ -37,11 +37,13 @@ A 5 minute email can have the same, if not better, results than a 1 hour meeting
 **If you don't know why your manager (or superior in general) wants something, it's usually ok to just ask them why it is important.**
 
 The typical ratio of manager to direct reports is around 1 to 7-10, given or take a few more or less direct reports, depending on role, scope, manager experience, and proficiency. It's basically a judgment call.
-- If interested in why I say these numbers specifically, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm).
+- If interested in why I say these numbers specifically, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (1938) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
 
 ## **Long Answer**
 
-I'm going to draw parallels from two places you may not expect to see in a book on instruction and teaching: project/product management and military organization and communications in milsim (military simulation) video games. This is split into separate chapters to distinguish certain information. 
+While you're reading this, I will ask you to temporarily imagine yourself in the role of an educator or a teacher.
+
+I'm going to draw parallels from two places you may not expect to see in a book on education systems: project/product management and military organization and communications in milsim (military simulation) environments. This is split into separate chapters to distinguish certain information and is the former (project/product management)
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
