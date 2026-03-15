@@ -216,7 +216,7 @@ Precision and discipline are universal concepts. Lacking these leads to conseque
 
 ### **Smart Communication**
 
-Communication information is done through various methods, such as:
+Communication of information is done through various methods, such as:
 - Reconnaissance
 - Meetings
 - Face-to-face
