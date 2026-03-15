@@ -230,10 +230,10 @@ Reconnaissance is pretty important. You're gathering information that must be ac
 - Points of Interest (POIs)
 - Infil/Exfil (Infiltration/Exfiltration) route(s)
 
-Another way to put is we used acronyms, abbreviations, markings, and symbols to communicate to other people.
+It's common to use acronyms, abbreviations, markings, and symbols to communicate to other people.
 - It was common to use terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
 
-Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolus effect, wind, and far more variables short range interactions ignore entirely.
+Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolus effect, wind, and far more variables short range interactions get to ignore entirely.
 
 I made three rules for *all* communications in these specialist groups:
 1. Concise
