@@ -255,30 +255,22 @@ This isn't a defense of executive pay disparity for people near the top vs the b
 
 ### **The Bureaucratic Spiral**
 
-As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about corporatization.
+As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy.
 
-What is corporatization?
+Let's explore a *bad* implementation in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day. You also prefer explicit over implicit instructions, so you can verifying work was done right and there won't be many issues in the future.
 
-Let me put it this way.
+Despite that goal, the organization may require meetings to go over work. That's still "normal" because meetings communicate necessary information.
 
-You are hired to perform a job. You *want* to just work on that job and go home. You also would like to be told specifically what you need to do rather than implicit instructions, so you can ensure you did everything OK and (hopefully) have a paper trail to show proof of work.
+However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things.
 
-Despite that goal from an employee or yourself, your organization may require meetings to go over work. That's still "normal" because meetings may be a necessary evil to ensure information is communicated.
+Then those meetings have meetings for scheduling meetings. This becomes a hassle for your current employees, so you hire on someone specifically to handle meetings for employees.
 
-Then those meetings don't get agendas, or they take up too much time talking about non-meeting related things (like the weather, I guess).
-
-Then those meetings have more meetings to plan future meetings out.
-
-Then you hire people specifically to manage all of these meetings.
-
-Then you get a new initiative to adhere to five different activity trackers because multiple levels of organization want to ensure employees are doing work to "earn" a paycheck rather than sitting around and doing nothing.
-
-And instead of simply saying someone is doing good or bad, you design new levels of performance such as meeting expectations and exceeding expectations.
+Then you get a new initiative to adhere to multiple different activity trackers because managers across all layers of an organization want to know their employees are working and not just collecting paychecks. To verify work outputs, new levels of performance are developed such as meeting expectations and exceeding expectations.
 - Except "exceeding expectations" may be what people consider "meeting expectations" and ruins the new system anyway.
 
-All of these new meetings and initiatives to meet and deal with take away time to perform the job you're originally hired to do, which now, ironically, places you and/or the employee at risk of firing/laying off.
+It's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off.
 
-Bureaucracy/Corporitization, when unchecked, creates the very failure it tries to prevent.
+In short, unchecked bureaucracy creates the very failures it tries to prevent.
 
 ### **Scaling Down & Layoffs**
 
