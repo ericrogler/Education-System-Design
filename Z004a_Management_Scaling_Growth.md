@@ -314,6 +314,7 @@ This same general incompetence applies cross-functionally as well. You may have 
 1. Abbey, E. (1991). *The Journey Home: Some Words in Defense of the American West.* Plume.
 
 1. Chute, C. F., Gulick, L., & Urwick, L. (1938). *Papers on the Science of Administration.* Southern Economic Journal, 4(4), 506. [https://doi.org/10.2307/1052808](https://doi.org/10.2307/1052808)
+    - The alternative link source used is a retyped version by Nickols, F. on August 7, 2019 @ [https://www.nickols.us/relationship.pdf](https://www.nickols.us/relationship.pdf).
 
 2. Fadell, T. (2022). *Build.* HarperCollins.
 
