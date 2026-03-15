@@ -43,7 +43,7 @@ The typical ratio of manager to direct reports is around 1 to 7-10, given or tak
 
 While you're reading this, I will ask you to temporarily imagine yourself in the role of an educator or a teacher.
 
-I'm going to draw parallels from two places you may not expect to see in a book on education systems: project/product management and military organization and communications in milsim (military simulation) environments. This is split into separate chapters to distinguish certain information and is the former (project/product management)
+I'm going to draw parallels from two places you may not expect to see in a book on education systems: project/product management and military organization and communications in milsim (military simulation) environments. This is split into separate chapters to distinguish certain information and covers the former reference (project/product management).
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
