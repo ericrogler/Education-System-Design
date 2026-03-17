@@ -295,7 +295,7 @@ You may think about effectiveness and efficiency during reflection. These are tw
 3. Design Council. (2005). *A study of the design process: The Double Diamond.* [https://www.designcouncil.org.uk/our-resources/the-double-diamond/](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
     - The webpage is titled "The Double Diamond" as of this writing.
 
-3. DoD STOP THE BLEED®. (2025). DoD STOP THE BLEED®. [https://www.dodstopthebleed.org/](https://www.dodstopthebleed.org/)
+3. U.S. Department of Defense. (2025). DoD STOP THE BLEED®. [https://www.dodstopthebleed.org/](https://www.dodstopthebleed.org/)
 
 3. Drucker, P. F. (2006). *The Effective Executive: The Definitive Guide to Getting the Right Things Done.* HarperBusiness.
     - Originally published in 1966.
