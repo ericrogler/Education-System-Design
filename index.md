@@ -8,7 +8,7 @@ nav_order: 1
 
 Welcome to *Designing Education Systems*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: March 14, 2026**
+**Last Updated: {{ "now" | date: "%Y, %B %-d" }}**
 
 ### **Wait, a book hosted on GitHub?**
 
@@ -79,7 +79,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2026, March 14). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/Designing-Education-Systems/](https://ericrogler.github.io/Designing-Education-Systems/)
+  - Rogler, E. ({{ "now" | date: "%Y, %B %-d" }}). *Designing Education Systems.* GitHub. [https://ericrogler.github.io/Designing-Education-Systems/](https://ericrogler.github.io/Designing-Education-Systems/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
