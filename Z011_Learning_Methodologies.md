@@ -52,7 +52,7 @@ I'm not a proponent of "individual learning styles" ([see here for further evide
 
 There are many ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
 
-Sleep is also important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, learning and retention drop.
+Sleep is also important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, you won't enhance your learning ability (Walker, 2017).
 
 Sometimes a student might complain that all they ever do is work.
 
@@ -99,7 +99,7 @@ One major problem is when you take a student away from a facility, organization,
 - The backbone to enforce regulations and standards in behavior, education, and conduct.
 - The ability to accommodate any disabilities, special needs, etc. if applicable.
 
-Dedicated school environments have the means and resources to at least meet every item in this list. Parents/Guardians more often than not do not have those means and resources. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s). There's also 
+Dedicated school environments have the means and resources to at least meet every item in this list. Parents/Guardians more often than not do not have those means and resources. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
 
 As time goes by, you'll also need to consistently re-evaluate and judge the situation of the students involved in homeschooling. One cannot reasonably expect to develop a learning plan and expect it to hold 1, 5, or even 10 years without *some* modifications along the way. For the best interests of the student(s), you may need to abandon homeschooling and opt into school systems instead.
 - Of particular note, homeschooling may suffer when you go into advanced/specialized subjects like Calculus and Physics, as the teacher-parent may lack content mastery. This can, however, be alleviated through utilizing multiple community resources.
@@ -122,7 +122,7 @@ If you needed reasons to determine whether you should self-study or seek formal 
     - Doesn't have to be for a full day, but at least part of a day across multiple days.
 - Knowing how to pace your learning (e.g. small steps daily, bite at a time, etc.).
 - Whether you'll find ways to use the knowledge you learn, such as applying knowledge and repeating and iterating to improve.
-- The awareness to check periodicially whether or not you're actually learning the right thing.
+- The awareness to check periodically whether or not you're actually learning the right thing.
 
 ### **The Differentiation Problem**
 
@@ -138,11 +138,11 @@ If you're trying to hold students to *one* consistent standard, but are differen
 
 Where differentiation works exceedingly well is in tutoring or one-on-one instruction. There's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. The likelihood of that happening in a physical classroom is near zero, because there is almost always more than one student per teacher.
 
-The 2-sigma problem, as shown by Benjamin Bloom, also shows statistical significance between students receiving differentiated instruction in a one-on-one setting vs conventional instruction (1984). There's also a philosophy by Bloom indicating mastery of prerequisitive knowledge is important before moving on to new knowledge.
+The 2-sigma problem, as shown by Benjamin Bloom, also shows statistical significance between students receiving differentiated instruction in a one-on-one setting vs conventional instruction (1984). There's also a philosophy by Bloom indicating mastery of prerequisite knowledge is important before moving on to new knowledge.
 
 Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is still out of reach. It's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
 
-As a potential solution, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexbility, but also destandardizes the learner by taking their personal considerations into the design.
+As a potential solution, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
 
 The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. It's also compatible with other teaching methods and frameworks, such as direct instruction and the Agile framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
@@ -160,7 +160,7 @@ There's other aspects I'm against, such as letting students decide how they're e
 
 ### **A "Secret" for Students**
 
-It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I usually cannot help but quietly smirk when the realization hits.
+It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I usually cannot help but quietly smirk when the realization hits and they discover the genius of that marketing slogan and etymology.
 
 As for the actual secret: review the material *before* it's covered in class.
 
@@ -180,7 +180,7 @@ There's also another name for this: *studying.*
 
 ### **Managing Boredom**
 
-Managing boredom is managing dopamine; the brain's reward chemical. Not all boredom is bad and not all lessons need to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future.
+Not all boredom is bad and not all learning needs to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future.
 
 It's like going to a new rollercoaster ride at a park and realizing you need to wait 2 hours in line before you can get on the 3-5 minute ride of a lifetime.
 
@@ -200,9 +200,9 @@ To apply this back to teaching:
 
 Suppose you have ever coached or practiced sports before. You may have experienced spaced practice, interleaved practice, and varied practice but not know there were terms for it (Brown, Roediger, McDaniel, 2014).
 
-**Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material. Review time for materials is typically before someone naturally forgets.  Spaced practice combats the [forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned (Tamm, 2023)(Ebbinghaus, 1885). 
+**Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material. Review time for materials is typically before someone naturally forgets.  Spaced practice combats the [forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned (Ebbinghaus, 1885). 
 
-**Massed practice** is what we do *not* want, compared to spaced practice. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
+**Massed practice** is what we do *not* want, compared to spaced practice. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work (Whedon, 2012).
 
 - If it *does* seem to work, it's an illusion of effective learning and you may forget it all in days.
 
@@ -213,6 +213,7 @@ Suppose you have ever coached or practiced sports before. You may have experienc
 ### **Back to the Basics**
 
 *Alternatively: "Anchored Instruction."*
+- Used in a general sense, but relates to topics The Cognition and Technology Group at Vanderbilt cover as well (1990).
 
 For some readers, this may be a concept which doesn't internalize fully until you have to design your own curriculum and lesson plans.
 
@@ -287,6 +288,7 @@ You want to save time. Non-questions waste time and students who ask these types
 The *only* exceptions here are if you're addressing medical concerns or assisting people with specific accommodations. If neither of those apply, then save time where you can and expect *specific* questions from students.
 
 If you want a solution, you could create something like productive struggle time where they are not allowed to ask for help. Do keep that timeframe limited though or else you may do more harm than good.
+- One example of "productive failure" comes from Kapur (2016).
 
 ### **The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
 
@@ -373,7 +375,7 @@ I see four ways to proceed here:
 3. Survival Tactics
 4. Student Removal
 
-Remediation is costly in time for a teacher, and other relevant staff. Supports, as part of remediation, also risk enabling dependency or feeding into learned helplesness.
+Remediation is costly in time for a teacher, and other relevant staff. Supports, as part of remediation, also risk enabling dependency or feeding into learned helplessness.
 
 Curriculum redesign is costly in time and resources and unlikely to change midway during your school period. You may also push a problem downstream unless the entire educational pipeline is also aligned.
 
@@ -455,7 +457,7 @@ Normally, this type of learning isn't suitable for minors and civilian populace.
 The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learned* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of learning.
 - This part aligns with what I mentioned in a previous chapter: "The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible."
 
-Because it's a high-stress environment, learning is also condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnenomics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
+Because it's a high-stress environment, learning is also condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnemonics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
 
 There's also few, if any, potential distractions, such as a cell phone in your pocket, so you can maximize concentration. The impact of a *single* interruption can mean losing approximately 25 minutes before you're back on task and complete context switching (Mark et al, 2005). If this were an environment where distractions happen every few minutes, or even every few seconds, a distraction-free environment is a significant learning advantage.
 
@@ -478,13 +480,14 @@ Ironically, you prove learning it matters by failing it and experiencing the con
 
 3. Clements, R., & Musker, J. (1997). *Hercules.* Buena Vista Pictures.
 
-3. Ebbinghaus, H. (1885/1913). *Memory: A contribution to experimental psychology.* New York: Teachers College, Columbia University.
+4. The Cognition and Technology Group at Vanderbilt. (1990). *Anchored Instruction and Its Relationship to Situated Cognition*. pp. 2–10. American Educational Research Association.
 
-4. Gladwell, M. (2008). *Outliers: The Story of Success.* Little, Brown and Company.
+3. Ebbinghaus, H. (1885/1913). *Memory: A contribution to experimental psychology.* New York: Teachers College, Columbia University.
+    - (For Future Reading) Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+
+3. Kapur, M. (2016). *Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning.* Educational Psychologist, 51(2), 289–299. [https://doi.org/10.1080/00461520.2016.1155457](https://doi.org/10.1080/00461520.2016.1155457)
 
 5. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
-
-2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* [PC Version]. Chris Parker.
 
 3. Mark, G., Gonzalez, V., Harris, J., & Bren, D. (2005, April). No Task Left Behind? Examining the Nature of Fragmented Work. [https://ics.uci.edu/~gmark/CHI2005.pdf](https://ics.uci.edu/~gmark/CHI2005.pdf)
 
@@ -494,12 +497,15 @@ Ironically, you prove learning it matters by failing it and experiencing the con
 
 6. Nickerson, C. (2022). *Learned Helplessness.* Simply Psychology. [https://www.simplypsychology.org/learned-helplessness.html](https://www.simplypsychology.org/learned-helplessness.html)
 
+2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
+    - Dialogue used written by Chris Avellone.
+
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
 
 8. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. [https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
 
-9. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+1. Walker, M. P. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams.* Scribner, An Imprint Of Simon & Schuster, Inc.
 
-10. Gladwell, M. (2008). *Outliers: The Story of Success*. Little, Brown and Company.
+1. Whedon, J. (2012). *The Avengers.* Walt Disney Studios Motion Pictures.
 
 ## **[Next Chapter](Z012_Homework.html)**

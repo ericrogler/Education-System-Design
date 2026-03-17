@@ -15,7 +15,7 @@ nav_order: 29
 
 ---
 
-AGI (Artificial general intelligence) is possible and AI may even replicate human behaviors. It may take a while to get there *and* not be feasible with current technology, however.
+AGI (Artificial general intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though.
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
@@ -25,12 +25,10 @@ AGI (Artificial general intelligence) is possible and AI may even replicate huma
 Opinion: The public proliferation of AI in just about every field and occupation is the equivalent of letting a person with no training pilot an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it. 
 - In case someone from those companies is reading this: no, this isn't an attack on you. 
 
-It's overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly... *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
+It's overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
 - Automation in history is usually adopted because it was far more effective *and* efficient compared to current methods to solve a problem. If the invention isn't *both* effective and efficient, it may not persist for long or cause detrimental damage to its users over time.
 - The biggest "hidden cost" is ambiguity and accidental complexity.
 - Other examples of overkill: giving frying pans and coffee machines firmware updates and AI.
-
-For a viewpoint on AI centralized primarily on education, I'd give the work of Anne Lutz Fernandez, [specifically her *Help Sheet: Resisting AI Mania in Schools* in Google Documents](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing), a glance as I'll share some viewpoints with them (2025). 
 
 As for technology, we have enough tools to do things we never could've done before in the past, but we also lose the nuance for *how* things work "under the hood." There's also a lot of ways to abuse, exploit, and use technology, despite whatever guardrails you may implement.
 - E.g. Chances are you probably don't know how to change over half the settings on a smart phone do, even if you're someone with one (almost) always on your person.
@@ -75,7 +73,7 @@ Technology, like computers and cell phones, can also be misused by students *and
     - While that's easy to remember, that's just as easy to guess and cause havoc with.
 
 There's also more points to consider with technology:
-- User privileges (e.g. students and staff) are deliberately limited to mitigate permanent damage through software in devices vs administrator privileges (e.g. IT teams).
+- User privileges (e.g. students and staff) may be deliberately limited to mitigate permanent damage through software in devices vs administrator privileges (e.g. IT teams).
 - Unauthorized software may violate licenses and school policies, introducing more legal trouble.
 - Damages may lead to financial responsibility and paying back losses.
 - Malware and insecure software on one system can easily and quickly spread to every other connected system in a network.
@@ -118,7 +116,7 @@ The concept was pretty simple. You receive a list of questions you answer to sup
 - Probably
 - Probably Not
 
-While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
+While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably not only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
 
 In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that is 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8.6 billion people* on Earth.
 
@@ -126,7 +124,7 @@ The more questions you answer, the more likely it is to narrow down the correct 
 
 To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. That means it moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
 - In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtracks a few nodes/steps.
-- More technically speaking, it is o(log(n)) time complexity.
+- More technically speaking, it is O(log n) time complexity.
 
 If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the values of yes/no you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
 
@@ -136,7 +134,7 @@ Combine that concept with over 10+ years of many people using Akinator and many 
 
 Getting AI to do something isn't the same as you doing something yourself. It's like a client describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer. Intent is not authorship.
 
-Most AI use in education is *doing the work for someone else* (not to be confused with having the work done). If a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
+Most AI use in education is *doing the work for someone else* and should not to be confused with getting the work done. If a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
 - For example: the text you're reading now. AI could generate an answer for everything here, but I know the material here because I did the human element; putting in the work *and writing the thing in the first place.* The act of going through the work reinforced my knowledge, which is crucial for learning.
 - AI used in this way also permeates a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand.
 
@@ -170,9 +168,9 @@ Before continuing, I'll emphasize important points about AI that mirror my views
 - AI can hallucinate wrong answers with confidence.
 
 That said, AI is a complicated topic. The velocity, volume, value, variety, and veracity of AI development increase year after year, month after month, and much of what I say could be invalidated within less than a year, if not 5 years. 
-- For another nuanced take on AI, you can [refer to this blog post by Thomas Ptacek](https://fly.io/blog/youre-all-nuts/) (Warning: language) (Ptacek, 2025).
+- For another nuanced take on AI, you can [refer to this blog post by Thomas Ptacek](https://fly.io/blog/youre-all-nuts/), but mind the language (Ptacek, 2025).
 
-According to Simon Willison, on his Weblog in June 2025, the past six months (December 2024 to June 2025) *alone* there were multiple advancements in AI, including but not limited to (Willison, 2025):
+According to Simon Willison on June 2025, in December 2024 to June 2025 *alone* there were multiple advancements in AI, including but not limited to (Willison, 2025):
 
 - Amazon's Nova models
 - DeepSeek V3
@@ -182,7 +180,7 @@ According to Simon Willison, on his Weblog in June 2025, the past six months (De
 
 ### **The Hidden Complexity of AI**
 
-When people typically use AI, at least in the years 2022-2025, they describe what they want and AI tries to do it. This is where problems are far more noticeable, but not necessarily where problems start. It's also not just a case of "trash in, trash out" either. 
+This is where problems are far more noticeable, but not necessarily where problems start. It's also not just a case of "trash in, trash out" either. 
 
 Let's pretend I'm a human acting as AI for an example. Say you ask me, a human, to cook eggs for breakfast. I interpret the task as is and try to complete it. When you receive the eggs though, they aren't what you were hoping they'd be.
 
@@ -234,7 +232,7 @@ As a stern reminder, anything listed under "Recommended AI Use" still requires a
 
 ### **How effective is AI Really?**
 
-In my opinion, as of November 2025, AI's current implementation is not terribly effective (yet) and many expectations are overblown. It can do things fast, but make mistakes just as fast. That's why you need a human verifying AI outputs.
+In my opinion, AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways. It can do things fast, but make mistakes just as fast. That's why you still need a human verifying AI outputs. You can make some parallels to AI learning like how a human may learn though.
 
 Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to reason through and sufficiently cover here.
 
@@ -242,7 +240,7 @@ What it can do *really* well is pattern based work. Even then, it's still uninte
 - E.g. It may know tomato is a fruit, but may not know not to put it in fruit salad.
 
 AI cannot understand like a human can. Overdependence on AI by humans breeds normalized incompetence, which will be a rapidly growing problem alongside ever-growing costs as data complexity increases. It can generate answers like a human can, which means it can generate *incorrect* answers and slip up like a human can too.
-- AI models always give *an* answer, even under uncertainty, rather than say they don't know. They don't know that they don't know.
+- AI models often give *an* answer, even under uncertainty, rather than say they don't know. They don't know that they don't know.
 - Cleaning up messes is generally harder than preventing messes in the first place.
 
 Another problem I see with AI is when people want to automate large projects or work at large scale. It is a resource sink in every way possible, whether through time, cost, staff, and management. The more things you try to automate, the resources required to create *and maintain* that automation exponentially increases. If you really need to automate something, then I'd say three things before attempting to do so:
@@ -250,23 +248,22 @@ Another problem I see with AI is when people want to automate large projects or 
 2. Assume whatever solution you make *will* cause problems and you need to maintain it for a long time.
 3. Your operating costs may drastically increase with AI vs no AI.
 
-I would say AI is better for people with prior domain expertise, as they can differentiate right and wrong and boost productivity with it. AI, however, is detrimental to those with lower background knowledge as it's more likely to create technial debt and these people may not accurately, or precisely, tell if outputs are good or bad.
-- This aligns with views I've seen from other professionals in the technology sector, namely [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
+I would say AI is better for people with prior domain expertise, as they can differentiate right and wrong and boost productivity with it. AI, however, is detrimental to those with lower background knowledge as it's more likely to create technical debt and these people may not accurately, or precisely, tell if outputs are good or bad.
+- This aligns with views I've seen from other professionals in the technology sector and their perspectives, such as [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
 - Technical debt can also be avoided by not over-engineering something that doesn't matter in the next six months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future.
 
 Despite that viewpoint, I wouldn't be surprised if someone told me people were *addicted* to AI, what it provides, and its capabilities. It's a technological marvel enabling the average user to interact with data and models with plain languages like English rather than coding languages like Python and R. It can solve problems in seconds what used to take some people days or longer to achieve. It can create life-saving medicines and discover methods humans may not normally achieve in their lifetimes.
 
 All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it, so it's no surprise to me sudden and easy access to it may cause attachment.
 
-It isn't a stretch to believe AI acquired sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert. Many people unintentionally, or intentionally, insert private/legally protected information into an AI model, which means it then *can* utilize that data. AI can, and has, been utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of these feats, showing accessibility is an additional concern.
-- A seemingly innocent case may be using AI to parse content and generate summaries of a website on a search engine so you don't have to visit the website to learn about something.
+It isn't a stretch to believe AI acquired sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert. Many people may unintentionally, or intentionally, insert private/legally protected information into an AI model, which means it then *can* utilize that data. AI can, and has, been utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of these feats, showing accessibility is an additional concern.
+- A seemingly innocent case may be using AI to parse content and generate summaries of a website on a search engine so you don't have to visit the website to learn about something (Law & Guan, 2026).
 
 There's also only so much data available to train an AI model on. A lot of available data is built upon centuries and millenia of prior information generated by people and translated into machine readable formats. It's entirely possible to "run out" of data to feed an AI to let it solve problems, which may inhibit its progress and slow improvements to its functions.
 
-Views towards AI may also be distorted by adminstrative, managers, and directors thinking they can use AI to replace junior staff as well. That, however, means eliminating people you can train up to be seniors with domain expertise. If a company, nation, etc. invests so much into AI it replaces human labor, and by extension *paid* human labor for *free* AI labor, then how do humans afford goods and services or contribute to the economy?
-- If you've seen Jurassic Park before, AI is the "could vs should" elephant in the room.
+Views towards AI may also be distorted by administrative, managers, and directors thinking they can use AI to replace junior staff as well. That, however, means eliminating people you can train up to be seniors with domain expertise. If a company, nation, etc. invests so much into AI it replaces human labor, and by extension *paid* human labor for "*free*" AI labor, then how do humans afford goods and services or contribute to the economy?
 
-AI can also use survivorship bias to its advantage through selection pressure; a force causing a particular trait/attribute to more likely survive in certain conditions. For example, say you publicly transmit the outputs of AI into a wider audience. That same audience can report whether it's made by AI or a human. Most AI content would get correctly flagged this way, but some AI-written content still makes it through. People reporting content may also state *why* it appears AI-written as data you can utilize. You can train a model on which content was flagged vs which content was not flagged to increases the chances of creating unflagged content. The implications for this are scary; as more AI content passes as human-made, it becomes harder to detect what is developed by AI and what is developed by humans.
+AI can also use survivorship bias to its advantage through selection pressure; a force causing a particular trait/attribute to more likely survive in certain conditions. For example, say you publicly transmit the outputs of AI into a wider audience. That same audience can report whether it's made by AI or a human. Most AI content would get correctly flagged this way, but some AI-written content still makes it through. People reporting content may also state *why* it appears AI-written as data to utilize. You can train a model on which content was flagged vs which content was not flagged, and even *why* it was flagged, to increases the chances of creating unflagged content. The implications for this are scary; as more AI content passes as human-made, it becomes harder to detect what is developed by AI and what is developed by humans.
 - A commonly cited survivorship bias example is from [Abraham Wald on plane vulnerability](https://web.archive.org/web/20190713234909/https://apps.dtic.mil/docs/citations/ADA091073) (1943). 
 
 Lastly, AI is an umbrella for many types of automation and large language models (LLMs) are one item under that umbrella. While general AI may not be performing all that well, highly specialized machine learning tools dedicated to fields like astronomy, law, production, translation, and even medicine perform a select set of tasks and pattern recognition *exceedingly* well. Machine learning, while often lumped together with LLMs (large language models) and General AI (AGI), is extremely useful with real potential for improvements, but I'd caution against overexaggerating its capabilities.
@@ -278,7 +275,7 @@ In general, cost and latency (time taken) scale with scope. The larger the scope
 The most straightforward cost is the sheer quantity of data required to train AI (i.e. be "artificial general intelligence"). It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into a *single* model for training. The necessary amount increases with the more tasks you want AI to do and decreases with fewer tasks. Additionally, the more data to process, the more time it takes to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
 
 AI and related systems, like LLMs, have many of the following traits:
-- AI frequency/usage can multiply costs like complexity does and accure *for each user request* in addition to any initial setup costs.
+- AI frequency/usage can multiply costs like complexity does and accrue *for each user request* in addition to any initial setup costs.
 - Expanding depth or breadth alone is costly, even with simple or complex problems.
 - Investing into *both* depth and breadth, or the ability to handle multiple areas well, is exponentially costly.
 - Data complexity for training AI exponentially increases with more depth or breadth.
@@ -294,9 +291,6 @@ As for who pays, or has ownership of, the *cost* of AI/automation, that's probab
 
 There could be other situations, but those three above seem the most likely. Nevertheless, because there is a *cost,* it needs to be paid or else you accrue debt and suffer from undue/unexpected expenses. If it remains unowned/unused, it's a resource to try and delete so it no longer drains monetary resources. If you need an effective, though crude, method to find who needs a resource, disable or remove it and wait until you find the person that complains the loudest.
 
-Additionally, these costs aren't anything new or emerging with the rise of GenAI/AGI post-COVID or after 2020-2022. Automative engineering, since at least the 1990s, has exponential complexity as modern cars add more services, systems, and automated features. This means the numbers of interactions between all these new systems and services also increases inside cars (Walus, 2022).
-- For any software engineers reading this, it's like dealing with at least O(n²) and O(2ⁿ) complexity as you're scaling systems.
-
 I'll emphasize this part only talks about cost and complexity in automation. It doesn't cover whether risk increases with complexity, the breakeven points of complexity with task automation vs manual tasking, the Pareto efficiency of adding more automation features, and many more applications. I believe highlighting underlying costs is important as it may be overshadowed by all the benefits AI could provide.
 
 You could also design your own AI instead of utilizing another AI service another provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay high costs per use, but you may lack the sheer processing power and quality of life a provider can afford through more resources and technology backing their models.
@@ -304,7 +298,7 @@ You could also design your own AI instead of utilizing another AI service anothe
 
 ### **Potential Solution(s) to AI in Class Settings**
 
-As a reminder, AI can do some tasks really well and other tasks it flops down like a sad pancake on a griddle. If anything, it may make teachers and instructors go *more* analog rather than more technical and avoid its implementation.
+As a reminder, AI can do some tasks really well and other tasks it flops down like a sad pancake on a griddle. If anything, it may make educators go *more* analog and avoid its implementation.
 
 Still, if a AI program writes your essay or does an assignment in general for you, it's called cheating and academic dishonesty. You're claiming you did the work, despite another entity actually doing it for you instead.
 
@@ -325,24 +319,23 @@ I suppose if you want to try a different twist: you could create an assignment r
 
 1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. [https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf)
 
-2. Fernandez, A. L. (2025, November 25). *Help Sheet: Resisting AI Mania in Schools*. Google Documents. [https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing) 
-
 2. Flynn, A. N., Takahashi, T., Sim, A., & Brunstrom, J. M. (2025). *Dish swap across a weekly menu can deliver health and sustainability gains.* Nat Food 6, 843–847. [https://doi.org/10.1038/s43016-025-01218-8](https://doi.org/10.1038/s43016-025-01218-8)
 
 2. Google Developers. (2025). *Machine learning crash course*. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
+
+2. Law, R., Guan, X. (2026, February 4). Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs. [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
 
 3. Leath, M., & Geho, L. (2025, November 6). *Password to Louvre’s video surveillance system was “Louvre”, according to employee.* ABC News. [https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
 
 4. Ptacek, T. (2025, June 2). *My AI skeptic friends are all nuts*. Fly.io Blog. [https://fly.io/blog/youre-all-nuts/](https://fly.io/blog/youre-all-nuts/)
 
 5. Scott, R. (1982). *Blade Runner.* Warner Bros.
+    - Screenplay by Hampton Fancher and David Peoples.
 
 5. Stetskov, D. (2025, September 25). *AI Won’t Save Us From the Talent Crisis We Created.* Substack.com; From the Trenches. [https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis)
 
 5. Wald, Abraham. (1943). *A Method of Estimating Plane Vulnerability Based on Damage of Survivors.* Statistical Research Group, Columbia University. CRC 432 — reprint from July 1980. Archived 2019-07-13 at the Wayback Machine. Center for Naval Analyses.
     - [https://web.archive.org/web/20190713234909/https://apps.dtic.mil/docs/citations/ADA091073](https://web.archive.org/web/20190713234909/https://apps.dtic.mil/docs/citations/ADA091073)
-
-5. Walus, S. (2022, March 17). *How to deal with exponential complexity in automotive engineering*. Linkedin.com. [https://www.linkedin.com/pulse/how-deal-exponential-complexity-automotive-szymon-walus](https://www.linkedin.com/pulse/how-deal-exponential-complexity-automotive-szymon-walus)
 
 5. Willison, S. (2025, June 6). *The last six months in LLMs, illustrated by pelicans on bicycles.* [https://simonwillison.net/2025/Jun/6/six-months-in-llms/](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 

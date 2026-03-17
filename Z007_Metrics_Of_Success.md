@@ -10,7 +10,7 @@ nav_order: 13
 ## **Short Answer**
 > "When a measure becomes a target, it ceases to be a good measure."
 
-- Goodhart's Law (1975) 
+- Paraphrase attributed to Marilyn Strathern on Goodhart's Law (1997) 
 
 > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
 
@@ -52,7 +52,7 @@ You want to choose the right metrics to gauge success. A single metric risks bec
 
 There are two types of data associated with metrics: quantitative and qualitative. Quantitative data is a specific and objective measure capturing numbers, quantities, and ranges. Qualitative data is based on subject and explanatory measures of qualities, traits, and characteristics. In short, quantitative is numbers and qualitative is words and images. Quantitative data may work alongside qualitative data, or separate from quantitative data, depending on your needs.
 
-It is possible to convert qualitative data into quantitative data through methods like sentiment analysis, natural language processing (NLP), and machine learning (ML). You can convert from quantitative to qualitative, but it is rarely done outside of categorizing, bucketing, and labeling. Quantitative data also feeds models optimized through techniques like simulated annealing.
+It is possible to convert qualitative data into quantitative data through methods like sentiment analysis, natural language processing (NLP), and machine learning (ML). You can convert from quantitative to qualitative with categorizing, bucketing, and labeling.
 
 Details of these techniques are beyond this guide, but awareness helps if you decide to pursue deeper analysis later.
 
@@ -97,7 +97,7 @@ Most analysis of results should be treated as a snapshot rather than a valid per
 There's also metrics not related just to students, but also staff members (and sometimes parents). These may focus on morale, finances, and general resource allocation. Some examples include:
 - Parent Engagement
 - Teacher Retention
-- Morale and Satisfation
+- Morale and Satisfaction
 - School Quality (physical conditions primarily)
 - Per-Pupil Expenditure
 - Teacher Qualifications
@@ -128,7 +128,7 @@ I could go on and on about other examples. Number of pages, word count, step cou
 
 ### **What If Metrics Mean Different Things?**
 
-If a metric means something different for mutliple people, you're on the highway to communication errors, which potentially means lower performance and lost revenue.
+If a metric means something different for multiple people, you're on the highway to communication errors, which potentially means lower performance and lost revenue.
 
 If you're in a position to do it *and maintain it* (because things always change over time), start with a single document or wiki page outlining what the metrics are, what each metric means, and how each metric is measured. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Afterwards, force every report and dashboard across the *entire* organization to adhere to that "common language" you established.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
@@ -180,8 +180,10 @@ There's an example I like to talk about where a better result occurs in practice
 - There's even [a dedicated case study on this topic](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) from Ericka O'Connor (2019).
 
 Designs need to consider similar accessibility laws. Instead of ESSA and LRE, however, it's ADA, Section 508, and WCAG (Web Content Accessibility Guidelines). Someone may risk legal actions if they aren't designing with consideration for these rules.
+- Aside: Section 508 is specifically for federal agencies/programs, not a universal rule.
 
 There were two main levels of WCAG compliance, AA and AAA, when the case study was written in 2019. Designs should meet a minimum contrast ratio of at least AA, or 4.5 for small text and 3 for large text, but a higher "value" is generally better. For reference, contrast ratio is how well text of one color appears against a background of another color.
+- As of writing this (2026), WCAG has since been updated and the above was relevant for WCAG 2.1.
 
 In that same article, the contrast ratio for black text on orange background was 6.44, or AA, while the contrast ratio for white text on orange background was 3.26, or AA (for large text requirements). Despite metrics indicating black was better, white text had a human factor play where 61% of participants found white on orange was easier to read compared to 39% with black on orange.
 
@@ -194,10 +196,10 @@ This exception is here to remind you of two things:
 In the United States, as of March 2026, there's multiple ways to evaluate its learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
 - These particular examples deal with K-12 education instead of tertiary/university education.
 
-TIMSS is an ongoing assessment handling mathematics and science; I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
+TIMSS is an ongoing assessment handling mathematics and science; I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years with some variation, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
 - There's also evaluations based on the environment, such as home environments vs school environments, to provide context and better interpret reasons for any results.
 
-PISA focuses on mathematics, reading, and science to test student's subject understanding "in and out of schools for their full participation in societies" (OECD, n.d.). Though PISA focuses on those subjects, they alternate which subject has the greatest focus on a given survey year and include minor topics, such as financial literacy and creative thinking. Multiple countries across Earth take part in its assessments and testing is done by student *age* (15-year-old students) as it's when they're nearing the end of compulsory education. Unique aspects compared to other assessments PISA achieves is similar to how data analysts approach data: finding ways to answer "business" questions. To summarize some examples what it aims to answer from OECD's own website (same OECD source as before, n.d.):
+PISA focuses on mathematics, reading, and science to test student's subject understanding "in and out of schools for their full participation in societies" (OECD, n.d.). Though PISA focuses on those subjects, they alternate which subject has the greatest focus on a given survey year and include minor topics, such as financial literacy and creative thinking. In most participating countries, its assessments and testing is done by student *age* (15-year-old students) as it's when they're nearing the end of compulsory education. Unique aspects compared to other assessments PISA achieves is similar to how data analysts approach data: finding ways to answer "business" questions. To summarize some examples what it aims to answer from OECD's own website (same OECD source as before, n.d.):
 - Are schools preparing young people for adult life?
 - Can students properly apply skills and knowledges to problems?
 - What are their motivations and beliefs for learning and self-improvement?
@@ -230,7 +232,7 @@ There's two immediate ways that came to my mind to manipulate this.
 
 *Which of these can you implement right now at zero to low cost?*
 
-If you guessed #1 *and* #2, you are correct. It is disturbly easy to accomplish these methods as well, even if they're legally and ethically questionable. 
+If you guessed #1 *and* #2, you are correct. It is disturbingly easy to accomplish these methods as well, even if they're legally and ethically questionable. 
 
 A school system, across its entire journey, should function as a increasingly more difficult filter and impose more responsibilities and accountability as students age. When this metric, and related success metrics, are manipulated to display good results, it undermines the entire intellectual journey and affects the education system *as a whole* at the expense of every student. If you manipulate what counts as success and lower the standards to meet success, or also remove accountability for students not meeting educational expectations, it removes legitimate standards to prepare students for what comes next in their lives.
 
@@ -271,7 +273,7 @@ If this is a success metric, you may perform mass adoption strategies, or reachi
 
 Though generally you want high enrollment, you may risk pursuing high enrollment at the cost of other metrics such as:
 - Engagement
-- Perfomance
+- Performance
 - Retention
 
 It's not to say enrollment is entirely a bad metric. For example, let's say you track enrollment numbers and there's a sudden drop in students from one year to the next year. This is indicative of a problem warranting investigation and figuring out what the cause is.
@@ -301,12 +303,12 @@ Normally I'd place these in the Legality chapter, but I believe these acts apply
 
 For context, No Child Left Behind doesn't exist anymore. It was sunsetted and replaced in 2015 with the Every Student Succeeds Act (Hirschfeld Davis, 2015).
 
-If you were to ask many experienced teachers who worked during the late 1990's and early 2000's about these acts, they might call it "the politicization of education" as it changes the focus to standardized testing and meeting metrics; typically at the cost of everything else.
+If I were to assume any opinions about these acts:
 - It's cutting instruction time to prove instruction is effective (i.e. a focus on testing at the exclusion of other items).
 - It also encouraged passing up students into higher grades, despite clear evidence they are not ready to progress in the next step of their learning journey (i.e. grade inflation to prevent failure).
 
 To avoid delving into politics too much, the most practical consequence of not meeting outlined goals and requirements was a loss of funding. Though there was "no child left behind" and "every student succeeds" ***on paper***, students were left behind in practice.
-- E.g. A 12th grader with a 5th grade reading level eligible for graduation.
+- E.g. As a hypothetical, a 12th grader with a 5th grade reading level eligible for graduation.
 
 These acts are responsible for establishing metrics as a target to meet, which means the education system changes, for better or for worse, towards a metrics-based system. You may also see more staff and more bureaucracy, at the administrative or support level, to hold people responsible for meeting these metrics. You may also see an increase in perverse incentives or initiatives which, despite good intentions, usually backfire.
 
@@ -338,8 +340,6 @@ Let's say you're looking around various options. You want the best option you're
 Adding in the context from earlier, there's no logical leap to make and it makes perfect sense that students will go to the "best" school they can get into.
 
 Open enrollment doesn't generate bad schools; it merely exposes what school is considered "bad" based on several metrics, then offers options to go into other schools which may perform better. If poor performance schools lose enough students to better schools, then they may close down. That action, however, lowers the amount of schools in the pool students *can* go to, which increases the risk of overcrowding and negates whatever benefits open enrollment wanted to achieve.
-
-Open enrollment shares parallels with the effects on economic growth as well. Pooling resources, in this case students, into a smaller group of well-off schools and taking away from other schools ironically increases inequality further. If inequality keeps increasing, the amount of resources left over for schools suffering from a loss of students and a lack of resources, despite their metric performance, eliminates the capacity for growth and permits less students to get into education.
 - Though not directly related, an article from Josh Bivens talks more about economic inequality through "secular stagnation" (2017) and may establish more parallels.
 
 Though open enrollment permits mobility for many groups, system-wide issues affecting that same policy stop it from generating any real gains.
@@ -347,7 +347,7 @@ Though open enrollment permits mobility for many groups, system-wide issues affe
 
 ### **Data and Data Issues**
 
-Many organizations collect data on all sorts of things. This isn't limited to education systems; data is a trend for all kinds of businesses.
+Many organizations collect data on all sorts of things. This isn't limited to education systems either.
 
 The problem arises in three ways: 
 1. There is too much data to process in a reasonable timeframe.
@@ -362,7 +362,7 @@ The problem arises in three ways:
 
 Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
 1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
-2. Very few people, if no one, wants to govern data (i.e. set data policies).
+2. Very few people, if no one, wants to govern data (i.e. set data policies) from observation.
 3. Many stakeholders don't know what they want, are vague, or change expectations frequently.
 4. Access to data (and technology/tools) you need for your duties may be restricted outside your control.
 
@@ -397,6 +397,7 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
 1. Fields, E. (2024, November 15). *How do you measure student success?* Enrollify. [https://www.enrollify.org/blog/how-do-you-measure-student-success](https://www.enrollify.org/blog/how-do-you-measure-student-success)
 
 3. Goodhart, C. (1975). *Problems of Monetary Management: The UK Experience.* Papers in Monetary Economics. Papers in monetary economics 1975; 1; 1. - [Sydney]. - 1975, p. 1-20. Vol. 1. Sydney: Reserve Bank of Australia.
+    - Paraphrase attributed to Marilyn Strathern (1997).
 
 1. Hirschfeld Davis, J. (2015, December 11). President Obama Signs Into Law a Rewrite of No Child Left Behind. The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
 

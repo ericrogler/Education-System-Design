@@ -79,8 +79,8 @@ A textbook designed at a national level and not at the state level is one reason
 Though the textbook may not provide all necessary information (or even too much information), they're still a valid source of truth to satisfy the standards and objectives teachers and instructors need to cover. Because they do provide information to satisfy multiple standards, it's not always necessary for a teacher to fully cover every detail inside of one textbook for a given class; especially if some parts don't align with your standards.
 - For 1:1 instruction, specialized groups, and private tutoring, the entire textbook *may* be covered instead, but that's more doable for that specific environment compared to typical classrooms.
 
-As an aside, also be careful when textbooks come with new "editions." These can range from changing a couple things in errata to complete rewrites. Sometimes this means staying up to date means rebuying textbooks (which the companies writing and publishing likely want because what business doesn't want money, right?). This could also mean an old textbook from 10+ years ago still meets standards with a bit of scaffolding and supplements, many of them potentially free, added in here and there.
-- To give a "fun" example of when you should upgrade editions: Pathfinder 1e vs Pathfinder 2e.
+As an aside, also be careful when textbooks come with new "editions." These can range from changing a couple things in errata to complete rewrites. Sometimes this means staying up to date means repurchasing textbooks (which the companies writing and publishing likely want because what business doesn't want money, right?). This could also mean an old textbook from 10+ years ago still meets standards with a bit of scaffolding and supplements, many of them potentially free, added in here and there.
+- To give a "fun" example of when you should upgrade editions: a tabletop RPG with Pathfinder 1e vs Pathfinder 2e.
     - Multiple, significant changes exist between the two editions, so you should get a copy of the new edition to stay updated and accommodate players who need/want to use the new rules and systems.
 
 ### **The "PDF" of a Book (and its Citations)**
@@ -133,7 +133,7 @@ Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, if 
 To emphasize again: I find Wikipedia better suited as a reference *after* you have base knowledge of topics, or exploring topics related to what you already know, rather than a resource for learning new material. The website's goal is not on pedagogy, or even andragogy; it's an encyclopedia (which are not ideal for *learning* new topics).
 - From personal experience, with some bias, on my end: Wikipedia for mathematics. You're better off reading a textbook, or another resource outlining a defined path, and doing math rather than reading about math on Wikipedia for learning purposes.
 
-### **The Dark Side of the Moon (Not by Pink Floyd)**
+### **The Dark Side of the Moon**
 
 **What should work in theory doesn't always work as well in practice.**
 
@@ -141,12 +141,12 @@ Academia operates under controlled settings and takes into account many assumpti
 
 That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, refute their findings based on later evidence.
 
-As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, work well but have relatively dated sources. I've also seen new research crop up, but only last for 3-5 years as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100 years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
-- This may be formally referred to as part of the Lindy Effect (Mandelbrot, 1982).
+As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100 years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
+- This may be formally referred to as part of the Lindy Effect (Taleb, 2012).
 
 Because the conditions are controlled, however, this may lead to "Luxury Beliefs" which is ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, which runs counter against providing consistent equity for education in the first place!
 
-With research, there may also be issues with p-hacking, replication failures, variable control issues, correlation and causation issues, and bias inserted into the research. There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
+With research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
 
 Additionally, some people conducting the research on education and classrooms may have never *taught* in a classroom before, which may remove vital context to inform their findings and draw conclusions. This lack of content may or may not be their fault either; acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research. What that means is they may acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
 
@@ -158,7 +158,7 @@ Not all educational research is bad. Some research is good and research on how t
 
 Perhaps you're a teacher, instructor, or something similar and want to explore content you have *some* familiarity with. Perhaps you have *no* familiarity with the content itself, but you are familiar with the system, its rules/laws, and the process to integrate content from outside into the system.
 
-This is where a panel of experts, or subject matter experts (SMEs) comes in. To stay concise, they are "individuals who have a deep understanding of a specific subject" (Watts, 2024). You may need one of these people for examples such as:
+This is where a panel of experts, or subject matter experts (SMEs) comes in. To stay concise, they are individuals with understanding of a specific field. You may need one of these people for examples such as:
 - A virologist making corrections to your explanations on infectious diseases.
 - An aviation expert checking the algorithms and formulae for aerodynamics and physics.
 
@@ -171,37 +171,42 @@ These experts you should happily accept into helping design an education system,
 ## **Bibliography**
 
 1. Brewer, C. A. (2016). *Designing better maps: A guide for GIS users.* Esri Press. [https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401](https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401)
+    - Further Reading Source
 
 2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning.* The Belknap Press of Harvard University Press.
+    - Further Reading Source
 
 3. Duarte, N. (2010). *Resonate: Present visual stories that transform audiences.* John Wiley & Sons, Inc.
+    - Further Reading Source
 
 4. Greever, T. (2015). *Articulating design decisions: Communicate with stakeholders, keep your sanity, and deliver the best user experience.* O'Reilly Media, Inc.
+    - Further Reading Source
 
 5. Hall, E. (2024). *Just Enough Research.* Mule Books. [https://www.amazon.com/Just-Enough-Research-Erika-Hall-ebook/dp/B0DJWS2SL1](https://www.amazon.com/Just-Enough-Research-Erika-Hall-ebook/dp/B0DJWS2SL1)
+    - Further Reading Source
 
 6. Harvard Library. (n.d.). *Evaluating Sources.* [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
 7. Henderson, R. (2022, June 12). *Luxury Beliefs are Status Symbols.* www.robkhenderson.com. [https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 
-1. Inoue, T. (2003). *Vagabond* (Vol. 4). VIZ Media LLC. (Original work published 1999)
+1. Inoue, T. (2003). *Vagabond* (Vol. 4). VIZ Media LLC. (Original work published 1999). ISBN: 978-1-56931-854-6
 
 7. Kansas State University Libraries. (n.d.). *Evaluate Sources.* [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 
 8. Knaflic, C. N. (2025). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
 
 9. Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to solve big problems and test new ideas in just five days.* Simon & Schuster. [https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
+    - Further Reading Source
 
 10. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
-
-11. Mandelbrot, Benoit B. (1982). *The Fractal Geometry of Nature.* W. H. Freeman and Company. p. 342. ISBN 978-0-7167-1186-5.
-    - [Alternative Source/Direct Link](https://archive.org/details/fractalgeometryo00beno/page/342/mode/2up)
+    - Further Reading Source
 
 11. McCandless, D., et al. (n.d.). *Information is beautiful.* [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
 12. Microsoft. (n.d.). *Power BI.* [https://powerbi.microsoft.com/en-us/](https://powerbi.microsoft.com/en-us/)
 
 13. Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee.
+    - Further Reading Source
 
 14. Python Graph Gallery. (n.d.). *The Python graph gallery.* [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
 
@@ -209,9 +214,14 @@ These experts you should happily accept into helping design an education system,
 
 16. Sheppard, T. (1895, December). On the occurrence of Scandinavian boulders in England. *The Glacialists’ Magazine: A Quarterly Record of Glacial Geology, 3*(3), 129–132. F. H. Butler. [https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152](https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152)
 
+18. Taleb, N. N. (2012). *Antifragile: Things That Gain from Disorder*. Random House. ISBN: 1-400-06782-0.
+
+17. Ulrich, R., & Miller, J. (2020). *Questionable research practices may have little effect on replicability.* ELife, 9. [https://doi.org/10.7554/elife.58237](https://doi.org/10.7554/elife.58237)
+
 17. *United States Department of Defense.* Defense.gov Transcript: DoD News Briefing - Secretary Rumsfeld and Gen. Myers. (2002, February 12). [https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636](https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636)
 
 18. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing.
+    - Further Reading Source
 
 19. Watts, M. (2024, October 14). *Subject Matter Experts: Key Players in Process Improvement and Business Success.* iSixSigma. [https://www.isixsigma.com/dictionary/subject-matter-expert-sme/](https://www.isixsigma.com/dictionary/subject-matter-expert-sme/)
 

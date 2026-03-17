@@ -88,7 +88,7 @@ The best part? You could include almost all of this on a single Google Document.
 
 ### **Teacher-to-Substitute/Guest Teacher**
 
-If there's one thing you *have* to take away from here, it's to tell guest/substitute teachers to ignore a student when they say "Our teacher lets us do ___" or something similar.
+If there's one thing you *have* to take away from here, it's to tell guest/substitute teachers to ignore a student saying "Our teacher lets us do ___" or something similar. It *could* be true, but it could also not be true and cause issues.
 
 Before continuing, I must emphasize some extremely important points with substitute teachers. 
 1. Your classroom management plan could be perfect, but it will not stop students from testing boundaries and seeing what they can get away with.
@@ -100,27 +100,28 @@ Before continuing, I must emphasize some extremely important points with substit
     - You could also lose substitutes willing to cover for you, which means fewer opportunities to have time off.
 3. Students can lie with a straight face to the substitute teacher about what you, the teacher, allow in the classroom.
     - Put another way: Students can act disciplined around you, but not around the substitute teacher.
-    - "My kids are great! (or similar)" That's not a valid excuse for dismissing a substitute teacher saying your students acted poorly on a day.
-4. NEVER write something that says or implies a substitute teacher should use physical contact with students.
+    - "My kids are great! (or similar)" That's not a valid excuse for dismissing a substitute teacher claiming your students acted poorly on a day.
+4. Don't permit physical contact with students, even if laws vary across jurisdictions.
 5. If the substitute plan includes downtime, generally let them have the downtime.
 
 Previously we covered what substitute teachers are and defined them as guest teachers. They replace, partially or fully, an educator in classes.
 
 Some passporting and information transfer, which normally may violate FERPA/HIPAA if distributed, may be shared to those with legitimate educational interests in your institution, like the substitute teacher in charge of students you're normally responsible for as their teacher of record.
-- As a reference, [34 CFR 300.323 (d)](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323) covers IEP distribution and permits information transfer towards substitute teachers.
+- [34 CFR 300.323 (d)](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323) covers IEP distribution and access to information.
+- [20 U.S.C. § 1232g](https://www.govinfo.gov/app/details/USCODE-2024-title20/USCODE-2024-title20-chap31-subchapIII-part4-sec1232g) covers more statutes related to FERPA (2025).
 
 Despite these legal restrictions and allowances, the primary teacher and the school are still responsible for informing the substitute teacher about specific student requirements and what should be done in the classes covered. Failure to do so may provide the substitute teacher reasonable defense for not meeting these requirements.
 
 You'll want a separate substitute plan template for planned days off and an emergency substitute teacher plan. Emergency plans ensure you don't get in trouble when you can't create plans for a particular time frame. For both plan types, put down information relevant for a substitute teacher–or another teacher in general–to know about when you're gone.
-- Don't do these plans in any non-standard fonts. Old reliable fonts are Times New Roman, Arial, or Callibri at 12pt size. Just use one of those if you're unsure.
+- Don't do these plans in any non-standard fonts. Older, reliable fonts are Times New Roman, Arial, or Calibri at 12pt size. Just use one of those if you're unsure.
 
 You'll also want to share emergency procedures, schedules, and contact information like in teacher-to-teacher passporting. Add in any device/software logins or passwords needed to operate programs if substitute teachers need to use those as part of your plans. You don't *need* to give a cell phone number, but you should provide your *professional* email address for contacting.
 
 ### **Substitute "Binder"**
 
 This is the one-stop-shop for everything a substitute needs. Some items are review and you likely know about already and other items I'll cover more in-depth later. **Your goal is assembling a binder that, ideally, takes no more than 5-10 minutes to scan through in its entirety.**
-- When in doubt, more information is better than not enough information.
-- Your administration may alter or request additional items outside of this list, so be open to those as well.
+- When in doubt, and within reason, provide details about anything that may not be easily understood.
+- Administration may alter or request additional items outside of this list, so be open to those as well.
 
 This binder may be expected to have the following items accessible inside of it:
 - Seating Chart (with photos if possible)
@@ -188,7 +189,7 @@ Let's assume we have our bearings and got over the initial panic of not knowing 
 
 That's the question we answer this time: what the *students* need to do. You could also include what the teacher should do and some parts copied from the emergency plan, but remember this is a dynamic and changing document, *not* a static document.
 
-These plans may be templated, but details may change depending on your pacing and what you're doing. You also don't need to copy *all* of the verbage. You can also write restrictions that substitutes should let students handle, or other staff, as it applies to each period and their activities. You may also copy snippets from the emergency sub plans onto this plan, but keep it to essentials to avoid excessive redundancy.
+These plans may be templated, but details may change depending on your pacing and what you're doing. You also don't need to copy *all* of the verbiage. You can also write restrictions that substitutes should let students handle, or other staff, as it applies to each period and their activities. You may also copy snippets from the emergency sub plans onto this plan, but keep it to essentials to avoid excessive redundancy.
 
 Here is an example of a work plan below for each period. It includes what students need to do, how to do it, and what happens when they're done early. The parts you change are bolded.
 
@@ -289,6 +290,8 @@ Now, if the substitute teacher decides to ignore everything here, not bother fol
 
 ## **Bibliography**
 
-1. (2025, August 18). *34 CFR 300.323 When IEPs must be in effect.* Code of Federal Regulations. [https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323)
+1. Electronic Code of Federal Regulations. (2025, August 18). *34 CFR 300.323 When IEPs must be in effect.* Code of Federal Regulations. [https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323)
+
+2. United States Code. (2025). *20 U.S.C. 1232g - Family educational and privacy rights.* Govinfo.gov. [https://www.govinfo.gov/app/details/USCODE-2024-title20/USCODE-2024-title20-chap31-subchapIII-part4-sec1232g](https://www.govinfo.gov/app/details/USCODE-2024-title20/USCODE-2024-title20-chap31-subchapIII-part4-sec1232g)
 
 ## **[Next Chapter](Z017_Other_Additional_Duties.html)**

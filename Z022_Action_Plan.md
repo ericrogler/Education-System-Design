@@ -1,13 +1,13 @@
 ---
-title: 30. Action Plan - Week 1
+title: 30. Action Plan For Educators
 layout: default
 nav_order: 32
 ---
-# Action Plan: Week 1
+# Action Plan For Educators
 
 ### [Previous Chapter](Z021a_Engineering_Architecture.html)
 
-## **Short Answer**
+## **By Week 1**
 
 *This period starts between before day 1 to end of week 1.*
 
@@ -53,12 +53,12 @@ If you can only do one thing, then do classroom procedures and rules. Drill stud
 - Account information for computers, payroll systems, work emails, etc.
 - Specialist supplies (for subject-specific needs)
   - E.g., a class on medicine may need medical supplies ready on day 1
-- First Aid Kit (FAK)
+- First Aid Kit (i.e. a "FAK")
 - Something to carry your supplies around
   - Backpack, binder, etc.
 - Locations of critical areas on campus, such as lounge, fridge, bathrooms, front office, and nurse's office
 - List of software and other tools you need for class on the first day
-- N95 and KN95 (or higher grade) masks
+- N95 and KN95 (or higher grade) masks (FDA, 2024)
 - Some snacks hidden away. You never know when you might want a little snacky snack.
   - E.g. I mathed out one of my desk drawers was large enough to stow away a 6-pack box of donuts from Safeway and King Soopers.
 
@@ -79,7 +79,7 @@ Here's a quick deduction process you can do:
 - Formulate many possible solutions (at first)
 - Refine the solutions until you're at the minimum number of solutions needed to solve all problems
 
-For those in the designer workspace, this may look familar to the Double Diamond framework. That's intentional, as you're also exploring what the problems are and potential solutions to those problems here too.
+For those in the designer workspace, this may look familar to the Double Diamond framework popularized by the Design Council (2005). That's intentional, as you're also exploring what the problems are and potential solutions to those problems here too.
 
 ### **Syllabus**
 A syllabus is essential information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
@@ -146,7 +146,7 @@ Some items are in a grey area, such as disinfectants and antiseptic wipes. For t
 
 You may also consider a bottle of peppermint concentrate/oil/extract. You can safely avoid that because the likelihood you deal with a foul smell on the level of putrescine or cadaverine in your work setting is extremely low.
 
-**Non-drug items I find typically safe for classroom First Aid Kits (FAKs):**
+**Non-drug items I find typically safe for classroom First Aid Kits (FAKs) (MedlinePlus, 2025):**
 - Bandages
 - Sharpie markers
 - Scissors/Shears (blunt or rounded tip preferred)
@@ -194,7 +194,7 @@ You'll also want to design the classroom in such a way to not make students thin
 
 *This is mainly for science teachers.*
 
-For labs, your room likely has a lot of equipement you don't want mishandled.
+For labs, your room likely has a lot of equipment you don't want mishandled.
 
 A good way to mitigate mishandling is organization stations to retrieve and return items to. On the day of labs, you'll want to make your way over to those stations and ensure the process runs smoothly.
 
@@ -205,11 +205,88 @@ As for the lab *material,* most experiments are:
 2. Measuring X
 3. Determining Y 
 
-That's the basic premise. Design a clearly defined procedure with this in mind and you're 80% of the way there already. This applies neatly at the high school level (sometimes college level) and below. It's not likely you'll get a lab activity *every* week. 
+That's the basic premise. Design a clearly defined procedure with this in mind and you're most of the way there already. This applies neatly at the high school level (sometimes college level) and below. It's not likely you'll get a lab activity *every* week. 
 
-I'd aim for at least one lab per unit of material to model what you teach in real-world environments. Don't do labs in isolation though; science concepts still require breaking them down into simpler ideas and explaining the processes throuhg lectures and other activities. Without appropriate background knowledge, orchestrating the lab is significantly more difficult.
+I'd aim for at least one lab per unit of material to model what you teach in real-world environments. Don't do labs in isolation though; science concepts still require breaking them down into simpler ideas and explaining the processes through lectures and other activities. Without appropriate background knowledge, orchestrating the lab is significantly more difficult.
 
 You *can* make students do labs individually, but expect to do groups for labs and similar high-impact activities. This is to save costs on materials, but also to get students to work together. If you're fearful of the "group project" effect, you may assign tasks to individuals so they maintain some accountability to lab success.
+
+## **By Month 1**
+
+*This period occurs between after week 1 to end of month 1.*
+
+If week 1 was setting up the foundation, then month 1 is consolidating and sorting the resources needed to build up and maintain a functioning classroom. If there's items from week 1 not complete, then get those done as soon as possible.
+
+This timeframe is difficult precisely because everything is still "new." Expect to still spend time outside work hours in this month. Just like in week 1, it's like paying down a loan; if you pay extra money now towards the principal on top of the interest, the average interest across all future pay periods decreases.
+
+**By end of month 1, aim to have most of the following sorted out:**
+
+- A document, table, or database with key links to organizations, suppliers, software, resources, etc.
+  - You can update this over time, but get the majority done in month 1.
+- Student seating assignments (if applicable).
+- Lesson plans for next week.
+- Knowing how to use the grading system.
+- Templates for assignments, quizzes, projects, labs, and tests.
+- Ideas for how to approach the unit(s) and topic(s) you're covering (see "Agile Teaching Framework" for example).
+- Software/account issues resolved for students and teacher(s).
+- Student contact information stored and organized.
+- Outstanding payments from students collected (if applicable).
+  - If still outstanding, send gentle reminders via email or other contact methods.
+
+Month 1 is storing and organizing your "teaching database" to quickly access and retrieve information from. Cleaning and organizing takes up the bulk of setup time before its usable, but it's worth taking extra time to get your ducks in a row.
+
+### **Lesson Plans (Post Week 1)**
+
+After week 1, your principal or another administrator may set expectations for lesson plan structures. Safest bet is to just follow that.
+
+**If you don't have a "boss," though, you'll want to check for questions like these:**
+
+- What are the learning objectives?
+- What materials are needed, if any?
+- What part(s) of the topics are covered today?
+- What homework, if any, is assigned?
+- What goals am I trying to reach today?
+- How long will it take to get through the topic(s)?
+- Can I access and utilize the resources needed for the lesson at this time?
+
+If you can answer those questions, you're doing OK. Your lesson plan can be short or long, so long as it meets your objectives and fits within your deadlines.
+
+### **Templates (Assignments, Tests, etc.)**
+
+Templates save time. One master template should be built for each type of work you'll do with static fields where students write information, such as answers and names, and includes dynamic fields, such as directions, questions, images, visuals, and more, you can edit and swap out.
+
+When templates are set up, every new assignment takes half the time to complete thanks to copy and paste. You'll still need time to add content, but formatting was half the battle fought and won now.
+
+**When feasible, use or create a template.** There are rare exceptions, but they're quite uncommon. You can also template lesson plans and other documents as well.
+
+## **By Year 1**
+
+By end of Year 1, you should have your bearings in the classroom and an idea of your teaching style. You'll know which activities work, which activities don't, and how you prefer to deliver lectures, tests, quizzes, and more. You may have also formed initial impressions, conscious or not, of many students as well.
+
+At this point, focus on refinement and continuous improvement of teaching systems. Teaching combines many roles into one and you'll want to develop yourself professionally. Advice from here only helps if you put it into practice and implement it.
+
+**Here are some questions I would consider at this timeframe, if I have not already:**
+- Are there resources I haven't considered yet that I should look into for teaching?
+- Is there a more efficient way to do [thing/process/method]?
+- Is there a more effective way to do [thing/process/method]?
+- Are students meeting behavior expectations?
+    - If not, what can I do to make them behave better in class?
+- Can I still make curriculum deadlines?
+- How do I better plan for unexpected events?
+- How can I make this topic easier to learn / more accessible?
+- Is there a way of learning I haven't explored yet?
+- Have I overlooked potential accommodations?
+- Are there other problems to solve?
+
+For first-year teachers, your main goal is survival. After the first year, you hopefully start shifting from catch-up to routine. After meeting the essentials, you focus on self-reflection and growth. The questions above don't need to wait until the end of year 1; they can start before that time as well.
+
+### **A Note on Effectiveness vs Efficiency**
+
+You may think about effectiveness and efficiency during reflection. These are two terms used in similar contexts and fields, but they are not interchangeable. It doesn't take a Master's degree in Industrial Engineering or a Six Sigma black belt to tell you that. I'll spare you a thesis and describe it in a few different ways:
+
+1. An effective but inefficient solution solves a problem, whereas an ineffective but efficient solution does not solve a problem.
+2. Once you learn that everything is a system, it gets easier to spot inefficiencies you missed before.
+3. From *The Effective Executive* (Drucker, 2006): “Efficiency is doing things right. Effectiveness is doing the right thing."
 
 ## **Bibliography**
 
@@ -217,14 +294,20 @@ You *can* make students do labs individually, but expect to do groups for labs a
 
 2. American Red Cross. (2024, June 17). *Is Your First Aid Kit Expired?* [https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire](https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire)
 
+3. Design Council. (2005). *A study of the design process: The Double Diamond.* [https://www.designcouncil.org.uk/our-resources/the-double-diamond/](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
+    - The webpage is titled "The Double Diamond" as of this writing.
+
 3. DoD STOP THE BLEED®. (2025). DoD STOP THE BLEED®. [https://www.dodstopthebleed.org/](https://www.dodstopthebleed.org/)
+
+3. Drucker, P. F. (2006). *The Effective Executive: The Definitive Guide to Getting the Right Things Done.* HarperBusiness.
+    - Originally published in 1966.
 
 3. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. [https://medlineplus.gov/druginfo/meds/a681004.html](https://medlineplus.gov/druginfo/meds/a681004.html)
 
 4. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. [https://medlineplus.gov/ency/article/001958.htm](https://medlineplus.gov/ency/article/001958.htm)
 
-5. U.S. Food and Drug Administration. (2024, October 21). *N95 respirators, surgical masks, face masks, and barrier face coverings*. [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings)
+5. U.S. Food and Drug Administration (FDA). (2024, October 21). *N95 respirators, surgical masks, face masks, and barrier face coverings*. [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings)
 
 6. Wong, H. K., & Wong, R. T. (2018). *The First Days of School: How to Be an Effective Teacher.* Harry K. Wong Publications.
 
-## **[Next Chapter](Z023_Action_Plan_Month_1.html)**
+## **[Next Chapter](Z023_Case_Study_Communication_Lesson_Example.html)**

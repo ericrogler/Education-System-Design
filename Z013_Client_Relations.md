@@ -49,6 +49,7 @@ Sometimes there are problems people already know how to fix but the main thing s
 
 The amount of information you can display about students is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice and a lack of communication.
 - The amount of time a teacher spends per day with a student is not a reasonable fix, despite people thinking it is. That's not the teacher's issue at that point.
+- For the U.S., FERPA has provisions and [guides written for the public](https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf) (U.S. DoE, 2021).
 
 The amount of *legally* allowed information an educator can share is equally staggering. Even in cases such as one student bullying or physically threatening another student, educators may not be allowed to share the information of the students involved due to privacy laws. Though there are exceptions, they are quite narrow in scope.
 
@@ -132,12 +133,12 @@ Parents and adult students are also the closest thing educational systems have a
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
-The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as normal logic; what seems rational to parents may not seem rational to non-parents. To achieve this goal, parents should work with, not against, teachers and educational staff.
+The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as conventional reasoning; what seems rational to parents may not seem rational to non-parents. To narrow this divide, parents should work with, not against, teachers and educational staff.
 - There's also legal consequences as an incentive. In multiple states in the United States, as of June 2025, "failure to educate" is potentially grounds for mandatory reporting under the definition of neglect (Child Welfare Information Gateway, 2025).
 
 When handling parents of students, you'll want to keep records of interactions, how policies are enforced, and evidence of learning (whether positive or negative). You may also request administrators or a second colleague to show up to meetings with them to act as a witness if there are potential issues with meeting them.
 
-For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say, but everyone, teacher and student, have more legal responsibiity and freedom compared to younger students. Boundaries and professional demeanor still matters.
+For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters.
 
 With everyone involved here, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
 
@@ -145,6 +146,7 @@ With everyone involved here, you'll want to set expectations from day one, if no
 - **Simply put, the *parents* typically break or make a child's life, education, and future.**
 - The parent and their child (a teacher's student) should be told "no" sometimes to protect themselves, their children (students), and the entire education system from irreparable damage.
 - From personal observation: a problem at school with a student is typically a problem at home with parents, especially with students showing consistent/persistent bad behaviors.
+    - If you want a technical viewpoint, see Bronfenbrenner's Ecological Systems Theory or the Bioecological model (Guy-Evans, 2025).
 
 If I were to describe some ways parents can negatively affect their children's views of education and performance in school, it'd probably say some of the following:
 - Too much screen time (or technology overly used to pacify children)
@@ -156,6 +158,7 @@ If I were to describe some ways parents can negatively affect their children's v
 - Always, and/or immediately, fixing any uncomfortable situation or getting rid of obstacles
 - Not reading to kids or at least encouraging kids to read
 - Meeting children's physical needs, but not their emotional needs
+    - i.e. satisfying the lower tiers of Maslow's Hierarchy of Needs (McLeod, 2025).
 
 There's also the parent(s) who claim there's nothing they can do after trying everything. More often than not, it comes from parents where their children still have their phones, drive themselves to school, can freely spend money, have access to video games, etc. In other words, they don't enact punishments which affect what the child, your student, values until behavior is fixed.
 
@@ -217,13 +220,13 @@ For students in general, you want to go in with as few assumptions as possible; 
 - They may not be familiar with the same tools you are familiar with (like computers)
 - They may not follow your instructions well and/or correctly the first time
 
-Think of teaching like sales. If material is engaging and desireable, students buy into it. If not, they won't buy into it despite any tangible benefits provided. Some students may view activities more negatively, but objectively, in terms of payoff vs time and effort put in.
+Think of teaching like sales. If material is engaging and desireable, students buy into it. If not, they won't buy into it despite any tangible benefits provided. Some students may view activities more pragmatically, like payoff vs time and effort put in.
 
 One strategy I've used is explicitly asking the students what kind of activities they want to learn and do within the limits of the curriculum. This method ensures they have a way to "buy in" or invest their time into what I'm teaching. For already motivated students, this won't do as much. For students on the fence or less motivated, it's like providing a free side with their entree, which may boost their motivation and increase the chances of buying in.
 
 It is possible students bring in factors you may not be able to fix or fall outside initial assumptions. These may include lack of accountability, apathy, learning accommodations, and more. They may refuse to do things and also refuse to use the accommodations provided, even if legally required to make available to said student(s). They may even have no respect for adults because they've seen adults in their own life be disrespectful! There's only so much you can do for them, which is why documenting learning efforts and interactions with students is extremely important in case someone claims you didn't appropriately perform your duties as an instructor.
 
-Additionally, it's also easy to tell signs of when a student has too much screen time and/or not enough time to sleep. Some examples, which lead to that conclusion from personal observation, include the following:
+Additionally, it's also easy to tell signs of when a student has too much screen time and/or not enough time to sleep per AAP guidelines (2025). Some examples, which lead to that conclusion from personal observation, include the following:
 - Sleeping a lot *in class* (poor sleep hygiene/management).
 - Parroting video phrases (not saying examples here to spare reader sanity and stay safe-for-work).
 - Talking constantly.
@@ -237,7 +240,7 @@ Additionally, it's also easy to tell signs of when a student has too much screen
 ...This list could go on for quite a bit. Overall, students with behaviors and issues like these may also have issues with learning, cause issues inside the classroom, and potentially have overlap with, or mask, other unseen or unsaid issues. Additionally, these issues are typically the result of their environment enabling or normalizing them, intentionally or not. That environment can include parents, teachers, student peers, and other people reinforcing patterns.
 
 While parents and relatives may think *their* student is special, classrooms typically have anywhere from a handful to dozens to hundreds/thousands of students at once with other students who may also be considered special. 
-- If every student in the classroom is special, then none of the students are special. 
+- If every student in the classroom is special, then none of the students are special (Bird, 2004). 
 
 Teachers are operating under time and resource constraints, which means they have to focus on equity and practicality to ensure fairness and material is delivered to as many students under their care as possible.
 
@@ -296,7 +299,7 @@ You may have frontline workers with decades of experience under their hat. They 
 
 For stricter organizations, this typically means the lower-ranking employee *must* obey the orders and requests from a higher-ranking employee, even when said orders are definitely terrible ideas.
 
-In this scenario, let's assume you're the higher-ranking employee, you have little to no practical experience, and you want to not be a terrible "leader." Just the desire to not want to be terrible and do the right thing solves 80% of the problems already. The remaining 20% of problems are dealt with methods like:
+In this scenario, let's assume you're the higher-ranking employee, you have little to no practical experience, and you want to not be a terrible "leader." Just the desire to not want to be terrible and do the right thing solves most problems already. The remaining problems are dealt with methods like:
 - Acknowledging you *will* screw things up and be treated like you don't know what you're doing at first, while accepting this is normal and shouldn't let it disturb you.
     - Chances are, this organization functioned fine without you and may continue just fine without you too.
 - Not being an asshole.
@@ -310,7 +313,7 @@ In this scenario, let's assume you're the higher-ranking employee, you have litt
 - Lead by example.
 - Be willing to get your hands dirty and figure out the technical details of how things work.
 
-You may encounter other scenarios, such as a team of veterans on equal authority with disgreements, non-cooperative agendas, and varying competence levels. In cases like these, you'll need proper evidence to support claims, figure out if there's bias in why they're recommending one method over another, and seeing if the dissenters are actually right or wrong. It's possible they could be right too, but poorly communicate or badly explain a point too! While picking a single advisor may seem correct, you also risk filtering decisions and opinions through one filter. Navigating scenarios like these is a skill you'll have to practice over time, but there are ways to help right now:
+You may encounter other scenarios, such as a team of veterans on equal authority with disagreements, non-cooperative agendas, and varying competence levels. In cases like these, you'll need proper evidence to support claims, figure out if there's bias in why they're recommending one method over another, and seeing if the dissenters are actually right or wrong. It's possible they could be right too, but poorly communicate or badly explain a point too! While picking a single advisor may seem correct, you also risk filtering decisions and opinions through one filter. Navigating scenarios like these is a skill you'll have to practice over time, but there are ways to help right now:
 - Listening to multiple sides
 - Find track records (historical data) that show where decisions were correct vs incorrect back then vs now.
 - Going through follow-up questions to figure out *why* instead of only what/how.
@@ -319,7 +322,7 @@ You may encounter other scenarios, such as a team of veterans on equal authority
 
 An indication of adulthood is one's ability to be forward about what they do know and don't know. After that, it's the ability to learn how to ask about things you don't know and finding answers. You might not be a manager, but a manager's approach is OK for just about everyone here.
 
-Let's say your engineer buddy comes around and they start talking about Google Cloud Platform, Amazon Web Serices, and Azure (as purely examples). Chances are, you probably are not familiar with all three of these things.
+Let's say your engineer buddy comes around and they start talking about Google Cloud Platform, Amazon Web Services, and Azure (as purely examples). Chances are, you probably are not familiar with all three of these things.
 
 This is a case where you don't know enough to make an informed decision or even an informed opinion. All it takes to fix this is asking said buddy about what they are and how they're different. You may not be an expert in your buddy's field, but you might catch a few things, like similar metrics.
 
@@ -336,10 +339,10 @@ In every professional development or administrative presentation, I want the per
 
 Professional development are electives/continuing education for *professionals* (i.e. teachers, staff, etc.) and provided, typically, by people with active roles outside of education. Teachers/instructors usually need X number of hours to maintain a certificate, license, etc. PD is based around andragogy, adult learning, rather than pedagogy teachers may be used to, so you may experience a disconnect while attending them. Nevertheless, if you do go to a PD, be reasonably respectful to presenters and other attendees.
 
-On one hand, some of these are extremely valuable to teachers and instructors. They could be designed by people with actual classroom experience, so they understand the context reasonably well. They also focus *on the content* and avoid unneccesary fluff.
+On one hand, some of these are extremely valuable to teachers and instructors. They could be designed by people with actual classroom experience, so they understand the context reasonably well. They also focus *on the content* and avoid unneccessary fluff.
 - Sadly, in practice, these are the *exception.*
 
-On the other hand, the PD sessions (not necessarily the presenters) are typically the bane of my existance for a variety of reasons:
+On the other hand, the PD sessions (not necessarily the presenters) are typically the bane of my existence for a variety of reasons:
 - Not appropriately designed for the intended audience (adult professionals teaching other adult professionals).
 - Not related to the grade level/audience a teacher manages.
 - The veracity of information presented is inadequate.
@@ -358,13 +361,23 @@ My favorite PD days were typically:
 
 ## **Bibliography**
 
+1. American Academy of Pediatrics (AAP). (2025, May 22). Screen Time Guidelines. Www.aap.org. [https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/](https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/)
+    - Original publish date: (2023, May 21)
+
+2. Bird, B. (Director). (2004). *The Incredibles* [Film]. Pixar Animation Studios; Walt Disney Pictures.
+
 1. Child Welfare Information Gateway. (2025, June 2). *Definitions of child abuse and neglect - Child welfare Information Gateway*. www.childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/)
 
-1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video.Episode Name: “Hard Times”
+2. Guy-Evans, O. (2025). *Bronfenbrenner’s Ecological Systems Theory.* Simply Psychology. [https://www.simplypsychology.org/Bronfenbrenner.html](https://www.simplypsychology.org/Bronfenbrenner.html)
+    - Further Reading: Bronfenbrenner, U. (1974). *Developmental research, public policy, and the ecology of childhood.* Child development, 45 (1), 1-5. [https://www.jstor.org/stable/1127743](https://www.jstor.org/stable/1127743)
+
+1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video. Episode Name: “Hard Times”
 
 1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
 
 1. no hello. (n.d.). *Please Don’t Say Just Hello in Chat* [Webpage]. No Hello. Retrieved August 16, 2025, from [https://nohello.net/en/](https://nohello.net/en/)
+
+1. United States Department of Education (U.S. DoE). (2021). *A Parent Guide to the Family Educational Rights and Privacy Act (FERPA).* [https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf](https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf)
 
 2. U.S. Equal Employment Opportunity Commission. (1982, Jan 2). *CM-625 bona fide occupational qualifications*. www.eeoc.gov. [https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)
 

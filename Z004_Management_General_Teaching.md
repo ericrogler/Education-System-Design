@@ -105,7 +105,7 @@ This ranking comes from many areas and metrics like:
 - The methods used to deliver content effectively and efficiently
     - E.g. [Online vs face-to-face teaching from CITE Journal](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course) (Stern, 2004)
 
-Teaching is not a role one can easily get into and excel at. This is even with the benefit of summers off (which is closer to unpaid downtime vs a vacation). Even people in highly technical roles may fail due to lacking proper pedagogy (for adults, andragogy) to teach *and manage* students effectively.
+Teaching is not a role one can easily excel at. Even people in highly technical roles may fail due to lacking proper pedagogy (for adults, andragogy) to teach *and manage* students effectively.
 
 *Alright, opinionated piece over and back to normal content below.*
 
@@ -159,7 +159,7 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 ### **Maintaining Appearances (Perception)**
 
-There are four levels of managers from best to worst (from what I've seen and heard):
+There are four levels of managers from best to worst (from what I've been around):
 1. Competent and technical manager
 1. Competent, but non-technical manager
 1. Incompetent, but technical manager
@@ -240,15 +240,15 @@ One single list will not solve all your problems. You'll need to adjust strategi
 
 The amount of time a student can focus depends on many factors, such as age, disposition, and personality. 
 
-Generally speaking, the younger students are, the less time they can maintain focus before needing a break. A common rule of thumb is that a younger student's *maximum* attention span is 2 to 3 times their age (e.g., 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) (Cirillo, n.d.) is one example of a management method capitalizing on attention spans.
+Generally speaking, the younger students are, the less time they can maintain focus before needing a break. One rule of thumb example is a student's *maximum* attention span is 2 to 3 times their age (e.g., 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) (Cirillo, n.d.) is one example of a management method capitalizing on attention spans.
 
-Since 2020 and the COVID-19 pandemic, there has been a proliferation of short-form content, like TikTok videos and YouTube shorts. Due to their implementation of highly optimized psychological techniques to get your time, which are also found in similar apps and software, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but you're starting at a hefty disadvantage. In worse cases, allowing access to these applications in a school environment has a direct and significant effect on lowering grades and performance (Rozati, 2025). 
+Consider short-form content like TikTok videos and YouTube shorts. Due to their implementation of highly optimized psychological techniques to get your time, which are also found in similar apps and software (Qin et al., 2022). Basically, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but you're starting at a hefty disadvantage. In worse cases, allowing access to these applications in a school environment has a direct and significant effect on lowering grades and performance (Rozati, 2025). 
 
 If a student wants to learn something, they'll at least try to learn something–which may not be what you're teaching. It's not always the case of the student intentionally doing something bad. Still, something else caught their attention more at the time, or they got confused about something and are now acting out.
 
 **Fighting for attention can be remedied with some of these techniques.** They may not work perfectly and their effects vary, but it's significantly better than *not* using any of them.
 
-- Keep an overall level of focus (look up "utilization rate") at 85% to 90%.
+- I'd say to keep an overall level of focus (i.e. "utilization rate") at 85% to 90%.
     - Enough work to not be bored, but not so much work to incur undue stress and burnout.
     - Some mental wandering, breaks, and loss of focus among students should be expected and accounted for.
     - Multiple study techniques are designed with breaks, so learning and teaching techniques should incorporate breaks too.
@@ -283,9 +283,7 @@ To remove idle work, you remove bottlenecks or things prevent work from getting 
 
 ### **The Art of Meet[ings]**
 
-A lot of people hate meetings. 
-
-90 percent daydream in meetings and 73 percent are doing other work during the meeting (Bernstein and Ringel, 2018). Bad meetings are lost opportunities and real costs to everyone involved.
+A lot of people hate meetings. Bad meetings are lost opportunities and real costs to everyone involved (Bernstein and Ringel, 2018).
 
 People hate meetings so much we develop ways to mathematically show the cost of meetings.
 
@@ -341,10 +339,10 @@ If you need to make a decision *now,* one of the fastest ways is allowing people
 
 There's also blocking out meetings on schedules for 1:1 meetings or meetings with multiple people at once. You can block out 15 minutes, 30 minutes, 1 hour, etc. Even if there's time blocked out, you want to *minimize* how long the meeting lasts. Though these statements may sound conflicting, it's in your best interest to convey critical information quickly and clearly to reduce waste, stay on schedule/budget, and ensure people can do what they need to do.
 
-For most meetings, you'll want an agenda of what to cover. This could be an essay or a short, bullet point list; the format the agenda takes doesn't ncessarily matter here. 
+For most meetings, you'll want an agenda of what to cover. This could be an essay or a short, bullet point list; the format the agenda takes doesn't necessarily matter here. 
 - If it needs to be shared, then it does matter because you'll want the agenda in written form.
 
-The agenda is like a compass pointing you towards the direction of topics you need to focus on and communicate with everyone present. It's goal is to discourage bringing up unncessary things in the moment or sidetracking and wasting time. 
+The agenda is like a compass pointing you towards the direction of topics you need to focus on and communicate with everyone present. It's goal is to discourage bringing up unnecessary things in the moment or sidetracking and wasting time. 
 
 What this means is hosting a meeting without an agenda is a recipe for wasted time, effort, and money. Don't do it. Send an email instead like a normal person.
 - There is one notable example that breaks this rule: a dial-in/coffee meeting or "happy hour."
@@ -399,9 +397,9 @@ Additionally, if you're a teacher, there are specific actions that only other st
 
 ### **What about Restorative Justice?**
 
-Restorative justice exists both inside and outside of education systems. It's been explored back at least one generation before today (February 2026).
+Restorative justice exists both inside and outside of education systems. It's been explored back at least one generation before today (as of February 2026).
 
-This system addresses the needs of the offender, the needs of the victim(s), and the needs of the community. The community is also involved as it holds some responsibility for why the offender committed the crime in the first place due to social conditions and relationships. Restorative justice is also intended as "a complementary process" to add onto an existing justice system rather than a wholesale replacement for justice systems (Marshall, 1998). **It must also be victim-focused; the victim gets what is reasonably desired to ensure the offender is held accountable for their actions.**
+This system addresses the needs of the offender, the needs of the victim(s), and the needs of the community. The community is also involved as it holds some responsibility for why the offender committed the crime in the first place due to social conditions and relationships. Restorative justice is also intended as "a complementary process" to add onto an existing justice system rather than a wholesale replacement for justice systems (Marshall, 1998). Even across several decades, there's still criticism about restorative justice and its effects may be only small changes in recidivism and victim satisfaction with varying factors at play (Fulham, 2023). **Regardless, it must also be victim-focused; the victim gets what is reasonably desired to ensure the offender is held accountable for their actions.**
 
 The concept works well in theory, but in practice it requires sufficient personnel, workflows to follow through with it, and a lot of available time from everyone involved to support it. Without any of these resources, it will fail. There's also two other factors:
 1. While victim-offender meetings can provide restitution, they can mistakenly focus on the offender instead and reintroduce a victim's trauma.
@@ -421,7 +419,7 @@ One book I've personally read, if you're curious about these strategies, is call
 
 A significant risk involved in compromises is you're often assuming, as a teacher, a student is thinking like you. That *isn't* empathy; you're not understanding their point of view. Instead, you're projecting your perspective(s) onto them and making a potentially dangerous assumption, which can escalate the situation in neither party's favor.
 
-Unless you have self-control and can regulate emotions, you won't regain control and negative behaviors will affect the student, which causes them to spread to other students. Control also includes your tone of voice, body language, and facial expressions. About 90% of your communication, and the communication of different students, is reflected in non-verbal components instead of the actual words you're saying.
+Unless you have self-control and can regulate emotions, you won't regain control and negative behaviors will affect the student, which causes them to spread to other students. Control also includes tone of voice, body language, and facial expressions.
 
 Delving into this area further brings you into the world of psychology and subjects such as calibrated questions, leverage, empathy, negotiation, deflections, and more. Keep in mind that while negotiation and manipulation seem similar and have a shared goal, the methodology used to reach that goal is vastly different. Negotiation seeks mutual benefits and understanding amongst all parties. In contrast, manipulation seeks control and tricks for one party to get what they want. Negotiation helps people, and manipulation harms people.
 
@@ -431,7 +429,7 @@ You can automate or improve efficiency with solutions that aren't AI and probabl
 - All this is to say there's a good chance you need an *automated* solution and not an AI solution for your problem(s).
 - With any automation (and AI), ensure you understand how its underlying mechanics work or you may become someone with 30,000+ HIPAA/FERPA/GDPR violations in less than 30 seconds.
 
-The general rule of thumb is that if something *can* be automated, it isn't as costly to do so, and it has strictly, pre-defined rules to ensure consistent output/quality, you should consider automating it. For example: why spend hours grading multiple-choice questions by hand when you can instantly grade them in a fraction of the time by supplying an answer key. This can be done with low-cost software or even hosting the assignment on a platform like Google Forms to do most heavy-lifting for you... without *any* AI involved whatsoever.
+My rule of thumb is that if something *can* be automated, it isn't as costly to do so, and it has strictly, pre-defined rules to ensure consistent output/quality, you should consider automating it. For example: why spend hours grading multiple-choice questions by hand when you can instantly grade them in a fraction of the time by supplying an answer key. This can be done with low-cost software or even hosting the assignment on a platform like Google Forms to do most heavy-lifting for you... without *any* AI involved whatsoever.
 
 You want to make sure you don't automate yourself out of a job, however. I'm assuming you'd probably want to get paid for your work.
 
@@ -455,6 +453,7 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 As systems grow, such as classrooms, companies, and so on, what seems fine with only a small group of people doesn't work with a larger group of people. Additionally, the "personality" of said group could affect how things operate; an aggressive group of people holds different values over a passive group of people.
 
 These aspects of group culture can be many things. It could be having dinners with everyone in your group on a set day. It could be one person doing a set of tasks for the organization. It could even be an all-hands meeting with everyone in the group. Some aspects you can scale surprisingly well, while other aspects work well only with specific group sizes.
+- E.g. operating at a micro level, meso level, and a macro level are separated into three distinct categories (Wagner & Hollenbeck, 2009).
 
 You can also measure "success" by growth; it's a valid metric, afterall, and can evaluate many things such as wealth, status, and size. Should you evaluate the quality of a culture by its size/growth? Generally, no. Look for cultures having the values you value, redundant as that sounds. If it's a culture for work, aim for leadership that is visionary and looking forward, rather than looking backwards; the kind that inspires you to dream of greatness.
 
@@ -464,7 +463,7 @@ For example, it may've been fine to call everyone a teacher when it was just a c
 
 This also applies to seniority. Two people may be "engineers," but there's a vast difference in experience, time done, and wisdom between a "junior" engineer and a "senior" engineer. It's not wrong to generalize those two as engineers, but the distinction is needed to remove ambiguity and reduce multiple issues as you bring on more and more engineers later.
 
-One other thing you may think scales well, but actually doesn't, is teaching things to others. You may have the resources to teach someone how to use a particular tool, understand a process, and so on without impacting work significantly (and do it quickly!). You may not, however, have the resources to train an entirely new mindset to settle down into an educational system, adjust to a classroom setting, or develop critical thinking skills. It may take *years,* if not decades, to change those aspects and people may not be equipped or willing to dedicate resources to fix these issues on a particular person.
+One other thing you may think scales well, but actually doesn't, is teaching things to others. You may have the resources to teach someone how to use a particular tool, understand a process, and so on without impacting work significantly (and do it quickly!). You may not, however, have the resources to train an entirely new mindset to settle down into an educational system, adjust to a classroom setting, or develop critical thinking skills. From a personal observation, it may take *years* to change those aspects and people may not be equipped or willing to dedicate resources to fix these issues on a particular person.
 
 Lastly, if you're considering bringing in someone new into the culture, you should give them time to *observe* the culture first before they make any changes to that culture.
 - You may see me echo similar advice multiple times in this book.
@@ -479,9 +478,13 @@ Lastly, if you're considering bringing in someone new into the culture, you shou
 
 3. Doan, S., Steiner, E., & Pandey, R. (2024, June 18). *Teacher Well-Being and Intentions to Leave in 2024*. [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf)
 
+2. Fulham, L., Blais, J., Rugge, T., & Schultheis, E. H. (2023). *The effectiveness of restorative justice programs: A meta-analysis of recidivism and other relevant outcomes.* Criminology & Criminal Justice. [https://doi.org/10.1177/17488958231215228](https://doi.org/10.1177/17488958231215228)
+
 2. “Futurama” Godfellas (TV Episode 2002) - Quotes - IMDb. (2025). IMDb. [https://www.imdb.com/title/tt0756880/quotes/](https://www.imdb.com/title/tt0756880/quotes/)
 
 3. Marshall, T. F. (1998). *Restorative Justice: An Overview - Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
+
+3. Qin, Y., Omar, B., & Musetti, A. (2022). *The addiction behavior of short-form video app TikTok: The information quality and system quality perspective.* Frontiers in Psychology, 13. [https://doi.org/10.3389/fpsyg.2022.932805](https://doi.org/10.3389/fpsyg.2022.932805)
 
 4. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. [https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463)
 
@@ -490,5 +493,7 @@ Lastly, if you're considering bringing in someone new into the culture, you shou
 6. Stern, B.S. (2004). *A Comparison of Online and Face-To-Face Instruction in an Undergraduate Foundations of American Education Course*. Contemporary Issues in Technology and Teacher Education, 4(2), 196-213. [https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course)
 
 7. Voss, C., & Raz, T. (2016). *Never split the difference: Negotiating as if your life depended on it*. Harper Business. [https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews)  
+
+8. Wagner III, J.A., & Hollenbeck, J.R. (2009). *Organizational Behavior: Securing Competitive Advantage* (1st ed.). Routledge. [https://doi.org/10.4324/9780203873533](https://doi.org/10.4324/9780203873533)
 
 ## **[Next Chapter](Z004a_Management_Scaling_Growth.html)**

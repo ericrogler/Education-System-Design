@@ -1,11 +1,11 @@
 ---
-title: 33. Case Study Communication Lesson
+title: 31. Case Study Communication Lesson
 layout: default
-nav_order: 35
+nav_order: 33
 ---
 # Case Study: Communication Lesson
 
-### [Previous Chapter](Z024_Action_Plan_Year_1.html)
+### [Previous Chapter](Z022_Action_Plan.html)
 
 ## **A Study on Presentation**
 *Notice: You can copy and modify this template. This is based on an activity I did for my students in Science classes.*

@@ -23,7 +23,7 @@ Many accommodations are not purely acts of good-will. They have legal protection
 There are unreasonable accommodations, which you can push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Lastly, there's accommodations made purely to avoid litigation, which are dubious in intent and likely weaponize accommodations, but probably need to be followed anyways.
 
 Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student in every context. This is not a moral failure, but a system limitation. When there's not enough resources, it's harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers/instructors to provide sufficient differentiation and inclusion to *every* student under their care.
-- E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved.
+- E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved, but it is quite a contested claim in special education with research supporting both sides.
 
 The whole point of accommodations is to provide equal opportunity for students to succeed in their courses and showcase their potential. It is NOT meant to elevate them *above* their peers; only bring them closer to the level of their peers.
 
@@ -54,10 +54,12 @@ Add on top of this that many accommodations are *legally required*, thanks to IE
 > A reasonable accommodation enables a person with a disability to enjoy equal
 employment opportunities, benefits, and privileges.
 - [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024)
+- Yes, I'm using an employment definition instead of a student accommodation definition. Nevertheless, the goal is preparing students for future lives as working, functional adults.
 
 Accommodations provide equity, not advantages, to students with physical, mental, or medical conditions putting them at disadvantages compared to peers. That means assisting people with diseases and conditions like dyslexia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their healthier peers. Accommodations are not just for one type of student; it's for many types of students. 
 
 Additionally, the number and intensity of accommodations students need should decrease over time as students develop better techniques to deal with any issues. Students should also avoid relying on accommodations, and their condition(s), as an excuse. It's similar to physical therapy, where you're trying to restore functions so you can operate without assistance or minimal assistance.
+- One example of "fading supports" is from the [Paraeducator Support files of Washington Office of Superintendent of Public Instruction (OSPI)](https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf) (2022)
 
 Even "reasonable" accommodations still require work to be done on time and meet standards. Many accommodations which may be harmful (e.g. enabling learned helplessness) include things like the following:
 1. Students not understanding the accommodation as written and its intent.
@@ -87,7 +89,7 @@ Several categories cover most accommodations you may see (Center for Accessible 
 
 These accommodations are commonly met through assignment modifications and curriculum modifications. Accommodations are quite different from modifications. Accommodations focus on *how* students learn, whereas modifications affect *what* students learn.
 
-You may see many accommodations and modifications in plans like IEPs and 504s. This chapter focuses on accommodations because modifications typically involve alternative assessments and work provided at lower difficulty and/or complexity. I want to focus on what levels the playing field over changing it.
+You may see many accommodations and modifications in plans like IEPs and 504s mentioned earlier in the book. This chapter focuses on accommodations because modifications typically involve alternative assessments and work provided at lower difficulty and/or complexity. I want to focus on what levels the playing field over changing it.
 
 To showcase their differences in examples:
 - Accommodation: highlighting text on assignments for a student
@@ -101,7 +103,7 @@ There's also strategies and interventions, such as mnemonic devices (e.g. apple 
 
 Some accommodations are beneficial, but some accommodations may hinder learning and development. A lot of what I'll say is based more on personal experiences, which may correlate with findings from others in more formal research settings such as Kulow and Missirian (2019).
 
-At the end of the day, accommodations are still legally required to be provided and followed per various laws, like the Individuals with Disabilities Education Act (IDEA).
+At the end of the day, accommodations are still legally required to be provided and followed per various laws, like the Individuals with Disabilities Education Act (U.S. Department of Education, 2025).
 
 **The intent of accommodations is to provide supports to people and remove barriers to entry in a given environment.** They should elevate someone up to the level of their peers without accommodations. 
 
@@ -149,6 +151,7 @@ It's reasonable, but depends on available resources and if the student is even w
 
 I'd also avoid calling a student "gifted" in the first place. It places an unspoken expectation of perfection on the student and anything less puts them under more stress than necessary. If I emphasize talent over effort, I'm more likely to see students collapse under pressure and spiral into depression and learned helplessness when, *not if*, talent alone cannot succeed.
 - Sure, talent/affinity exists, but riding on that without effort is a recipe for disaster.
+- Two examples are from Aronson et al. (2002) and Dweck et al. (2014).
 
 To clarify an earlier point: a student needs to have an exceptionally strong understanding of basics first before accelerating. Without a strong foundation, they risk stumbling quickly and falling behind non-accelerated peers.
 
@@ -176,7 +179,6 @@ Though there is general advice on how to handle it, a unique treatment plan on a
 To emphasize once more, per what the American Psychological Association states, "Only a qualified mental health professional can determine whether the anxiety a student displays should be diagnosed as an anxiety disorder" (2026).
 
 As for when it is unreasonable? I would say when the accommodation ignores the root problem. Additionally, if the accommodation is from someone who isn't medically licensed wants to formalize the disorder OR it drastically alters the curriculum/course in its current state. The former is based on an ethical standpoint and handling medical conditions, while the latter can be resolved through support staff (like a disability resources office) about the issue. 
-
 
 ### **Test Retakes**
 
@@ -257,14 +259,6 @@ I may also consider giving them an open book test, with the goal of practicing t
 
 If you permit typing or writing the notes themselves, they'll try to cram in as much information as possible on whatever medium you permit. They may also claim that because it wasn't in their notes, it shouldn't have been on the test. They may also claim that because notes were allowed they didn't need to study (and probably still flunk anyways).
 
-### **Permitted Violence / Destruction of Property**
-
-Considering there's cases this accommodation *was* allowed, I'm surprised it's even an accommodation because it permits, or encourages, harm which means safety and legal risks.
-
-In short, please never approve this accommodation.
-
-You're enabling a student into committing destructive and potentially criminal acts and thinking there won't be consequences because they're protected by this accommodation. As soon as they get out into a place where they no longer have that protection, and they commit violent acts, they will realize there *are* consequences.
-
 ### **Phones [and Similar Technology] as Emotional Support Device**
 
 Increasingly illegal to have phones in classrooms. More and more states in the United States are banning cellphone use inside of classrooms (Amy, 2025).
@@ -337,7 +331,7 @@ There's only so much space to assign seats in a classroom. The difficulty and ac
 
 ### **Reduced Workload**
 
-Ironically, less practice leads to less mastery. Practice is often the *only* way to improve your skills in a particular field, subject, or topic. This accommodation potentially robs a student of that practice and directly harms the learning experience.
+Less practice leads to less mastery. Practice is often the *only* way to improve your skills in a particular field, subject, or topic. This accommodation potentially robs a student of that practice and directly harms the learning experience.
 
 In many cases, I'd argue asking for extended time instead of reduced workload is a better accommodation. 
 
@@ -352,7 +346,7 @@ These modifications can fit this accommodation reasonably enough, as they'll red
 
 If it's not already done in a general education environment, you probably should be doing it anyways.
 
-This isn't always tests or quizzes though. The intent of this is more like occasionally asking questions to students about the material as you go through it, as well as lower intensity checks like exit tickets they can do within the alloted class time.
+This isn't always tests or quizzes though. The intent of this is more like occasionally asking questions to students about the material as you go through it, as well as lower intensity checks like exit tickets they can do within the allotted class time.
 
 What is a "check" though depends on the specifics of the accommodation, so double check that first. If it doesn't define it explicitly, then stick with what is reasonable.
 
@@ -393,6 +387,7 @@ Please never add this.
 This accommodation removes accountability on student work, which means it's harming the student and left entirely to the motivation of said student to do the work and keep up with the class.
 
 It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and strict deadlines (even if extended a bit), set in stone, are actually a good thing instead.
+- E.g. many guidelines from the CDC suggest scheduling, managing distractions, planning and organization to *help* these conditions (2024).
 
 If this accommodation is forced, despite clear implications of what it allows, the typical "split 1 large task into multiple smaller tasks" tactic could alleviate it a bit. Also consider looking into frequent meetings and check-ins to help with organizational skills. Despite whatever tactics you employ, the drive to complete their work and learn the material is still heavily in favor of the student.
 
@@ -421,7 +416,7 @@ Extended time also opens the door to a student asking for, and getting, and exte
 
 Some people may call this an "edge case," which is also appropriate. The accommodation deals with *equity* of time, not equality of time.
 
-This accommodation is easy to abuse and has plenty of incentive behind it to abuse. For high-stakes testing and tests intentionally designed with time constraints, time extensions are a substantial advantage for anyone "gaming" the system. How well someone scores determines scholarship money, cost of tuition, opportunities for success, access to higher tier colleges, what programs you can pursure, and more.
+This accommodation is easy to abuse and has plenty of incentive behind it to abuse. For high-stakes testing and tests intentionally designed with time constraints, time extensions are a substantial advantage for anyone "gaming" the system. How well someone scores determines scholarship money, cost of tuition, opportunities for success, access to higher tier colleges, what programs you can pursue, and more.
 
 It's possible the system can be abused and it's possible diagnoses from medical professionals for conditions warranting extra time may not be accurate or precise. It's why there's restrictions and requirements in place before those accommodations are provided. It's also a reason why a request for an accommodation in one test may not guarantee those accommodations in another test.
 
@@ -441,7 +436,7 @@ In other cases, this is easy to abuse and misuse. As an example, assistive techn
 
 This is pretty reasonable to accommodate and teachers may already do it anyways for all students.
 
-Visually can also mean written and "nonverbal" can imply written/visual too.
+Visual can also mean written.
 
 To give an example: Say you're giving a lab safety demonstration and going over the various tools and how to use them. Chances are, you probably prepared a script beforehand that is *written.* You could give said student with accommodations this so they can follow along.
 
@@ -452,7 +447,7 @@ Pretty reasonable accommodation, but it adds a risk management and liability iss
 One student, or multiple students, with one allergy? Manageable. For example, staff can bring in an alternative item, like gluten free pizza, for the student(s) or restrict one type of item, like peanuts, from being brought into the classroom. 
 
 Multiple students with different allergies in the same classroom? Potentially unreasonable. If there's an event involving the class, or a group of students, it limits what anyone can bring into the classroom. If there's too many allergies to account for, it may actually reach the point where the only food/drink allowed is water.
-- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.webmd.com/allergies/what-is-aquagenic-urticaria), then that means no food/drink *period* (Davis, 2025).
+- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria), then that means no food/drink *period* (Dice & Gonzalez-Reyes, 2025).
 
 Keep in mind, even if the problematic food/drink wasn't distributed by the teacher, the teacher is *still* accountable for what happens to students in their classroom.
 
@@ -514,14 +509,26 @@ This is easier to apply in scenarios where "showing work" is required, like scie
 
 1. Amy, J. (2025, August 21). Cellphone bans are changing US classrooms. AP News. [https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060)
 
+2. Aronson, J., Fried, C., & Good, C. (2002). *Reducing the Effects of Stereotype Threat on African American College Students by Shaping Theories of Intelligence.* Journal of Experimental Social Psychology, 38, 113–125.
+
+2. CDC. (2024, May 16). *Treatment of ADHD.* Attention-Deficit / Hyperactivity Disorder (ADHD). [https://www.cdc.gov/adhd/treatment/index.html](https://www.cdc.gov/adhd/treatment/index.html)
+
 2. Center for Accessible Education. (n.d.). *Why do universities provide accommodations?* UCLA. [https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations](https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations)
 
-1. Davis, S. (2025, June 23). *What Is Aquagenic Urticaria?* (Z. Sheikh, Ed.). WebMD. [https://www.webmd.com/allergies/what-is-aquagenic-urticaria](https://www.webmd.com/allergies/what-is-aquagenic-urticaria)
+1. Dice, J. P., Gonzalez-Reyes, E. (2024, April 25) *Physical (inducible) urticaria.* UptoDate. [https://www.uptodate.com/contents/physical-inducible-urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria)
+
+1. Dweck, C. S., Walton, G. M., & Cohen, G. L. (2014). Academic Tenacity Mindsets and Skills that Promote Long-Term Learning. [https://ed.stanford.edu/sites/default/files/manual/dweck-walton-cohen-2014.pdf](https://ed.stanford.edu/sites/default/files/manual/dweck-walton-cohen-2014.pdf)
 
 1. Kulow, M., & Missirian, D. (2019). *Building STEPs Down the Precipitous Cliff from University to Workplace: A Proposal to Modify Regulation of Higher Education Mental Disability Accommodations.* Texas Journal on Civil Liberties & Civil Rights (U Texas Austin), 24(2). [https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf](https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf)
 
-2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* [PC Version]. Chris Parker.
+2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
+    - Dialogue used written by Chris Avellone.
 
-1. *HANDBOOK FOR REASONABLE ACCOMODATIONS DEPARTMENTAL HANDBOOK ACSH-OFO-011.* (2024). U.S. Department of Education. [https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf)
+1. U.S. Department of Education. (2024). *HANDBOOK FOR REASONABLE ACCOMODATIONS DEPARTMENTAL HANDBOOK ACSH-OFO-011.* [https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf)
+    - "ACCOMODATIONS" is not a mispelling.
+
+2. U.S. Department of Education. (2025). *Individuals with Disabilities Education Act (IDEA).* U.S. Department of Education. [https://www.ed.gov/laws-and-policy/individuals-disabilities/idea](https://www.ed.gov/laws-and-policy/individuals-disabilities/idea)
+
+3. Washington Office of Superintendent of Public Instruction (OSPI). (2022, December) *Appendix A: Best Practices for Planning Paraeducator Support.* [https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf](https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf)
 
 ## **[Next Chapter](Z011_Learning_Methodologies.html)**

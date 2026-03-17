@@ -1,9 +1,9 @@
 ---
-title: 22. Guest Teachers, Speakers, and Presenters
+title: 22. Guest Teachers & Educators
 layout: default
 nav_order: 24
 ---
-# Guest Teachers, Speakers, and Presenters
+# Guest Teachers & Educators
 
 ### [Previous Chapter](Z014_Assistant_Teachers.html)
 
@@ -29,7 +29,8 @@ Not necessarily.
 
 **Legal Eligibility and Background Checks**
 
-Some laws restrict people with certain crimes around campuses. Ensure guests are allowed on campus and cleared before they visit. This may typically be handled by administration.
+Some laws restrict people with certain crimes around campuses. Ensure guests are allowed on campus and cleared before they visit. This may typically be handled by administration rather than educators and teachers.
+- One such law is the Adam Walsh Child Protection and Safety Act at the federal level (2006).
 
 Additionally, extensive background checks aren't something you normally verify and conduct yourself. Federal authorities, principals, and other support staff do this for personnel in workplace settings. Some schools may have a verified adult list to allow select individuals to do extracurricular activities and/or a list to ban select individuals as well.
 
@@ -55,28 +56,28 @@ Many guest teachers and presenters are adults and may request compensation for t
 
 ### **Got past all the checks! Now what?**
 
-Once all approvals are complete, verify and ensure all roles are clearly defined and met. If, on the agreed times of the sesssion, you're unsure what your role is and you're present during the guest teacher session, then assume the following, at a minimum, are true until proven otherwise:
+Once all approvals are complete, verify and ensure all roles are clearly defined and met. If, on the agreed times of the session, you're unsure what your role is and you're present during the guest teacher session, then assume the following, at a minimum, are true until proven otherwise:
 - You're present as the teacher of record and assume responsibility for the students
 - You ensure students follow the rules and procedures
 - You'll need to be around to handle emergencies and unforeseen liabilities/events
 - You'll have to remain around the students
 
-You may have standard procedures, or SOPs (standard operating procedures), pre-defined as well. If so, you may be safe to defer to those for all other things to do during guest teacher sessions. These sessions are similar to standard classrooms and partly what you normally do as a teacher anyway.
+You may have standard operating procedures, or SOPs, pre-defined as well. If so, you may be safe to defer to those for all other things to do during guest teacher sessions. These sessions are similar to standard classrooms and partly what you normally do as a teacher anyway.
 
-The guest teacher is also bound by any rules they agreed to as well. If they do not follow them, you may have to deal with removing them from the campus and even impose legal consequences upon them.
+The guest teacher is also bound by any rules they agreed to as well. If they do not follow them, you may have to deal with removing them from the campus and even get administration or law enforcement to impose legal consequences upon them.
 
 **If you want to get a guest teacher or presenter, it's OK to do–and sometimes encouraged–but make sure you have everything squared away before the time(s) they're present.**
 
 ### **Substitute Teachers**
 
-Substitute teachers are teachers with either a teaching license or a substitute teaching license in your applicable state. For private schools, they could be vetted adults by administrative staff too (since private schools are classified as private businesses). 
+Substitute teachers are teachers with either a teaching license or a substitute teaching license in your applicable state. In emergencies, those requirements could be waived or lowered, but also vary by state (Learning Policy Institute, 2025). For private schools, they could be vetted adults by administrative staff too (since private schools can be classified as private businesses in many jurisdictions). 
 
-Unlike other guest teachers, substitute teachers already establish formal job contracts with agencies or school districts, completed multiple background checks at state/federal level, fignerprints on file, and the blockers above are already taken care for you. Substitute teachers can temporarily, and legally, replace you as a primary teacher/teacher of record. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
+Unlike other guest teachers, substitute teachers already establish formal job contracts with agencies or school districts, completed multiple background checks at state/federal level, and the blockers above are already taken care for you. Substitute teachers can replace you, at least temporarily, as a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
 
 With a substitute teacher, you may safely assume some things until proven otherwise:
 1. They very likely do not know the same material as you.
 2. They may not follow your instructions, even if explicitly written and detailed.
-3. They will not have access to the same software you do (e.g. GoGuardian, laptop monitoring software, Google Classroom, etc.)
+3. They will not have access to the same software you do (e.g. classroom management and monitoring software)
     - Sometimes it is the facility's rules and administration blocking access instead of any teacher(s).
 4. They may handle classroom management differently from you.
 5. They may not have the appropriate training to handle certain situations like the primary teacher can.
@@ -86,7 +87,7 @@ A substitute teacher can issue some punishments on your behalf for days they cov
 - Physical issues: calling security
 - Major infractions: calling office / administration
 
-If you're the teacher and the substitute does send you notes, I'd say take any note, good or bad, with a grain of salt. You can follow up with one of your "good" students about how the day went, or verify with other staff about details, for anything you're suspect about. If it's confirmed a day did not go well, some things you may be permitted to do, unless administration blocks it, includes:
+If you're the teacher and the substitute does send you notes, I'd say take any note, good or bad, with a grain of salt. You can follow up with one of your "good" students about how the day went, or verify with other staff about details, for anything you're suspect about. If it's confirmed a day did not go well, some things you may be permitted to do, unless administration blocks it or it isn't permitted by policy, includes:
 - Restricting recess time
 - Forcing written apology letters from students
 - Introducing a "quiet period" 
@@ -97,6 +98,11 @@ If you're the teacher and the substitute does send you notes, I'd say take any n
 
 ## **Bibliography**
 
+1. Adam Walsh Child Protection and Safety Act of 2006, Pub. L. No. 109-248, 120 Stat. 587 (2006). [https://www.govinfo.gov/content/pkg/PLAW-109publ248/html/PLAW-109publ248.htm](https://www.govinfo.gov/content/pkg/PLAW-109publ248/html/PLAW-109publ248.htm)
+
 1. *Half-Life 2* [PC Version]. (2004, November 16). Valve.
+    - Writer: Marc Laidlaw.
+
+2. Learning Policy Institute. (2025, July 16). *An Overview of Teacher Shortages: 2025.* [https://learningpolicyinstitute.org/product/overview-teacher-shortages-2025-factsheet](https://learningpolicyinstitute.org/product/overview-teacher-shortages-2025-factsheet)
 
 ## **[Next Chapter](Z016_Passporting_Information_Transfer.html)**

@@ -15,7 +15,7 @@ nav_order: 27
 
 ---
 
-***Disclaimer: All items in this section are not medical advice nor should be interpreted as such.***
+***Disclaimer: All items in this section are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
 
 If possible, have a nice day. Enjoy your life when you can.
 
@@ -45,12 +45,10 @@ Alternatively, I could talk about how nurses and some licensed medical staff can
 
 Nevertheless, here's to hoping this chapter doesn't attract too much ire.
 
-As a reminder, this is practical advice, *not* medical advice. Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
-
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to perform duties. You may also deal with increased workloads/duties, fewer support networks, reduced protections, and countless demands to do what's needed regardless of resources available. If it gets bad enough, someone may be in "survival mode" and simply doing what they can to get by rather than excel.
 - E.g. it feels like you have to always do more with less with every passing year.
 
-For first-year teachers, it's nearly inevitable they'll go beyond contract hours because they're likely designing everything from scratch. If not going from scratch, then they're spending more time figuring out how thir particular education system(s) works. 
+For first-year teachers, they may often go beyond contract hours because they're likely designing everything from scratch. If not going from scratch, then they're spending more time figuring out how their particular education system(s) works. 
 
 For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up resources to quickly draw from.
 
@@ -60,31 +58,16 @@ Do teachers/instructors typically have to work outside normal work hours just to
 
 ### **An Educator's Creed**
 
-Despite providing what's usually perceived as an honorable service to society, I've never had to "take" a creed in education. I don't think there's even a universally recognized, official creed for education as of writing this on March 2026. If it does exist, they were probably guidelines or terms of employment rather than an oath.
+Despite providing what's usually perceived as an honorable service to society, I've never had to "take" a creed in education. I don't think there's even a universally recognized, official creed for education as of writing this. If it does exist, they were probably guidelines or terms of employment rather than an oath.
 
 Maybe there's too many debates about what educators are responsible for or they encompass too many roles at once. I'm not sure the reason myself, but it does leaves things ambiguous and morally/ethically questionable at least.
 
-Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with. To copy the full text, verbatim, from [the National Society of Professional Engineers](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021):
-
->   
-    As a Professional Engineer, I dedicate my professional knowledge to the advancement and betterment of public health, safety, and welfare.
-
-    I pledge:
-    
-    - To give the utmost of performance;
-    - To participate in none but honest enterprise;
-    - To live and work according to the highest standards of professional conduct;
-    - To place service before profit, the honor and standing of my profession before personal advantage, and the public welfare above all other considerations.
-
-    In humility, I make this pledge.
-
-If you cannot think of something to abide by, perhaps take a cue from that above. Ethics is pretty important afterall.
+Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with, such as the [the National Society of Professional Engineers](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021).
+- If you cannot think of something to abide by, perhaps take a cue from that above. Ethics is pretty important afterall.
 
 ### **A List of Things to Consider**
 
-Most of what's mentioned below are from things you may find, or deduce, from sources like the Centers for Disease Control and Prevention and Office of Disease Prevention and Health Promotion. They should be treated as general information references and include educator-specific items too.
-
-*Do not interpret the following below as medical advice.*
+Most of what's mentioned below can be found from sources like the Centers for Disease Control and Prevention and Office of Disease Prevention and Health Promotion. They should be treated as general information references and include educator-specific items too.
 
 - Get enough sleep.
 - Protect and stay within contract hours when you can. If you go over, make it intentional.
@@ -95,7 +78,7 @@ Most of what's mentioned below are from things you may find, or deduce, from sou
 - You will have good days and you will have bad days. Sometimes the bad days will ruin your entire day and the best course of action is to try and focus on something else–outside of work–on that day.
 - You may get sick more often because you're exposed to more germs and bacteria, so I'd say to stay up to date on vaccines, reduce exposure, and sanitize/wash hands a lot.
 - Exercise, even a little bit, will help keep you in moderate shape. Even walking is fine.
-- Since COVID-19, masks are more normal and useful in high-risk health settings.
+- Masks and face coverings are useful in high-risk health settings.
 - Ensure you're meeting nutritional needs, such as vitamin and calorie intake.
 - Manage stress. If, at any point the career is costing you your health and stress levels, you need to seriously examine if staying in it is viable.
 
@@ -128,9 +111,10 @@ In an instructional/teaching setting, your brain is processing multiple things a
 - Maintaining a "high alert" state the entire class period, multiple hours at once, or even the entire day without pause or rest
 - How to not undergo a sensory overload during the day
 
-These occurrences aren't exclusive to teachers. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies, but the environment you're in places a higher amount of stress than you may first expect.
+These occurrences aren't exclusive to teachers. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions typically do not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
+- This applies to a lot of workers in general too. 65% of U.S. workers (from 2019-2021) surveyed by OSHA equate work as a significant stress factor (2023).
 
-It's like your brain is at 90-95% active utilization and 5-10% downtime, at best, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location at work may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
+It's like your brain is at near constant utilization with little downtime, at best, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location at work may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
 Venting and decompressing methods vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. Maybe it takes 1 minute, 15 minutes, 30 minutes, or even an hour before you mentally return to a "normal" state and de-escalate from a "high alert" state.
 
@@ -147,12 +131,13 @@ Venting and decompressing methods vary among individuals. It can be done through
 
 4. *Engineers’ Creed - National Society of Professional Engineers.* (2021). Nspe.org. [https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed)
 
-5. Elin Olaug Rosvold. (2004, September 1). *Doctor, Don’t Treat Thyself.* Patient Safety Network.[https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself](https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself)
-    - ((Alternative citation)) Rosvold EO. Doctor, Don't Treat Thyself. PSNet [internet]. Rockville (MD): Agency for Healthcare Research and Quality, US Department of Health and Human Services. 2004.
+5. Rosvold, E.O. (2004, September 1). *Doctor, Don’t Treat Thyself.* Patient Safety Network.[https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself](https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself)
 
-4. Lawrence, B (Director). (n.d.). *Scrubs* [Film quote]. IMDB. [https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk](https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk)
+4. Lawrence, B. (Creator). (2007, April 5). "My Lunch" [Television series episode]. In Scrubs. Doozer/Towers Productions; ABC. [https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk](https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk)
 
 5. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. [https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating](https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating)
+
+5. Occupational Safety and Health Administration (OSHA). (2023). Workplace Stress - Overview.Occupational Safety and Health Administration. Www.osha.gov. [https://www.osha.gov/workplace-stress](https://www.osha.gov/workplace-stress)
 
 6. Parton, D. (2010, August 9). *"Don't get so busy making a living that you forget to make a life."* [Post]. X (Formerly Twitter). [https://x.com/DollyParton/status/20723962228?lang=en](https://x.com/DollyParton/status/20723962228?lang=en)
 

@@ -192,7 +192,7 @@ The "leaders eat last" concept is emphasized further through how officers and NC
 
 "Hungry" employees don't perform well, lack trust in the organization, and work out of obligation instead of desire if their well-being isn't taken care of.
 
-To stay concise, readers may look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information (1991).
+To stay concise, readers may look into the [Whitehall (I and II) Studies](https://pubmed.ncbi.nlm.nih.gov/1674771/), status syndrome, and similar research for more related information (1978 & 1991).
 
 ### **Precision and the Cost of One Mistake**
 
@@ -222,7 +222,7 @@ Communication of information is done through various methods, such as:
 - Face-to-face
 - Over radio networks
 
-Reconnaissance is pretty important. You're gathering information that must be accurate, precise, and communicated properly, or you risk failure and unncessary costs. The task required translating information into symbols and written words humans could quickly read and understand. To give a small overview of what to communicate:
+Reconnaissance is pretty important. You're gathering information that must be accurate, precise, and communicated properly, or you risk failure and unnecessary costs. The task required translating information into symbols and written words humans could quickly read and understand. To give a small overview of what to communicate:
 - Personnel types, numbers, and locations in the AO
 - Patrol routes
 - HQ/HVTs/Intel positions
@@ -233,7 +233,7 @@ Reconnaissance is pretty important. You're gathering information that must be ac
 It's common to use acronyms, abbreviations, markings, and symbols to communicate to other people.
 - It was common to use terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
 
-Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolus effect, wind, and far more variables short range interactions get to ignore entirely.
+Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolis effect, wind, and far more variables short range interactions get to ignore entirely.
 
 I made three rules for *all* communications in these specialist groups:
 1. Concise
@@ -261,7 +261,7 @@ SR radios are for squad and team communications, in addition to limited cross-fu
 
 LR radios are for platoon and higher communications when reaching out to other elements. Range and capabilities are higher, but LR radios are heavier and less compact--sometimes replacing a backpack.
 
-Transmissions on all networks are kept under 4-6 seconds. Each net is limited, by doctrine and technical limitations, for how many personnel can trasmit at a time. A SR radio can access a LR radio network in emergencies, like stepping up into leadership roles mid-operation. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
+Transmissions on all networks are kept under 4-6 seconds. Each net is limited, by doctrine and technical limitations, for how many personnel can transmit at a time. A SR radio can access a LR radio network in emergencies, like stepping up into leadership roles mid-operation. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
 
 If I mention "nets" moving forward, that refers to a communication channel accessible to (SR) radio or long-range (LR) radio. Nets are divided into whole and decimals, where the decimal numbers are subdivided tactical nets or "TAC" (e.g. 244 TAC 1 = 244.1). 
 
@@ -476,6 +476,8 @@ Keep in mind that reservists may not commit to a slotted role, or may be waiting
 1. *Military Units: Army.* (n.d.). U.S. Department of Defense. [https://www.defense.gov/Multimedia/Experience/Military-Units/Army/](https://www.defense.gov/Multimedia/Experience/Military-Units/Army/)
 
 1. *Radio Regulations; Additional Radio Regulations; Additional Protocol; Resolutions and Recommendations [(PDF)](https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/4.85.43.en.100.pdf)*. Geneva: International Telecommunication Union. 1959. pp. 430, 607. [Archived (PDF)](https://web.archive.org/web/20171107031456/http://search.itu.int/history/HistoryDigitalCollectionDocLibrary/4.85.43.en.100.pdf) from the original on 7 November 2017.
+
+1. Marmot, M. G.; Rose, G.; Shipley, M.; Hamilton, P. J. (1978). *Employment grade and coronary heart disease in British civil servants.* Journal of Epidemiology and Community Health. 32 (4): 244–249. [https://doi.org/10.1136/jech.32.4.244](https://doi.org/10.1136/jech.32.4.244). PMC 1060958. PMID 744814.
 
 1. Marmot, M. G., Smith, G. D., Stansfeld, S., Patel, C., North, F., Head, J., White, I., Brunner, E., & Feeney, A. (1991). *Health inequalities among British civil servants: the Whitehall II study.* Lancet (London, England), 337(8754), 1387–1393. [https://doi.org/10.1016/0140-6736(91)93068-k](https://doi.org/10.1016/0140-6736(91)93068-k)
     - Alt Link: [https://pubmed.ncbi.nlm.nih.gov/1674771/](https://pubmed.ncbi.nlm.nih.gov/1674771/)

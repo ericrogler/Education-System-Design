@@ -18,7 +18,7 @@ nav_order: 10
 **The more people you have to manage, the more likely something can go wrong.**
 - i.e. Anything that can go wrong *will* go wrong.
 
-**You can fix most (80-90%) classroom management issues with two actions: enforcing consequences for behavior and limiting the size of classrooms/number of students instructors manage.**
+**In my experience, you can fix most (80-90%) classroom management issues with two actions: enforcing consequences for behavior and limiting the size of classrooms/number of students instructors manage.**
 - Though a solution is scaling down, it typically demands more resources like real estate, staff, and wealth which may not be available.
 - To describe it technically: that solution is horizontal scaling, but vertical scaling is deployed instead due to lack of resources.
 
@@ -28,20 +28,18 @@ Discipline and management should be strict, but also fair and reasonable for eve
 - It's so significant I'd  recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
   - E.g. teaching middle schoolers requires different techniques compared to teaching college students.
 
- To quickly sum up various stages of pedagogy (children/minors) and andragogy (adults) in learning and management:
+ To quickly sum up various stages of pedagogy (children/minors) and andragogy (adults) in learning and management, if I were to distill it down my own way:
 - Ages 0-11: Favoring simple instructions, visualizations, cues, and routines over rules.
 - Ages 12-14: Exploring autonomy, testing limits/rules, flexibility, and engaging content.
 - Ages 15-18: Desiring respect, independence, and exposure to interesting content and better academics.
 - Ages 18+: *Needing* independence, accountability, and content value for future careers.
 
 You may also need licensure or certifications to teach specific subjects or do particular tasks legally, such as administering medicine to students.
-- Also, never be alone in a room with two or fewer students without the door open.
+- Also, never be alone in a room with two or fewer students without the door open to keep yourself more safe from liabilities.
 
 Fair, well-designed procedures are necessary to manage classrooms and behaviors from day one. Without them, you spend more time managing instead of teaching. A "fun" or casual teacher that lets students essentially do what they want is a nightmare to deal with for other teachers, administrators, and substitute teachers covering for the "fun" teacher. Do *not* be that teacher.
 
 **When people are not held to standards, they will not perform to standards.**
-
-PBIS, or Positive Behavioral Interventions and Supports (rewards, restorative circles, etc.), has the letters "B" and "S" in it for a reason, despite being evidence-based. It shouldn't replace disciplining people and if there are no strict interventions and supports, there is no positive behavior due to a lack of consequences for actions.
 
 If you need a one-liner? Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery.
 
@@ -56,7 +54,7 @@ What seems normal and reasonable everywhere else for management is not the case 
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. You could also have people that are easy to "manage," but difficult to work with.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
-Generally speaking, the older the students are the easier they are to teach. I know this may seem obvious, but if I don't write it down here someone will call it out.
+Generally speaking, I find the older the students are the easier they are to teach. I know this may seem obvious, but if I don't write it down here someone will call it out.
 - There *are* exceptions, yes, but I'm not covering them right now.
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
@@ -130,7 +128,7 @@ Additionally, when enforcing rules and consequences, the goal is so the student 
 
 *Alternatively: "Classical Conditioning"*
 
-This research was done by Ivan Petrovich Pavlov in *Conditioned Reflexes* (paraphrased title) book (1927).
+This research was done by Ivan Petrovich Pavlov in his *Conditioned Reflexes* book (1927).
 
 The experiment is taking a conditioned stimulus and an unconditioned stimulus to generate an unconditioned response. Translated into plain English, you generate a positive/negative effect accompanied with a trigger, such as a visual cue, specific sound, etc. When you notice this trigger, you're conditioned to expect a positive/negative effect.
 
@@ -155,7 +153,7 @@ To go off personal experience, I'd say this averaged out to around 3 minutes per
 That's now *nearly 11 days lost towards redirection.* That's 2 whole business weeks! For a small amount of time stopping issues from people who know they're not supposed to cause issues across the school period!
 
 What may seem like a small loss adds up over time to the point it's a significant loss due to both mismanagement and people problems.
-- Change minutes to milliseconds and you're on the way to spending 300 million USD (at 2009-2010 rates) for a cable reducing communication times from 16 milliseconds to 13 milliseconds (Budish et al., 2013).
+- Change minutes to milliseconds and you're on the way to spending several hundred million USD  for a cable reducing communication times by a few milliseconds (Budish et al., 2013).
 
 ### **Passes (to see other teachers/education staff)**
 
@@ -187,7 +185,7 @@ From a pure benefit/cost standpoint, they are absolutely worth it. This is one c
 
 Nevertheless, ensure that issuing one adheres to any classroom rules and school rules established, or else it may be perceived as unfair and turn against you. You'd also want to avoid certain suspension types for behavior that is troublesome, but not violent and actively threatening other students. The suspension is also ineffective if it isn't something the student wants to avoid or the student doesn't care about the suspension anyway.
 
-Students that are suspended once have a tendency, or at least higher probability, of causing issues when they get back into the classroom once again. They may not have kept up with school, which means not keeping up with your class. Because they're behind, they may disrupt the class again and the suspension process may repeat once again.
+Students that are suspended once have a higher probability of experiencing issues when they get back into the classroom once again (National Institute of Justice, 2021). They may not have kept up with school, which means not keeping up with your class. Because they're behind, they may disrupt the class again and the suspension process may repeat once again.
 
 Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, it's unlikely a suspension will suddenly change that habit.
 
@@ -206,7 +204,7 @@ If it's an issue *after* something like the above is mentioned, then you can alw
 
 ### **How should I talk to students?**
 
-It depends upon your audience. One group of students may favor one approach and another group of students may favor another approach. Nevertheless, the goal is to figure out what is, generally speaking, the "best" way to address students in general. Sometimes that is blunt, direct, and straight to the point like an Army Drill Sergeant. Other times that is 
+It depends upon your audience. One group of students may favor one approach and another group of students may favor another approach. Nevertheless, the goal is to figure out what is, generally speaking, the "best" way to address students in general. Sometimes that is blunt, direct, and straight to the point like an Army Drill Sergeant. Other times that is soft spoken, but still delivering the content as intended.
 
 Many points I'll make here are from me making a mistake in my own classroom and realizing "oh I should have done that" or from points I found elsewhere.
 
@@ -269,8 +267,6 @@ Keep in mind this is not saying to confiscate phones on sight. Only not to *use*
 
 If [multiple blue and red states in the United States are limiting cell phones](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060), new cell phone restrictions now signed in as law, and me telling you this doesn't already convince you, I'm not sure what will (Amy, 2025). Your principal or another legal authority giving you a consequence like a disciplinary action, written referral, or worse might convince you otherwise.
 
-Even if it isn't a law in your area, there are thousands, if not tens of thousands or even hundreds of thousands [according to Google Scholar when searching for "cell phones and academic performance"](https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en), of studies and research done over the past 2 decades showcasing its negative effects in education (Google Scholar, 2025).
-
 As for "what if" and other emergencies, like if a young student needs to have their phone for emergencies, considering the following points I present first:
 
 - Modern cell phones can record audio and video. For protecting student privacy and complying with federal laws like FERPA and HIPAA, schools may establish policies to regulate these devices.
@@ -279,7 +275,7 @@ As for "what if" and other emergencies, like if a young student needs to have th
 
 There are other reasons why I'm against cell phones, but they delve more into opinions rather than statements I can keep reasonably objective.
 
-I'd even argue school-provided technology like laptops and computers are just as detrimental, if not more detrimental, than phones. Since those particular techologies are deemed necessary in modern times for learning, the main solution (and often *only* solution) is to heavily restrict what can be done, viewed, and completed on that technology. You don't have to mimic George Orwell's *1984* here, but you need extreme safeguards against any potential distraction inside of any learning environment.
+As for laptops and computers, since those particular techologies are deemed necessary in modern times for learning, a typical solution is to heavily restrict what can be done, viewed, and completed on that technology. You don't have to mimic George Orwell's *1984* here, but you need extreme safeguards against any potential distraction inside of any learning environment.
 
 ### **What about critical incidents and traumatic events?**
 
@@ -310,6 +306,7 @@ As for other suggestions, let's start with focusing on relationships. This is, h
 Another suggestion is providing incentives like candy or free time. Be careful with this, as you may promote extrinsic motivations instead of intrinsic motivations.
 
 Lastly, I'd look into your own content, and any interactions in the content, for altering the lessons themselves. It could be the presentation of the material, or the material itself, is what turns them off. It could also be there's too much passive learning over active learning.
+- There's also research to consider, such as Kooloos et al. on the effects of passive and active education (2019).
 
 Even the best learning methods don't do anything if they aren't properly utilized by students. If that's true, you'll want to look into how you convey content or engage students, such as switching to questions they have to engage with or trying to get them to teach each other.
 
@@ -366,7 +363,7 @@ You would be surprised how often this question comes up if you've never taught b
 This is code for "do I have permission to not care about class today?" based on practical experience. Bluntly speaking, the student doesn't care and is disengaged.
 - There is the *rare* exception it is actually genuine, but this exception is based more on a *"tell"* than anything else.
 
-You can be kurt, funny, or deadpan with your response so long as it doesn't violate any rules/laws or get you fired. As long as your answer isn't "No" or "We are not doing anything today," it works because it helps maintain your sanity.
+You can be curt, funny, or deadpan with your response so long as it doesn't violate any rules/laws or get you fired. As long as your answer isn't "No" or "We are not doing anything today," it works because it helps maintain your sanity.
 - This situation is one case where you're going to have to make your own fun to survive as a teacher/instructor.
 
 Some of my favorite responses, even if some were *definitely* jokes, were:
@@ -374,7 +371,7 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 - "Science."
 - (If absent before) "We held a funeral for you yesterday."
 - (College) "Every class you ignore, take out 500 dollars from a bank account and burn it. That's how much each class you don't care about costs you."
-- (Is this graded?) "For you, yes."
+- (Is this graded?) "For you, yes." (author advisory: yes, this is a joke)
 - (while surrounded by buildings) "Yea, we fought a bear here."
 
 ## **Bibliography**
@@ -389,15 +386,18 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 
 3. Ginott, H. G. (1972). *Teacher and Child: A Book for Parents and Teachers.* New York, Macmillan.
 
-2. Google Scholar. (2025). *Scholar.google.com.* [https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en](https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en)
-
 5. Ivan Petrovich Pavlov. (1927). *Conditioned reflexes; an investigation of the physiological activity of the cerebral cortex.* New York, Dover Publications.
+
+3. Kooloos, J. G. M., Bergman, E. M., Scheffers, M. A. G. P., Schepens‐Franke, A. N., & Vorstenbosch, M. A. T. M. (2019). *The Effect of Passive and Active Education Methods Applied in Repetition Activities on the Retention of Anatomical Knowledge.* Anatomical Sciences Education, 13(4). [https://doi.org/10.1002/ase.1924](https://doi.org/10.1002/ase.1924)
 
 3. Linsin, M. (2013). *The Classroom Management Secret: And 45 Other Keys to a Well-Behaved Class.* Jme Publishing.
 
 4. Margaret McFarland - Mister Rogers’ Neighborhood. (2018, September 13). *Mister Rogers’ Neighborhood.* [https://misterrogers.org/articles/margaret-mcfarland/](https://misterrogers.org/articles/margaret-mcfarland/)
 
 5. May 1, 1969: Fred Rogers testifies before the Senate Subcommittee on Communications. (2015, February 8). *YouTube.* [https://www.youtube.com/watch?v=fKy7ljRr0AA](https://www.youtube.com/watch?v=fKy7ljRr0AA)
+
+6. National Institute of Justice, "Student Suspensions Have Negative Consequences, According to NYC Study," November 12, 2021, nij.ojp.gov:
+[https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study](https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study)
 
 6. US Department of Education. (2023, March). *Guiding principles: A resource guide for improving school
 climate and discipline.* Washington, DC.

@@ -20,15 +20,15 @@ nav_order: 15
 The average person will probably not go beyond basic concepts for Probability and Statistics unless they seek it out themselves, is required for a job, are or going through a math-heavy field of study.
 - E.g. you may not use statistical *calculations*, but you may utilize statistical *reasoning.*
 
-You might be brushing up on probability and statistics due to the popularity of ML/AI (machine learning and artificial intelligence). **For a lot of use cases and business problems, like applying ready-made solutions, basic statistics is about all you need.** Going beyond, however, still requires advanced math like Calculus, Linear Algebra, and vectorized operations.
+You might be brushing up on probability and statistics due to the popularity of ML/AI (machine learning and artificial intelligence). **I find that for a lot of use cases and business problems, like applying ready-made solutions, basic statistics is about all you need.** Going beyond, however, still requires advanced math like Calculus, Linear Algebra, and vectorized operations.
 
-Knowing how to do something is great. Knowing where to look up something is good. Not knowing anything about it is a sign.
+Knowing how to do something is great. Knowing where to look up something is good. Not knowing anything about it indicates a need for learning.
 
 To encourage people to care about your research, analysis, etc. you must address the questions they need answered. This typically means a clear question with actionable items and inquiring what information needs to be found and used for decisions. 
 
 Most analysis will employ tools, such as software like Excel or a coding language, as your primary means to figure out the answer(s). You'll also find data excels at humbling people and exposing what is *really* happening.
 
-Sometimes analysis and modeling doesn't requiring any math. In fact, it may be counterintuitive to write an entire, custom solution when an existing model you can import solves the problem far faster and more accurately.
+Sometimes analysis and modeling doesn't require advanced math. In fact, it may be counterintuitive to write an entire, custom solution when an existing model you can import solves the problem far faster and more accurately.
 
 Statistical Significance does not imply Practical Significance.
 
@@ -40,7 +40,7 @@ Do Statistics and Probability *require* Calculus? For their applied versions, no
 
 Should you still learn them? Personally, yes.
 
-When I did Statistics courses (yes, not just one) as an undergraduate, they shyed away from Calculus and in-depth theorems and focused more on Algebra. That isn't necessarily *bad* as you can still do multiple things, like z-scores, ANOVA, t-tests, hypothesis testing, linear regression, and normal distributions. You will eventually hit a limit without knowledge of higher math though. 
+When I did Statistics courses (yes, not just one) as an undergraduate, they shied away from Calculus and in-depth theorems and focused more on Algebra. That isn't necessarily *bad* as you can still do multiple things, like z-scores, ANOVA, t-tests, hypothesis testing, linear regression, and normal distributions. You will eventually hit a limit without knowledge of higher math though. 
 
 Intuitive understanding is possible without formal training and one can learn the tricks to implement algorithms and procedures without insight in how they work. Older elementary school students or middle school students (ages 9-10+) could learn about parts of probability before knowing all the math behind it just fine. 
 
@@ -60,15 +60,15 @@ Probability uses a model (or hypothesis) to predict what may happen in practice.
 
 Statistics starts with data obtained from practice (or experiments), observes what *has* happened, and figures out what the model/process is.
 
-People may typically learn Probability before Statistics. Probability doesn't need Statistics, but Statistics does need Probability. Though one may not need the other, they still complement each other. Some curricula may account for this relationship and teach both topics at the same time, such as showing the probablistic object after talking about its theoretical definition.
+People may typically learn Probability before Statistics. Probability doesn't need Statistics, but Statistics does need Probability for parts like inferential statistics. Though one may not need the other, they still complement each other. Some curricula may account for this relationship and teach both topics at the same time, such as showing the probabilistic object after talking about its theoretical definition.
 
 ### **Set Operations and You**
 
 I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis as well as *Statistical Inference* by Casella and Berger (2021).
 - Aside: These two specific books *do* assume basic training in Calculus.
 
-There are comprehensive lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025) and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to read the chapter.
-- If those two resources are down in the future, doing a search on the Internet should uncover updated sources.
+There are comprehensive (even if informal) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to read the chapter.
+- If those resources are down in the future, doing a search on the Internet should uncover updated sources.
 
 Why am I calling out set operations in particular? It's because not knowing set operations is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
 
@@ -86,7 +86,7 @@ I'm sure there's other ways besides these three, but these are the most common w
 
 *Practical* Statistics is about knowing when to apply a statistical test (i.e. a formula/algorithm) to a given scenario. Factors deciding this include correlation vs comparison, the types of users in groups, the number of groups, whether or not you're estimating, binary data (yes/no type answers), and more. Essentially, you're looking at decision trees and determining the appropriate test to use when certain conditions are fulfilled.
 
-After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (variance), you'll still get an incorrect answer. Statistics is a constant test of your intelligence *and* wisdom when it comes to learning and applying it.
+After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a constant test of your intelligence *and* wisdom when it comes to learning and applying it.
 
 As for concepts in statistics and probability you'll see most often, I'd assume the following in no particular order:
 1. Probability Distributions
@@ -99,9 +99,10 @@ There are a few other concepts you may see in practice and workplace settings: d
 
 Descriptive statistics are the foundations for data science and includes concepts typically introduced to younger students. This includes measures you may've learned at a younger age, such as mean, mode, median, and range. It also includes variability measures like variance and standard deviation as well as frequency distribution measures like histograms and boxplots. Descriptive statistics can solve some problems directly without spending additional time or money developing advanced models.
 
-Regression is fitting a prediction against actual outcomes. The stronger the correlation, or relationship, between variables, the better your prediction is compared to real-world data. At the same time, a strong correlation can produce an incorrect model as well. Regression also has strict assumptions, such as linearity, independence, normally distributed, and homscedasticity, which cannot be violated at the risk of model invalidation. Common applications include prediction, estimation, and forecasting, but model effectiveness still depends on data quality.
+Regression is fitting a prediction against actual outcomes. The stronger the correlation, or relationship, between variables, the better your prediction is compared to real-world data. At the same time, a strong correlation can produce an incorrect model as well. Regression also has strict assumptions, such as linearity, independence, normally distributed, and homoscedasticity, which cannot be violated at the risk of model invalidation. Common applications include prediction, estimation, and forecasting, but model effectiveness still depends on data quality.
 
-The relationship between correlation and causation is pretty straightforward. Firstly, correlation does *not* imply causation. Causation means one variable directly influences another variable, such as one variable increasing because another decreases. Correlation is only describing the relationship, or association, between variables. Correlation and causation *together* serve as scientific evidence; correlation alone cannot be used as evidence for conclusions. A proper conclusion requires correlation alongside context acquired from experimental design, strong controls, and/or domain knowledge to.
+The relationship between correlation and causation is pretty straightforward. Firstly, correlation does *not* imply causation. Causation means one variable directly influences another variable, such as one variable increasing because another decreases. Correlation is only describing the relationship, or association, between variables. Correlation and causation *together* serve as scientific evidence; correlation alone cannot be used as evidence for conclusions. A proper conclusion requires correlation alongside context acquired from experimental design, strong controls, and/or domain knowledge to inform decisions and results.
+- Despite this explanation, establishing causation is more complex than I imply here.
 
 ### **Why Cover Analysis?**
 
@@ -136,7 +137,7 @@ Like Statistics and Probability, SQC will assume you can navigate Algebra, but a
 
 A lot of analysis isn't really designing the fancy dashboard or displaying results for clients. That's still an important part though because an interface which looks good also affects the perception of it. It still must answer a specific question, or set of questions, someone has when looking through it.
 
-Most analysis comes from cleaning up data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the wa
+Most analysis comes from cleaning up data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the way to figure out what's actually there to then act upon it.
 
 All of the earlier math concepts are still important because they open up further advanced topics like optimization, linear (and nonlinear) programming, forecasting, regression, and more.
 
@@ -144,8 +145,8 @@ All of the earlier math concepts are still important because they open up furthe
 
 A database is a repository of data and it's structured in some way, shape, or form. Data consists of facts, figures, quantities, and details collected about the environment. The data itself can be structured, semi-structured, or unstructured. You could also set up a clean, isolated environment through containerization with software like Docker.
 
-Imagine now that you work in a warehourse. There are specialized machines handling logistics inside the warehourse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehourse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
-- To any data specialists reading this: "SQL inside the database; Python outside the database" is a decent rule of thumb that hopefully doesn't age poorly.
+Imagine now that you work in a warehouse. There are specialized machines handling logistics inside the warehouse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehouse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
+- To any data specialists reading this: "SQL inside the database; Python outside the database" is a decent, albeit debated, rule of thumb that hopefully doesn't age poorly.
     - Alternatively, Python is transportation and SQL is transformation in this case.
 
 The average reader today in 2026 is likely familiar with spreadsheets through software like Google Sheets or Excel. That's structured data and organized into tables, worksheets, and cells. While spreadsheets *can* act as databases, it's not well-equipped to do so.
@@ -158,7 +159,7 @@ Let's say you're a teacher or instructor and I give you information on the stude
 
 That same information may also contain multiple formatting issues, missing values, consistency with capitalization errors, spacing problems, and a slew of countless other formatting issues. If you want to work with the information in the future without questioning your sanity, you'll have to *clean* it.
 
-You may not ever work with a coding language in your life or very seldomly do. You may work with coding languages extensively. In either case, around 80% of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and most of the work needed.
+You may not ever work with a coding language in your life or very seldomly do. You may work with coding languages extensively. In either case, the majority of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and most of the work needed.
 - In practice, this is often done by specialists, such as data scientists, data engineers, and software architects, rather than the general populace because of data cleaning's perception as "menial work."
 
 Cleaning data typically involves one, or more, of steps like so:
@@ -185,7 +186,7 @@ If you didn't clean the data from before, transforming data takes the messy data
 
 Let's say you want to make a cake and you have a recipe. You've already ensured the ingredients are the correct ones, but still need to properly utilize those ingredients. There's plenty of complexity and techniques you could use, so understanding your ingredients and your objective with said ingredients is important. From there, you can identify the techniques you need and evaluate the impact as you finish making the cake.
 
-"Clean," good, and prepared ingredients (data) leads to better cakes (reports). If you're starting with good ingredients every time, you also *consistently* make good cakes. If you can keep ingredients fresh, even when you double or triple the amount you're working with, then you can make even more cakes without sacrificing the taste or flavor. Additionally, if you're familiar with baking techniques and the recipe(s), you'll learn bettery ways to save time and costs for future cakes. Lastly, if you're an expert in baking, you can take what looked like simple cakes before and turn them into visualing stunning showstopper pieces. 
+"Clean," good, and prepared ingredients (data) leads to better cakes (reports). If you're starting with good ingredients every time, you also *consistently* make good cakes. If you can keep ingredients fresh, even when you double or triple the amount you're working with, then you can make even more cakes without sacrificing the taste or flavor. Additionally, if you're familiar with baking techniques and the recipe(s), you'll learn better ways to save time and costs for future cakes. Lastly, if you're an expert in baking, you can take what looked like simple cakes before and turn them into visually stunning showstopper pieces. 
 
 If you know your ingredients (data) are clean and your process transforms ingredients into well-designed cakes (meaningful presentations, reports, etc.), you've got a recipe for success.
 
@@ -199,7 +200,7 @@ You may also notice some terminology crop up more often, or less often, dependin
 
 For readers newer to scientific literature, Carey et al developed [ten simple rules for reading a scientific paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/) which succinctly describe how to *start* reading them properly for even non-technical audiences (2020).
 
-**To copy the headers (rules) verbatim from the source above (Carey et al, 2020):**
+**To copy the headers (rules) verbatim from the source above ([which is CC-BY](https://creativecommons.org/licenses/by/4.0/)) (Carey et al, 2020):**
 1. Pick your reading goal
 2. Understand the author’s goal
 3. Ask six questions
@@ -221,6 +222,24 @@ As for statistics, it's tough to answer this without knowing a specific backgrou
 Finally, a lot of research doesn't actually make it to publication. There could be errors made in the process, the committee reviewing the paper decided not to approve it for publication, funding was cut, it wasn't ideal for science, it is (or became) classified, and so on are some of many reasons why it's not published in a peer-reviewed journal. Not being published isn't always an indicator of quality.
 - Just because it's not *published* doesn't mean it might not show up in talks, posters, videos, online forums/sites, and so on.
 
+### **Business, Operations, and Embedded Analytics**
+
+A fair bit of decision-making happens through two means: operational analytics and business analytics. Operational analytics seeks to enable immediate action whereas business analytics seeks actionable insights from data.
+
+Operations focuses on real-time and streaming data so organizations can respond as events occur. Examples of implementations may be dashboards, alerts, automated responses and triggers, and so on to respond to when conditions change.
+
+Business focuses on aggregations, forecasting, comparisons, and batching data. It doesn't respond to individual events, but guides planning and strategy over time. 
+
+The biggest difference between them is time (or decision latency). Operational analytics minimizes time between an event and action taken while business can suffice without immediate action for a deeper analysis and improved context. The lines between these two blur as technology advances and can do both types at once.
+
+As for how this ties into wealth, think about managers and administrators handling finances. They may use operational analytics for monitoring revenue and expenses throughout the day, while business analytics aggregates financial performance for weekly reviews, monthly reviews, and yearly reviews. Systems could be designed to cater to real-time data and streaming, then add options to batch data for long-term analysis. Be warned, however, that streaming data without acting on it introduces excess storage costs, complexity, and maintenance requirements.
+
+For users in education systems, they may do more business analytics due to domain characteristics rather than technology choice. Many academic events occur discretely, such as assignments, exams, and grades, and update only as students complete them. The system will prefer periodic analysis over continuous monitoring by design. A user can extract data, process it through scripts, and aggregate results by classroom, grade level, or demographic for presentation and decision-making. An engineer may favor batch pipelines and architecture over stream architecture in education systems.
+
+A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
+
+Amongst all approaches, system design involves tradeoffs. This includes availability, consistency, partitioning, latency, query performance, and concurrency (the ability to execute multiple tasks simultaneously). Business analytics may tolerate lower availability and higher latency, but operational and embedded analytics typically require high availability and low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so people should design for scalability and adaptability early on to reduce issues down the road.
+
 ## **Bibliography**
 
 1. Bertsekas, D. P., & Tsitsiklis, J. N. (2008). *Introduction to probability.* Athena Scientific.
@@ -232,6 +251,7 @@ Finally, a lot of research doesn't actually make it to publication. There could 
 3. GeeksforGeeks. (2025, Oct 6). *Set Operations.* GeeksforGeeks. [https://www.geeksforgeeks.org/maths/set-operations/](https://www.geeksforgeeks.org/maths/set-operations/)
 
 3. Goodstein, D. L. (2014). *States of Matter.* Dover Publications.
+    - Original published in 1975 by Prentice-Hall.
 
 4. *List of Probability and Statistics Symbols.* (2020, April 26). Math Vault. [https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/)
 

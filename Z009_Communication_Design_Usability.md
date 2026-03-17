@@ -1,9 +1,9 @@
 ---
-title: 15. Communication, Design, and Usability
+title: 15. The User Experience
 layout: default
 nav_order: 17
 ---
-# Communication, Design, and Usability
+# The User Experience
 
 ### [Previous Chapter](./Z008_Source(s)_Of_Truth.html)
 
@@ -34,7 +34,7 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 
 **Before continuing, recognize that:**
 1. Someone probably did what you want to do.
-2. Someome probably did it better.
+2. Someone probably did it better.
 
 *Reread those two things, then continue.*
 
@@ -54,7 +54,7 @@ You don’t always need to invent ideas. You need to be good at teaching ideas a
 ### **The User (Student) Experience**
 Imagine you're using a website or playing a video game for the first time. You may not know how to use it to its full potential, or you're going in with some knowledge of conventions and standards about how this website or game should operate. Some conventions are commonly known and understand, like what a stop sign is at a road interaction, and other conventions are less known.
 
-It's an easy assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing any of the following:
+It's an easy assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing any of the following (Krug, 2014):
 - Scanning text instead of reading text
 - Settling on a reasonable first solution
 - Stumbling through how something works
@@ -66,13 +66,14 @@ You'll find students go in with a goal in mind. That goal may be getting through
 - If they're figuring out how to perform a specific action, expect them to focus only on tasks that help them do that and potentially ignore everything else.
 
 A misaligned goal is something you can mitigate to an extent. Any form of thinking takes up energy; if you can spend less energy thinking about something, then you'll likely do that. Your material could be the best and most fun in the world, but viewed as nothing more than work, which takes up time and energy that students would rather spend elsewhere. Put another way, imagine a student has a fuel tank where every thought, action, etc. uses up fuel and they have a limited supply for the day.
+- This is formally called cognitive load theory, as coined by Sweller (1988).
 
 When in doubt, design materials to minimize unnecessary effort. Conventional templates, multiple choice questions, and familiar formats may not look the best design-wise, but require less mental effort to meet their goal and give back more time to do what you want. By extension, this means you get more time to have them focus on what you want them to learn; all by making it easier to meet their goal(s).
 
 You can also teach new conventions and methods, but it may take students several iterations and exposures before they require less mental effort to think about how to do it correctly.
 
 ### **The Pareto Principle**
-You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: 80% of the consequences come from 20% of the causes is a commonly observed event. It's a generally accepted rule (NOT law) (The Investopedia Team, 2025).
+You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: ~80% of the consequences come from ~20% of the causes is a commonly observed event. It's a generally accepted rule (NOT law) (Pareto, 1896).
 
 **There are some misconceptions to correct.** The Pareto Principle describes a commonly seen distribution of events. Again, it is not a law, but a pattern. How this applies to you as a teacher is this: focus first on the serious problems before tackling the not-so-serious issues. 
 
@@ -84,26 +85,28 @@ If you don't know where to start identifying serious problems:
 Solutions don't have to be perfect; just good enough to effectively solve the problem.
 
 ### **Accessibility**
-Outside of legal requirements like IEPs and 504s, you want to make sure your teaching material is accessible.
+Outside of legal requirements like IEPs and 504s, you want to make sure your teaching material is accessible. Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort.
 
-Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort. It's a concept called Universal Design, where you design for as many people as possible as any person could be a "customer."
-- In teaching practice, this may mean offering extended time if you had 40% of the class mandated extra time by an IEP/504 anyway.
-
-If you want two examples, think about blind and deaf people. As an example, Braille accommodates learning for blind people or with vision loss (U.S. Department of Justice Civil Rights Division, 2020). Because these demographics have these methods to communicate and learn, they're now on a similar stage of learning compared to peers without those disabilities.
+If you want two examples, think about blind and deaf people. As an example, you can use Braille to accommodate learning for blind people or with vision loss (U.S. Department of Justice Civil Rights Division, 2020). Because these demographics have these methods to communicate and learn, they're now on a similar stage of learning compared to peers without those disabilities.
 
 You might also claim that accessibility will harm the design and content of whatever you're teaching. Accessibility typically doesn't compromise design, but instead improves clarity for all users (Krug, 2014). It significantly improves the curriculum and made things simpler to understand for all students. It also eliminates, or heavily mitigates, issues where students without disabilities likely encountered difficulties in one area and students with disabilities experienced similar problems in the same area.
 
 ## **Bibliography**
 
 1. Creative Commons. (n.d.). *About CC licenses.* [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)
+    - Future Reading Source
 
-2. Simon, H. (1971). *Designing Organizations for an Information-Rich World* [Review of *Designing Organizations for an Information-Rich World*].
+2. Simon, H. (1971). *Designing Organizations for an Information-rich World.* Baltimore, MD: Johns Hopkins University Press. pp. 37–52.
 
 2. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
 
 3. Open Source Initiative. (n.d.). *The MIT license.* [https://opensource.org/license/mit](https://opensource.org/license/mit)
+    - Future Reading Source
 
-4. The Investopedia Team. (2025, April 18). The Pareto Principle—aka the Pareto Rule or 80/20 Rule. *Investopedia.* [https://www.investopedia.com/terms/p/paretoprinciple.asp](https://www.investopedia.com/terms/p/paretoprinciple.asp)
+4. Pareto, Vilfredo (1898). "Cours d'economie politique". Journal of Political Economy. 6. [doi:10.1086/250536](https://doi.org/10.1086%2F250536).
+    - The original source is from 1896, but the above is for journal publication.
+
+5. Sweller, J. (April 1988). *Cognitive Load During Problem Solving: Effects on Learning*. Cognitive Science. 12 (2): 257–285. CiteSeerX 10.1.1.459.9126. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207%2Fs15516709cog1202_4). S2CID 9585835.
 
 5. U.S. Department of Justice Civil Rights Division. (2020, February 28). *ADA Requirements - Effective Communication.* ADA.gov. [https://www.ada.gov/resources/effective-communication/](https://www.ada.gov/resources/effective-communication/)
 

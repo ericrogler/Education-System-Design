@@ -17,7 +17,7 @@ nav_order: 18
 
 *Disclaimer: I built this framework in mind for secondary and tertiary education (ages 12 and above). Elementary school/primary education may need adjustments beyond what is here. It is also independent of the subject(s) taught.*
 
-About 50% of teaching/instruction involves communication in some way. The other 50% is management. Communication and management are tightly integrated together here.
+I find education always involves communication in some way, shape, or form, while another significant part is management. Communication and management are tightly integrated together here.
 
 "Communication" is packed into three instructional categories:
 1. Lectures
@@ -27,7 +27,7 @@ About 50% of teaching/instruction involves communication in some way. The other 
 If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover.
 
 That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
-- Think CAP Theorem and ETL pipelines, for those same readers with data backgrounds.
+- Think CAP Theorem (attributed to Eric Brewer, 2000) and ETL pipelines, for those same readers with data backgrounds.
 
 **Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
 
@@ -46,7 +46,7 @@ This gap in learning creates a void to fill with an important question: how does
 ### **What's the Overview?**
 
 A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. In a way, I'm taking parts from this framework and translating them into actionable items. We'll explore those reasons and more in this chapter.
-- The formal name is the "Gradual Release of Responsibility" in case you want more information.
+- The formal name is the "Gradual Release of Responsibility" in case you want more information (Pearson & Gallagher, 1983).
 
 **The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
 - Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
@@ -95,8 +95,7 @@ Despite that haphazard treatment in practice, it's still a philosophy focused on
 
 If you were to really compress Agile down, it's basically everyone talks to each other (students, teachers, administrators, etc.), the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
 
-Scrum is a framework compatible with Agile (Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a product, or a completed product, at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
-- Fortunately, you don't need a Scrum Master here because their duties are already covered by you, the person designing the education system! That's a major bonus.
+Scrum is a framework compatible with Agile (but Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a usable increment (i.e. a part of a project or even a complete project) at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
 
 **The stages of a Scrum "sprint" are the following** ([further reading](https://www.atlassian.com/agile/scrum/sprints)):
 
@@ -212,7 +211,7 @@ If you're struggling in the planning phase, don't worry. This part takes practic
 - 1 sentence on the objectives
 - Any other task(s) to cover if able to or if needed
 
-Lastly, as a stern reminder, be advised that no plan you make survives first contact with students. Follow your lesson plans as written, but be prepared to deviate and adjust when needed and as situations outside of your control arise.
+Lastly, no plan you make survives first contact with students (paraphrased from Helmuth von Moltke, 1871). The planning is still useful, but prepare to deviate when needed and as situations outside of your control arise.
 
 ### **Implementation (Teacher & Student)**
 
@@ -245,6 +244,7 @@ You may consider direct instruction bad, or at least heard about it's negative a
 
 A single lecture "talk" on each topic should rarely go beyond 18-20 minutes without some sort of break or it suffers from diminishing returns. [TED (Technology, Entertainment, Design), a nonprofit focused on spreading ideas](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes), uses a similar guideline as it's "long enough to say something meaningful, but short enough to hold your audience's full attention" (TED, 2025).
 - You can, and should, still consider longer or full duration lecture days! Just remember to pause or break appropriately throughout it.
+- As a caveat, this is meant for public talks or "sage on the stage" style lectures.
 
 When I did full lecture days, I alternated lectures and review. I did a 15-20 minute topic lecture, followed by a 5 minute review, and repeated as needed. That pacing helped better with retention and overload of information. While format varies by content, and sometimes includes an activity, there's *always* a break between topics to let the information sink in.
 - That break isn't "free time" though. You just go from doing one thing to doing another thing.
@@ -275,7 +275,7 @@ Activities and projects are the first "2" of my setup. **I recommend doing no fe
 
 Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
 
-Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. There may also be prerequistive knowledge required to follow along properly or else the purpose of the activity/project falls through.
+Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. There may also be prerequisite knowledge required to follow along properly or else the purpose of the activity/project falls through.
 
 If you haven't reviewed your safety measures for activities, review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
 
@@ -396,9 +396,11 @@ To give an example, let's say we normally need 8 weeks to teach a topic, but onl
 
 Sprinkle in short breaks throughout the parts as needed or when the session requires it.
 
-**Do not underestimate how long it takes to condense information. It can take a short or extensive amount of time to convert a long-term curriculum into a shorter one.
+**Do not underestimate how long it takes to condense information. It can take a short or extensive amount of time to convert a long-term curriculum into a shorter one.**
 
 ### **Cost Overage vs Cost Underage (Newsvendor Model Application)**
+
+For more information, see related sources like Arrow, Harris, and Marshak (1951).
 
 In operations and supply chains, underage cost is when demand exceeds supply, while overage cost is when supply exceeds demand. The Newsvendor model weighs the risks associated with these costs to determine optimal inventory counts for a given time period. The goal, or objective statement, is to reduce costs *in general,* not to go too high or too low.
 
@@ -416,7 +418,11 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 ## **Bibliography**
 
+1. Arrow, K.J., Harris, T., Marshak, J. (1951) *Optimal Inventory Policy.* Econometrica.
+
 1. Beck, K., Beedle, M., van Bennekum, A., et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+
+1. Brewer, E. A. (2000). *Towards Robust Distributed Systems*. Principles on Distributed Computing (PODC). [DOI:10.1145/343477.343502](https://dl.acm.org/doi/10.1145/343477.343502)
 
 2. Daniels, J. (1946). *The Wilson era: Years of war and after 1917–1923* (p. 624). The University of North Carolina Press.
 
@@ -424,14 +430,17 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 3. Hattie, J. (2018). *Hattie effect size list - 256 Influences Related To Achievement.* VISIBLE LEARNING. [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
 
-2. LucasArts. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. Chris Parker.
+2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
+    - Dialogue used written by Chris Avellone.
 
-4. Mason, L., & Otero, M. (2021). *Just How Effective Is Direct Instruction?* Perspectives on Behavior Science, 44(2-3). https://doi.org/10.1007/s40614-021-00295-x
+4. Mason, L., & Otero, M. (2021). *Just How Effective Is Direct Instruction?* Perspectives on Behavior Science, 44(2-3). [https://doi.org/10.1007/s40614-021-00295-x](https://doi.org/10.1007/s40614-021-00295-x)
+
+4. Pearson, D., & Gallagher, M. (1983). *The Instruction of Reading Comprehension.* Contemporary Educational Psychology, 8(3), 317–344. [https://doi.org/10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
 
 4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 
-6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. ([Amazon Link](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9.
+6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. [https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9).
 
 ## **[Next Chapter](Z010a_Accommodations.html)**

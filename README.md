@@ -30,19 +30,19 @@ This splits the text by chapter across multiple pages.
 - Management Case C: Macro and Micro
 - Classroom & Behavior Management
 - Standards / Objectives
-- Roadblocks To Teaching
+- Roadblocks To Education
 - Metrics Of Success
 - Math, Calculus, and Beyond
 - Probability, Statistics, and Analysis
 - Source(s) of Truth
-- Communication, Design, and Usability
+- The User Experience
 - “Agile” Teaching Framework - An Educational System
 - Accommodations
 - Learning Methodologies and Teaching Methods
 - Homework
 - Client Relations
 - Assistant Teachers
-- Guest Teachers, Speakers, and Presenters
+- Guest Teachers & Educators
 - Passporting & Information Transfer
 - Other Additional Duties
 - Maintaining Work Health
@@ -50,9 +50,7 @@ This splits the text by chapter across multiple pages.
 - The Use of AI and Technology
 - Design Systems and EdTech
 - Engineering & Architecture
-- Action Plan: Week 1
-- Action Plan: Month 1
-- Action Plan: Year 1
+- Action Plan For Educators
 - Case Study: Communication Lesson
 - Conclusion / Learnings
 

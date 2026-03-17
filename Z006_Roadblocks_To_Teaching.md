@@ -1,17 +1,17 @@
 ---
-title: 10. Roadblocks To Teaching
+title: 10. Roadblocks To Education
 layout: default
 nav_order: 12
 ---
-# Roadblocks To Teaching
+# Roadblocks To Education
 
 ### [Previous Chapter](Z005_Standards_Objectives.html)
 
 ## **Short Answer**
 
-> "I have not failed. I've just found 10,000 ways that won't work."
+> "Advancing down one path is beautiful in itself... but it usually doesn't go that way. Hesitation... mistakes... and diversions occur. Because of those, you try to turn around but you're hit this way... and hit that way. Your path, which you lost due to hesitation... surely it expands more than anyone else's..."
 
-- Thomas A. Edison
+- Matahachi Hon'iden, *Vagabond* (2010, Translation)
 
 ---
 
@@ -51,11 +51,11 @@ In one sentence: is there a device that cannot operate the software and/or perfo
 - Cannot use it
 - Need to find an alternative fitting technical requirements
 
-For example, a Chromebook might not run Windows or Mac games, but it can run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
+For example, a Chromebook might not run Windows or Mac games, but it may be able to run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
 
-Another example: you want students to run a flight simulator on school computers, but “dxdiag” shows the computer specs are far too low. That's OK, though, because there are less resource-intensive browser alternatives available for use instead.
+Another example: you want students to run a flight simulator on school computers, but “dxdiag” on a Windows computer shows the computer specs are far too low. That's OK, though, because there are less resource-intensive browser alternatives available for use instead.
 
-**Be warned, though:** using alternative software may not meet all of your needs or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
+**Be warned, though:** using alternative software may not meet all of your needs or accurately do what is needed to meet your objectives. As lfong as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
 
 The only time you are *stuck* with a given software/tool is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required software or they cannot get the certification or license. Some software may require the teacher to also hold a license to teach or administer tests related to the software, so double-check first.
 
@@ -63,7 +63,7 @@ The only time you are *stuck* with a given software/tool is if you're trying to 
 
 Not necessarily. Even if technology is available, whether gifted, bought, or contractually obliged to use, it's still a question of *should* students have extended access to technology vs *can* students have that access.
 
-What technology you permit and use depends on the needs of your class(es). Do not, however, discount existing research on [relationships between student performance vs technology use](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&q=Performance+vs+technology+use+on+children&btnG=) when informing your decision (Google Scholar, 2025).
+What technology you permit and use depends on the needs of your class(es). Do not, however, discount any existing research on when informing your decision.
 
 Additionally, with any new technology, there's also a learning curve. Some tech you'll have to know about, like emails (or a CMS like Google Classroom). Other tech, you may not have to know much about. There's also tech where it's nice to know about, and can enhance learning, but requires some level of learning investment before it provides a return.
 
@@ -80,13 +80,7 @@ These blockers refer to the space you're teaching in or from and human physical 
 
 For example, you need a specific type of equipment but the rooms lacks support, like gas lines, space, or high-voltage outlets, for your equipment. Some blockers, like moving desks around, are easy to fix and other blockers, like installing custom windows, are not easy to fix.
 
-Creativity and ingenuity can oversome some physical blockers to make them less restrictive, but may still affect student performance and behavior. You could teach an entire classroom with everyone standing, but then taking notes, drawing, or writing is significantly impaired. You could also place people across the room in rows, clusters, etc., to influence how they interact with each other and you.
-
-A rarer example: students with disabilities in building grandfathered under old building codes lacking ADA-compliant access, like a low slope entry ramp. You could consider:
-
-- Provide assistance to get them into the classroom, whether by yourself (very legally risky) or request other students to help (less legally risky)
-- Hosting the classroom in a different location to solve physical restriction issues
-- Provide alternative forms of learning and accommodations to solve learning issues
+Creativity and ingenuity can overcome some physical blockers to make them less restrictive, but may still affect student performance and behavior. You could teach an entire classroom with everyone standing, but then taking notes, drawing, or writing is significantly impaired. You could also place people across the room in rows, clusters, etc., to influence how they interact with each other and you.
 
 You may consider peer assistance first before alternative learning forms as well. The other solutions are either legally complicated or may be infeasible due to numerous obstacles like space, money, etc.
 
@@ -103,7 +97,7 @@ When funding is limited, be ready to resort to low-cost or free alternatives, or
 There are multiple types of websites–government, commercial, non-profit, and personal–with free simulations and interactive software available for student and public use, such as [NASA's Eyes](https://science.nasa.gov/eyes/) for solar systems and [USGS TopoView](https://ngmdb.usgs.gov/topoview/) for topographic map viewing and manipulation.
 
 With some software, you may need to purchase Educational and Student Licenses. These may *not* be cheap, but typically more affordable compared to business, personal, and professional use.
-- As an example, per Autodesk as of September 2025 ([Further Reading](https://www.autodesk.com/solutions/revit-subscription-faq)), the standard Revit Individual subscription is $3005 annual or $380 monthly per license. For qualified educators and students, you could get it for free instead (with terms and conditions).
+- As an example, per Autodesk as of September 2025 ([Further Reading](https://www.autodesk.com/solutions/revit-subscription-faq)), the standard Revit Individual subscription is one example of an expensive license for an expansive software. For qualified educators and students, you could get it for free instead (with terms and conditions).
 
 Businesses typically have strict definitions for educational institution qualifications. If you don't qualify, you'll need other options or have to pay the license price of another category (typically higher vs education).
 
@@ -122,9 +116,9 @@ If you do not have HR, or an equivalent, I'd tell you to avoid the following:
 - Anything causing physical harm, intentional or not.
 - Bullying and bringing down people through your words and actions
 - Relationships with students
-- Relationships (in general)
+- Relationships (personal/romantic)
 
-There are *rare* expections to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class, but it's under the heavy caveat it's specifically related to education and a part of the class curriculum and lesson plans.
+There are *rare* exceptions to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class, but it's under the heavy caveat it's specifically related to education and a part of the class curriculum and lesson plans.
 
 In short: maintain a safe, acceptable, professional, and respectable distance between you and your students.
 
@@ -140,9 +134,9 @@ Knowledge blockers will be talked about more later, but know there's always a ch
 
 ## **Bibliography**
 
-1. Google Scholar. (2025). *Scholar.google.com.* [https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&q=Performance+vs+technology+use+on+children&btnG=](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&q=Performance+vs+technology+use+on+children&btnG=)
+1. Inoue, T. (2010). *Vagabond* (Vol. 31). Kodansha: Morning KC. (Original work published 2009). ISBN: 978-1-4215-3631-6
 
-2. NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
+1.  NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
 
 3. *Revit Subscription and License FAQs - Autodesk.* (2025). Autodesk.com. [https://www.autodesk.com/solutions/revit-subscription-faq](https://www.autodesk.com/solutions/revit-subscription-faq)
 

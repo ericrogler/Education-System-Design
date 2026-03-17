@@ -28,7 +28,7 @@ I have bias writing this chapter because my background in education is as a Scie
 - Additionally, most Science in general requires the student proficient in math.
 - Even if you forget most the math here in 5-10 years after initially learning, you'll still (hopefully) retain logical thinking and reasoning habits acquired during the learning process.
 
-I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. Many jobs, especially ones you may not expect at first, utilize higher mathematics to solve problems. A lot of math you may see was also made precisely to solve practical problems too, like in Physics and supply chains, so it's pretty cool to know about and see in action.
+I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. A lot of math you may see was also made precisely to solve practical problems too, like Calculus for orbital mechanics, so it's pretty cool to know about and see in action.
 
 You don't need to be an expert in mathematics, know how to do complex math well, or even expect you'll see an application for all math theories and methods. You should, however, acquire familiarity with the abstract and concepts behind the math to prove properties/things, recognize what is happening, *and* when math is used for deception. 
 
@@ -58,7 +58,7 @@ The main thing stopping people is math is "difficult," but not in ways you'd exp
 
 Much like with a musical instrument, there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
 
-The other difficulty is mathematics is also a social subject. What this means is math is less knowing facts and more curiosity, or desire, to learn and figure things out. It also means processing logical arguments to explain and prove properties within mathematics. You want peers and other people around to discuss math with, because it's how you develop ideas and improve in it. There's plenty of connections between literature and mathematics as well, despite them being two different fields. Knowing math is similar to like knowing another language where ideas and concepts come from earlier ideas and concepts and build upon them.
+The other difficulty is mathematics is less knowing facts and more curiosity, or desire, to learn and figure things out. It also means processing logical arguments to explain and prove properties within mathematics. You want peers and other people around to discuss math with, because it's how you develop ideas and improve in it. There's plenty of connections between literature and mathematics as well, despite them being two different fields. Knowing math is similar to like knowing another language where ideas and concepts come from earlier ideas and concepts and build upon them.
 
 Math matters and it isn't only for smart people. There's no virtue in being bad at math, but there are certainly ways to make people hate math instead of respecting it. If you assume math is worthless and you may never use it in your life, you probably used math during the day before reading this.
 
@@ -74,7 +74,7 @@ Though my primary subject matter is Science (and Engineering), Math is still nec
 
 The foundation of math in general is based on understanding and intuition. 
 
-Say for example I want to introduce you to a new proof. It requires abstraction, which means confusion and difficulty when you first see it; that's normal. It also requires a foundation to work upon, because it may seem boring and useless at first and doesn't get "fun" until you reach the later stages. You cannot get away with short-term memorization; you *have* to actually learn math to advance in it and do well.
+Say for example I want to introduce you to a new proof. It requires abstraction, which means confusion and difficulty when you first see it; that's normal. It also requires a foundation to work upon, because it may seem boring and useless at first and doesn't get "fun" until you reach the later stages. Short-term memorization only takes you so far; you *have* to actually learn math to advance in it and do well.
 
 It's like the chicken and egg problem. You need students to buy into what you're learning, which means showing math (and science) is useful and interesting. Those same students, however, may not see it that way until they're actually good at it though! This is why practice (and homework, by extension) is *still* essential.
 
@@ -125,7 +125,7 @@ If I were to tell you what minimum level of mathematics every student should lea
     - e.g. a 1/3 pound hamburger has more meat than a 1/4 pound hamburger
 - Algebra (i.e. Abstraction)
 - Units and Dimensional Reasoning
-    - e.g. 1 liter is bigger than 100 mililiters
+    - e.g. 1 liter is bigger than 100 milliliters
 - *Basic* Probability and Estimation
     - e.g. a d10 consistently has a higher average than a d8, despite a larger range of numbers
 - Communication & Data Interpretation
@@ -153,7 +153,7 @@ These are important because they're used practically in many ways seen and unsee
 
 Algebra also puts into writing many concepts you may intuitively do already, such as figuring out how much more money you need to afford X. You *can* do things without Algebra, but knowing it enables complexity, grants knowledge for practical tools, and grows thinking in abstracts.
 
-Even "2+2=4" (or "a+b=c") is technically Algebra. There are many concepts and properties requiring learning Algebra as the basis to comprehend their existence. It generalizes mathematics and shows how numbers can transform through various operations.
+Even "2+2=4" (or "a+b=c") is technically Algebra when you introduce variables instead of numbers. There are many concepts and properties requiring learning Algebra as the basis to comprehend their existence. It generalizes mathematics and shows how numbers can transform through various operations.
 
 It also introduces you to many other concepts you'll see in advanced math, such as polynomials, simplification, and inequalities. Many people will stick with classical Algebra and not get into Abstract (or Modern) algebra, as the former suits many use cases in practice.
 
@@ -168,7 +168,7 @@ Why Calculus? A lot of applied math *loves* using it.
 One of the few times I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying heavily on a single source.
 - These were available when I was in college going through the levels of Calculus back in early 2010's.
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
-    - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trignometry) and you'll fail it without solid foundations in those areas.
+    - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll fail it without solid foundations in those areas.
 
  I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it.
 
@@ -177,7 +177,7 @@ One of the few times I'll just say my primary source helping me here is from [Pa
 1. **Rate of Change (Derivatives)**
     - Δx (Delta (uppercase)) = quantifiable/finite difference of X between two values
     - dx = derivative, or differential of X, for instantaneous rates of change
-    - ∂x (Cursive d) = partial derivative; the rate of change of X of one variable while other variables kept constant
+    - ∂x (del) = partial derivative; the rate of change of X of one variable while other variables kept constant
     - δx (Delta (lowercase)) = small, but finite, change between d and Δ of X (e.g. deviation/error)
     - ∇ (Del/Nabla) = vector differential operator typically for gradients, divergence, and curl (rotation); often seen with partial derivatives
 2. **Accumulation of Change (Integrals)**
@@ -186,7 +186,7 @@ One of the few times I'll just say my primary source helping me here is from [Pa
     - ∫∫∫ (Triple integral) = Continuous accumulation of change in 3 dimensions (dt³) (e.g. volume of a cube)
 
 These are the most common (and "basic") forms of integrals and derivatives I've encountered within Calculus when I went through it. How to solve them, their nuances, and associated theorems behind them are beyond the scope of this chapter, but exposure to concepts is still useful here.
-- You may also see closed line integrals (∮) and closed surface integrals (∯). They function similarily to line integrals and double integrals, excepth a path/surface forms a closed loop where start and end points coincide.
+- You may also see closed line integrals (∮) and closed surface integrals (∯). They function similarly to line integrals and double integrals, except closed line integrals are over a closed curve and closed surface integrals are over a closed surface.
 
 There's two other notations which are *similar* to the above, but aren't considered change.
 - Σ (Sigma) = Finite sum (addition) of discrete changes
@@ -208,7 +208,7 @@ To more practically explain one form of derivative and integral relationships, I
 
 In oversimplified terms, derivatives are like the slopes of a function and integrals are like the area under the curve on a graph.
 
-Its applications are in areas you may expect, like engineering, physics, and architecture, and areas you would not expect, like retail and configuring a coffee machine. Here's some further examples of Calculus applications below:
+Its applications are in areas you may expect, like engineering, physics, and architecture, and areas you would not expect, like retail. Here's some further examples of Calculus applications below:
 - In physics: solve for velocity and acceleration, like in the example above, but also determine work and energy. 
 - In engineering: optimize systems, calculate material stress, fluid dynamics, and simplifying complex systems into algebraic equations for applied engineering problems.
 - In finance and data science: costs, profits, trends, seasonality, and rate of production.
@@ -238,7 +238,7 @@ Why proofs matter is because you need to convince people that something is true.
 
 You encounter more words with precise meanings, such as if, then, when, such, or, and, else, and so on. You deal with far more variables and symbols as placeholders, which is tantamount to death by a thousand cuts if you never got the foundations down. Sometimes things *look* like simple algebraic equations, but have a long and complicated proof steeped in higher-level math.
 
-Additionally, what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling ([which Wikipedia has a surprisingly accurate compilation of!](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) (Wikipedia contributors, 2025)):
+Additionally, what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling:
 - ∀ (turned A) = "For all" or "for every"
 - ℕ = Set of natural numbers
 - ∈ = Belongs in a set, such as "is in," "belongs to," "element of," or " "is a member of"
@@ -271,12 +271,14 @@ If your goal is to get into and/or work with machine learning, you'd best learn 
 
 2. *Senate-Administration Workgroup on Admissions Final Report.* (2025). University of California San Diego. [https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf)
 
-3. Poincaré, H. (2011). *Science and Method.* Dover Publications. 
+3. Poincaré, H. (2011). *Science and Method.* Dover Publications.
+    - Original Published in 1908.
 
 3. U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), various years, 1990–2024 Mathematics Assessments.
     - Alt: *NAEP Mathematics: Performance Trends for States and Districts.* (2024). Nationsreportcard.gov. [https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4)
 
 4. Wikipedia contributors. (2025, December 17). *Glossary of mathematical symbols.* Wikipedia. [https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+    - The specific section is ISO 80000-2 available at this link: [https://www.iso.org/standard/64973.html](https://www.iso.org/standard/64973.html)
 
 5. Zhang, Y., et al. (2025). *Kimi Linear: An Expressive, Efficient Attention Architecture.* ArXiv.org. [https://arxiv.org/abs/2510.26692](https://arxiv.org/abs/2510.26692)
 

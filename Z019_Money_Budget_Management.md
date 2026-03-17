@@ -18,7 +18,7 @@ nav_order: 28
 
 **Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling.
 
-**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases.** Afterall, the goal of a business (and financial operations) is *making* money, not saving money.
+**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam.** Remember, the goal of a business (and financial operations) is *making* money, not saving money.
 
 If you're deciding between two or more options to spend money on, the following factors should be examined for tie-breakers:
 - Users (who it works for)
@@ -39,9 +39,6 @@ If you're trying to teach a student about wealth, go over the following:
     - If they grew up wealthy, they need to face that fact and admit it.
     - They also cannot admit it with shame or defensiveness; they have to acknowledge it and the responsibility with it.
 
-Lastly, this isn't financial advice but a notice: The [IRS 529](https://www.irs.gov/newsroom/529-plans-questions-and-answers) plan exists to help parents fund education for their children through investments (Internal Revenue Service, 2025f).
-- If not in the United States, you may have a similar means to help afford student education.
-
 ## **Long Answer**
 
 Here's a joke: I only had a small amount of money at the time. I ask for some funds to afford a small breakfast from a millionaire friend of mine so I don't go hungry. Later that day, they're asking me for three dollars to cover it. I replied: "Here's ten dollars; keep the change."
@@ -50,7 +47,7 @@ In this chapter, we explore topics that "price insensitive" and "economically in
 
 While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. How much you're paid is also affected by money available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
 
-Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a school, or any group providing education as a service, has typically correlates positively with its quality of education. 
+Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a student has available typically correlates positively with their quality of education (Diemer et al., 2019). 
 
 Because money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
 - Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
@@ -68,24 +65,6 @@ Because money affords comfort and (many) resources, having too much money risks 
 
 Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
 
-### **Business, Operations, and Embedded Analytics**
-
-A fair bit of decision-making happens through two means: operational analytics and business analytics. Operational analytics seeks to enable immediate action whereas business analytics seeks actionable insights from data.
-
-Operations focuses on real-time and streaming data so organizations can respond as events occur. Examples of implementations may be dashboards, alerts, automated responses and triggers, and so on to respond to when conditions change.
-
-Business focuses on aggregations, forecasting, comparisons, and batching data. It doesn't respond to individual events, but guides planning and strategy over time. 
-
-The biggest difference between them is time (or decision latency). Operational analytics minimizes time between an event and action taken while business can suffice without immediate action for a deeper analysis and improved context. The lines between these two blur as technology advances and can do both types at once.
-
-As for how this ties into wealth, think about managers and administrators handling finances. They may use operational analytics for monitoring revenue and expenses throughout the day, while business analytics aggregates financial performance for weekly reviews, monthly reviews, and yearly reviews. Systems could be designed to cater to real-time data and streaming, then add options to batch data for long-term analysis. Be warned, however, that streaming data without acting on it introduces excess storage costs, complexity, and maintenance requirements.
-
-For users in education systems, they may do more business analytics due to domain charactertistics rather than technology choice. Many academic events occur discretely, such as assignments, exams, and grades, and update only as students complete them. The system will prefer periodic analysis over continuous monitoring by design. A user can extract data, process it through scripts, and aggregate results by classroom, grade level, or demographic for presentation and decision-making. An engineer may favor batch pipelines and architecture over stream architecture in education systems.
-
-A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
-
-Amongst all approaches, system design involves tradeoffs. This includes availability, consistency, partitioning, latency, query performance, and concurrency (the ability to execute multiple tasks simultaneously). Business analytics may tolerate lower availability and higher latency, but operational and embedded analytics typically require high availability and low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so people should design for scalability and adaptability early on to reduce issues down the road.
-
 ### **Wealth Dynamics (for Education)**
 
 *Notice: Much of this section comes from personal observations.*
@@ -96,7 +75,7 @@ How much wealth a school has, or the students and parents attending a school has
 Despite this optimism, socioeconomic status (SES) of a child and their parents is statistically significant as a prediction of mobility and success in said child's future (CEW Georgetown, 2019).
 - For a visual representation, consider looking at the [Opportunity Atlas from Opportunity Insights](https://www.opportunityatlas.org/) (Opportunity Insights, 2024).
 
-Understand that teaching is difficult no matter the type of school and how much funding it has. Problems don't disappear; they change. For example, higher wealth may have students exhibit more open defiance and entitlement while lower wealth may have more chaos and immature behaviors.
+Understand that teaching is difficult no matter the type of school and how much funding it has. Problems don't disappear; they change. While I do have mixed opinions on it, I believe higher wealth may have students exhibit more open defiance and entitlement while lower wealth may have more chaos and immature behaviors.
 
 Teachers still teach based on the abilities and motivations of students with available resources. Additionally, at every level of school, you may still face bad parents, staff, students, etc.
 - I'm mainly focusing on what may occur from X amount of wealth.
@@ -164,7 +143,7 @@ The biggest advantage I've seen with private schools is they can select their st
 
 Assuming one public school teacher and one private school teacher enroll the same types of students (including their distributions on performance, behaviors, etc.), get the same curriculum and standards, and receive the same resources, I'd imagine they perform equally well. The major variable left to "control" is the teacher in charge of each classroom, which even that could be the same across both testing groups.
 
-Outside of that, public and private schools each have their advantages and their own numerous problems attached with them. Wealth (and resouces), like the last section mentioned earlier, likely affects school performance far more than whether a school is private or public.
+Outside of that, public and private schools each have their advantages and their own numerous problems attached with them. Wealth (and resources), like the last section mentioned earlier, likely affects school performance far more than whether a school is private or public.
 
 Even if public schools and private schools perform similarly in controlled environments, there's plenty of differences in environments and programs that may swing your decision one way or another in practice. As an example: though both schools achieve the same educational results, you may prefer method Y for teaching over method Z. There may be other factors outside your control and/or outside the school's control as well, such as city/county rezoning developments.
 
@@ -177,17 +156,16 @@ Money for schools typically comes from three public funding sources:
 - State government
 - Federal government
 
-Private schools can access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3)) too.
+Private schools can access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3)) too, though some private schools may be for-profit.
 
-Public schools receive public funding. Across the states in general, about 40-50% of funds come from the local government, 40-50% come from the state government, and the remainder (10-20%) is from the federal government (Peter G. Peterson Foundation, 2024). 
+Public schools receive public funding. Across the states in general, about 40-50% of funds come from the local government, 40-50% come from the state government, and the remainder (10-20%) is from the federal government, based on my extrapolation from research (Cornman et al., 2024).
+- For the U.S., The Institute of Education Sciences (i.e. NCES) also provides [a way to look up public school funding online](https://nces.ed.gov/edfin/search/search_intro.asp) at the district level (2019).
 
 Charter schools also receive funding like public schools. In the case of Colorado, they receive "Per Pupil Revenues" (PPR) or money given by the state for expenses and insurance (Colorado Department of Education, 2025).
 
 Each of these funding sources is significant and use various formulae and metrics to determine which school districts receive necessary funding. If even one of these sources are affected, that could hamstring the entire educational system unless other resources compensate for the funding loss.
 
-To illustrate how losing a single source of funding affects the educational system, I'll describe a situation in the United States. I'm writing this next part originally on October 12, 2025.
-
-In October 2025, "nearly 90% of the Education Department is furloughed" including "nearly everyone in the Office of Special Education and Rehabilitative Services" (OSERS) due to layoffs in the ongoing government shutdown at the time (Schermele, 2025). This halted many administrative functions, and the ability to distribute funding and enforce compliance is hampered due to lower personnel counts. By affecting head count, federal money for education doesn't get distributed as intended, meet compliance, or get regulated as effectively.
+To illustrate how losing a single source of funding affects the educational system, I'll describe a situation in the United States. As occurred on October 2025, "nearly 90% of the Education Department is furloughed" including "nearly everyone in the Office of Special Education and Rehabilitative Services" (OSERS) due to effects from the ongoing government shutdown at the time (Schermele, 2025). This halted many administrative functions and the ability to distribute funding and enforce compliance is hampered due to lower personnel counts. By affecting head count, federal money for education is unlikely to get distributed as intended, done in a timely fashion, meet compliance, or get regulated as effectively.
 
 Since the federal level is effectively shutdown, the next organizational tier, the state, absorbs the impact now (~10% funding allocation). The state may have to eat up costs to maintain any existing federal programs if that funding was cut. If there were any programs entirely, or primarily, reliant on federal funding, they may have to pause or be shut down too.
 
@@ -198,14 +176,14 @@ To put this into perspective for many readers, it's like being told to complete 
 
 ### **The Learning Budget**
 
-Your "budget" alloted to you as a teacher comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
+Your "budget" allotted to you as a teacher comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
 
 Unless you're teaching outside of a normal educational institution, your spending limit is typically defined by someone else, like your principal, and not you. Items covered by that learning budget are also not always up to you; instead, this may be defined by principals, districts, states, organizations providing funds, U.S. Department of Education, and the IRS (Internal Revenue Service, 2025b)(U.S. Department of Education, 2025). 
 - Even if you're not subject to principal control, you may be subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general* (Internal Revenue Service, 2025a, 2025d).
 
-Learning budgets typically range from 200 USD to 1000+ USD. Money may also come from a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you won't have much difficulty. 
+In educational systems, just about every single dollar is allocated for a specific purpose. Learning budgets provided for teachers are about 200 USD, but those same teachers could also spend 800+ USD out-of-pocket for other classroom supplies too (Tarawally, 2025). Money may also come from a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you hopefully won't be in a bad spot.
 
-Suppose you're still low on budgetary needs PTA and PTO cannot cover. In that case, you may also look into third-party organizations, such as Adopt a Classroom (AdoptAClassroom.org, n.d.). I won't discuss those in-depth because of their varied nature.
+Suppose you're still low on budgetary needs PTA and PTO cannot cover. In that case, you may also look into third-party organizations, fundraisers, charity events, donation drives, and more. I won't discuss those in-depth because of their varied nature.
 
 Outside of groups like PTA and PTO, state and federal budgets (taxpayer dollars and aid programs included) also affect your learning budget and, by extension, your school budget. A school or institution may also provide digital assets, or convertible virtual currency, such as online currency valid to use only on certain websites (Internal Revenue Service, 2025c, 2025e).
 
@@ -219,7 +197,6 @@ As long as you don't carelessly spend money and realize the budget needs to last
 
 - Any deals or significant savings
 - Items that you don't immediately need, you can get in a timely fashion
-  - This is called having "lead time" and is the time between order placement and order delivery (Kenton, 2024)
 - Items you can plan out in advance to purchase
 - Items not easily obtainable without purchasing them
 - Things that are safe (or safe enough for science) in a teaching environment
@@ -236,7 +213,7 @@ As long as you don't carelessly spend money and realize the budget needs to last
   - E.g., don't get a laminator machine or a printer if your facility already has a working one. 
 - You also don't need to spend all 100 USD. If you get everything you need with less money spent, that's fine and saves you more money.
 
-If you can use credit cards responsibily, I'd say do so over a debit card. Protections and benefits are generally worth it ([Further reading from Investopedia](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp)).
+If you can use credit cards responsibly, I'd say do so over a debit card. Protections and benefits are generally worth it ([Further reading example from Michigan's Consumer Protection Team](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)).
 
 *Once the 100 USD is spent, stop and ask yourself: do I still lack any essentials?* If there's still funds available, then use those funds to get the essentials.
 
@@ -273,29 +250,33 @@ All it takes is the ability to find them.
 
 2. Colorado Department of Education. (2025, July 14). *Colorado Charter Schools Frequently Asked Questions.* CDE. [https://www.cde.state.co.us/cdechart/faq](https://www.cde.state.co.us/cdechart/faq)
 
+1. Cornman, S.Q., Doyle, S., Moore, C., Phillips, J., and Nelson, M.R. (2024). *Revenues and Expenditures for Public Elementary and Secondary Education: School Year 2021–22 (Fiscal Year 2022): First Look* (NCES 2024-301). U.S. Department of Education. Washington, DC: National Center for Education Statistics. [https://nces.ed.gov/pubs2024/2024301.pdf](https://nces.ed.gov/pubs2024/2024301.pdf)
+
+1. Diemer, M. A., Marchand, A. D., & Mistry, R. S. (2019). *Charting How Wealth Shapes Educational Pathways from Childhood to Early Adulthood: A Developmental Process Model.* Journal of Youth and Adolescence, 49. [https://doi.org/10.1007/s10964-019-01162-4](https://doi.org/10.1007/s10964-019-01162-4)
+
 1. Egbe, D., & Smith, C. B. (2025, May 12). *The Double-Edged Sword of Affluence.* Psychiatric Times. [https://www.psychiatrictimes.com/view/the-double-edged-sword-of-affluence](https://www.psychiatrictimes.com/view/the-double-edged-sword-of-affluence)
 
 1. Hood, K. (2025). *Measuring Income Inequality: A Primer on the Gini Coefficient.* Bea.gov. [https://apps.bea.gov/scb/issues/2025/08-august/0825-gini-primer.htm](https://apps.bea.gov/scb/issues/2025/08-august/0825-gini-primer.htm)
 
-3. Internal Revenue Service. (2025, January 30). *Exemption requirements - 501(c)(3) organizations*. [https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations)
+2. The Institute of Educational Sciences. (2019). *Public School District Finance Peer Search.* Nces.ed.gov. [https://nces.ed.gov/edfin/search/search_intro.asp](https://nces.ed.gov/edfin/search/search_intro.asp)
 
-4. Internal Revenue Service. (2025, February 19). *Guide to business expense resources*. [https://www.irs.gov/forms-pubs/guide-to-business-expense-resources](https://www.irs.gov/forms-pubs/guide-to-business-expense-resources)
+3. Internal Revenue Service. (2025a, January 30). *Exemption requirements - 501(c)(3) organizations*. [https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations)
 
-5. Internal Revenue Service. (2025, April 23). *Frequently asked questions on virtual currency transactions*. [https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)
+4. Internal Revenue Service. (2025b, February 19). *Guide to business expense resources*. [https://www.irs.gov/forms-pubs/guide-to-business-expense-resources](https://www.irs.gov/forms-pubs/guide-to-business-expense-resources)
 
-6. Internal Revenue Service. (2025, June 5). *Exempt organization types*. [https://www.irs.gov/charities-non-profits/exempt-organization-types](https://www.irs.gov/charities-non-profits/exempt-organization-types)
+5. Internal Revenue Service. (2025c, April 23). *Frequently asked questions on virtual currency transactions*. [https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)
 
-7. Internal Revenue Service. (2025, June 20). *Digital assets*. [https://www.irs.gov/filing/digital-assets](https://www.irs.gov/filing/digital-assets)
+6. Internal Revenue Service. (2025d, June 5). *Exempt organization types*. [https://www.irs.gov/charities-non-profits/exempt-organization-types](https://www.irs.gov/charities-non-profits/exempt-organization-types)
 
-8. Internal Revenue Service. (2025, September 4). *529 Plans: Questions and answers - Internal Revenue Service.* Irs.gov. [https://www.irs.gov/newsroom/529-plans-questions-and-answers](https://www.irs.gov/newsroom/529-plans-questions-and-answers)
-
-8. Kenton, W. (2024, August 10). *Lead Time: Definition, How It Works, and Example*. Investopedia. [https://www.investopedia.com/terms/l/leadtime.asp](https://www.investopedia.com/terms/l/leadtime.asp)
+7. Internal Revenue Service. (2025e, June 20). *Digital assets*. [https://www.irs.gov/filing/digital-assets](https://www.irs.gov/filing/digital-assets)
 
 1. Opportunity Insights. (2024). *The Opportunity Atlas.* Opportunityatlas.org. [https://www.opportunityatlas.org/](https://www.opportunityatlas.org/)
 
-1. Peter G. Peterson Foundation. (2024, November 15). *How Is K-12 Education Funded?* Peterson Foundation. [https://www.pgpf.org/article/how-is-k-12-education-funded/](https://www.pgpf.org/article/how-is-k-12-education-funded/)
-
 1. Schermele, Z. (2025, October 11). Education Department wipes out special ed office in shutdown layoffs, union says. USA TODAY. [https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/](https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/) 
+
+1. State of Michigan Consumer Protection Team. (2024). Credit Card v Debit Card - Know the Difference. Michigan.gov. [https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)
+
+2. Tarawally, M. (2025, June 9). *2025 Teacher Spending Survey.* AdoptAClassroom.org. [https://www.adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs/](https://www.adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs/)
 
 9. U.S. Department of Education. (2025, June 27). *Budget process in the U.S. Department of Education*. [https://www.ed.gov/about/ed-overview/annual-performance-reports/budget-process-in-the-us-department-of-education](https://www.ed.gov/about/ed-overview/annual-performance-reports/budget-process-in-the-us-department-of-education)
 

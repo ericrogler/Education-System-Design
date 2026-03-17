@@ -82,11 +82,11 @@ If you're familiar with software, you may recognize the terms DSA, data structur
 
 *Alternatively: Build or Buy*
 
-Per Chad Bergman on Figma’s blog (2024) ([Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)):
+Per Chad Bergman on Figma’s blog about design systems (2024) ([Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)):
 
-> A design system is a set of building blocks and standards that help keep the look and feel of products and experiences consistent.
+> ...A set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
-The key part here is "*the look and feel*." For instructors and teachers, this is akin to how students interact with your content, not necessarily the underlying systems. Many new technologies are also intentionally designed to seem familiar to past products for ease of use and adoption.
+The key part here is "*the look and feel*." For educators, this is akin to how students interact with your content, not necessarily the underlying systems. Many new technologies are also intentionally designed to seem familiar to past products for ease of use and adoption.
 
 For those with less artistic backgrounds or lacking design skills, don't worry. You don't need to become a design expert to handle education systems, but still look into what a design system is and what it tries to accomplish.
 
@@ -98,7 +98,7 @@ Done correctly, **a design system accomplishes several goals**:
 - Reduced redundancy
 - Increased accessibility
 
-**Design systems are typically utilized in one of three ways: Adopting, Adapting, and Creating.**
+You could utilize design systems in at least three ways: adopting, adapting, and creating (Fessenden, 2021).
 
 **Adopting** takes a design system and adds it into your current system(s) without changes.
 - Example: You copy and follow a cake recipe as is, step-by-step, exactly as written.
@@ -123,7 +123,7 @@ Design systems help establish how students interact with your content. Let me dr
 - Organizational Hierarchies
 - Collaboration to create one
 - Shared vocabulary
-- Longetivity and reusability
+- Longevity and reusability
 
 **If you're starting fresh, here are some additional resources. This applies to both curricula and design systems:**
 - Do whatever makes the most sense for your use case(s) and audience.
@@ -252,9 +252,9 @@ There's also multiple types of dashboards, such as:
 
 Each dashboard type has various goals. Operational dashboards provide real-time (i.e. streaming) data and analytical dashboards provide information on large batches of data. Strategic dashboards focus on KPIs across the business while tactical dashboards focus on one (or more) aspects of a business.
 
-The big question is how do you know a dashboard is useful? The answer is simple: it helps answer your questions or change what someone does next. If it doesn't do that, it could be handcrafted by the legends of Michaelangelo, Donatello, Leonardo, and Rapheal all working together to create a beautiful masterpiece... but still be useless to you. This includes vanity metrics and parts that *look* good but don't actually help you.
+The big question is how do you know a dashboard is useful? The answer is simple: it helps answer your questions or change what someone does next. If it doesn't do that, it could be handcrafted by the legends of Michaelangelo, Donatello, Leonardo, and Raphael all working together to create a beautiful masterpiece... but still be useless to you. This includes vanity metrics and parts that *look* good but don't actually help you.
 
-Evaluating dashboards by how often they're used is often a misnomer. You'd be more accurate measuring how quickly it answers a question *as that question arises* and/or how well it lets others perform their jobs faster. For a formal name, this might be called Time-to-Insight. Let's use two examples, assuming they have equal levels of aesthetics:
+Evaluating dashboards by how often they're used is often a misnomer. You'd be more accurate measuring how quickly it answers a question *as that question arises* and/or how well it lets others perform their jobs faster. This might sometimes be called Time-to-Insight. Let's use two examples, assuming they have equal levels of aesthetics:
 - Dashboard A is viewed multiple times per day, but it takes a long time to answer questions with that dashboard.
 - Dashboard B is viewed twice a year, but it almost immediately helps you answer the question you're dealing with.
 
@@ -325,7 +325,7 @@ As for people who question why their superiors, peers, etc. may neglect testing 
 
 Getting customers is easy with a good product. They buy something they want, which you provide, and you both benefit from it.
 
-Getting *repeat* customers and maintaining sales is much harder. This is where planned obsolescence, or intentionally designing failures, is prominent. You design a product with an artifically limited life and either:
+Getting *repeat* customers and maintaining sales is much harder. This is where planned obsolescence, or intentionally designing failures, is prominent. You design a product with an artificially limited life and either:
 1. Provide replacement parts customers buy to extend the life
 2. Create new products to replace old products, which means another purchase
 
@@ -345,14 +345,14 @@ Sometimes you're forced to use particular software to accomplish your goal. Soft
 
 You'll rarely, if ever, find something with *zero* issues in any way, shape, or form whatsoever. If something without *any* problems exists, then it'll probably stand the test of time for many years to come.
 
-One common reference is [Jakob Nielsen's *10 Usability Heuristics for User Interface Design*](https://www.nngroup.com/articles/ten-usability-heuristics/) (2025). The intent of the principles is to make products easier to use and reduce cognitive load on users as they're utilizing products.
+One common reference is [Jakob Nielsen's *10 Usability Heuristics for User Interface Design*](https://www.nngroup.com/articles/ten-usability-heuristics/) (1994). The intent of the principles is to make products easier to use and reduce cognitive load on users as they're utilizing products.
 
 As for specific problems in general, there's countless amounts. To give a small set of examples:
 - Functions without defined intents
 - Readability issues
 - Inconsistency
 - Redundancies
-- Help documentation is lacking
+- Missing documentation
 - Errors are permitted instead of prevented
 
 The issues you'll find vary widely on the context and product they're located inside of. Some issues may have acceptable ranges (tolerances) which are wide or narrow depending on requirements.
@@ -398,12 +398,12 @@ Two things before you panic.
     - If you need advanced design programs, you'll need dedicated design tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
 2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyway. If you lack time or resources, learn just enough to get by and supplement your teaching.
 
-Some general rules of thumb you can quickly apply come from personal experience as well as reading through *Refactoring UI* by Wathan and Schoger (2025).
+Some general rules of thumb you can quickly apply come from personal experience as well as referencing from *Refactoring UI* by Wathan and Schoger (2018).
 
 - Never rely on color alone
 - Start simple and ensure functionality before adding complexity
 - White space is easier to reduce than add
-- Text needs sufficient contrast (e.g. WCAG "AA" rating or higher) against its background
+- Text needs sufficient contrast (e.g. WCAG 2.1 "AA" rating or higher) against its background
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
 - Most greys have tints of other colors mixed in
 
@@ -431,13 +431,14 @@ Some general rules of thumb you can quickly apply come from personal experience 
 
 7. Moran, K. (2024, February 3). *The Aesthetic-Usability Effect.* Nielsen Norman Group. [https://www.nngroup.com/articles/aesthetic-usability-effect/](https://www.nngroup.com/articles/aesthetic-usability-effect/)
 
-7. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
+7. Nielsen, J. (1994, April 24). 10 Heuristics for User Interface Design. Nielsen Norman Group. [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
+    - Updated: 2024, January 30.
 
-8. TV Tropes. (n.d.). *Kansas City shuffle*. [https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle](https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle)
+7. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
 
 9. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
-10. Wathan, A., & Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
+10. Wathan, A., & Schoger, S. (2018). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
 
 
 ## **[Next Chapter](Z021a_Engineering_Architecture.html)**

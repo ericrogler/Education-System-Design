@@ -36,7 +36,7 @@ First, the obvious. What is a law is still a law you follow in education.
 
 As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so my examples are from there and I will use Colorado as my primary reference for this chapter. Other states should have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
-Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to list or remember every organization, act, and law here, because that would be its own book, if not several books, describing those alone.
+Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to list, remember, or describe every organization, act, and law here, because that would be its own book, if not several books, on those alone.
 
 **Federal/National Level**
 - U.S. Department of Education
@@ -101,7 +101,7 @@ Private schools follow different rules from public schools, allowing them more f
 
 The CDE also oversees and supports online public schools and online education programs in general, performing roles like facilitation, creation, and quality control (Colorado Department of Education, 2025e).
 
-Independent instructors may use platforms like YouTube, Udemy, and Coursera for their content. These platforms likely deal with the U.S. Federal Court and Copyright Office, as primary issues there are DMCA, Fair Use, copyrighting, and more. For these platforms, it can be as simple as making a video or presentation on a topic you're passionate about and want to share with others. Rather than traditional educational bodies, you'll deal primarily with the rules (and monetization requirements) of your hosting platforms as well as U.S. Federal Courts and the Copyright Office to protect any content you or other creators made.
+Independent instructors may use platforms like YouTube, Udemy, and Coursera for their content and may operate under DMCA safe harbor provisions, i.e. Section 512 (U.S. Copyright Office, 2020). For these platforms, it can be as simple as making a video or presentation on a topic you're passionate about and want to share with others. Rather than traditional educational bodies, you'll deal primarily with the rules (and monetization requirements) of your hosting platforms as well as U.S. Federal Courts and the Copyright Office to protect any content you or other creators made.
 
 There are some online courses separate from educational institutions that count towards college credits, such as IBM Professional Certificates endorsed by the American Council of Education (ACE), but where they count towards credit varies significantly and is outside the scope of this discussion (Coursera Staff, 2025). Nevertheless, be aware that they do exist.
 
@@ -131,17 +131,13 @@ In practice, these plans are typically satisfied by school staff with two method
 
 Per the U.S. Department of Education, there are explicit standards on IEPs and 504s. To summarize, an IEP focuses on modifying the instruction/delivery of material/content and establishes specialized goals and milestones. In contrast, a 504 focuses on changing the environment in which learning occurs (e.g., seating arrangement, extra test time, etc.) due to limits in major life functions and impairments (Schultz, 2022).
 
-IEPs and 504s have nationwide resources available, whereas IHPs have info at the state level. Here are a few links for future reference.
+IEPs and 504s have nationwide resources available, whereas IHPs have info at the state level. Here are a few links/sources for future reference.
 
 - [https://sites.ed.gov/idea/topic-areas/#IEP](https://sites.ed.gov/idea/topic-areas/#IEP)  
 - [https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)  
 - [https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019](https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019)
 
-IEPs and 504s are legally binding and require signed agreement from all parties. It shows every party entered into it willingly and verified their approval of it. Every party involved, including the student (if applicable), teachers, parents, and administrators, must follow the plan, or they may suffer legal consequences for non-compliance.
-
-Initially establishing one of these plans is not always your responsibility as a teacher, but meeting the plan's accommodations and understanding a student's specific needs are a teacher's responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
-
-Keep in mind these plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery.
+These plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery. Initially establishing one of these plans is not always your responsibility as a teacher, but meeting the plan's accommodations and understanding a student's specific needs are a teacher's responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
 
 Another important note: you also cannot tell other students, even in the same class, that one of your student(s) has an IEP/504. That also violates FERPA because students don't have a legitimate, educational need-to-know basis for that information.
 - By extension, you also are heavily restricted on asking about any medical conditions related to the accommodations as well.
@@ -149,11 +145,11 @@ Another important note: you also cannot tell other students, even in the same cl
 
 ### **Behavioral Intervention Plans (BIPs)**
 
-I separated these from the previous section intentionally. For context, this is written on March 2026. There is also another
+I separated these from the previous section intentionally. For context, this is written on March 2026.
 
 In theory, these plans help students struggling to control behaviors and actions in class.
 
-In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers are supposed to receive specialized training for these but it's either only done on paper or completely disregarded. Due to these issues, BIPs are boilerplate solutions and there's often no resources or available personnel to help that student outside of specialized schools.
+In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs are boilerplate solutions and there's often no resources or available personnel to help that student outside of specialized schools.
 
 For my opinion, I cannot help but view a BIP as a means to keep students and clients (i.e. parents) happy and in education, but stranded without sufficient help.
 
@@ -180,7 +176,7 @@ In addition:
 
 ### **What about showing and using content like YouTube videos in a face-to-face classroom?**
 
-If you want the long answer, it's *probably* OK under Title 17 of the United States Code (). There's also three separate sources to refer to:
+If you want the long answer, it's *probably* OK under Title 17 of the United States Code (2024). There's also three separate sources to refer to:
 1. [Title 17](https://www.copyright.gov/title17/)
 2. [17 USC 106: Exclusive rights in copyrighted works](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section106&num=0&edition=prelim)
 3. [17 USC 110: Limitations on exclusive rights: Exemption of certain performances and displays](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section110&num=0&edition=prelim)
@@ -230,7 +226,7 @@ At the end of the day, these types of punishments turn moral/legal prohibitions 
 
 ### **Age Verification Systems**
 
-This is a touchy subject. As you may be aware, there's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
+This is a touchy subject. There's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
 
 If you, or an institution, store personal information of students in your software, systems, etc. then you now face one of two scenarios.
 1. Nothing bad happens.
@@ -321,6 +317,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 24. Interstate Commission for Juveniles. (2025, August 13). *Age Matrix - Interstate Commission for Juveniles.* www.juvenilecompact.org. [https://www.juvenilecompact.org/age-matrix](https://www.juvenilecompact.org/age-matrix)
 
+1. Iovannone, R., Duble Moore, T., Williams, J. M., Sanchez, S., & Kauk, N. (2024). *Are We on Course Yet? Functional Behavior Assessment and Behavior Intervention Plan Technical Adequacy in Schools.* Behavioral Sciences, 14(6), 466. [https://doi.org/10.3390/bs14060466](https://doi.org/10.3390/bs14060466)
+
 1. Justia. (2019). *Garcetti v. Ceballos, 547 U.S. 410 (2006).* Justia Law. [https://supreme.justia.com/cases/federal/us/547/410/](https://supreme.justia.com/cases/federal/us/547/410/)
 
 1. Justia. (2019). *Pickering v. Board of Education, 391 U.S. 563 (1968).* Justia Law. [https://supreme.justia.com/cases/federal/us/391/563/](https://supreme.justia.com/cases/federal/us/391/563/)
@@ -342,6 +340,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 28. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. [https://www.copyright.gov/](https://www.copyright.gov/)
 
 1. U.S. Copyright Office. (2024, December). *Copyright law of the United States (Title 17).* Copyright.gov. [https://www.copyright.gov/title17/](https://www.copyright.gov/title17/)
+
+1. U.S. Copyright Office. (2020, May). Section 512 of Title 17: Resources on Online Service Provider Safe Harbors and Notice-and-Takedown System. www.copyright.gov. [https://www.copyright.gov/512/](https://www.copyright.gov/512/)
 
 29. U.S. Department of Education. (n.d.). *IEP topic areas*. [https://sites.ed.gov/idea/topic-areas/#IEP](https://sites.ed.gov/idea/topic-areas/#IEP)
 

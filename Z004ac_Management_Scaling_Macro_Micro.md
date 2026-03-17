@@ -16,7 +16,6 @@ nav_order: 9
 ---
 
 Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
-- In short: a technical manager is almost always better than a non-technical manager
 
 Macro (Macromanagement): Strategy, such as resource allocation, system optimizations, workflows, and scaling infrastructure to support operations.
 
@@ -34,6 +33,23 @@ This chapter may seem foreign to readers unfamiliar with video games. For those 
 If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts also apply to management. If you read the last chapter (Management Case B) on operations and milsims, any leadership position there also counts!
 
 For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know strategies and tactics to meet their goals ("winning" the game) Muddling around and confusion causes issues every time it happens.
+
+### **Real-World Applications**
+
+The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
+
+Every employee is capable of doing work; you likely wouldn't bring them onboard if they couldn't do the work you needed! Since they are capable, *you have to let them do the work.*
+
+You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
+
+Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're now in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
+- New hires: unsure where to find resources or what should be done.
+- Regulars/mid-levels: how to transition into higher work and level up in their role
+- Veterans/seniors/principals: working in cross-team functions, perfecting their technical expertise, and/or working up to become managers like yourself.
+
+The more senior someone is, the less you *need* to check in with them. You'll still want to check in, though, to ensure they're on track but not being hand-held. Newer people you may do a quick fly-by every day, older people may be a meeting once a week, and masters of their craft only as needed.
+
+It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have a separate set of goals and need to look at the overall strategy and not just the tactics employed. Let the other people handle (most of) the tasks.
 
 ### **Rock, Paper, Scissors**
 
@@ -54,8 +70,9 @@ While strategies may not perfectly deflect or mitigate *all* potential damage to
 
 ### **Opportunity Cost**
 
+As a standard economic theory:
+
 Opportunity cost = (Return on best alternative) – (Return on chosen option) 
-- Paraphrased from Investopedia's article on opportunity cost (Fernando, 2025).
 
 One of your main goals is to minimize opportunity cost throughout the entire match and every moment in that match. Rarely, if ever, will you make every perfect decision possible in a single game, so the cost is always greater than zero. You can, however, practice to reduce errors and improve decisions over time.
 
@@ -65,13 +82,11 @@ This is balancing decisions across economies, upgrades, armies, and other variab
 
 ### **Macro vs Micro**
 
-Macro is significantly more important than micro. It's an area many people make mistakes on as they prioritize insignificant contributions. 80-90% of time should be on macro and managing build orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
+Macro is significantly more important than micro. It's an area many people make mistakes on as they prioritize insignificant contributions. From my own assessment, about 80-90% of time should be on macro and managing orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
 
-A human being cannot focus their attention on more than one thing at a given moment. Even if they could, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, which is what a methodology like Critical Path Analysis helps to solve and optimize.
+Doing more than one task at a time hampers productivity (APA, 2006). Even if they could, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, which is what a methodology like Critical Path Analysis helps to solve and optimize.
 
 It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on instead of their original goal, which gives you more time to focus on your priorities to achieve victory.
-
-Distractions force mistakes and create advantages, which provides chances to achieve victories.
 
 ### **The Macro(management)**
 
@@ -113,7 +128,7 @@ There's also a term called "trading" where you're balancing the supply costs of 
 
 Resources and tools may become obsolete. It may always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
 
-The costs to bring in, and get of, assets is typically really high so you want to be careful when doing so. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
+The costs to bring in, and get of, assets is typically really high so you want to be careful when doing so. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
 
 If this applies to real people, i.e. human beings, you're better off consulting with HR, or a legal expert to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to. You want to avoid stepping on the legal trouble minefield.
 
@@ -122,23 +137,6 @@ In our simulation case, though, asset management happens as more resources, such
 This also means you're raising the bar constantly. It might be small increments or big increments, but the bar is rising over time. Early on, when resources are scarce and systems are not fully in place, you may be ok with weaker options to suit your goals. Later on, when resources and systems are set up, you're less likely to use the "old" option and go for the better options you can now afford.
 
 Allocating resources to bring on the appropriate talent will take a significant amount of time, preparation, and research on your end. While you could shirk duties here and not do due diligence in researching units, buildings, etc., you'll also be unable to draw out their full potential.
-
-### **Real-World Application**
-
-The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
-
-Every employee is capable of doing work; you likely wouldn't bring them onboard if they couldn't do the work you needed! Since they are capable, *you have to let them do the work.*
-
-You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
-
-Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're now in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
-- New hires: unsure where to find resources or what should be done.
-- Regulars/mid-levels: how to transition into higher work and level up in their role
-- Veterans/seniors/principals: working in cross-team functions, perfecting their technical expertise, and/or working up to become managers like yourself.
-
-The more senior someone is, the less you *need* to check in with them. You'll still want to check in, though, to ensure they're on track but not being hand-held. Newer people you may do a quick fly-by every day, older people may be a meeting once a week, and masters of their craft only as needed.
-
-It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have a separate set of goals and need to look at the overall strategy and not just the tactics employed. Let the other people handle (most of) the tasks.
 
 ### **Critical Path Analysis**
 
@@ -151,7 +149,7 @@ To give a simple example: imagine you're cooking food and following a recipe. Th
 
 In reality, it's possible to do *multiple* steps in parallel. The recipe may tell you to set the oven to 425 degrees Fahrenheit, *then* prepare other steps. While the oven is preheating, you can prepare other ingredients in the meantime, *but* you can't properly heat the food until it reached that temperature.
 
-To "map" out a strategy, steps include the following (Kenton, 2025):
+To "map" out a strategy, steps include the following (Paraphrased; Kenton, 2025):
 1. Listing each activity
 2. Determining activity orders
 3. Predicting time per task
@@ -191,7 +189,7 @@ Across all of these build orders and sequences, there's a consistent theme:
     - This includes waiting for resources (a dependency) before starting a task as well.
 3. Rinse and repeat
 
-Some downsides to this method are it doesn't scale terribly well as size and complex increases and requires reliable information for each "step" in the project (Greco, 2020). If these constraints aren't an issue, then it performs admirably well.
+Some downsides to this method are its usefulness decreases as operations scale up to become large and complex (Greco, 2020). If these constraints aren't an issue, then it performs admirably well.
 
 ### **Relating Back to Instruction**
 
@@ -199,7 +197,7 @@ Now, let's tie strategy and macro/micro to teaching/instruction.
 
 Macro is like establishing a curriculum and lesson plan from where you teach material to students. It's also developing a classroom management plan you can reference for yourself and students so you have ways to deal with contingencies and other emergencies (more on classroom management in another chapter!).
 
-Your focus *should* be on macro ~90% of the time in a classroom session as your primary goal is instruction! If you're not spending the majority of time in instruction, then something is very likely wrong.
+Your focus *should* be on macromanagement most of the time as your primary goal is instruction! If you're not spending the majority of time in instruction, then something is very likely wrong.
 - An exception to the above would be activities, where instead of instructing you're letting students do activities or labs on their own with some guidance. 
 - In that case, the ~90% goes towards putting out fires and ensuring the class is focused on the activity.
 - If this were a manager outside of education, that same portion of time should be getting rid of blockers and setting up systems for employees to do tasks effectively.
@@ -214,6 +212,8 @@ Your ability to prepare, adapt, and scale, as well as learn what requires your a
 
 ## **Bibliography**
 
+1. American Psychological Association (APA). (2006, March 20). *Multitasking: Switching costs.* Apa.org; American Psychological Association. [https://www.apa.org/topics/research/multitasking](https://www.apa.org/topics/research/multitasking)
+
 1. Fernando, J. (2025, May 31). *Opportunity Cost: Definition, Calculation Formula, and Examples.* Investopedia. [https://www.investopedia.com/terms/o/opportunitycost.asp](https://www.investopedia.com/terms/o/opportunitycost.asp)
 
 2. Greco, J. (2020). *ProjectManagement.com - Critical Path Analysis.* Projectmanagement.com. [https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_](https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_)
@@ -221,5 +221,6 @@ Your ability to prepare, adapt, and scale, as well as learn what requires your a
 2. Kenton, W. (2025, June 30). *Understanding Critical Path Analysis.* Investopedia. [https://www.investopedia.com/terms/c/critical-path-analysis.asp](https://www.investopedia.com/terms/c/critical-path-analysis.asp)
 
 2. McCarthy, C. (2006). *No Country for Old Men.* Vintage International.
+    - Original published in 2005.
 
 ## **[Next Chapter](Z004b_Management_Classroom_Behavior.html)**
