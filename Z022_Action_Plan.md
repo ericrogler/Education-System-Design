@@ -15,7 +15,7 @@ If you're limited on preparation time, focus on setting up classroom management 
 
 You may need to spend time outside of work to get everything done. In this first week, that is perfectly OK. If you invest the proper time planning *now* and set up your systems early on, even if they're basic scaffolds, then you save significant time later on.
 
-**If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't farther from the truth.**
+**If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.**
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
 - *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
 - Do not be everything to everyone; focus on teaching and managing students.
