@@ -20,9 +20,7 @@ You may need to spend time outside of work to get everything done. In this first
 - *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
 - Do not be everything to everyone; focus on teaching and managing students.
 
-## **Long Answer**
-
-***Two assumptions in place:***
+***I'll start with two assumptions in place:***
 1. *Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
 2. *You have at least a few days to 1 week BEFORE class starts for preparation.*
 
