@@ -159,19 +159,22 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 ### **Maintaining Appearances (Perception)**
 
-There are four levels of managers from best to worst (from what I've been around):
+There are four levels of managers from best to worst in most environments (from what I've been around):
 1. Competent and technical manager
 1. Competent, but non-technical manager
 1. Incompetent, but technical manager
 1. Incompetent and non-technical manager
 
-Let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix.
+The first and last rankings are as expected. Competence means you do things well and "technical" means you have the background knowledge to properly inform your decisions. 
 
-Despite how knowledgeable you might be, bad communication takes you down like a cat pouncing on a mouse. You can improve communication in less than a week if you put your mind and time to practice.
+When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. The issues occur when managers, technical or not, step in too much and try to dictate processes they're not well equipped to handle themselves. 
 
-It's *how* you say something, not just what you say, and getting people to *see* you do it right.
+Remember, managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact helps more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. 
 
-In an instructional role, you're leadership. You might not have traditional employees, but you're still managing people who are "beneath" you in a perceived power (knowledge) structure.
+Good managers can turn chaos to order.
+- Despite all this, it doesn't contradict what I said earlier. Learning about technical skills, even just to understand business needs, is absolutely essential.
+
+Now then, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
 
 This means you need to do the things leaders also do without *weakening* authority, such as:
 1. Don't be an asshole.
@@ -181,11 +184,15 @@ This means you need to do the things leaders also do without *weakening* authori
 5. Turning your thoughts into words at the appropriate time and can tactfully interrupt/join a conversation.
 6. Getting other people to confirm you know what you're doing.
 
+Despite how knowledgeable you might be, bad communication takes you down like a cat pouncing on a mouse. You can improve communication in less than a couple weeks if you put your mind and time to practice.
+
+It's *how* you say something, not just what you say, and getting people to *see* you do it right.
+
 Let me use one item above in an example.
 
-"This is a good idea, we should do it. I think." instead of "Let's implement this idea."
+"This is a good idea, I think we should do it." instead of "Let's implement this idea."
 
-The former instills doubt and makes someone think you cannot stand behind your words. The latter cuts that doubt out entirely and makes it sound like you're sure and ready to go.
+That one phrase, "I think," in the former instills doubt and makes someone think you cannot stand behind your words. The latter cuts that doubt out entirely and makes it sound like you're sure and ready to act.
 
 You also want to avoid thinking outpacing speaking. It's hard to detect at first, but I usually catch myself doing that when I say stop or gap words like "uh" and "um" *even when I don't want to.*
 
