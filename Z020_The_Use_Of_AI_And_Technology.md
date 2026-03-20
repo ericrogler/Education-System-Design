@@ -100,36 +100,6 @@ This concept applies to medieval times and modern times. In modern times, you ma
 
 While it's possible to get in through unorthodox means, it's far harder to do so by limiting the number of entries past your "walls." Though you might need to increase how many gates you build as you scale up in size, you're strict on limiting the number of possible entries. What was a strategy for survival is now a risk mitigation strategy.
 
-### **The Akinator Files**
-
-When I was much younger, there was a web browser game called Akinator.
-
-Is it AI? Nope, it was basically a binary search tree.
-- I'm aware that's a massive oversimplification; don't worry.
-
-Did it look like magic to me? At the time, yes.
-
-The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were:
-- Yes
-- No
-- Don't Know
-- Probably
-- Probably Not
-
-While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably not only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
-
-In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that is 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8.6 billion people* on Earth.
-
-The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
-
-To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. That means it moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
-- In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtracks a few nodes/steps.
-- More technically speaking, it is O(log n) time complexity.
-
-If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the values of yes/no you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
-
-Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
-
 ### **AI in General**
 
 Getting AI to do something isn't the same as you doing something yourself. It's like a client describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer. Intent is not authorship.
@@ -207,6 +177,36 @@ The lack of a one-size-fits-all, easy solution is intentional for many tasks. On
 To go back to eggs: essential complexity, in this case, is the system and interactions of finding, preparing, and serving the eggs for consumption. Accidental complexity is a countless array of other steps one could take to reach that same conclusion, such as substitutions, alternative cooking methods, and more. That complexity builds significantly faster when you automate a "generalist" to do everything rather than a "specialist" to do only a limited set of items. In all cases, automation complexity increases as the systems behind tasks in general also increase.
 
 The very nature of cooking has complexity built into it no matter which steps you take. If you're careless, the entity doing the request will work based on what it knows, guess what it doesn't know, and try to meet requirements based on what you describe--whether the result is good or bad. It doesn't stop at just cooking either; it spans across myriad fields and situations.
+
+### **The Akinator Files**
+
+When I was much younger, there was a web browser game called Akinator.
+
+Is it AI? Nope, it was basically a binary search tree.
+- I'm aware that's a massive oversimplification; don't worry.
+
+Did it look like magic to me? At the time, yes.
+
+The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were:
+- Yes
+- No
+- Don't Know
+- Probably
+- Probably Not
+
+While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably not only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
+
+In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that is 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8.6 billion people* on Earth.
+
+The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
+
+To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. That means it moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
+- In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtracks a few nodes/steps.
+- More technically speaking, it is O(log n) time complexity.
+
+If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the values of yes/no you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
+
+Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
 
 ### **AI in Instruction**
 
