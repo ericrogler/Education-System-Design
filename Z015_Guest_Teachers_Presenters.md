@@ -76,18 +76,22 @@ Unlike other guest teachers, substitute teachers already establish formal job co
 
 With a substitute teacher, you may safely assume some things until proven otherwise:
 1. They very likely do not know the same material as you.
-2. They may not follow your instructions, even if explicitly written and detailed.
-3. They will not have access to the same software you do (e.g. classroom management and monitoring software)
+2. They will not have full access to the same software you do (e.g. classroom management and monitoring software)
     - Sometimes it is the facility's rules and administration blocking access instead of any teacher(s).
-4. They may handle classroom management differently from you.
-5. They may not have the appropriate training to handle certain situations like the primary teacher can.
+3. They may handle classroom management differently from you.
+4. They may not have the appropriate training to handle certain situations like the primary teacher can.
+5. They are on the educational staff's side, *not* the student's side.
 
-A substitute teacher can issue some punishments on your behalf for days they cover, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
+A substitute teacher doesn't have much power, so most managerial and authority is delegated to others to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
 - Minor and moderate infractions: documenting issues in substitute-to-teacher notes to be handled at a later time
 - Physical issues: calling security
 - Major infractions: calling office / administration
 
-If you're the teacher and the substitute does send you notes, I'd say take any note, good or bad, with a grain of salt. You can follow up with one of your "good" students about how the day went, or verify with other staff about details, for anything you're suspect about. If it's confirmed a day did not go well, some things you may be permitted to do, unless administration blocks it or it isn't permitted by policy, includes:
+Other times, a substitute teacher may record events as they occur and detail what happened, then defer it to the teacher of record or administration to handle further punishment from there. Coincidentally, and from personal experience, this lines up with days where students tend to act at their worst behavior around a person where if they say students were bad, those students were very likely *actually* bad. **Just because a substitute teacher is there does NOT give permission to students to act up and assume there will be no consequences for their actions.**
+- Probably the worst day(s) for younger students were days *after* students treated the subtitute teacher poorly. If students want to fool around, then they find out what happens soon after.
+- Even if the substitute teacher was horrible, almost always is the best course of action not to break rules anyways and don't be an asshole!
+
+If you're the teacher of record and the substitute teacher does send you notes, I'd say take any note, good or bad, with a trust, but verify, attitude. You can follow up with "good" students about how the day went or verify with other staff about details for anything you're suspect about. If it's confirmed a day did not go well, some things you may be permitted to do, unless administration blocks it or it isn't permitted by policy, includes:
 - Restricting recess time
 - Forcing written apology letters from students
 - Introducing a "quiet period" 
