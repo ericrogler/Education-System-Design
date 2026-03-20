@@ -100,13 +100,13 @@ Principals, deans, and assistant principals are your "boss" if you were an instr
 
 They have a lot of real power, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
 
-Much like how employees have bosses, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand.
+For example, much like how employees have bosses, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand.
 
 As for signs of a bad administrator, usually an administrator that gets hired in and immediately works towards changing things is a red flag. This goes for any manager+ in general, but it's generally better to observe and understand how the current system works for at least 1 month (or longer), *then* figuring out what the real problems are and implementing solutions. It allows time to ask questions, collect data, and verify circumstances.
 
 A primary goal is to ensure good PR for the facility (or facilities) they manage and avoiding lawsuits. This may mean bending the knee to demands both reasonable and unreasonable.
 
-They want the school to perform well and they hold a large responsibility for its success or failure. The District and Department of Education also have a vested interest and want good returns on the investment they put into the school.
+They want their education system to perform well and they hold a large responsibility for its success or failure. A district and even the state or federal Department of Education also have a vested interest and want good returns on the investment they put into the school.
 
 For smaller schools, you may need only a single principal and the teachers may pitch in to cover deficiencies. For larger schools, you'll still have one "principal." Still, many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but focus on specific duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (such as Legal Counsel and HR Manager). The principal still has a hand in the affairs of everything at the school and has a surprisingly large amount of legal power.
 
@@ -117,6 +117,9 @@ As a teacher or instructor, your role, in their eyes, is to produce the results 
 - Document interactions (in writing when possible)
 - Bring solutions, not just problems, whenever possible
     - No one likes complainers
+- Request for their help *only* when you actually need their help. It does two things:
+    - Make it *seem* like you have things under control
+    - Implicitly raise the urgency/severity of issues you *do* bring up
 - Ask clarifying questions, not state raw opinions, on decisions they made
     - Also prepare evidence to inform decisions you support, if applicable
 - Keep gradebooks and lesson plans updated
@@ -126,7 +129,9 @@ Another interesting reality about teachers and principals is potentially misalig
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and likely still true today. 
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and likely still true today and in the future.
+
+Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
 
 Parents and adult students are also the closest thing educational systems have as "customers."
 - ...Which means they're "always" right, even when they're beyond a doubt incorrect. The power of the wallet is strong.
@@ -248,11 +253,15 @@ Lastly, remember to be friendly, but keep professional boundaries, between you a
 
 ### **Support Staff**
 
-Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, IT, developers, engineers, custodians, maintenance staff, paraprofessionals, security, nurses, cafeteria staff, groundskeepers, and far more. Essentially, if they're working in an education system or for an educational facility, they count here.
+Last, but certainly not least, are your fellow support staff. 
 
-Without these staff members, your school wouldn't be able to keep rooms clean, offload specialized tasks from your own workload, and maintain a safe and orderly environment. Many support staff also focus on arranging substitutes to cover for you when you're absent as well. Without them, you may have to take on more administrative tasks. In short, **they help *you* do *your* job–albeit indirectly.**
+**Become friends with these people.** Treat them well or expect bad conditions and more work very quickly for you.
 
-To keep it simple, treat them well or expect bad conditions and more work very quickly for you.
+These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or even a fellow educator. Support includes secretaries, IT, developers, engineers, custodians, maintenance staff, paraprofessionals, security, nurses, cafeteria staff, groundskeepers, and far more. Essentially, if they're working in an education system or for an educational facility *not* as an administrator, student, or instructor/teacher/educator, they count here.
+
+Without these people, your education system wouldn't be able to keep rooms clean, offload specialized tasks from your own workload, and maintain a safe and orderly environment. It also would make dealing with the unseen issues, like ensuring the databases and software for education work properly to not interrupt an educator's goals to, well, educate. Many support staff also focus on arranging substitutes to cover for you when you're absent as well. Without them, you may have to take on more administrative tasks. 
+
+In short, **they help *you* do *your* job, even if it's indirect help.**
 
 ### **Handling [Adult] Communications and Urgency**
 
