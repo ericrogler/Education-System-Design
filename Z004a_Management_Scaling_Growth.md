@@ -49,7 +49,7 @@ This chapter covers organizational structures and how businesses may bring on ne
 
 According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate *why* they are these values.
 - There's also mathematical formulae to help determine these values. See the Graicunas reference and paper links in the "Short Answer" section above for formulaic examples.
-- The concept of scaling isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic but across differing fields.
+- The concept of scaling isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic.
 
 Organizations in both public and private sectors don't fare well past these limits without appropriate planning. This planning includes, but is not limited to, communication methods, role designation and duties, and layers of management. 
 
@@ -57,15 +57,17 @@ You should avoid limiting personnel as people may leave the organization and shi
 
 ### **How does this relate to Teaching/Instruction?**
 
+Pretend you're an educator, teacher, or instructor.
+
 You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, which are past typical limits for managers and direct reports. 
 
-You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints. Sometimes this is accommodated with assistant teachers, co-teachers, and other staff. Sometimes this is not accommodated.
+You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints *with only one manager*. Sometimes this is accommodated with assistant teachers, co-teachers, and other support staff. Sometimes this is not accommodated.
 
 I'll discuss more on this below, but the general lesson is as the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. 
 
 ### **A Quick Aside**
 
-I'm not going into depth on matrices, or a week vs strong matrix in management. That's too high level for this book.
+I'm not going into depth on matrices, or a weak vs strong matrix in management. That's too high level for this book.
 
 At best, we're going to assume 1 manager oversees X number of direct reports and make a nice and simple tree diagram across multiple levels.
 
@@ -78,24 +80,25 @@ Fun fact, I did project management before teaching. Additionally, me and my engi
 
 If you're making a business, you have to go through multiple hoops just to legally set up the business. There's registration with the State, market research, business plans, tax information, marketing plans, insurance, general management, contracts with labor and employment, licenses, banks, and many, many more.
 
-If, for some reason, you actually want to start a business on the side, please refer to resources like [SDA.gov](https://www.sba.gov/) as more details are outside scope here.
+If, for some reason, you actually want to start a business on the side, please refer to resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside scope here.
 
 When starting out, you'll also want to set up communications like emails and websites through official business URLs (such as "companyname.com") rather than informal, personal emails for perception amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage and enforce than no workflow. 
+- As an aside, remember that *both* hiring and fully onboarding takes several months for every new person, employee, etc. you bring on! Plan for that time!
 
-Additionally, if having to choose between two options, like which employees to hire, with similar performances between them, then use cultural/company fit as a tie-breaker. You'll want to be careful with bringing onboard new people, because the cost of one bad hire can quickly exceed the cost of recruiting and cause organizational issues. Even if someone will perform well but they cannot adjust to the environment, it'll still create issues.
-- You can also teach ability/skill, but not necessarily culture.
-- A really good employee may be worth many employees is a widely accepted view, but you risk a single point of failure and overworking them.
-- Don't expect top-tier talent unless you provide top-tier benefits to keep them around.
+Additionally, if having to choose between two options, like which employees to hire, with similar performances between them, then use cultural/company fit as a tie-breaker. You'll want to be careful with bringing on new people, because the cost of one bad hire can quickly exceed the cost of recruiting and cause organizational issues. Even if someone will perform well, but cannot adjust to the environment, it'll still create issues.
+- You can also teach ability/skill far more easily than culture or mindset.
+- A really good employee being worth many employees is a widely accepted view, but you may risk a single point of failure and overworking them.
+- Don't expect top-tier talent unless you provide top-tier pay and benefits to keep them around.
 
 These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success and makes it easier to scale up.
 
-For now, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking at companies.
+For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking at companies.
 
 ### **Business Breakpoint 1: 15 People**
 
 15 people is how many people a single manager typically can manage simultaneously *as an upper limit*. A smaller breakpoint starts at around 5 direct reports per manager where relations and group management quickly explode exponentially (Chute, Gulick, & Urwick, 1938). At this stage, it's you, the manager, and the other employees as ICs.
 
-As for typical limits, I'd expect around 5-8 direct reports if overseeing people with different roles and 9-12 direct reports when overseeing people with similar, if not the same, roles. You *could* extend beyond the 14 person breakpoint (15 people minus you, the manager) for direct reports, but it would have to be in a role requiring minimal direct intervention with individual contributors and the manager barely doing any IC level work.
+As for typical limits, I'd expect around 5-8 direct reports if overseeing people with different roles and 9-12 direct reports when overseeing people with similar, if not the exact same, roles. You *could* extend beyond the 14 person breakpoint (15 people minus you, the manager) for direct reports, but it would have to be in a role requiring minimal direct intervention with individual contributors and the manager barely doing any IC level work.
 
 You'll have two layers at this point:
 1. Manager(s) (You)

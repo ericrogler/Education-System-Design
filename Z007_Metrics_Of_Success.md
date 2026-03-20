@@ -44,11 +44,13 @@ There's a joke where, in education, we traded stamina for engagement.
 
 Sadly, it isn't a joke. This chapter help explains why that joke is now reality.
 
+One part of that reality is **most data and information you work with and see is affected by bias.** It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways.
+
 ### **Why Metrics of Success?**
 
 Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
-You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the teacher and organization using them. Goals may include maximizing outcomes (scores, pass rates), cultivating qualitative aspects (engagement, relationships), or encouraging growth (attitudes, perspectives, character). It could also be a mix of these or just simply making it to the next day.
+You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of these or just simply making it to the next day.
 
 There are two types of data associated with metrics: quantitative and qualitative. Quantitative data is a specific and objective measure capturing numbers, quantities, and ranges. Qualitative data is based on subject and explanatory measures of qualities, traits, and characteristics. In short, quantitative is numbers and qualitative is words and images. Quantitative data may work alongside qualitative data, or separate from quantitative data, depending on your needs.
 

@@ -343,7 +343,7 @@ It'll take practice, but simply put: it's like having a conversation and you don
 
 I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here. **In general, PD is good if it isn't a waste of time.**
 
-In every professional development or administrative presentation, I want the person *to just get to the point.* There's no reason to infantilize *other adults;* students or minors aren't attending these events, so learning methods should cater towards adults, not minors/children.
+In every professional development or administrative presentation, I want the person *to just get to the point.* There's no reason to infantilize *other adults;* students or minors aren't attending these events, so learning methods should cater towards adults and not minors/children.
 - It's why every chapter has a "Short Answer" section at the top. I try to get to the point for those who want it! It's useful and desired!
 
 Professional development are electives/continuing education for *professionals* (i.e. teachers, staff, etc.) and provided, typically, by people with active roles outside of education. Teachers/instructors usually need X number of hours to maintain a certificate, license, etc. PD is based around andragogy, adult learning, rather than pedagogy teachers may be used to, so you may experience a disconnect while attending them. Nevertheless, if you do go to a PD, be reasonably respectful to presenters and other attendees.

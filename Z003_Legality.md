@@ -226,14 +226,15 @@ At the end of the day, these types of punishments turn moral/legal prohibitions 
 
 ### **Age Verification Systems**
 
-This is a touchy subject. There's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
+This is a sensitive issue, but it's precisely because it's a sensitive issue it may get rules and systems approved which normally are not approved. There's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
+
+From personal experience, if you have one method to verify who someone is already in place, it is significantly easier to find and implement new methods afterwards.
 
 If you, or an institution, store personal information of students in your software, systems, etc. then you now face one of two scenarios.
 1. Nothing bad happens.
 2. Data gets breached/leak and legal liabilities may ensue.
 
-Most users won't deal with the underlying currents of these softwares, but all users with access to this information will deal with it. Programmers and engineers may stay far away from these systems precisely to avoid the compliance required from these laws and avoid the risk altogether.
-- This is especially true for people who are new and not well versed in their legal literature, because the risk of messing up drastically increases.
+Most users won't deal with the underlying currents of these softwares, but all users with access to this information will deal with it. Designers, engineers, and more may stay far away from these systems precisely to avoid following the compliance required from these laws and the risk altogether. Even if one adopts a "Compliance-First" mindset, they may not be well versed in the legal literature if they're new to the field and prone to mistakes.
 
 If I had to work with HIPAA (or similar) data, I'd consider a resource already verified as HIPAA/FERPA/GDPR-compliant in the first place. It might be a hosted service managing the data, handling the security around it, and providing a separate layer (i.e. an API) for access to then build solutions around. That ensures one extra layer of protection for myself and the host in case issues arise, but I'd also have to set up security protocols on my own end, such as tokenization and restricting request types (request minimization).
 
@@ -241,7 +242,7 @@ In short, there's a lot more work handling sensitive data that it may seem at fi
 
 Lastly, I'll cover one situation where a data leak did happen: Discord. This isn't putting a target on said application; only an observation [reported on by Cyber Security News](https://cybersecuritynews.com/discord-data-breach-sensitive-data/) (Baran, 2025) and [confirmed by Discord themselves](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service) (Discord, 2025). There was a security breach of a third party vendor from an unauthorized source. There may also be concerns about *how* said sensitive data was handled, such as the way it was stored, processed, and encrypted. Nevertheless, this one incident showcases what happens if someone misuses sensitive data: investigations happen and law enforcement gets involved.
 
-This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected too alongside children. Add onto this integrating age checks (which means storing and handling personal data) with these types of programs and you're looking at another hefty risk. Doing it "for the children" is a thin argument at best. Uploading it on the Internet *period* opens up people to data theft.
+This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected too alongside children. Add onto this integrating age checks (which means storing and handling personal data) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft and undermines data protection in general.
 
 Despite all of this, storing this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate.
 

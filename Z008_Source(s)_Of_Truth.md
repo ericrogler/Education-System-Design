@@ -25,6 +25,8 @@ Last, but not least, your education system very likely doesn't need a shiny new 
 
 Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit I've read more management books than education books. Funny how that works.
 
+I'd also reasonably assume education will move away from hard copy (i.e. "physical") textbooks and other sources of information the more we digitalize and store information online and through databases instead, mainly for cost and practical reasons. This has already happened at large by the time of this writing, with expectations it'll be more prevalant in the future despite any resistance towards it.
+
 There are two sources of truth to work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 
 For both ways, I like these two quotations:
