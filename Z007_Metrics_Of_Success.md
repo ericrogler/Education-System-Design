@@ -318,13 +318,13 @@ While these acts provide data for metrics and analysis, doing so at the cost of 
 
 ### **Misalignment Case: IB vs Implementation**
 
-International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of their mission statement vs metrics.
+International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of the mission statement vs metrics.
 
 Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
 
 The metrics that administration, or other people responsible for implementing programs like IB into an institution, may care about grades, graduation rates, student retention rates, and test scores.
 
-This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, but placing different weights on those metrics.
+This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
 
 One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
 

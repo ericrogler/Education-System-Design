@@ -125,19 +125,48 @@ You can easily set your own standards at a micro level (personal/school), but no
 
 Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
 
+### **Grades / Grading System**
+
+Grading is essential. It's how you determine good vs bad and serves distinct functions like feedback for the learner, certification (or proof of learning) towards any third parties, and diagnostics for education systems. 
+
+There's several things you'll need to create a functional grading system:
+- Consistency
+- Objectivity
+- Validity
+- Feedback
+- Transparency
+- Proportionality
+
+Consistency is similar to idempotence. One student submitting work and getting a bad grade should have a similar effect to if 1000+ students submit that same work and *also* get that same bad grade. Consistent also includes reliability; if you had someone else grading work using the same standards as you, they should also reach the same conclusion as you.
+
+Objectivity is relatively straightforward. Determining the grade of a student should not involve factors irrelevant to their work, such as the grader's or student's disposition towards each other, when reasonable and feasible. There may be leniency in emergencies and other severe circumstances, but it shouldn't affect *how* the work is viewed too much. As an example, a famous person you respect should not be graded higher vs a non-famous person you may not respect if they submitted the same work.
+- To put it briefly: standardization mitigates subjectivity.
+
+Validity determines if your grading standards are correct in the first place. You could do everything right and have the correct process, only for the result to be incorrect because you utilized the wrong tool/standards. You also cannot check consistency with validity tests and vice versa.
+
+Feedback provides information leading to actionable insights. Without any feedback loops, you'll be left in the dark about grades and be unsure if there's an issue in the curriculum, the students, the grading method, and so on. Think of this as a "health check" for your grading system.
+
+Transparency matters as criteria should be communicated and understood by the students subject to it. There are few exceptions where criteria should be intentionally obscured, such as classified training programs, but the vast majority of systems requiring communicating *how* results are reached to mitigate conflicts later on. This also includes how to meet the criteria to perform well.
+
+Proportionality is how grades are divided amongst work for students. For example, you may see this as weights on how much quizzes, tests, homework, etc. affect the final grade. As a general advice for systems utilizing weights: the weight of an assessment should scale with the significance towards a particular goal.
+
+With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figure out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieve, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
+
+Feedback and objectivity are ongoing measures running parallel to the other aspects. You'll figure these out near the beginning, but monitor and maintain throughout the entire learning journey. It's how you figure out if things are going right and wrong from start to finish and what avoids rose-tinted glasses when reviewing all the data and metrics you're tracking along the way.
+
 ### **Is Funding Tied to Standards?**
 
 **Yes.**
 
-For a business, if a product didn't perform well and up to the standards of the user, the company producing it needs to figure out a way to recoup losses, cut costs, or risk going bankrupt and out of business.
+For a business, if their products and services don't meet the standards of their users, the company needs to meet these standards, figure out ways to recoup losses, cut costs, or risk going bankrupt and out of business.
 
-You may think it's harsh, but I'll ask a question of the reader: Would you knowingly stick with a brand or product that wasn't good?
+You may think it's harsh, but I'll ask a question of the reader: Would you knowingly and willingly stick with a brand or product that wasn't good by your own standards?
 - What about if there were no alternatives?
 - What about if you *had* to use it despite whatever issues it had?
 
-The same parallel applies to education systems. Investors and governments consider how a school performs through its ability to meet, or exceed standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of quality. 
+The same parallel applies to education systems. Investors and local, state, and federal governments consider how a school performs through its ability to meet, or exceed, standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of its quality. 
 
-If a school is performing well and has a reputable track record, you're more likely to contribute toward it because its ROI (Return on Investment) is higher. If a school doesn't have those qualities, you're less likely to invest into it. How this plays out in policy is through two key examples, No Child Left Behind and Every Student Succeeds Act, which I'll cover more in the Metrics chapter.
+If a school is performing well and has a reputable track record, perhaps you're more likely to contribute toward it because its ROI (Return on Investment) is higher. If a school doesn't have those qualities, then you're less likely to invest into it. How this may play out in policy is through two key examples, No Child Left Behind and Every Student Succeeds Act, which I'll cover more in the Metrics chapter.
 
 ## **Bibliography**
 

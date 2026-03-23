@@ -31,7 +31,7 @@ If you're not sure where to find problems to solve, think of something that alre
 3. Maintainability: Adaptation and change over time; readability
 
 A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are, due to the nature of complexity, more prone to failure compared to simple designs. 
-- Use the simplest solution that meets your requirements.
+- Use the simplest solution that meets your requirements. E.g. If you only need a hammer and nails, only use a hammer and nails.
 - [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple industries (2000).
 - Creating your own systems, setups, etc. makes sense when it provides a competitive advantage, otherwise it is a waste of time.
 
