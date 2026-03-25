@@ -10,7 +10,7 @@ nav_order: 3
 
 ## **My Role Overview**
 
-- **Duration:** 2.5+ years (2022-2025+)
+- **Duration:** ~3 years (2022-2025+)
 - **Role:** In-person Science/STEM Teacher, including substitute teacher roles
 - **Main School Types:** Public & private schools
 
