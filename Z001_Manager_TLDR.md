@@ -28,7 +28,7 @@ This book treats education as a system as a whole, not purely a pedagogical abst
 Education is discussed in an operational environment and covers topics such as:
 - Legal, financial, and human constraints
 - Stakeholder/client relationships
-- Metrics of success
+- Metrics of Success
 - Methodology from other disciplines to enhance existing education systems.
 
 Rather than discussing educational theory in isolation, system design and engineering concepts, such as scaling, management, and communications, are applied to everyday classroom operations.
