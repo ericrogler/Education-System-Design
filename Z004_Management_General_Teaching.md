@@ -23,7 +23,7 @@ As great as the quotation above is, sometimes being visible is what gets you not
 - In other words: clarity, ownership, and decisions over tasks. That's management in a nutshell.
 
 **The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
-- *There's a parallel with "passing up students" and "failing upward" somewhere soon.*
+- *There's probably a parallel with "passing up students" and "failing upward" somewhere in here.*
 
 Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
 - Similar advice applies for managers in other industries, like engineering.
@@ -34,6 +34,8 @@ If you're not sure how to set up a process or workflow, start with the minimum (
 
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - This is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
+
+Last, but not least: Higher wages are one of, if not the most, universal benefits for any employee.
 
 ## **Long Answer**
 
@@ -241,7 +243,7 @@ One single list will not solve all your problems. You'll need to adjust strategi
 - Be ready to "pull the trigger" when disciplining.
 - Decide where and how you want people to sit, stand, or otherwise in a classroom, whether by strict assignment or casually (i.e., "just sit in a chair")
     - For online teaching, decide what they need to set up on their computer, phone, etc. to receive information and do tasks you assign appropriately.
-- **Regulate the use of AI by students when possible (more on that later).**
+- **Regulate the use of technology by students when reasonable and feasible.**
 
 ### **Attention Economy**
 

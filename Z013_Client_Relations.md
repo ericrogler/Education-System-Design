@@ -129,7 +129,7 @@ Another interesting reality about teachers and principals is potentially misalig
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and likely still true today and in the future.
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is likely still true today and will remain true in the future.
 
 Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
 

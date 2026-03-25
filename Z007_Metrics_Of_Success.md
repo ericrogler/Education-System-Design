@@ -44,7 +44,7 @@ There's a joke where, in education, we traded stamina for engagement.
 
 Sadly, it isn't a joke. This chapter help explains why that joke is now reality.
 
-One part of that reality is **most data and information you work with and see is affected by bias.** It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways.
+One part of that reality is **most data and information you work with and see is affected by bias.** It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
 
 ### **Why Metrics of Success?**
 

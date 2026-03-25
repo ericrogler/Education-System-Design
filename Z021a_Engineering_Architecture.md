@@ -18,7 +18,9 @@ nav_order: 31
 
 There's a lot of things to consider when designing educational systems.
 
- Two of these things are engineering and architecture as you may deal with physical buildings with physical humans and explore how and why to improve your processes.
+Two of these things are engineering and architecture as you may deal with physical buildings with physical humans and explore how and why to improve your processes.
+
+As a more "personal" note, or you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. The only way to fail is if you let yourself fail.
 
 ## **Long Answer**
 
@@ -91,7 +93,7 @@ There's plenty more to write about, but I'd rather not make too large a list her
 
 Much like mental math, you want to memorize information that quickly enables decision making and gets through frequently occurring, but minor, work. For harder items, or where you'll reference specific formulae, it is expected you'll look it up from time to time.
 
-### **Graphics**
+### **Graphics, Plans, and Schematics**
 
 Graphics relates to schematics and blueprints or how something is built. This could be something small, like the design of a screw and its thread placement, or something large, like a skyscraper building.
 

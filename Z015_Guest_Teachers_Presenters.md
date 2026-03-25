@@ -72,7 +72,7 @@ The guest teacher is also bound by any rules they agreed to as well. If they do 
 
 Substitute teachers are teachers with either a teaching license or a substitute teaching license in your applicable state. In emergencies, those requirements could be waived or lowered, but also vary by state (Learning Policy Institute, 2025). For private schools, they could be vetted adults by administrative staff too (since private schools can be classified as private businesses in many jurisdictions). 
 
-Unlike other guest teachers, substitute teachers already establish formal job contracts with agencies or school districts, completed multiple background checks at state/federal level, and the blockers above are already taken care for you. Substitute teachers can replace you, at least temporarily, as a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
+Unlike other guest teachers, substitute teachers presumably have formal job contracts with educational agencies or school districts, completed multiple background checks at state/federal level, and the blockers above are already taken care for you. Substitute teachers can replace you, at least temporarily, as a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
 
 With a substitute teacher, you may safely assume some things until proven otherwise:
 1. They very likely do not know the same material as you.
@@ -81,8 +81,10 @@ With a substitute teacher, you may safely assume some things until proven otherw
 3. They may handle classroom management differently from you.
 4. They may not have the appropriate training to handle certain situations like the primary teacher can.
 5. They are on the educational staff's side, *not* the student's side.
+6. They won't have physical access to education facilities like other staff, such as room keys, unless it is explicitly provided for them during their session(s).
+    - This one is especially important and a common pain point I've seen; trusting them with hundreds of students but not a single key.
 
-A substitute teacher doesn't have much power, so most managerial and authority is delegated to others to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
+If your education system and policies aren't carefully designed, you may be setting substitute teachers up for failure instead of success. A substitute teacher doesn't have much power, so most managerial and authority is delegated to others to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
 - Minor and moderate infractions: documenting issues in substitute-to-teacher notes to be handled at a later time
 - Physical issues: calling security
 - Major infractions: calling office / administration
@@ -99,6 +101,11 @@ If you're the teacher of record and the substitute teacher does send you notes, 
 - Quizzes over the material covered on substitute teacher day(s)
 - A written conduct referral for specific student offenders
 - Class-wide or specific student punishments
+
+Lastly, as a reminder. Even though a substitute teacher may replace a teacher of record for a limited time, that does not give them permission to freely arrange the property of the original teacher. The motto of "leaving a room as they found it" should be part of their SOP. In simple terms, this means they shouldn't:
+- Reorganize the classroom, teaching area, etc. unless necessary (e.g. affecting an accommodation like an IEP).
+- Handle or rearrange documents and paperwork outside of their designated purview.
+- Throw away equipment and other items belonging to the original teacher.
 
 ## **Bibliography**
 

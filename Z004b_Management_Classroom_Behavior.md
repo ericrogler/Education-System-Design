@@ -47,7 +47,7 @@ If you need a one-liner? Enforce rules like a pilot in aviation: no room for sur
 
 *Notice: This is its own dedicated "chapter" as there are many ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
-If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (which are essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
+If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
 
 What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You may have affinity with a particular type of student, or students, or just be "good" across all disciplines; it varies a lot person-to-person.
 
