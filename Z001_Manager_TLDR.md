@@ -8,32 +8,34 @@ nav_order: 3
 
 ### [Back to Home](index.html)
 
-## **My Role Overview**
+## **Related Background**
 
-- **Duration:** ~3 years (2022-2025+)
 - **Role:** In-person Science/STEM Teacher, including substitute teacher roles
-- **Main School Types:** Public & private schools
+- **Educational Role Duration:** ~3 years (2022-2025+)
+- **Primary School Types:** Public & Private K-12 schools
+- **Author's Degree:** Master of Science in Industrial Engineering (MSIE) 
 
-## **Results**
+## **Results (in Education)**
 
 - Designed and delivered multiple, complete curricula.
-- Executed all projects within time and budget constraints. 
-- Maintained consistency and performance across classes.
-- Built scalable systems supporting students, schedules, and staff.
+- Completed all projects within time and budget constraints.
+- Maintained consistency and performance across various types of classes.
+- Built scalable systems supporting education for students and staff.
+- Utilized cake and donut analogies for almost every Science/STEM subject.
 
 ## **The Elevator Pitch**
 
-This book treats education as a system as a whole, not purely a pedagogical abstraction. In short, **this book utilizes cross-domain knowledge to improve education.**
+I'm treating education as a system and not purely a pedagogical abstraction. For this goal, **this book utilizes cross-domain knowledge to improve education.**
 
 Education is discussed in an operational environment and covers topics such as:
 - Legal, financial, and human constraints
 - Stakeholder/client relationships
-- Metrics of Success
-- Methodology from other disciplines to enhance existing education systems.
+- Metrics, math, and statistics
+- Methodology from other fields and disciplines to enhance existing education systems
 
-Rather than discussing educational theory in isolation, system design and engineering concepts, such as scaling, management, and communications, are applied to everyday classroom operations.
+Rather than discuss educational theory in isolation, concepts such as system design, engineering, operational scaling, management, and communications are applied to evaluate classroom and educational operations.
 
-Warnings, case studies, and implementation guidance intentionally draw from multiple domains including engineering, design, management, communication, and finance to better inform decisions and trade-offs.
+Warnings, case studies, and implementation guidance intentionally draw from multiple domains including engineering, design, management, communication, and finance to better inform how and why decisions are made.
 
 *Notice: Due to contract terms and laws limiting use of personally identifying information, details in materials, examples, or information are intentionally obscured to remain compliant.*
 
