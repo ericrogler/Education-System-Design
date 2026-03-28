@@ -28,42 +28,42 @@ Too much micro or macro negatively affects overall effectiveness and efficiency.
 
 ## **Long Answer**
 
-This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to connect with concepts presented here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms.
+This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to connect with some concepts here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms.
 
 If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts also apply to management. If you read the last chapter (Management Case B) on operations and milsims, any leadership position there also counts!
 
-For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know strategies and tactics to meet their goals ("winning" the game) Muddling around and confusion causes issues every time it happens.
+For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know strategies and tactics to meet their goals ("winning" the game). We want to minimize muddling around, ambiguity, and confusion as it causes issues every time it happens.
 
 ### **Real-World Applications**
 
 The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
 
-Every employee is capable of doing work; you likely wouldn't bring them onboard if they couldn't do the work you needed! Since they are capable, *you have to let them do the work.*
+Every employee is capable of doing work; you likely wouldn't bring them onboard in the first place if you thought they couldn't do the work you needed, right? Since they are capable, *you have to let them do the work.*
 
 You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
 
 Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're now in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
-- New hires: unsure where to find resources or what should be done.
-- Regulars/mid-levels: how to transition into higher work and level up in their role
+- Juniors/New hires: unable to find resources, figure out problems to look for, or what should be done.
+- Regulars/mid-levels: how to transition into higher work and level up in their role.
 - Veterans/seniors/principals: working in cross-team functions, perfecting their technical expertise, and/or working up to become managers like yourself.
 
-The more senior someone is, the less you *need* to check in with them. You'll still want to check in, though, to ensure they're on track but not being hand-held. Newer people you may do a quick fly-by every day, older people may be a meeting once a week, and masters of their craft only as needed.
+The more senior someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not being hand-held. For more inexperienced people, you may do a quick fly-by every day, but older people may be a meeting once a week and masters of their craft meeting only as needed.
 
-It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have a separate set of goals and need to look at the overall strategy and not just the tactics employed. Let the other people handle (most of) the tasks.
+It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have separate goals aside from employees and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of.
 
 ### **Rock, Paper, Scissors**
 
-In many games like these, strategies counter other strategies. Simply put: If an opponent plays one way, you play another way to achieve victory.
+Let's say you're one company competing against another company to achieve success in a given market. Generally speaking, strategies counter other strategies. Simply put: If an opponent plays one way, you play another way to achieve victory.
 
 This principle applies beyond units and personnel to include tactics, resource management, and logistics behind the scenes.
 
-How to typically determine which hand to play is through scouting and maintaining vision of the playing field and your opponent. If you're aware of what the opponent(s) are doing, you can develop ways to beat them. At the same time, denying your opponent knowledge/vision over your activities reduces their effectiveness in countering strategies and tactics you deploy.
+How to typically determine what strategy to employ is through scouting and maintaining vision of the playing field and your opponent. If you're aware of what the opponent(s) are doing, you can develop ways to beat them. At the same time, denying your opponent knowledge/vision over your activities reduces their effectiveness in countering strategies and tactics you deploy.
 
-Developing a sense for when to use what strategy/tactic at what time comes with experience, but is essential to dealing with myriad situations. If you're not used to how a match plays out, what your enemy can do, and what you can do with your resources, you're not going to perform as well as you should.
+Developing a sense for when to use what strategy/tactic at what time comes with experience, but is essential to dealing with many situations. If you're not used to how a match plays out, what your enemy can do, and what you can do with your resources, it's expected you're not going to perform as well as you should.
 
-One of the biggest mistakes you can make is establishing wrong, or no, expectations of what your opponent can do. For untrained or unprepared players, their build order deviates and turns what is a potential victory into a likely defeat. Despite this, you still need to learn to manage expectations and adapt to overcome issues they bring.
+One of the biggest mistakes you can make is establishing wrong, or no, expectations of what your opponent can do. For example, your might think your opponent will play rock, so you play paper, but they actually played scissors instead. You still need to learn to manage expectations and adapt to overcome issues they bring.
 
-If, however, it's a case where your opponent isn't a person, but rather an environment, like in some city builders, many concepts don't change that much. Instead of worrying about opponents sending units to disrupt operations, you're worrying about the effects and variables the environment throws at you. This requires practice like before as well as appropriate pre-planning and safety net development to "weather the storm."
+If your "opponent" is the environment instead, like in some city builders, many concepts don't change that much. Instead of worrying about people disrupting you, you're worrying about the effects and variables the environment throws at you. This requires practice like before as well as appropriate pre-planning and safety net development to "weather the storm."
 - For example: If nature's hand is "rock" and it decides today is wildfire day, your "paper" strategy to counter it is a fire suppression system to control it.
 
 While strategies may not perfectly deflect or mitigate *all* potential damage to your systems, a proper strategy is significantly better than an inappropriate strategy or no strategy utilized at all.
@@ -74,47 +74,46 @@ As a standard economic theory:
 
 Opportunity cost = (Return on best alternative) – (Return on chosen option) 
 
-One of your main goals is to minimize opportunity cost throughout the entire match and every moment in that match. Rarely, if ever, will you make every perfect decision possible in a single game, so the cost is always greater than zero. You can, however, practice to reduce errors and improve decisions over time.
+One of your main goals is to minimize opportunity cost throughout the entire match and every moment in that match. Rarely, if ever, will you make every perfect decision possible in a single game, so the opportunity cost is always greater than zero. You can, however, practice and simulate scenarios to refine your processes, reduce errors, and improve decisions over time.
 
-Additionally, every action can snowball. What seems like a small cost or error at first when you make the decision potentially cascades down the line and creates a larger delay. Taking 1 second to produce units could mean upgrading tech 1 minute faster.
-
-This is balancing decisions across economies, upgrades, armies, and other variables. If two players used the same strategy against each other, the player with a small boost in any one of these areas gets a potentially significant advantage over the other player.
+Additionally, every action can snowball. What seems like a small cost or error at first when you make the decision potentially cascades down the line and creates a larger delay. It's an act of balancing decisions across economies, upgrades, armies, and other variables. If two players used the same strategy against each other, the player with a small boost in any one of these areas may get a significant advantage over the opponent(s).
 
 ### **Macro vs Micro**
 
-Macro is significantly more important than micro. It's an area many people make mistakes on as they prioritize insignificant contributions. From my own assessment, about 80-90% of time should be on macro and managing orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
+Macro is significantly more important than micro. It's an area many people make mistakes on as they prioritize insignificant contributions or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
 
-Doing more than one task at a time hampers productivity (APA, 2006). Even if they could, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, which is what a methodology like Critical Path Analysis helps to solve and optimize.
+Doing more than one task at a time hampers productivity (APA, 2006). Even if you could multitask, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, which is what a methodology like Critical Path Analysis helps to solve and optimize.
 
 It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on instead of their original goal, which gives you more time to focus on your priorities to achieve victory.
 
 ### **The Macro(management)**
 
-This is your backbone, your strategy, your core build order. It's the primary guide and routine you follow, which you know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
-- If there's a point where you're not doing *anything,* you're probably doing something wrong.
+This is your backbone, your strategy, or your core build order. Whatever you wish to call it. 
 
-Never forget that core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even a great one, can crumble if it cannot adapt to changing environments and unexpected scenarios.
+It's the primary guide and routine you follow along, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
 
-You can generate multiple routines as bases for different types of scenarios, but you should have one core set at a minimum.
+Never forget this core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even if it's a seemingly perfect strategy, can crumble if it cannot adapt to changing environments and unexpected scenarios.
 
-The only way to reduce anxiety and making mistakes is through well-defined planning, properly established contingencies, and practice. Theory can refine your moves, but practice mitigates the chance you cannot commit when push comes to shove.
+You can generate multiple routines as templates for different types of scenarios, but you should have one core "routine" at a minimum.
+
+The only way to reduce anxiety and make fewer mistakes is through well-defined planning, properly established contingencies, and practice. Theory can refine your moves, but practice mitigates the chance you cannot commit when push comes to shove.
 
 That isn't to say theory should be neglected either. If you lack proper knowledge on capabilities of units, what tools are available, and what systems are in place, you'll mess up in several ways including, but not limited to:
 - Resource misallocation
 - Wrongly assigning deadlines
 - Tactical blunders
 
-Knowledge of the environment is important. Equally important is what's feasible in the environment.
+Knowledge of the environment and knowledge of technical skills and details is important. Equally important is what's feasible for you to accomplish in your given environment.
 
 ### **The Micro(management)**
 
 This is the part where you're maximizing unit value per second (or other unit of time).
 
-To put it another way: Say you tell someone they need to clean the dishes. Your part in micro is issuing the order here, while the other parts (scrubbing, cleaning, putting the dishes away), are accomplished by the person without any further intervention.
+To put it another way: Say you tell someone they need to clean the dishes. Your macro is issuing the order here. The tasks involved (scrubbing, cleaning, putting the dishes away, etc.), are the micro accomplished by the person working without any further intervention on your part.
 
 Your micro load increases when going beyond the initial request and overseeing each step the person makes. While you could ensure everything is done exactly as intended, this is often wasted effort and rarely ever needed beyond the initial training a unit gets in the task. Excessive direct intervention wastes productivity of all parties involved, not just one or the other.
 
-There *are* cases where extensive micro is useful, but it is rare and far in between. Generally speaking, a commander or leader should only be issuing orders, and information relevant to complete the order, to units without further intervention and letting the units accomplish the "task" to the best of their ability.
+There *are* cases where extensive micro is useful, but it is rare and carries great risks when done incorrectly. Generally speaking, a manager, commander, or leader should only be issuing orders, and information relevant to complete the order, to units without further intervention. They should let the units accomplish the "task" to the best of their ability.
 
 As stated before in macro, you still need to know theory and what your units are capable of. If you don't know what they can (or should) do, you cannot effectively micro(manage) them to reach full productivity and achieve your goals.
 
@@ -142,7 +141,7 @@ Allocating resources to bring on the appropriate talent will take a significant 
 
 *Alternatively: Critical Path Method*
 
-**Putting it simply: Optimizing Time.**
+**Putting it simply: time optimization.**
 - i.e. "Does Task B need the output of Task A to begin?"
 
 To give a simple example: imagine you're cooking food and following a recipe. The recipe has several steps you follow in sequence, one after another.
