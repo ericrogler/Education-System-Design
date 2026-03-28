@@ -18,7 +18,7 @@ Surprisingly, it has more benefits than expected:
 - Version control capabilities
 - Text styles
 - Break points
-- Supports Markdown
+- Converts Markdown into HTML
 - Can be converted further from here
 - You can copy it freely and without issue
 - It's self-published, so no middle man
