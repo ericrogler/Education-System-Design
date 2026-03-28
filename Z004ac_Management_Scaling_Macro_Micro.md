@@ -141,7 +141,7 @@ Allocating resources to bring on the appropriate talent will take a significant 
 
 *Alternatively: Critical Path Method*
 
-**Putting it simply: time optimization.**
+**Putting it simply: identifying time constraints.**
 - i.e. "Does Task B need the output of Task A to begin?"
 
 To give a simple example: imagine you're cooking food and following a recipe. The recipe has several steps you follow in sequence, one after another.
