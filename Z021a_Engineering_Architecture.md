@@ -40,6 +40,26 @@ This chapter is going to have many technical terms. That's intentional. This is 
 
 As a reminder, you could easily have several books on each topic here, so if you want to learn more, you are free to look up other sources. I'll try my best to summarize them, so let's get into it in no particular order.
 
+### **Rubberducking**
+
+I love this method personally. It's a concept attributed to Hunt and Thomas (1999).
+
+Talking about your problems tends to help and sometimes uncovers solutions as you're talking through them. It doesn't have to be a human you talk to either; it can be a rubber duck instead!
+
+Or even a BLÅHAJ.
+
+It's like thinking aloud, except you're reframing the subject and explaining it to somehow who may not know what you're talking about. You describe what it should do vs what it actually does. It's not a complete replacement for learning critical thinking skills, but it does help with blockers.
+
+### **Interoperability**
+
+Interoperability defines a product's, or system's, ability to communicate with other products and systems (Slater, 2012). For non-technical readers, think of it as two devices establishing a language to properly communicate the necessary information. Said communication involves its own form of speaking, listening, and interpreting much like a conversation between people in a human language.
+
+How it does this is typically through sharing data formats and communication protocols, such as a television and cell phone accessing the same software despite being two different devices or a programming language like SQL or Python to execute the same code across different platforms. These "languages" are defined through standards, usually set by individuals or organizations, to mitigate inconsistencies and issues. Benefits include adaptability and additional business for all products involved, because it permits people to work *with* something rather than not.
+
+Translating it into systems instead of products, interoperability could also define how two different organizations of humans cooperate and function together. These organizations, much like software programs and products, also need shared formats and standards to communicate with for reliable information exchanges. For example, it could be a military application like NATO and the US, a medical application like hospitals and insurance, or a corporate application like transmitting files from one organization to another.
+
+If I bring this back to education systems, we can look at the different tools and software used to communicate information. An educator's gradebook, for example, should be able to transmit or package its content into formats other programs can read, such as a database to store information in a secure location. If that same gradebook tried to export its data to a program that *couldn't* interpret it, you'd experience issues with your current setup (or new products you're bringing in) and thus need to re-evaluate the interoperability of many products in your system.
+
 ### **Physical Building Codes**
 
 You could easily have an entire bookcase on this topic alone. I'll try my best to summarize it.
@@ -232,6 +252,9 @@ Six Sigma is one way these systems are utilized for process improvement in appli
 
 1. European Standards. (2023, November 1). *BS EN 1335-1:2020+A1:2022 Office furniture. Office work chair Dimensions. Determination of dimensions.* en-Standard.eu. [https://www.en-standard.eu/bs-en-1335-1-2020-a1-2022-office-furniture-office-work-chair-dimensions-determination-of-dimensions/](https://www.en-standard.eu/bs-en-1335-1-2020-a1-2022-office-furniture-office-work-chair-dimensions-determination-of-dimensions/)
 
+1. Hunt, A., Thomas, D. (1999). *The Pragmatic Programmer: From Journeyman to Master.* Addison Wesley. ISBN 978-0201616224. p. 95, footnote.
+    - Archive Link: [https://archive.org/details/isbn_9780201616224](https://archive.org/details/isbn_9780201616224)
+
 1. International Code Council (ICC). (2024). CHAPTER 3 BUILDING PLANNING - 2024 INTERNATIONAL RESIDENTIAL CODE (IRC). Iccsafe.org. [https://codes.iccsafe.org/content/IRC2024V2.0/chapter-3-building-planning](https://codes.iccsafe.org/content/IRC2024V2.0/chapter-3-building-planning)
 
 1. International Code Council (ICC). (2024). *I-Codes.* Codes.iccsafe.org. [https://codes.iccsafe.org/codes/i-codes](https://codes.iccsafe.org/codes/i-codes)
@@ -246,6 +269,9 @@ Six Sigma is one way these systems are utilized for process improvement in appli
     - Originally published in Japanese on 1978.
 
 3. OSHA. (2022). Ergonomics - Overview - Occupational Safety and Health Administration. Www.osha.gov; Occupational Safety and Health Administration. [https://www.osha.gov/ergonomics](https://www.osha.gov/ergonomics)
+
+3. Slater, T. (2012). *What is Interoperability?*. Network Centric Operations Industry Consortium (NCOIC).
+    - Archive Link: [https://web.archive.org/web/20140714143139/http://www.ncoic.org/what-is-interoperability](https://web.archive.org/web/20140714143139/http://www.ncoic.org/what-is-interoperability)
 
 3. Tompkins, J. A., White, J. A., Bozer, Y. A., & Tanchoco, J. M. A. (2010). *Facilities Planning* (4th ed.). John Wiley & Sons, Inc.
 

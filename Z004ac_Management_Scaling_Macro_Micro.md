@@ -140,15 +140,16 @@ Allocating resources to bring on the appropriate talent will take a significant 
 ### **Critical Path Analysis**
 
 *Alternatively: Critical Path Method*
+- For a more complex example, [see Levy et al. (1963)](https://hbr.org/1963/09/the-abcs-of-the-critical-path-method).
 
-**Putting it simply: identifying time constraints.**
+**Putting it simply: it's identifying time constraints.**
 - i.e. "Does Task B need the output of Task A to begin?"
 
 To give a simple example: imagine you're cooking food and following a recipe. The recipe has several steps you follow in sequence, one after another.
 
 In reality, it's possible to do *multiple* steps in parallel. The recipe may tell you to set the oven to 425 degrees Fahrenheit, *then* prepare other steps. While the oven is preheating, you can prepare other ingredients in the meantime, *but* you can't properly heat the food until it reached that temperature.
 
-To "map" out a strategy, steps include the following (Paraphrased; Kenton, 2025):
+To "map" out a strategy, steps include the following (Paraphrasing from Kenton, 2025):
 1. Listing each activity
 2. Determining activity orders
 3. Predicting time per task
@@ -158,7 +159,7 @@ To "map" out a strategy, steps include the following (Paraphrased; Kenton, 2025)
 
 Step #5 requires further elaboration. A critical path is the *longest* path through all your *dependent* activities from start to finish without making the project even longer. You can affect how long a task may take through resource/technical allocation, like adding more workers to a job or bringing in a specialist instead of a generalist. Though you can affect timelines, you're still at the mercy of benefit vs cost analysis and weighing if dedicating more resources to shorten timelines results in higher monetary/resource savings in the project.
 
-Any project can have several, parallel, or pseudo-critical paths embedded inside of it depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
+Any project can have several parallel or pseudo-critical paths embedded inside of it depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
 - Start to Start (SS): Task A starts before Task B starts.
 - Start to Finish (SF): Task A starts before Task B completes.
 - Finish to Start (FS): Task A completes before Task B starts.
@@ -213,11 +214,11 @@ Your ability to prepare, adapt, and scale, as well as learn what requires your a
 
 1. American Psychological Association (APA). (2006, March 20). *Multitasking: Switching costs.* Apa.org; American Psychological Association. [https://www.apa.org/topics/research/multitasking](https://www.apa.org/topics/research/multitasking)
 
-1. Fernando, J. (2025, May 31). *Opportunity Cost: Definition, Calculation Formula, and Examples.* Investopedia. [https://www.investopedia.com/terms/o/opportunitycost.asp](https://www.investopedia.com/terms/o/opportunitycost.asp)
-
 2. Greco, J. (2020). *ProjectManagement.com - Critical Path Analysis.* Projectmanagement.com. [https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_](https://www.projectmanagement.com/wikis/233036/critical-path-analysis#_)
 
 2. Kenton, W. (2025, June 30). *Understanding Critical Path Analysis.* Investopedia. [https://www.investopedia.com/terms/c/critical-path-analysis.asp](https://www.investopedia.com/terms/c/critical-path-analysis.asp)
+
+3. Levy, F. K., Thompson, G. L., & Wiest, J. D. (1963, September). *The ABCs of the Critical Path Method.* Harvard Business Review. [https://hbr.org/1963/09/the-abcs-of-the-critical-path-method](https://hbr.org/1963/09/the-abcs-of-the-critical-path-method)
 
 2. McCarthy, C. (2006). *No Country for Old Men.* Vintage International.
     - Original published in 2005.

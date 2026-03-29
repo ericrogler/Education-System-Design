@@ -68,9 +68,10 @@ Technology, like computers and cell phones, can also be misused by students *and
 - Example 1: A post-it note with your password on it next to a workplace computer.
 - Example 2: Sharing your password with someone else so they can use your device or a school provided device in general.
 - Example 3: Keeping the default settings, which are easy to find out about, for a username/password to an administrator account.
-- Example 4: Making "12345" your combination key.
+- Example 4: Making "12345" the combination to your luggage.
 - Example 5: You might also be [working at the Louvre and have the password set to "Louvre" for your surveillance system](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297) (Leath & Geho, 2025). 
     - While that's easy to remember, that's just as easy to guess and cause havoc with.
+- Example 6: 
 
 There's also more points to consider with technology:
 - User privileges (e.g. students and staff) may be deliberately limited to mitigate permanent damage through software in devices vs administrator privileges (e.g. IT teams).
@@ -80,7 +81,15 @@ There's also more points to consider with technology:
 
 Though technological misuse can be mitigated through proper training, humans still remain one of the easiest, if not *the* easiest, ways to cause damage to technology in any setting. This applies to schools, homes, businesses, and many more places.
 
-As an example of human engineering above: there's a possibility you have security systems up-to-date and ready to defend against intrusions, but something like an employee's computer got breached and now there's an open door into every other system ripe for the taking.
+As another example of human engineering above: there's a possibility you have security systems up-to-date and ready to defend against intrusions, but something like an employee's computer got breached and now there's an open door into every other system ripe for the taking.
+
+Human engineering *can* be mitigated through training, like an IT team running phishing tests/exercises. Remember, however, that these trainings only reduces suspectibility and cannot fully eliminate it, but it does make it harder and more costly to try and compromise. The entire point of these exercises is to *safely* expose people to examples of emotional manipulation and dishonesty a malicious individual (e.g. a "black hat") may employ so users can identify it and know it's a scam rather than legitimate. By training a human's ability for pattern recognition and exposing known patterns, it lowers the risk of emotional manipulation and not falling for these traps out in the wild!
+
+Phishing tests are somewhat similar to how a vaccine "trains" white blood cells with a weakened version of a virus to better defend against and mitigate the virus's potential severity. Like bad actors, viruses also won't care about emotional manipulation to break through your security measures and inflict damage on whatever system it can access. For example, you'd be surprised how a well framed "RSVP for free food in lounge by end of day" can get even cautious people to fall for it. What that example *alone* preys on is some of the following:
+- Relevance to the reader (free food!)
+- Appears "trusted" (sent interally)
+- A sense of urgency or time component (end of day)
+- Low-stakes/not much effort needed (a simple RSVP)
 
 To dilute technological security (cybersecurity) down into two points:
 1. Technology, and its security, is far more protected with better protocols and tools compared to the past. Said protocols are continuously improving over time.
@@ -99,6 +108,27 @@ It's easier to defend one gate into all the servers versus 100 gates to access t
 This concept applies to medieval times and modern times. In modern times, you may see this with authentication, monitoring, and authorization checks before entry is permitted. A physical school building may have one secure entry point visitors go into, check in at, and receive permission at before safely proceeding forward. Since you only have one entry point, you want to do everything to ensure proper safety but also do everything quickly to reduce queues/waiting time.
 
 While it's possible to get in through unorthodox means, it's far harder to do so by limiting the number of entries past your "walls." Though you might need to increase how many gates you build as you scale up in size, you're strict on limiting the number of possible entries. What was a strategy for survival is now a risk mitigation strategy.
+
+### **Computer Literacy**
+
+It's reasonable for me to assume computers will be around for a long time to come after this is originally written. Even if the desktop computer isn't around in the future, skills associated with computers may persist and simply growing up around technology doesn't mean proficiency in technology.
+- This includes AI seemingly able to "fix" these issues more and more as it advances.
+
+I've seen students who are "tech savvy" but have also proven significantly more often how many students are not actually that. Your ability to plug a toaster into an outlet did not suddenly make you a master electrician either. 
+
+Let's go through a few examples!
+
+Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on students or individuals though; software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. The downside to this is if they don't think about what they're doing, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions that are simple to understand, a human being can still greatly mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
+
+Knowing computer commands is another thing at risk of deprecation. This may include, but is not limited to, examples like:
+- Saving documents and files
+- What "right click" is (i.e. its function(s) and reference to a computer mouse)
+- Copy & paste commands
+- Printing files, papers, etc. from a computer or similar device
+
+File structure is another large example I've seen issues with too on many electronic devices outside of just computers. This is mainly organization in a computer-based environment. For example, separating files by categories like grades, years, students, etc. rather than dumping everything into a single file, repository, etc.
+
+File types (i.e. "extensions") are another tricky, but important aspect I see overlooked quite often. For example, a user may not be aware of what file extensions are and unknowingly submit the wrong *type* of file (e.g. a .docx instead of a .pdf). If they lack basic awareness of the extensions, they won't be able to manipulate or work with them effectively as a result. As for file structures, 
 
 ### **AI in General**
 
@@ -119,7 +149,7 @@ If you combine a substitute of mastery with a society diminishing the value of i
 - "At what point will AI fail to solve your problem(s)?"
 - "Will using AI benefit your instruction?"
 
-**If you cannot confidently answer these questions, that's OK, but I will tell you that you shouldn't use AI yet. If you do have solid answers, that's good.**
+**If you cannot confidently answer these questions, that's OK, but I will say you shouldn't incorporate AI yet. If you do have solid answers, that's good.**
 
 For those with a math or science background unsure where to start or new to AI, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
 - If you're curious about how AI Detectors may work, focus on topics under the "Classification" section to help figure that out.
@@ -208,7 +238,7 @@ If it doesn't guess right at the end? That's perfectly fine; it asks what your a
 
 Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
 
-### **AI in Instruction**
+### **AI in Education**
 
 Where AI applies to teaching and students specifically is not likely to change easily. Here are some examples I've seen and would categorize below. Additionally, a lot of things AI can do, automation, like a script or macro, can probably do instead at far cheaper costs and lower error rates.
 
@@ -228,7 +258,7 @@ Where AI applies to teaching and students specifically is not likely to change e
 - Cheating
 - Making AI videos of teachers/students (legal issues on this one)
 
-As a stern reminder, anything listed under "Recommended AI Use" still requires a human to verify its accuracy and ensure that the outcome is what you intended.
+As a stern reminder, anything listed under "Recommended AI Use" should require a human to verify its accuracy and ensure the intended outcome(s).
 
 ### **How effective is AI Really?**
 
@@ -300,15 +330,19 @@ You could also design your own AI instead of utilizing another AI service anothe
 
 As a reminder, AI can do some tasks really well and other tasks it flops down like a sad pancake on a griddle. If anything, it may make educators go *more* analog and avoid its implementation.
 
-Still, if a AI program writes your essay or does an assignment in general for you, it's called cheating and academic dishonesty. You're claiming you did the work, despite another entity actually doing it for you instead.
+If a AI program writes your essay or does an assignment in general for you, it's called cheating and academic dishonesty. You're claiming you did the work, despite another entity actually doing it for you instead. It can also make 10+ students give out the exact same answers, word-for-word, on their essays which are later reviewed and graded by a teacher. It does make homework and other assignments done outside-of-class much harder to verify the integrity of, but the quality is still questionable.
 
-It can also make 10+ students give out the exact same answers, word-for-word, on their essays which are later reviewed and graded by a teacher. It does make homework and other assignments done outside-of-class much harder to verify the integrity of, but the quality is still questionable.
+It also means adapting how the classroom functions to get more work done *in* class instead of *outside* class. That may put an additional strain on teachers, but it does mitigate the issue of letting a student use AI to do the work for them. Even if an educator has measures to discourage or restrict AI, students may see education as only a transactional process and utilize AI to achieve results and compete with their peers.
 
-To counter this, a teacher may resort to doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology (i.e. paper and pencil). Accommodations may alleviate some of these restrictions, but likely not all of them to preserve educational integrity. If it's handwritten, there's also fewer techological barriers and fewer excuses for why something isn't done.
+Accommodations may alleviate some of these restrictions, but likely not all of them to preserve educational integrity. If it's handwritten, there's also fewer techological barriers and fewer excuses for why something isn't done.
 
-It also means adapting how the classroom functions to get more work done *in* class instead of *outside* class. That may put an additional strain on teachers, but it does mitigate the issue of letting a student use AI to do the work for them.
+To counter this, a teacher may resort to doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology (i.e. paper and pencil). In shorter terms: all graded work is done in-person and they're back to paper and pencil. I find it ironic reverting technological progress for education is now a solution, but alternatives are limited and it does work despite any drawbacks.
 
-I suppose if you want to try a different twist: you could create an assignment requiring AI usage and declare cheating for those who did the assignment without AI.
+Another solution is establishing a clear, consistent strategy and guidance regarding AI (and other technological means of "cheating"), but it requires administrators or decision-makers to acquire techincal literacy. A quick training would not suffice either; they'd have to *really* spend time and learn about it or risk an ineffective implementation leading into a disasterous outcome. Without any support for educators within an education system, any education provided is at risk.
+
+A third solution for technology *in general*, not just AI, includes creating an isolated space for educators to experiment and test out learning solutions. The downside is this method is resource-intensive and some schools and learning platforms cannot readily support it with what's available. Nevertheless, this potential method promotes in-house solutions tailor-made to work in a specific system instead of adopting or adapting a general solution with varying success.
+
+If you want to try a different twist: you could create an assignment requiring AI usage and declare cheating for those who did the assignment without AI.
 - You could probably defend it by saying "the assignment asked for a specific software to complete it, but the student didn't use that software so they failed."
 
 ## **Bibliography**

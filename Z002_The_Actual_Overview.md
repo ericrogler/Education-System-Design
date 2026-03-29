@@ -13,7 +13,7 @@ Imagine I want to get a new teacher, instructor, presenter, etc. from 0-100 as f
 
 I'll pretend a reader is in a situation where they start from, well, basically nothing.
 
-**That's my problem here to solve and this book is my solution. I take what seems complex and make it more accessible. For this purpose, this book is an INTRODUCTORY text and will not cover every possible edge case.**
+**That's my problem here to solve and this book is my solution. I take what seems complex and make it more accessible. This book serves as an introduction towards education systems and examines multiple topics broadly.**
 
 ***Think of this book as the BLÅHAJ to your IKEA.*** It's the companion covering your essentials and what gets you into the door. From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as well.
 
@@ -25,9 +25,13 @@ Everyone can teach. If you can communicate a topic you know to another person, a
 
 ### **What The Book Isn't**
 
-To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. Though methods, frameworks, and ideas are mentioned, their intention is to be as tool-agnostic as possible.
+To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. Though methods, frameworks, and ideas are mentioned, my intention is to be as tool-agnostic as possible.
 
-Technology rapidly evolves; what could be popular today may no longer be as popular from 5 years now. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field, but they're exceptions and not the norm.
+Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field, but they're exceptions and not the norm.
+
+I also do not expect this book to solve all system design problems related to education systems nor expect one single individual or organization to create such a system. It takes many kinds of people and groups in society working together. Even organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+
+This book is also what I'll call a ground up approach. I feel this approach is the most accessible towards a general audience, which is why I take it. It examines from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down. 
 
 ### **Who Should Read This Book**
 
@@ -73,9 +77,9 @@ Some statements and information may not be independently verifiable because they
 
 If you're in education or an educator, I'll assume you're at least dealing with reasonable students capable of completing assigned work. While disabilities are considered, only up to minor to moderate disabilities and accommodations will be covered. Any frameworks and systems written here are primarily designed for technical subjects (math, engineering, science, etc.), but can apply to other fields with some minor adjustments.
 
-References to products or tools are included because I found them useful in writing this book, better explain a point I would write about anyway, and/or were useful for when I taught.
-
 Sources used are listed and divided into each chapter's respective bibliography. Sources are directly cited if I'm quoting challengeable text, numbers, figures, etc. or linking directly to text to explain a point. There may be indirect citations if I can cite, in-text, a link directly to the source(s) for reference or further reading. (e.g. "Here's a [blank hyperlink]() showcasing X idea(s)." and "Here's an idea ([Further Reading]())")
+
+In the event of references to any products or tools, they are included because I found them useful in writing this book, better explain a point I would write about anyway, and/or were useful for when I taught.
 
 ### **Why Make This Free?**
 
@@ -88,5 +92,10 @@ Though I list this book under a CC-BY license, due to certain content I referenc
 As for an ulterior motive? It's a good talking point at least and it fits on a resume if needed. I don't have to flaunt about the book like a marketing campaign, but whenever education comes up I'll at least know more than the average bear.
 
 You'll soon know more than the average bear too. 😃
+
+## **Bibliography**
+
+1. National Center on Education and the Economy (NCEE). (2024). *Blueprint: Designing Systems That Work.* (2024). National Center on Education and the Economy. 2000 Pennsylvania Avenue NW Suite 5300, Washington, DC 20006. Tel: 202-379-1800; Fax: 202-293-1560; e-mail: info@ncee.org; [http://www.ncee.org](http://www.ncee.org). [https://eric.ed.gov/?id=ED671660](https://eric.ed.gov/?id=ED671660)
+    - Alternative Link: [https://ncee.org/blueprint/](https://ncee.org/blueprint/)
 
 ## **[Next Chapter](Z003_Legality.html)**

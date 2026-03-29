@@ -26,11 +26,11 @@ If you're going into management, or transitioning from an individual contributor
 As the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. If you do not plan appropriately, you face stagnation or even organizational death.
 
 Scaling up typically involves things like:
-- New layers of management
-- Specialization of roles
-- Generalization of procedures to follow
-- Formalization of communication and meetings
-- Difficulty in cross-team communications and organizational communication
+- New management layers
+- Role specialization
+- Process generalization
+- Communication formalization
+- New communication difficulties
 
 A 5 minute email can have the same, if not better, results than a 1 hour meeting. Learn when to do emails over meetings.
 

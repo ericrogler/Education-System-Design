@@ -51,14 +51,14 @@ If you told a typical manager they had 40 direct reports, they'd probably think 
 
 What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You may have affinity with a particular type of student, or students, or just be "good" across all disciplines; it varies a lot person-to-person.
 
-Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. You could also have people that are easy to "manage," but difficult to work with.
+Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
-Generally speaking, I find the older the students are the easier they are to teach. I know this may seem obvious, but if I don't write it down here someone will call it out.
-- There *are* exceptions, yes, but I'm not covering them right now.
+Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot overlook how that disruptive student is denying 30+ (or however many) other students an education. 
+- If I didn't explicitly write it down here, someone will call it out.
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
-- Procedures and management strategies must scale up with more students under your supervision
+- Procedures and management strategies must scale up as more students are under your supervision
 - A 5 minute email can have the same, if not better, results than a 1 hour meeting
 - Prepare for the worst, but assume the best of students
 - All it takes is one disruptive, mismanaged student to ruin a classroom
@@ -67,13 +67,13 @@ If you skipped the other management chapters and went straight to here, I'll rec
 - Learning proper classroom management requires experience and application
   - A book, guide, etc. alone will NOT be enough to get you experience, *but it is better than nothing*
 
-Also, depending on how many resources you have, or the type of educational facility you operate in, your "normal" school is your alternative school. This could happen from a refusal/blocker to removing a legitimate threat
+Lastly, there's also many different types of schools even within the public and private school umbrellas. They can vary in size, policy, student demographics, the reason students are there, the wealth available in the school, and many more factors. 
 
 *Alright, let's get into it.*
 
 ### **One Plan to Rule Them All**
 
-Lord of the Rings reference aside, your ideal goal is one plan to handle every student. The *only* exceptions are students with legal documents or accommodations with a legal backing, such as IEPs or 504s, where a change is mandated. 
+Lord of the Rings reference aside, your ideal goal is one plan to handle every student. Even if you did develop one perfect management strategy, you may be forced to adapt it to your environment. The *major* exceptions are students with legal documents or accommodations with legal backings, such as IEPs or 504s, where a change is mandated. 
 
 In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may make minor edits to accommodate special education students.
 - This may mean one plan for everything is infeasible. If that's true, the new goal is *minimizing* the number of different plans.

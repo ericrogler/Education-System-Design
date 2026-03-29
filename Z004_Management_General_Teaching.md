@@ -39,7 +39,9 @@ Last, but not least: Higher wages are one of, if not the most, universal benefit
 
 ## **Long Answer**
 
-Education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
+**Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems.
+
+As for education, education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. 
 

@@ -45,7 +45,7 @@ Using the State of Colorado as an example, I had some level of interaction with 
 - U.S. Department of Labor
 - American Council on Education (ACE)
 - Department of Public Safety (Mandatory Reporting)
-- HIPAA, FERPA, and GDPR
+- HIPAA, FERPA, COPPA, and GDPR
 - Fair and Appropriate Public Education (FAPE)
 - Individuals with Disabilities Education Act (IDEA)
 - Every Student Succeeds Act (ESSA)
@@ -307,6 +307,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 21. *Definitions of Child Abuse and Neglect - Colorado - Child Welfare Information Gateway.* (2025). Childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect-colorado/)
 
 21. *Update on a Security Incident Involving Third-Party Customer Service - Discord.* (2025). Discord.com. [https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service)
+
+21. Federal Trade Commission. (2025). *Children’s Online Privacy Protection Rule (“COPPA”).* Federal Trade Commission; Federal Trade Commission. [https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
 21. GED Testing Service. (n.d.). *GED*. [https://www.ged.com/](https://www.ged.com/)
 

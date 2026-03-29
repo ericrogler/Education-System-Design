@@ -43,7 +43,9 @@ A complex design is always worse than a simple design if they perform at the sam
 
 ## **Long Answer**
 
-"Design" can happen in many areas. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in design are cross-disciplinary, though certain design concepts work better in some fields over others.
+**People eat with their eyes.** It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
+
+Beyond food, "design" can happen in many areas. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
 
 It's also easier to build things that you can verify, usually with hard data, solves problems people have. If you start designing with that information already, you could skip a lot of busy work and take less time going from idea to concept to reality on your design(s). This isn't a new concept and is done more often than you may realize.
 - Even this book is made partly due to that concept.
@@ -435,6 +437,8 @@ Some general rules of thumb you can quickly apply come from personal experience 
     - Updated: 2024, January 30.
 
 7. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
+
+8. Spence, C., Okajima, K., Cheok, A. D., Petit, O., & Michel, C. (2016). Eating with our eyes: From visual hunger to digital satiation. Brain and Cognition, 110(0278-2626), 53–63. [https://doi.org/10.1016/j.bandc.2015.08.006](https://doi.org/10.1016/j.bandc.2015.08.006)
 
 9. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 

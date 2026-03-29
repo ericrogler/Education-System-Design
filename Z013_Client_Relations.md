@@ -95,6 +95,8 @@ Within both simple and complex systems, complaints flow downstream to the most v
 
 ### **Administrators**
 
+Administrators manage educators directly, but students indirectly. You could assume administrators may not have great classroom management skills and may have never taught in a classroom/educational setting (or at least taught recently). It doesn't render their decisions and perspectives completely invalid though.
+
 Principals, deans, and assistant principals are your "boss" if you were an instructor/teacher. They're like directors or higher level managers. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
 - i.e. they're not easily replaced because they work with *people* and relationship management.
 
