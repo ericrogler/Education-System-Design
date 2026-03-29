@@ -1,11 +1,11 @@
 ---
-title: 2. The Actual Overview
+title: 2. Introduction
 layout: default
 nav_order: 4
 ---
-# The Actual Overview
+# Introduction
 
-### [Previous Chapter](Z001_Manager_TLDR.html)
+### [Previous Chapter](Z002_Introduction.html)
 
 ## **Introduction**
 

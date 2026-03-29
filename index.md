@@ -27,8 +27,8 @@ Surprisingly, it has more benefits than expected:
 ## **Navigation by Chapter**
 Table of contents for each chapter written below:
 
-- [Manager TL;DR](Z001_Manager_TLDR.html)
-- [Actual Overview](Z002_The_Actual_Overview.html)
+- [Abstract](Z001_Abstract.html)
+- [Introduction](Z002_Introduction.html)
 - [Legality](Z003_Legality.html)
 - [General Management](Z004_Management_General_Teaching.html)
 - [Management Case A: Scaling Growth](Z004a_Management_Scaling_Growth.html)

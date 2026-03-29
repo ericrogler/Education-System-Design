@@ -21,8 +21,8 @@ Surprisingly though, it has more benefits than expected:
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 
-- Manager TL;DR
-- Actual Overview
+- Abstract
+- Introduction
 - Legality
 - General Management
 - Management Case A: Scaling Growth

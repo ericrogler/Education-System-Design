@@ -1,10 +1,10 @@
 ---
-title: 1. A Manager TL;DR
+title: 1. Abstract
 layout: default
 nav_order: 3
 ---
 
-# A Manager TL;DR
+# Abstract
 
 ### [Back to Home](index.html)
 
@@ -25,11 +25,12 @@ nav_order: 3
 
 ## **The Elevator Pitch**
 
-I'm treating education as a system and not purely a pedagogical abstraction. For this goal, **this book utilizes cross-domain knowledge to improve education.**
+I'm treating education as a system and not purely a pedagogical abstraction. For this goal, **this book utilizes cross-domain knowledge to suggest improvements towards education and education systems.**
 
-Education is discussed in an operational environment and covers topics such as:
+Education is discussed in an operational environment and covers various topics, such as:
 - Legal, financial, and human constraints
-- Stakeholder/client relationships
+- Stakeholder/client relationships and management principles
+- Preparing a classroom environment and curriculum
 - Metrics, math, and statistics
 - Methodology from other fields and disciplines to enhance existing education systems
 
