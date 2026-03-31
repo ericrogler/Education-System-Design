@@ -104,7 +104,7 @@ To parallel classrooms, Basic is like the guidelines you print out and hand copi
 
 **MOS Training**
 
-An MOS (military occupational specialty) is a field or role a soldier may pursue. Compared to its real-life counterpart, many nuances are omitted, so each training session typically takes 30 minutes to a few hours depending on its complexity. 
+A MOS (military occupational specialty) is a field or role a soldier may pursue. Compared to its real-life counterpart, many nuances are omitted, so each training session typically takes 30 minutes to a few hours depending on its complexity. 
 
 In a milsim, think of getting a MOS as permission to use fancier tools. Put another way: "You are licensed to do this, so we will trust you to do this."
 
