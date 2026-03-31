@@ -1,9 +1,9 @@
 ---
-title: 7. Management Case C (Macro and Micro)
+title: 7. Macro[management] & Micro[management]
 layout: default
 nav_order: 9
 ---
-# Management Case C: Macro and Micro
+# Macro[management] & Micro[management]
 
 ### [Previous Chapter](Z004ab_Management_Scaling_Operations.html)
 

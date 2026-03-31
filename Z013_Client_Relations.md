@@ -97,7 +97,7 @@ Within both simple and complex systems, complaints flow downstream to the most v
 
 Administrators manage educators directly, but students indirectly. You could assume administrators may not have great classroom management skills and may have never taught in a classroom/educational setting (or at least taught recently). It doesn't render their decisions and perspectives completely invalid though.
 
-Principals, deans, and assistant principals are your "boss" if you were an instructor/teacher. They're like directors or higher level managers. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
+Principals, deans, and assistant principals are your "boss" if you were an instructor/teacher. They're similar to middle management (or directors in certain cases). They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
 - i.e. they're not easily replaced because they work with *people* and relationship management.
 
 They have a lot of real power, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
@@ -131,7 +131,7 @@ Another interesting reality about teachers and principals is potentially misalig
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is likely still true today and will remain true in the future.
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is probably still true today and will remain true in the future.
 
 Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
 
@@ -265,6 +265,24 @@ Without these people, your education system wouldn't be able to keep rooms clean
 
 In short, **they help *you* do *your* job, even if it's indirect help.**
 
+### **What About Student Agency & Relationships?**
+
+Throughout this book I often discussed students in a context similar to how an employeer might speak about employees and as a management tool. This section is a different, but quite important, perspective reinforcing students as simply *students.*
+
+For other research on this field, I'll briefly list some examples:
+- Deci & Ryan's Self-Determination Theory (2000)
+- Hattie's Visible Learning Meta-analysis (2009)
+
+The concept of student-centered learning also leans heavily into student agency. It's not where a teacher hands over *all* duties towards students, but *facilitates* the learning process and ensure material and content remains accessible. Though concepts from management like removing blockers, guiding peers, and training people towards self-sufficiency still exist, it's ultimately letting students make sense of things rather than an educator do all of that for them.
+
+To recall one example of student-centered learning from personal experience: making a business as our senior project in undergraduate college. The professor was there as a facilitator and still handled grades, provided ideas, and gave a template for where we should be at certain points in time along our work and project. Outside of that, the rest was left towards students and we determined a company name, company product, the manufacturing processes and materials for the product, the sales pitch and marketing, which students were devoted to each "department," who was the leader and sub-leaders, and many more.
+
+In this case, said students are still responsible, if not *more* responsible compared to teacher-centered learning, for their grades and their own learning in student-centered models. It's entirely possible to keep the intellectual rigor and accountability, even when the educator is only a facilitator.
+
+Additionally, a teacher-student relationship may be a prerequisite towards learning. To present a hypothetical: it's probably easier to genuinely listen to someone you like versus someone you do not like instead. These relationships are also important for trauma-informed approaches, as a relationship establishes trust, safety, and collaboration, which organizations at federal/sovereign levels like SAMHSA developed guidelines for (2024).
+
+Now, if you were told "have you tried building a relationship with them?" as a response or inquiry towards things going wrong, remember that simply having a relationship doesn't mean things *won't* go wrong. An educator may have good rapport with students and earn their respect through professional relationships, but it won't stop every potential issue. They may also need to get them to stop talking all the time because it distracts and tampers the learning experience of all other students. And much like any other relationship, it takes buy-in, engagement, and effort from *all* parties involved to work. It's not solely an educator's or student's fault!
+
 ### **Handling [Adult] Communications and Urgency**
 
 How do you know when something is important? I have some indicators:
@@ -382,11 +400,17 @@ My favorite PD days were typically:
 2. Guy-Evans, O. (2025). *Bronfenbrenner’s Ecological Systems Theory.* Simply Psychology. [https://www.simplypsychology.org/Bronfenbrenner.html](https://www.simplypsychology.org/Bronfenbrenner.html)
     - Further Reading: Bronfenbrenner, U. (1974). *Developmental research, public policy, and the ecology of childhood.* Child development, 45 (1), 1-5. [https://www.jstor.org/stable/1127743](https://www.jstor.org/stable/1127743)
 
+1. Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-analyses Relating to Achievement.* Routledge. [https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf](https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf)
+
 1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video. Episode Name: “Hard Times”
 
 1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
 
 1. no hello. (n.d.). *Please Don’t Say Just Hello in Chat* [Webpage]. No Hello. Retrieved August 16, 2025, from [https://nohello.net/en/](https://nohello.net/en/)
+
+2. Ryan, R. M., & Deci, E. L. (2000). *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being.* American Psychologist, 55(1), 68–78. [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+
+1. SAMHSA. (2024). *Trauma-Informed Approaches and Programs.* SAMHSA.gov. [https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs](https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs)
 
 1. United States Department of Education (U.S. DoE). (2021). *A Parent Guide to the Family Educational Rights and Privacy Act (FERPA).* [https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf](https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf)
 

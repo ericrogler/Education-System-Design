@@ -38,11 +38,10 @@ In general:
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
 6. You could be an amazing teacher, but if the system doesn't support you and/or students don't engage with your teaching, then you're fighting an uphill, or even losing, battle constantly.
 
-**Lessons should NOT be differentiated without good reason.** When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation fights against scope and risks affecting educational quality negatively and *not* following standards.
+**Lessons should NOT be differentiated without good reason.** This viewpoint runs contrary to a modern perspective advocating for differentiating instead, but When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation fights against scope and risks affecting educational quality negatively and *not* following standards.
 - Decide between covering a few topics deeply vs many topics broadly.
 - An inclusive curriculum is extremely unlikely to be a rigorous curriculum.
-- **An every flavor cake doesn't taste that great.**
-    - i.e. it's practically impossible to scaffold and differentiate for *every* student.
+- It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.
 
 ## **Long Answer**
 
@@ -126,41 +125,47 @@ If you needed reasons to determine whether you should self-study or seek formal 
 
 ### **The Differentiation Problem**
 
-Differentiation is great on paper and terrible in practice. When I hear about it, it's essentially people wanting the benefits of one-on-one education, but in a classroom *group* setting.
+There are two ways to approach differentiation: differentiation as individualized work and differentiation as flexible instruction. I'll discuss the former first, then the latter.
 
-There's just "one teensy-weensy but ever-so-crucial little tiny detail," as Hades from *Hercules* (1997) might put it: CLASSROOMS AREN'T EQUIPPED/DESIGNED FOR IT.
+**Part 1: Differentiation As Individualized Work**
 
-That, and having *the teacher/instructor* deal with all differentiation for students places your educational system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other employees cover it? Extremely unlikely.
+Differentiation here is great on paper and often poorly implemented in practice. When I hear about it, it's essentially people wanting the benefits of one-on-one education, but in a classroom *group* setting with unfortunately strained resources.
+
+There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: CLASSROOMS AREN'T SUPPORTED FOR IT!
+
+Having *the teacher/instructor* deal with all differentiation for every student places your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction? Do the students police themselves into learning? That's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
 
 A conventional classroom has 1 adult, around 25-30 kids, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a fire, and 4 504 plans. You've all of a sudden went from 1 way to designing your education to 12+ ways instead. A solution designed for an individual rarely perform wells as a solution for an entire group, which means we're dealing with systemic issues here.
 
-If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, meeting standards is extremely hard, if not nigh impossible. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
+If you're trying to hold students to *one* consistent standard, but are differentiating content in *multiple* ways, meeting standards is far harder, if not nigh impossible, and takes significantly more time to accomplish. Instead of tracking and ensuring one method adheres to quality education, you now have multiple methods to do that for. It scales terribly, can fall apart at the slightest touch, and maintaining it is painful. All of that makes standardization a go-to solution because it works with limited resources. Additionally, standardization and differentiation are antonyms and will face tradeoffs; you cannot invest into one aspect without sacrificing the other.
 
-Where differentiation works exceedingly well is in tutoring or one-on-one instruction. There's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. The likelihood of that happening in a physical classroom is near zero, because there is almost always more than one student per teacher.
+**Part 2: Differentiation As Flexible Instruction**
+
+Where differentiation works exceedingly well is in tutoring or one-on-one instruction, or differentiation as flexible instruction, with the resources to support it. In this case, there's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. Designing scaffolds to get students participating is also significantly less complex. The likelihood of accomplishing multiple differentiations in general classrooms decreases quickly as the number of students to accommodate increases.
 
 The 2-sigma problem, as shown by Benjamin Bloom, also shows statistical significance between students receiving differentiated instruction in a one-on-one setting vs conventional instruction (1984). There's also a philosophy by Bloom indicating mastery of prerequisite knowledge is important before moving on to new knowledge.
 
-Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is still out of reach. It's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
+Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is often still out of reach. It could be because it's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
 
-As a potential solution, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
+As a potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
 
-The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. It's also compatible with other teaching methods and frameworks, such as direct instruction and the Agile framework I talked about previously. To list some examples of UDL:
+The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the Agile framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
 - Pencils and paper for everyone
 - Guided notes as an IEP requirement now available for everyone
 - Speakers to make it easier for hard-of-hearing people
 
-The biggest downside, though, is you risk lowering the average rigor, intensity, engagement rates, and level of learning given to every student with a poor implementation. Simply put, you cannot throw UDL into a system and expect it to perform magic.
+The biggest downside, though, is you risk lowering the average rigor, intensity, engagement rates, and level of learning given to every student with a poor implementation. Simply put, you cannot throw UDL into a system and expect it to perform a miracle.
 
-I'm positive about what UDL can do, but am careful not to sing praises about it. Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. In practice, though, it suffers the same resource/time problem like differentiation and not all education can be completely accessible to every student. If sufficient supports cannot be provided with the resources available, it will still not work as intended. 
+I'm positive about what UDL can do, but am careful not to sing praises about it. Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. In practice, though, it suffers the same resource/time problems and not all education can be completely accessible to every student. If sufficient supports cannot be provided with the resources available, it will still not work as intended. 
 
 UDL technically doesn't cover IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is designed to cover those accommodations anyway. It's a pedagogical philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
 
-There's other aspects I'm against, such as letting students decide how they're evaluated vs the administrator/educator deciding that for them. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL.
+There's other aspects I'm personally against, such as letting students decide how they're evaluated vs the administrator/educator deciding that for them. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL.
 
 ### **A "Secret" for Students**
 
-It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I usually cannot help but quietly smirk when the realization hits and they discover the genius of that marketing slogan and etymology.
+It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I still enjoy the genius behind that marketing slogan and etymology.
 
 As for the actual secret: review the material *before* it's covered in class.
 
@@ -170,11 +175,15 @@ Does it help? Yes.
 
 Pre-reading the material is where you enter the shallow part of the pool, test out the waters first to temper expectations, and get an idea of what you're doing. Then, during the class, you're transitioning from shallow waters to deeper waters instead of the instructor pushing you straight into the deep end of the pool. Reviewing again, if you choose, is like practicing and getting used to swimming in the deep end of the pool.
 
-It also saves you, the student, from scrambling around in class as much. It actually saves time (ironically) by giving you an idea where to start, which means more time to do the work and a better time handling increased workloads over time. It also helps for discussions and pop quizzes, where reading the material ahead of time makes you more prepared and likely to perform better compared to those without preparation.
+It also saves the student from scrambling around in class as much. It actually saves time (ironically) by giving you an idea where to start, which means more time to do the work and a better time handling increased workloads over time. It also helps for discussions and pop quizzes, where reading the material ahead of time makes you more prepared and likely to perform better compared to those without preparation.
 
 If you consistently cannot prepare in advance, another method is taking notes you'll never reread. It sounds dumb at first, but consider: It forces you to pay at least *some* attention to what's being taught and, if you forget something, you now have a written record to reference in the future.
 
-These methods might sound boring because they are work, but it is work you put in now to make the future easier.
+These methods might sound boring because they are work, but it is work you put in now to make the future easier. If stricter methods don't work, then you may need to implement more casual methods such as:
+- Getting enough sleep beforehand
+- Having hobbies outside of education
+- Wearing what is comfortable during these activities
+- Utilizing index cards and note-taking methods
 
 There's also another name for this: *studying.*
 
@@ -310,7 +319,7 @@ If you ask teachers "have [students] seen it worded that way before?" you're mis
 
 If it's administration or a boss telling teachers to make tests/quizzes exactly like the homework, then the teachers hands are (mostly) tied to keep their jobs.
 
-### **What Happens if Students Use my Example as an Answer?**
+### **What Happens if Students Use My Example as an Answer?**
 
 Speaking forwardly, that's a lack of creativity and imagination *unless* you're specifically asking them to follow along step-by-step and reach the same answer. Rephrasing or rewording existing example(s) also counts here.
 
@@ -350,21 +359,21 @@ In short, present materials in ways to optimize learning, not just how students 
 
 ### **"Meet Them Where They're At"**
 
-*Alternatively: Teach Students Where They Are At.*
+*Alternatively: Scaffolding Gone Wrong*
 
-*For additional context, I wrote this particular section on December 2025.*
+I'm not against the concept of scaffolding (and neither should you be, dear reader!), but certain ways scaffolding is implemented.
 
-**You cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).**
+**You cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).** This remains true even if the educators do everything correctly on their part, such as properly scaffolding students and adhering to guidelines like Vygotsky's Zone of Proximal Development (McLeod, 2024).
 
 Though "meet them where they're at" sounds like good advice, and generally is what you *should* do, it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on the environment and how that environment upholds excellent standards.
 
 Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. The irony is many of these students, from the set of 150, are still getting good grades when they normally shouldn't be doing well because I lowered the rigor to "meet them where they're at."
 
-It's less an issue where students are not smart. They go from point A to point B, but the thinking behind *why* they go from point A to point B is gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up.
+It's less an issue where students are not smart. They could go from point A to point B, but the thinking behind *why* they took that route from point A to point B may be gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up.
 
 I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples too!
 
-I'm genuinely unsure if the students are actually smart, but acting this way because they *know* they cannot fail. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures, such as holding them back a grade or forcing a retake of the class.
+I'm genuinely unsure if the students are actually smart, but acting this way in this scenario because they *know* they cannot fail. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures, such as holding them back a grade or forcing a retake of the class.
 - And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days.
 
 ### **What about when student performance is below expectations and/or grade level?**
@@ -399,7 +408,7 @@ From personal experience, I could reasonably cover 1 or 2 grades of learning def
 - Reasonable example: Re-teaching parts of Calculus 1 to students in Calculus 3.
 - Unreasonable example: Teaching Calculus 3 to functionally illiterate students.
 
-**To give an analogy, you don't want someone flying a plane that has never taken pilot training.**
+**To give an analogy, you probably don't want someone flying a plane that has never been through pilot training.**
 
 It's not impossible to fix large deficits, but doing it on top of everything else a teacher in a typical classroom needs to do is extremely difficult, if not impossible. 
 - If deficits are truly impossible/unreasonable to fix, then you need to document what the deficits are, what has been done to try and overcome them, and communicate why they're infeasible to help protect yourself and your role as a teacher.
@@ -492,6 +501,8 @@ Ironically, you prove learning it matters by failing it and experiencing the con
 3. Mark, G., Gonzalez, V., Harris, J., & Bren, D. (2005, April). No Task Left Behind? Examining the Nature of Fragmented Work. [https://ics.uci.edu/~gmark/CHI2005.pdf](https://ics.uci.edu/~gmark/CHI2005.pdf)
 
 5. Martin-Chang, S., Gould, O. N., & Meuse, R. E. (2011). *The impact of schooling on academic achievement: Evidence from homeschooled and traditionally schooled students.* Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement, 43(3), 195–202. [https://doi.org/10.1037/a0022697](https://doi.org/10.1037/a0022697)
+
+5. McLeod, S. (2024, August 9). *Vygotsky’s Zone of Proximal Development.* ResearchGate. https://www.researchgate.net/publication/383563118_Vygotsky%27s_Zone_of_Proximal_Development
 
 6. Moll, B., & Sykes, E. (2022). *Optimized virtual reality-based Method of Loci memorization techniques through increased immersion and effective memory palace designs: a feasibility study.* Virtual Reality. [https://doi.org/10.1007/s10055-022-00700-z](https://doi.org/10.1007/s10055-022-00700-z)
 

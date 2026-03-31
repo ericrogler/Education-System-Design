@@ -1,6 +1,6 @@
 # ReadMe
 
-Welcome to *Education System Design*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
+Welcome to *Education System Design*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code.
 
 **Last Updated: {{ "now" | date: "%B %-d, %Y" }}**
 
@@ -25,9 +25,9 @@ This splits the text by chapter across multiple pages.
 - Introduction
 - Legality
 - General Management
-- Management Case A: Scaling Growth
-- Management Case B: Communications and Operations
-- Management Case C: Macro and Micro
+- Scaling Growth in Organizations
+- Personnel in Operations
+- Macro[management] & Micro[management]
 - Classroom & Behavior Management
 - Standards / Objectives
 - Roadblocks To Education

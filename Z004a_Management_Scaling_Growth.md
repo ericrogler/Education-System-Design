@@ -1,9 +1,9 @@
 ---
-title: 5. Management Case A (Scaling Growth)
+title: 5. Scaling Growth in Organizations
 layout: default
 nav_order: 7
 ---
-# Management Case A: Scaling Growth
+# Scaling Growth in Organizations
 
 ### [Previous Chapter](Z004_Management_General_Teaching.html)
 

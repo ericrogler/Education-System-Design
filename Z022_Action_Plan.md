@@ -11,9 +11,9 @@ nav_order: 32
 
 *This period starts between before day 1 to end of week 1.*
 
-If you're limited on preparation time, focus on setting up classroom management and procedures, followed by syllabus and lesson plans.
+If you're limited on preparation time, focus on setting up classroom management and procedures, followed by syllabus and lesson plans. You should not focus on establishing rapport and connections with students first; you *must* establish the foundations for a disciplined and respectful classroom to last more than a few years in education. Figure out how to deal with issues and behaviors quickly, as connections will eventually come.
 
-You may need to spend time outside of work to get everything done. In this first week, that is perfectly OK. If you invest the proper time planning *now* and set up your systems early on, even if they're basic scaffolds, then you save significant time later on.
+You may need to spend time outside of work (i.e. contract hours) to get everything done. In this first week, that is perfectly OK. If you invest the proper time planning *now* and set up your systems early on, even if they're basic scaffolds, then you save significant time later on.
 
 **If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.**
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
@@ -28,7 +28,7 @@ The very first day of a classroom setting. Depending on your timeframe, like if 
 
 If you only have a few prep days, focus on lesson plans, syllabus, classroom procedures and rules, and basic supplies. This is so you're not scrambling last minute and other things can be figured out during breaks.
 
-If you can only do one thing, then do classroom procedures and rules. Drill students on what to do when X situation arises, or how to do specific tasks the way you want, and have them do it on their own without reminders every time. It will help you immensely with classroom management in the future.
+If you can only get one thing prepared in time, then do classroom procedures and rules. Drill students on what to do when X situation arises, or how to do specific tasks the way you want, and have them do it on their own without reminders every time. It will help you immensely with classroom management in the future.
 
 **Here are some things I'd like to have (and/or know) by week 1.** I'm focusing on the bare essentials over "nice to haves" to balance preparedness with minimal cost and effort, plus the ability to address many situations:
 - Facility access, like keys and scannable ID badge

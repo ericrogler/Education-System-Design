@@ -66,8 +66,8 @@ Managing assistant teacher expectations and how they assist you depends on commu
 
 **Here's an example list of things to ensure are covered, or at least noted on, when you're meeting or corresponding with assistant teachers:**
 
-- How to handle special needs, like IEPs and 504s, and accommodations
-- How to split up students
+- How to handle special needs, like IEPs, 504s, and accommodations
+- How to split up and group together students
 - Defining the roles and responsibilities of the teacher and assistant teacher(s) to avoid "overstepping" and determine which people hold accountability
 - Decide how much–and which–planning and preparation for the classroom is done by each professional
 - Pet peeves, goals, support methods, classroom strategies, and expectations
@@ -79,6 +79,20 @@ Managing assistant teacher expectations and how they assist you depends on commu
 - Whatever you do, get *everything* you discuss in writing when talking about who covers which things, so you can defend yourself when things go bad and have proof the assistant teacher isn't pulling their weight when you get questioned about it.
 
 Sometimes, the co-teacher is new and needs experience. In that case, you're better off imparting some preparation and teaching work rather than only assisting in the background. If the co-teacher's end goal is becoming a teacher, *they need to learn how to be a teacher and not an assistant*.
+
+### **Co-Teaching Models/Strategies**
+
+To give a brief overview of setups you may see in practice generally involving students split into one group, two groups, or multiple groups:
+- One Teach, One Observe (One Group)
+- One Teach, One Assist (One Group)
+- One Teach, One Assess/Evaluate (One Group)
+- Parallel Teaching (Two Groups)
+- Station Teaching (Two or More Groups)
+- Alternative Teaching (Two Groups)
+- Team Teaching (One Group)
+- Monitor and Teach (Multiple Groups)
+
+While these approaches vary in implementation, the general idea is either one teacher handles instruction for the group, or each co-teacher involved handles some part of that instruction. In the case of alternative teaching specifically, this may further involve a teacher pre-teaching or re-teaching information while the other teacher(s) deliver alternative content.
 
 **Some setups I've seen work "well enough" in practice are:**
 

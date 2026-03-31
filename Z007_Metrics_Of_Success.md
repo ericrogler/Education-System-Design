@@ -324,13 +324,13 @@ Let's say the goal of IB is, paraphrased, [learning and developing skills for a 
 
 The metrics that administration, or other people responsible for implementing programs like IB into an institution, may care about grades, graduation rates, student retention rates, and test scores.
 
-This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
+This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
 
 One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
 
 The program offered by one group may also not match the existing system it's trying to fit into. If that occurs, then you're looking at extra work, cumbersome overlapping, and excessive overhead on the part of staff, teachers, administration, students, etc. Though the system may be excellent or great for whomever it's catered to, it requires buy-in and compatibility with the current system(s) to mitigate undue issues down the line.
 
-The easiest to state, but hardest to do, solution is simple: You need full buy-in or no buy-in (i.e. appropriate, QUALITY support/resources and student desire to enter those programs) for initiatives like these, or else you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curriculums are all in the same campus area at universities.
+The easiest to state, but hardest to do, solution is simple: You need full buy-in or no buy-in (i.e. appropriate, QUALITY support/resources and student desire to enter those programs) for initiatives like these. Adapting a program into an existing monoculture, or an inflexible one, without setting up the supports and foundation means you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curriculums are all in the same campus area at universities.
 - To put it like I'm in a negotiation: "Yes, we'll add this program on the condition we get resource A, B, and C before this stated time. If this is not feasible, we will not do it."
 
 ### **Open Enrollment**
@@ -347,6 +347,46 @@ Open enrollment doesn't generate bad schools; it merely exposes what school is c
 Though open enrollment permits mobility for many groups, system-wide issues affecting that same policy stop it from generating any real gains.
 - For video-game savvy readers, it's like developers opening access to a popular MMORPG server without adding hardware or capacity to support the sudden influx of players and creating "dead" servers as a byproduct.
 
+### **Rate My Educator/Professor/Teacher Scores**
+
+This metric typically uses a 5 star rating scheme, but could be evaluated differently (e.g. a percent value out of 100%) based on its design. As a comparison, you could relate this metric to product reviews.
+
+**My general advice to you is to always take reviews with a grain of salt. There's plenty of bias embedded into them and it's up to the viewer to interpret the results.** It's possible a highly rated educator is actually a bad one, with the inverse being true, and it's possible to "game" the review system to pad a rating. At the same time, having any reviews to reference is generally better than no reviews at all because it may provide information you may not get otherwise. It's similar to how you might consider a job candidate who has a referral vs no referral, as an example.
+
+For example, teachers may be rated highly by students purely because they can easily get a high grade without doing much work, but a teacher who's merciless with grading may receive a poor score despite the high quality curricula. I've also witnessed lazier students rate educators poorly out of spite, they couldn't coast through without working, or as denial for failing the course due to their own shortcomings.
+
+Significantly more effort is required to create a genuine review instead of only giving a score or a visual indicator like an emoji or reaction. People will take time to review something if they either like it or hate it enough. The more "honest" reviews typically have positive and negative aspects towards the educators and courses rather than neutral opinions.
+
+So how can we make this metric less biased/more objective? Several ways.
+1. Veracity
+    - If the review isn't real, doesn't exist, or doesn't map to a course taught by said educator, you should void it from consideration.
+    - Platforms may have minimal verification measures, so the burden of truth is left to the interpreter/reader.
+2. Sample Size 
+    - A professor with 100 reviews is more reliable than a professor with 10 reviews.
+    - Of important note: many reviews are self-selected (both positive and negative) rather than randomly selected. A larger sample reduces noise, but also means more incoming reviews and may cast a subjective light on the types of students reviewing.
+3. Group Consensus
+    - Anomalies and outliers are expected, but if a significant majority of reviews point towards the same benefits/issues, it's probably true. 
+    - At the same time, a large variance or spread of ratings may suggest ambiguity, but may signal a professor works well with one group of students compared to other groups/individuals.
+4. Quality of Review
+    - A well-written review is *generally* more serious and thought out compared to reviews with poor grammar, wording, tone, and focus.
+    - Specific issues are more actionable and require more thought to articulate properly over general or broad issues.
+    - One notable exception, if you're English speaking for example, is for ESL and non-native English reviewers.
+5. Recency
+    - A review from 5 years ago may not hold up to a review from 5 days ago. A lot of things can change in that timeframe, whether it's the educator's aptitude, the content provided, or another related item!
+6. Course Level Context (i.e. Lower vs Upper Division)
+    - A lower level course may have a large portion of students only there to fulfill a requirement. The higher student quantity affects course design and resources allocated for each student, which means the constraints and available time the educator deals with differ too.
+    - A higher level course may have only a dozen or two students who choose to be there or made it there after significant rigor. Differentiation and scaffolding is far easier to accommodate, which leaves more time to improve content quality.
+    - Generally speaking, if a professor rates poorly *on higher level/upper division courses* that students choose to take, that's a signal their education quality is indeed poor. 
+    - If they rate highly on upper division classes, but rate poorly on lower division classes, it's typically a similar result to group consensus that they work better with certain students/environments over others.
+7. Professionalism
+    - Are the reviews related to the quality of education or do they use unrelated (and often unprofessional) metrics like an educator's outward appearance? If they're unrelated, you shouldn't consider them.
+
+To give one case requiring reader judgment: Rating a professor across two courses, where a small sample (10-15 reviews) of recent, high-quality reviews on an upper division course sits alongside a much larger sample (100-150 reviews) of less recent, middle-quality reviews on a lower division course.
+
+Despite the many ways to reduce bias in this metric, there are things it won't accurately, or fully, capture. This includes accommodations, the handling of sensitive topics and information, the transparency and methodology behind grading, how they respond outside of class, and more. A review may capture these to some extent in its explanation (if the system permits elaboration on reviews), but is bound to leave out gaps.
+
+Alternatively, there may be internal or "official" reviews given by existing students, other educators, professionals, and administrators. These typically exist separately from easy-to-access, online review platforms and generally have more backing and trust behind them. It's why administrators do observations on teachers and professors; to fill in gaps of information and verify things are going as intended.
+
 ### **Data and Data Issues**
 
 Many organizations collect data on all sorts of things. This isn't limited to education systems either.
@@ -360,13 +400,13 @@ The problem arises in three ways:
 
 #2 is a process issue concerning hygiene. Data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
 
-#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, this issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
+#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, there's also certain data you have to collect, secure, and hold onto. This issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
 
 Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
 1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
 2. Very few people, if no one, wants to govern data (i.e. set data policies) from observation.
 3. Many stakeholders don't know what they want, are vague, or change expectations frequently.
-4. Access to data (and technology/tools) you need for your duties may be restricted outside your control.
+4. Access to data (and technology/tools) you need for your duties may be restricted and acquiring access may also be outside your control.
 
 If you combine the first two points above, you get two new problems: the data "being wrong" and getting multiple reports with multiple numbers. The first problem means there's no clear definition of what is right or "normal" in the data context. The second problem means multiple people are operating with vague (and often different) requirements, rigor, and contexts, possibly even different data sources, so each creates their own version of what is "right" and scramble to find a resolution when things go wrong.
 

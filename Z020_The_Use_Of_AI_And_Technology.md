@@ -111,12 +111,12 @@ While it's possible to get in through unorthodox means, it's far harder to do so
 
 ### **Computer Literacy**
 
-It's reasonable for me to assume computers will be around for a long time to come after this is originally written. Even if the desktop computer isn't around in the future, skills associated with computers may persist and simply growing up around technology doesn't mean proficiency in technology.
+It's reasonable for me to assume computers will be around for a long time after this is originally written. Even if the desktop computer isn't around in the future, skills associated with computers may persist. **Regardless of what technology is available, simply growing up/living around technology doesn't guarantee proficiency with technology.**
 - This includes AI seemingly able to "fix" these issues more and more as it advances.
 
-I've seen students who are "tech savvy" but have also proven significantly more often how many students are not actually that. Your ability to plug a toaster into an outlet did not suddenly make you a master electrician either. 
+I've seen students prove they're "tech savvy" but have also proven far more often how many students are not actually that. Your ability to plug a toaster into an outlet did not suddenly make you a master electrician either, afterall. 
 
-Let's go through a few examples!
+Anyways, let's go through a few examples!
 
 Troubleshooting (and by extension debugging) is a skill I've seen deprecated throughout the years. I won't squarely put blame on students or individuals though; software and processes are intentionally simplified and optimized to reduce cognitive load and not force people to "think" about what they're doing. The downside to this is if they don't think about what they're doing, they risk not acquiring any technical literacy if something *does* go wrong. Even if you provided step-by-step guides with exact instructions that are simple to understand, a human being can still greatly mess it up and not know how to search for what the issue is or self-diagnose their way out of a problem.
 
@@ -128,7 +128,17 @@ Knowing computer commands is another thing at risk of deprecation. This may incl
 
 File structure is another large example I've seen issues with too on many electronic devices outside of just computers. This is mainly organization in a computer-based environment. For example, separating files by categories like grades, years, students, etc. rather than dumping everything into a single file, repository, etc.
 
-File types (i.e. "extensions") are another tricky, but important aspect I see overlooked quite often. For example, a user may not be aware of what file extensions are and unknowingly submit the wrong *type* of file (e.g. a .docx instead of a .pdf). If they lack basic awareness of the extensions, they won't be able to manipulate or work with them effectively as a result. As for file structures, 
+File types (i.e. "extensions") are another tricky, but important aspect I see overlooked quite often. For example, a user may not be aware of what file extensions are and unknowingly submit the wrong *type* of file (e.g. a .docx instead of a .pdf). If they lack basic awareness of the extensions, they won't be able to manipulate or work with them effectively as a result.
+
+### **Backlash Towards Technology**
+
+There's a difference between too analog, too digital, and intentional technology use Generally speaking, technology is progress. There's a desire to optimize and improve our livelihoods or better solve problems over time.
+
+Technology goes too far though when it displaces *people* from the center of education, or even distracts from the goal of education. In a way, that's a fault of everyone involved and not one particular person or group. The business developing technology may have misaligned goals and profit motives outside the interests of education (despite developing products *for* education!). Educational staff may implement technology despite whatever shortcomings or protests is levied against its educational value. Students may become addicted to the offerings of technology without the ability to self-regulate, which affects their learning development later in life.
+
+In particular, screen time is an issue where people have uncontrollable desires to use screens and, as a result, impairs other areas of life (Sampasa-Kanyinga et al., 2022). Additionally, from researchers like Sampasa-Kanyinga et al., there's strong evidence suggesting excessive technology is associated with lower academic performance.
+
+While technology is a good thing, there can be too much of a good thing.
 
 ### **AI in General**
 
@@ -362,6 +372,8 @@ If you want to try a different twist: you could create an assignment requiring A
 3. Leath, M., & Geho, L. (2025, November 6). *Password to Louvre’s video surveillance system was “Louvre”, according to employee.* ABC News. [https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
 
 4. Ptacek, T. (2025, June 2). *My AI skeptic friends are all nuts*. Fly.io Blog. [https://fly.io/blog/youre-all-nuts/](https://fly.io/blog/youre-all-nuts/)
+
+5. Sampasa-Kanyinga, H., Hamilton, H. A., Goldfield, G. S., & Chaput, J.-P. (2022). *Problem Technology Use, Academic Performance, and School Connectedness among Adolescents.* International Journal of Environmental Research and Public Health, 19(4), 2337. [https://doi.org/10.3390/ijerph19042337](https://doi.org/10.3390/ijerph19042337)
 
 5. Scott, R. (1982). *Blade Runner.* Warner Bros.
     - Screenplay by Hampton Fancher and David Peoples.

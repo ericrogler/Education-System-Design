@@ -24,10 +24,12 @@ I find education always involves communication in some way, shape, or form, whil
 2. Activities & Projects
 3. Review & Tests
 
-If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover.
+If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
 That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
 - Think CAP Theorem (attributed to Eric Brewer, 2000) and ETL pipelines, for those same readers with data backgrounds.
+
+A more complicated answer with empirical grounding draws from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
 
 **Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
 
@@ -173,7 +175,7 @@ When correctly implemented, everyone will be focused towards the goal (e.g. prop
 
 ### **Planning (Teacher)**
 
-The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of the "6/2/2" setup because it's not days where students are heavily involved; it's mainly just you as a teacher.
+The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of the "6/2/2" setup because it's not where students are heavily involved; it's mainly just you as a educator, designer, etc.
 
 Unlike a typical Scrum sprint, the Planning phase doesn't require the students to be present, but still accounts for the capabilities and conditions of students, such as:
 
@@ -219,11 +221,14 @@ Think of "Implementation" as the time to execute your plans made earlier in a te
 
 There are three "primary" teaching methods: lectures, projects and activities, and tests/review. There's also a part called "daily scrum" where you, the teacher, can quickly reassess your progress and make minor to moderate adjustments if needed.
 
+Before we dive further though, I'll bring forward the 17 Principles of Effective Instruction by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
+- [Link to Full Report](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
+
 ### **Lectures (in Implementation)**
 
 Lectures are the first "6" of my setup. As a reminder, you can decrease lecture days for more hands-on classes.
 
-I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students.
+I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students. It's also where I found most inquiry-based learning occurred.
 
 Lectures are like meetings. The person "calling the meeting" is the instructor and should have several things in place (with some tips taken from *Smart Brevity* by VandeHei et al. (2022)):
 - There's an objective and an agenda.
@@ -238,7 +243,7 @@ Lectures are like meetings. The person "calling the meeting" is the instructor a
 
 Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to a student, or group of students, and allow them to ask questions. It's sometimes called direct instruction too. Direct instruction requires at least some lecturing done and I find helps students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
 
-You may consider direct instruction bad, or at least heard about it's negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** As for a small sampling of these studies, please refer to the following:
+You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** As for a small sampling of these studies, please refer to the following:
 - [Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/) (Hattie, 2018)
 - [Just How Effective is Direct Instruction?](https://doi.org/10.1007/s40614-021-00295-x) (Mason & Otero, 2021)
 
@@ -246,7 +251,7 @@ A single lecture "talk" on each topic should rarely go beyond 18-20 minutes with
 - You can, and should, still consider longer or full duration lecture days! Just remember to pause or break appropriately throughout it.
 - As a caveat, this is meant for public talks or "sage on the stage" style lectures.
 
-When I did full lecture days, I alternated lectures and review. I did a 15-20 minute topic lecture, followed by a 5 minute review, and repeated as needed. That pacing helped better with retention and overload of information. While format varies by content, and sometimes includes an activity, there's *always* a break between topics to let the information sink in.
+When I did full lecture days, I alternated presentation of material and review *after* a short review/introduction going into the material. For example, I did a 15-20 minute topic lecture, followed by a 3-5 minute review, and repeated as needed. There were ample opportunities built in to review topics daily, a time for a "mental break" provided, checks for understanding, and a way to monitor student understanding. That pacing helped better with retention and overload of information. While format varies by content, and sometimes includes an activity, there's *always* a break between topics to let the information sink in.
 - That break isn't "free time" though. You just go from doing one thing to doing another thing.
 
 **With lectures, you need to focus on three areas *alongside* the material you're teaching: passion, knowledge, and entertainment.**
@@ -260,7 +265,7 @@ When I did full lecture days, I alternated lectures and review. I did a 15-20 mi
 
 The combination of these three areas, with your teaching material, culminates in storytelling; the ability to tell engaging stories (or "sell" something that students "buy" into with their attention and willingness to learn).
 
-Though some may criticize "sage on the stage" style lectures, with valid points, they are highly effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you're teaching, and more. You can play off of student tangents relevant to your topic and have the tangent used as a question on a test, to keep students' attention by inserting the unexpected question here and there.
+Though some may criticize "sage on the stage" style lectures, with valid points, they are still highly effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you're teaching, provide models, conduct daily reviews for a few minutes before diving into content, and more. You can play off of student tangents relevant to your topic and have the tangent used as a question on a test, to keep students' attention by inserting the unexpected question here and there.
 
 Condensing the above, lectures are a combinations of a few things:
 - Instructor's delivery of information to impart knowledge
@@ -273,7 +278,7 @@ Condensing the above, lectures are a combinations of a few things:
 
 Activities and projects are the first "2" of my setup. **I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
 
-Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
+Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. They also promote project-based learning in ways lectures and reviews may not be able to. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
 
 Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. There may also be prerequisite knowledge required to follow along properly or else the purpose of the activity/project falls through.
 
@@ -438,6 +443,11 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 4. Pearson, D., & Gallagher, M. (1983). *The Instruction of Reading Comprehension.* Contemporary Educational Psychology, 8(3), 317–344. [https://doi.org/10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
 
 4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
+
+5. Rosenshine, B. (2010). *Principles of instruction; Educational practices series*; Vol.:21; 2010. The International Academy of Education, 21(2010).
+
+5. Rosenshine, B. (2012). *Principles of Instruction: Research-Based Strategies That All Teachers Should Know.* American Educator, 36(1), p12-39. Rosenshine, B. and Stevens, R. (1986) Teaching Functions. In Witrock, M.C. (Ed). Handbook of research on teaching, 3rd ed., pp376-391. New York; MacMillan. 
+    - Alternate Link: [https://files.eric.ed.gov/fulltext/EJ971753.pdf](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
 
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 

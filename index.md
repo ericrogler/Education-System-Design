@@ -6,7 +6,7 @@ nav_order: 1
 
 # ReadMe
 
-Welcome to *Education System Design*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
+Welcome to *Education System Design*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code.
 
 **Last Updated: {{ "now" | date: "%B %-d, %Y" }}**
 
@@ -31,9 +31,9 @@ Table of contents for each chapter written below:
 - [Introduction](Z002_Introduction.html)
 - [Legality](Z003_Legality.html)
 - [General Management](Z004_Management_General_Teaching.html)
-- [Management Case A: Scaling Growth](Z004a_Management_Scaling_Growth.html)
-- [Management Case B: Communications and Operations](Z004ab_Management_Scaling_Operations.html)
-- [Management Case C: Macro and Micro](Z004ac_Management_Scaling_Macro_Micro.html)
+- [Scaling Growth in Organizations](Z004a_Management_Scaling_Growth.html)
+- [Personnel in Operations](Z004ab_Management_Scaling_Operations.html)
+- [Macro[management] & Micro[management]](Z004ac_Management_Scaling_Macro_Micro.html)
 - [Classroom & Behavior Management](Z004b_Management_Classroom_Behavior.html)
 - [Standards / Objectives](Z005_Standards_Objectives.html)
 - [Roadblocks To Education](Z006_Roadblocks_To_Teaching.html)

@@ -179,18 +179,20 @@ You should verify directly, with the other teacher(s), if it's ok or not in adva
 
 On one hand, you deny a student a structured learning environment temporarily.
 
-On the other hand, you remove a disruptive element affecting the learning of every other student in the classroom.
+On the other hand, you remove a disruptive element affecting the learning of every other student in the classroom. **An educator, ideally, should never need to sacrifice the education of all other students to manage a single, uncooperative student.**
 
-From a pure benefit/cost standpoint, they are absolutely worth it. This is one case where the needs of many are more important than the needs of an individual, *especially* if your goal is to bring education to as many students as possible.
+This is one case where the needs of many are more important than the needs of an individual, *especially* if your goal is to bring education to as many students as possible.
 
-Nevertheless, ensure that issuing one adheres to any classroom rules and school rules established, or else it may be perceived as unfair and turn against you. You'd also want to avoid certain suspension types for behavior that is troublesome, but not violent and actively threatening other students. The suspension is also ineffective if it isn't something the student wants to avoid or the student doesn't care about the suspension anyway.
+Research into suspensions, as well as short-term and long-term student removals from classrooms and schools, strongly asserts "exclusionary discipline practices have large negative impacts on adult crime and educational attainment" (Bacher-Hicks et al., 2019). Ideally, we focus on creating a safe and positive environment for learning to discourage bad behaviors rather than focusing on punishing bad behaviors when they appear. In other words, education systems prefer a proactive vs reactive approach on punishments.
+- In the United States, these practices were addressed at the federal level by the [Obama Administration in 2014 (with revision in 2023 under Biden Administration)](https://www.ed.gov/sites/ed/files/policy/gen/guid/school-discipline/guiding-principles.pdf) and visited by the [Trump Administration in 2018](https://www.ed.gov/sites/ed/files/documents/school-safety/school-safety-reportpdf.pdf).
 
-Students that are suspended once have a higher probability of experiencing issues when they get back into the classroom once again (National Institute of Justice, 2021). They may not have kept up with school, which means not keeping up with your class. Because they're behind, they may disrupt the class again and the suspension process may repeat once again.
+Many education systems and schools implement some form of MTSS (Multi-Tiered Systems of Support) and/or PBIS (Positive Behavioral Interventions and Supports) to remedy disciplinary issues. MTSS is generally effective at an international level, but still has room for improvement due to its complexity (Nitz et al., 2023). PBIS is also consistently showing, across multiple studies, how it reduces exclusionary discipline practices (María et al., 2023). By reducing the needs for issuing harsher punishments, it can positively influence attendance, grades, and culture within education systems.
+
+Despite effectiveness with existing approaches, one must ensure issuing these punishments adheres to any classroom rules and school rules established, or else it may be perceived as unfair and turned against you. You'd also want to avoid certain suspension types for behavior that is troublesome, but not violent and actively threatening or disrupting other students. The suspension is also ineffective if it isn't something the student wants to avoid or the student doesn't care about the suspension anyway.
+
+Students that are suspended once have a higher probability of experiencing and causing issues when they get back into the classroom once again (National Institute of Justice, 2021). They may not have kept up with school afterall, which means not keeping up with your class and curriculum. Because they're behind, they may disrupt the class again and the suspension process may repeat and perpetuate a cycle.
 
 Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, it's unlikely a suspension will suddenly change that habit.
-
-On the other hand, research into suspensions, as well as short-term and long-term student removals from classrooms and schools, strongly asserts "exclusionary discipline practices have large negative impacts on adult crime and educational attainment" (Bacher-Hicks et al., 2019). Ideally, we focus on creating a safe and positive environment for learning to discourage bad behaviors rather than focusing on punishing bad behaviors when they appear.
-- In the United States, these practices were addressed at the federal level by the [Obama Administration in 2014 (with revision in 2023 under Biden Administration)](https://www.ed.gov/sites/ed/files/policy/gen/guid/school-discipline/guiding-principles.pdf) and visited by the [Trump Administration in 2018](https://www.ed.gov/sites/ed/files/documents/school-safety/school-safety-reportpdf.pdf).
 
 ### **How should I address student accommodations?**
 
@@ -394,10 +396,14 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 
 4. Margaret McFarland - Mister Rogers’ Neighborhood. (2018, September 13). *Mister Rogers’ Neighborhood.* [https://misterrogers.org/articles/margaret-mcfarland/](https://misterrogers.org/articles/margaret-mcfarland/)
 
+4. María, R., Santiago-Rosario, K., Mcintosh, S., Izzard, D., Cohen Lissman, E., & Calhoun. (2023). *Is Positive Behavioral Interventions And Supports (PBIS) An Evidence-Based Practice?* [https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf](https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf)
+
 5. May 1, 1969: Fred Rogers testifies before the Senate Subcommittee on Communications. (2015, February 8). *YouTube.* [https://www.youtube.com/watch?v=fKy7ljRr0AA](https://www.youtube.com/watch?v=fKy7ljRr0AA)
 
 6. National Institute of Justice, "Student Suspensions Have Negative Consequences, According to NYC Study," November 12, 2021, nij.ojp.gov:
 [https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study](https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study)
+
+5. Nitz, J., Brack, F., Hertel, S., Krull, J., Stephan, H., Hennemann, T., & Hanisch, C. (2023). *Multi-tiered systems of support with focus on behavioral modification in elementary schools: A systematic review.* Heliyon, 9(6). [https://doi.org/10.1016/j.heliyon.2023.e17506](https://doi.org/10.1016/j.heliyon.2023.e17506)
 
 6. US Department of Education. (2023, March). *Guiding principles: A resource guide for improving school
 climate and discipline.* Washington, DC.

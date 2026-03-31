@@ -149,7 +149,9 @@ I separated these from the previous section intentionally. For context, this is 
 
 In theory, these plans help students struggling to control behaviors and actions in class.
 
-In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs are boilerplate solutions and there's often no resources or available personnel to help that student outside of specialized schools.
+In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs may turn into boilerplate solutions due to a lack of resources or available personnel to help these students outside of specialized schools.
+
+Despite the disconnect between theory and practice, BIPs *do* work when well-implemented.
 
 For my opinion, I cannot help but view a BIP as a means to keep students and clients (i.e. parents) happy and in education, but stranded without sufficient help.
 

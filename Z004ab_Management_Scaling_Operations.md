@@ -1,9 +1,9 @@
 ---
-title: 6. Management Case B (Scaling Operations)
+title: Personnel in Operations
 layout: default
 nav_order: 8
 ---
-# Management Case B: Scaling Operations
+# Personnel in Operations
 
 ### [Previous Chapter](Z004a_Management_Scaling_Growth.html)
 

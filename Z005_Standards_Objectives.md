@@ -150,9 +150,32 @@ Transparency matters as criteria should be communicated and understood by the st
 
 Proportionality is how grades are divided amongst work for students. For example, you may see this as weights on how much quizzes, tests, homework, etc. affect the final grade. As a general advice for systems utilizing weights: the weight of an assessment should scale with the significance towards a particular goal.
 
-With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figure out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieve, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
+With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figured out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieve, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
 
 Feedback and objectivity are ongoing measures running parallel to the other aspects. You'll figure these out near the beginning, but monitor and maintain throughout the entire learning journey. It's how you figure out if things are going right and wrong from start to finish and what avoids rose-tinted glasses when reviewing all the data and metrics you're tracking along the way.
+
+### **Formative & Summative Assessments**
+
+Formative assessments track progress during the learning journey, while summative assessments track outcomes at the end of the learning journey.
+
+Both types utilize standards to determine a student's performance level and the effectiveness of a curriculum for students, but formative are typically less high-stakes compared to summative.
+
+Examples of formative assessments may include:
+- Submitting a rough draft or proposal
+- Drawing a concept out on paper
+- Answering a single question
+- Writing a single sentence to summarize a topic
+
+Examples of summative assessments may include:
+- Tests and Quizzes
+- Exams
+- Thesis Defense
+- Research Paper
+- Interviews
+
+They also have differing goals: formative checks where improvements are needed throughout the learning process whereas summative checks how well students learned something at the end and issue an overall evaluation. The results from summative tests can determine many things, typically more than formative tests, such as whether or not a student passes or fails, whether the curriculum/curricula are appropriately meeting the standards of learning, and finding learning gaps. Summative assessments may also more concretely determine if the student(s) needs intervention or enrichment of some kind and help determine if educators are doing their role well.
+
+These assessments are not things to be completely avoided. It's expected to find and develop these in just about every curriculum in some way, shape, or form and they are a reliable way to track and affirm progress.
 
 ### **Is Funding Tied to Standards?**
 

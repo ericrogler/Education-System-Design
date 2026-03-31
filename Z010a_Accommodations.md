@@ -20,14 +20,14 @@ The quotation above isn't here to show I'm against accommodations. It's warning 
 
 Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections.
 
-There are unreasonable accommodations, which you can push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Lastly, there's accommodations made purely to avoid litigation, which are dubious in intent and likely weaponize accommodations, but probably need to be followed anyways.
+There are unreasonable accommodations, which you can push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Lastly, there's accommodations made purely to avoid litigation, which are dubious in intent and distort the spirit of accommodations, but probably need to be followed anyways.
 
 Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student in every context. This is not a moral failure, but a system limitation. **You can accommodate many needs easily, but you cannot address every need easily.**
 
 When there's not enough resources, accommodations may be harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers/instructors to provide sufficient differentiation and inclusion to *every* student under their care.
 - E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved, but it is quite a contested claim in special education with research supporting both sides.
 
-The whole point of accommodations is to provide equal opportunity for students to succeed in their courses and showcase their potential. It is NOT meant to elevate them *above* their peers; only bring them closer to the level of their peers.
+The whole point of accommodations is to provide equal opportunity for students to succeed in their courses and showcase their potential. It is NOT meant to elevate them *above* their peers; only bring them closer to the level of their peers. **Well-implemented accommodations will improve outcomes, but poorly-implemented accommodations reduce outcomes.**
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
@@ -39,7 +39,9 @@ Not all accommodations are feasible. Even if accommodations are feasible, if the
 
 ## **Long Answer**
 
-*Disclaimer: This is not legal advice and also heavily opinionated.*
+*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice.
+
+If another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there (2026).
 
 **Everything I'm writing in this chapter is based on the assumption that every accommodation *must* be followed per federal law. I am *not* suggesting you can ignore accommodations.**
 - I.e. if I were a teacher and a student has one of these accommodations, it's a reflection of my views on it, how reasonable it may be, and/or how it might occur in practice if I'm required to satisfy that accommodation.
@@ -52,6 +54,8 @@ Add on top of this that many accommodations are *legally required*, thanks to IE
 
 **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by either students (or third parties assisting students) to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
 - Put another way: they shouldn't move on when they aren't ready.
+
+I'll also emphasize, once again, something to keep in mind as you're reading this chapter: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.**
 
 ### **The "Reasonable" Accommodation**
 
@@ -540,5 +544,7 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
 2. U.S. Department of Education. (2025). *Individuals with Disabilities Education Act (IDEA).* U.S. Department of Education. [https://www.ed.gov/laws-and-policy/individuals-disabilities/idea](https://www.ed.gov/laws-and-policy/individuals-disabilities/idea)
 
 3. Washington Office of Superintendent of Public Instruction (OSPI). (2022, December) *Appendix A: Best Practices for Planning Paraeducator Support.* [https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf](https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf)
+
+4. What Works Clearinghouse. (2026). *WWC Find What Works!* Ed.gov. [https://ies.ed.gov/ncee/wwc/](https://ies.ed.gov/ncee/wwc/)
 
 ## **[Next Chapter](Z011_Learning_Methodologies.html)**
