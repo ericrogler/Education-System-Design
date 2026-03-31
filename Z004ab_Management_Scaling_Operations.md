@@ -16,9 +16,9 @@ nav_order: 8
 
 ---
 
-Just like in the Scaling Growth chapter, similar answers apply. If Scaling Growth focused on your interactions and managing staff, this chapter will align more closely with managing people and communications.
+If the previous chapter focused on how you interface with your organization as it grows this chapter focuses on managing people and communications during operations and events as the number of people you're overseeing increases.
 
-As a reminder for those coming from Case A, scaling up typically involves things like:
+As a reminder, scaling up typically involves things like:
 - New layers of management
 - Specialization of roles
 - Generalization of procedures to follow
@@ -40,9 +40,9 @@ As for emergencies, you can "wind the clock" back for all but the most serious e
 
 *Notice: As I'm not active military or ever been part of the military, I cannot accurately describe their organizations from first-hand experiences nor will I pretend to do so.*
 
-This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context.
+This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context. Despite its unusual appearance here, there are parallels you can observe and learn about.
 
-This chapter covers operational management and provides some context for what level of preparation is needed to ensure operations and events are run as smooth as possible.
+This chapter covers operational management and provides some context for what level of preparation is needed to ensure operations and events are ran as smoothly as possible.
 
 According to the U.S. Department of Defense on Army organization, there are similar breakpoints/upper limits like the previous chapter. A squad goes up to about 16 soldiers, a platoon about 44 soldiers, a company about 120-200 soldiers, and a battalion about 400-1000 soldiers (U.S. Department of Defense, n.d.).
 
@@ -50,7 +50,7 @@ According to the U.S. Department of Defense on Army organization, there are simi
 
 As for another reason why emotional regulation is important: it further establishes your presence and authority as a leader and person. If you're calm and chill while everyone else is panicking, people are appreciative and show more respect towards you; the person who handles themselves and knows what they're doing.
 
-### **How does this relate to Teaching/Instruction?**
+### **How does this relate to Education?**
 
 The material in this chapter is likely foreign to many people, so there's more provided context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
 
@@ -75,7 +75,7 @@ The material in this chapter is likely foreign to many people, so there's more p
 
 ### **Milsim Overview**
 
-Milsims, or "military simulations," are available through video games such as *Squad*, *ARMA 3*, and *ARMA Reforger*. There are also real-life groups that organize operations, like LAN events and field exercises, lasting for days instead of hours. Many people involved in milsims come from military backgrounds and build communities modeled on military organizations, procedures, and rules. For civilians, this is one of the few accessible and legal substitutes for experiencing aspects of military structure and operations.
+Milsims, or "military simulations," are most commonly available through video games such as *Squad*, *ARMA 3*, and *ARMA Reforger*. There are also real-life groups that organize operations, like LAN events and field exercises, lasting for days instead of hours. Many people involved in milsims come from military backgrounds and build communities modeled on military organizations, procedures, and rules. For civilians, this is one of the few accessible and legal substitutes for experiencing aspects of military structure and operations.
 
 ### **Setup, Trainings, and Procedures**
 
@@ -100,7 +100,7 @@ Procedures are taught by designated trainers, checked for competency and underst
 
 These processes are similar to how most classroom management is taught to students; through direct instruction and practice of procedures to ensure they're well understood. If the applicant cannot show competency with these procedures, they are denied access to the milsim group offers until they pass.
 
-To parallel classrooms, Basic is like the guidelines you print out and hand copies to each student, go over with the students, and confirm everyone understands before moving forward.
+To parallel classrooms, Basic is like the guidelines you print out and hand copies to each student, go over with the students, and confirm everyone understands before giving them any real responsibilities.
 
 **MOS Training**
 
