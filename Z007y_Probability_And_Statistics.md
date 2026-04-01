@@ -116,7 +116,7 @@ Outside of author bias, the actual reason is simple: you need to know math to un
 
 Now we go onto analysis; an application of all that math with some science and social skills.
 
-The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though.
+The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though, which is why domain knowledge is important.
 
 The bad news about data analysis is you need math skills to get the most out of data and generate effective results. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
 
