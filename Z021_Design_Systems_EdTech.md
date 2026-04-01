@@ -20,8 +20,8 @@ Everyone is a designer. Not everyone is a *good* designer.
 
 Even if you can design well, you'll still deal with *business problems* (not just design problems!), people management issues like managing upwards, and communication. These problems, and requirements to meet, may also come from non-technical people.
 - If people cared about only two things on design, it'd probably be if it makes money and is the interface intuitive. 
-- If you cannot figure out what business question your solution answers and the values it provides, you're likely designing without intent.
-- Sometimes a problem is like just finding the best word, like good vs affordable.
+- If you cannot figure out what business question your solution answers and the value it provides, you're likely designing without intent.
+- Sometimes a problem has a really simple solution.
 
 Most solutions and traditional projects may be abandoned because shipping/making a product is fun, but *selling* a product is not fun. Even a single "general-use" solution is unlikely to *efficiently* address every circumstance/problem. What one person considers pointless, another person deems essential.
 
@@ -45,7 +45,7 @@ A complex design is always worse than a simple design if they perform at the sam
 
 **People eat with their eyes.** It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
 
-Beyond food, "design" can happen in many areas. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
+Beyond food, "design" is present in many fields. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
 
 It's also easier to build things that you can verify, usually with hard data, solves problems people have. If you start designing with that information already, you could skip a lot of busy work and take less time going from idea to concept to reality on your design(s). This isn't a new concept and is done more often than you may realize.
 - Even this book is made partly due to that concept.
@@ -71,7 +71,7 @@ The recipe, or design pattern alone, will get you most of the way through.
 
 What stops you now is applying the design pattern. There may be additional variables to consider, such as elevation affecting baking time or substituting ingredients. These variables are a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the recipe (the pattern) well enough and its underlying mechanics, then you can adapt your recipe to still bake your cake.
 
-When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, but that process doesn't mean anything if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
+When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, and use the finest ingredients, but that process doesn't hold up if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
 
 That one recipe can make that one cake, but now let's say you want to make different kinds of cakes. You could reuse ingredients, but need a different recipe to make a different cake or another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems. There are times where you need to break away from the design pattern. If you're experienced and know what you're doing, you'll panic less compared to someone who's never followed a recipe in their life before.
 
