@@ -88,12 +88,16 @@ I'm sure there's other ways besides these three, but these are the most common w
 
 After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a constant test of your intelligence *and* wisdom when it comes to learning and applying it.
 
-As for concepts in statistics and probability you'll see most often, I'd assume the following in no particular order:
-1. Probability Distributions
-2. Random Variables and Expectation (i.e. E(X))
-3. Sampling and Central Limit Theorem
+As for concepts in statistics and probability you may encounter often, I'd assume at least some of the following in no particular order:
+1. Discrete & Continuous Probability Distributions
+2. Random Variables & Expected Values (i.e. E(X))
+3. Sampling & Central Limit Theorem
+4. The Law of Large Numbers
+4. Law of Total Probability
 4. Statistical Inference
-5. Conditional Probability & Dependence
+5. Conditional Probability & Dependence (i.e. Bayes' Rule)
+5. Type I & II Errors
+6. Markov Chains
 
 There are a few other concepts you may see in practice and workplace settings: descriptive statistics, regression, and correlation vs causation.
 
@@ -106,9 +110,9 @@ The relationship between correlation and causation is pretty straightforward. Fi
 
 ### **Why Cover Analysis?**
 
-You may be wondering why a book on teaching and instruction dedicated so much time to math.
+You may be wondering why a book on education dedicated so much real estate to math.
 
-Outside of author bias, the actual reason is simple: you need to know math to understand research which influences *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well as a teacher/instructor (assuming the person reading this *is* one, right?).
+Outside of author bias, the actual reason is simple: you need to know math to understand research which influences the field of education and, well, just about *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
 
 Now we go onto analysis; an application of all that math with some science and social skills.
 
@@ -118,7 +122,7 @@ The bad news about data analysis is you need math skills to get the most out of 
 
 ### **Statistical Quality Control (SQC)**
 
-*Notice: My primary source for this is "Introduction to Statistical Quality Control" by Montgomery (2013).*
+*Notice: My main source for this is "Introduction to Statistical Quality Control" by Montgomery (2013).*
 
 An application of Statistics is through engineering and Statistical Quality Control. There are many other applications, but I'm focusing on this one in particular. The goals of SQC is to improve efficiency and effective of systems; primarily manufacturing and production. To that end, you may see results measured by ppm (parts per million) to indicate defects and cases where even a small quality problem can imply large amounts of defects present in a system.
 
@@ -133,7 +137,7 @@ Like Statistics and Probability, SQC will assume you can navigate Algebra, but a
 **There's three "laws" of data:**
 1. Data are objective. Interpretation is subjective.
 2. You can tell whatever story you want with data, if you know how to, for both good and evil.
-3. Numbers/data without context are useless.
+3. Numbers/data without context are virtually useless.
 
 A lot of analysis isn't really designing the fancy dashboard or displaying results for clients. That's still an important part though because an interface which looks good also affects the perception of it. It still must answer a specific question, or set of questions, someone has when looking through it.
 
@@ -239,6 +243,32 @@ For users in education systems, they may do more business analytics due to domai
 A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
 
 Amongst all approaches, system design involves tradeoffs. This includes availability, consistency, partitioning, latency, query performance, and concurrency (the ability to execute multiple tasks simultaneously). Business analytics may tolerate lower availability and higher latency, but operational and embedded analytics typically require high availability and low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so people should design for scalability and adaptability early on to reduce issues down the road.
+
+### **What About Machine Learning?**
+
+I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching you it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it all.
+
+If I were to sum up, in a list, some concepts you may encounter, it'd be the following:
+- Supervised vs Unsupervised vs Semisupervised Learning
+- Batch vs Streaming Data
+- Structured vs Unstructured vs Semistructured Data
+- Encoding & Embedding Data
+- Classical Techniques vs Deep Learning Techniques (and, by extension, knowing when one solution is overkill)
+- Regression vs Classification Techniques
+- Time-Series Data (e.g. Forecasting)
+- Bias-Variance Tradeoff
+- Overfitting & Underfitting
+- Clustering
+- Dimensionality Reduction
+- Gradient Descent
+- Training & Learning Curves
+- Coding Libraries (e.g. Python and Scikit-Learn)
+- Confusion Matrix (i.e. True/False Positive/Negative, Sensitivity, Specificity, Accuracy, Recall, Precision, F1 Score, etc.)
+- Neutral Networks
+- Anomaly Detection
+- Prediction
+
+I will inform readers machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital means.
 
 ## **Bibliography**
 
