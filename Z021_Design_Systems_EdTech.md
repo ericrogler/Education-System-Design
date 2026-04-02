@@ -77,7 +77,7 @@ That one recipe can make that one cake, but now let's say you want to make diffe
 
 Another thing affecting design patterns is constraints. That recipe from earlier may make a cake, but perhaps it cannot make a wedding cake. Many steps in the recipe may transition over, but perhaps you need additional tools, such as support beams to hold up the towering cake, you previously didn't need.
 
-If you're familiar with software, you may recognize the terms DSA, data structures, system design, and algorithms. Concepts from there are pretty close to what I'm getting at here!
+If you're familiar with software, you may recognize the term DSA (data structures and algorithms) and system design. Concepts from there are pretty close to what I'm getting at here!
 - *Another way my bias shows to get you to learn math, like I said in earlier chapters!*
 
 ### **The Weird Complexity (and Simplicity) of Design Systems**

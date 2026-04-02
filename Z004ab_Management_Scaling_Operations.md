@@ -1,5 +1,5 @@
 ---
-title: Personnel in Operations
+title: 6. Personnel in Operations
 layout: default
 nav_order: 8
 ---
