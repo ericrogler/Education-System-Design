@@ -161,9 +161,6 @@ If you combine a substitute of mastery with a society diminishing the value of i
 
 **If you cannot confidently answer these questions, that's OK, but I will say you shouldn't incorporate AI yet. If you do have solid answers, that's good.**
 
-For those with a math or science background unsure where to start or new to AI, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
-- If you're curious about how AI Detectors may work, focus on topics under the "Classification" section to help figure that out.
-
 For non-technical readers, here's AI in plainer terms:
 
 - Artificial Intelligence (AI) takes data and information, tries to find patterns and relationships within it based on prior knowledge (i.e., what it's trained on), and generates results from its findings.
@@ -364,8 +361,6 @@ If you want to try a different twist: you could create an assignment requiring A
 1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. [https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf)
 
 2. Flynn, A. N., Takahashi, T., Sim, A., & Brunstrom, J. M. (2025). *Dish swap across a weekly menu can deliver health and sustainability gains.* Nat Food 6, 843–847. [https://doi.org/10.1038/s43016-025-01218-8](https://doi.org/10.1038/s43016-025-01218-8)
-
-2. Google Developers. (2025). *Machine learning crash course*. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 
 2. Law, R., Guan, X. (2026, February 4). Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs. [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
 

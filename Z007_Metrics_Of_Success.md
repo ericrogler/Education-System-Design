@@ -176,6 +176,9 @@ After data is collected and processed, then you can effective design whatever so
 - Even the perfect solution can still fail due to factors outside of your control.
 - Designing solutions for problems and issues which don't exist is a waste of time, a waste of resources, and a detriment to every involved.
 
+Additionally, there is a hidden danger with quantitative metrics in particular: **quantitative metrics create an illusion of objectivity.** Say, for example, you're performing studies to figure out a System Usability Score (SUS) and surveying participants on how they feel about a system they tested. Though this is a quantitative measure, it is also entirely *subjective* since that score is based on a person's feelings or thoughts instead of hard data. That metric may be OK for diagnosing one product, but it should *never* be used to compare the effectiveness of one product against another product.
+- As further examples, this may include metrics with similar, subjective reporting methods from users like Net Promoter Score, customer satisfaction, Likert scales, pain scales, surveys, etc.
+
 ### **The White and Orange Exception**
 
 There's an example I like to talk about where a better result occurs in practice despite established metrics saying it's worse: white text on orange background in a button. 

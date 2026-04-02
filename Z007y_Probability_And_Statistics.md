@@ -62,24 +62,14 @@ Statistics starts with data obtained from practice (or experiments), observes wh
 
 People may typically learn Probability before Statistics. Probability doesn't need Statistics, but Statistics does need Probability for parts like inferential statistics. Though one may not need the other, they still complement each other. Some curricula may account for this relationship and teach both topics at the same time, such as showing the probabilistic object after talking about its theoretical definition.
 
-### **Set Operations and You**
-
-I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis as well as *Statistical Inference* by Casella and Berger (2021).
-- Aside: These two specific books *do* assume basic training in Calculus.
-
-There are comprehensive (even if informal) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to read the chapter.
-- If those resources are down in the future, doing a search on the Internet should uncover updated sources.
-
-Why am I calling out set operations in particular? It's because not knowing set operations is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
-
 ### **The Importance of Probability and Statistics**
 
 For a quick answer: they are *both* important. 
 
 **If you ever need mathematical explanations for problems with uncertainty and random phenomenon, probability and statistics are some of the best tools for the job.**
 
-There's two ways people learn Statistics and Probability. One option is a formal course, such as one offered by a university in a classroom setting. Another option is buying materials like Sauro and Lewis' *Quantifying The User Experience* (2016) or using an alternative/online resource to get only the Statistics knowledge needed for the job. A third option is someone learning from independent sources like [3Blue1Brown](https://www.3blue1brown.com/) (2026) and [StatQuest](https://www.youtube.com/c/joshstarmer) (2025) to discover these topics on their own.
-- Aside: I've done all three options.
+There's at least a few ways people learn Statistics and Probability. One option is a formal course, such as one offered by a university in a classroom setting. Another option is buying guided/targeted materials for specific audiences like Sauro and Lewis' *Quantifying The User Experience* (2016) or using an alternative/online resource, free or paid, to get Statistics knowledge for certain job duties. A third option is self-studying the topics in general from independent sources like [3Blue1Brown](https://www.3blue1brown.com/) (2026) and [StatQuest](https://www.youtube.com/c/joshstarmer) (2025) to discover these topics on their own.
+- Aside: I've been through all three options.
 
 I'm sure there's other ways besides these three, but these are the most common ways I've seen. For the scope of this book, we'll approach Statistics and Probability as an introductory topic.
 - As a warning, many statistical methods come with key assumptions. Do NOT ignore those assumptions when applying these methods!
@@ -89,15 +79,18 @@ I'm sure there's other ways besides these three, but these are the most common w
 After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a constant test of your intelligence *and* wisdom when it comes to learning and applying it.
 
 As for concepts in statistics and probability you may encounter often, I'd assume at least some of the following in no particular order:
-1. Discrete & Continuous Probability Distributions
-2. Random Variables & Expected Values (i.e. E(X))
-3. Sampling & Central Limit Theorem
-4. The Law of Large Numbers
-4. Law of Total Probability
-4. Statistical Inference
-5. Conditional Probability & Dependence (i.e. Bayes' Rule)
-5. Type I & II Errors
-6. Markov Chains
+- Discrete & Continuous Probability Distributions
+- Random Variables & Expected Values (i.e. E(X))
+- Sampling & Central Limit Theorem
+- The Law of Large Numbers
+- Law of Total Probability
+- Statistical Inference
+- Conditional Probability & Dependence (e.g. Bayes' Rule)
+- Type I & II Errors
+- Markov Chains
+- Properties of Random Variables
+- Confidence Intervals
+- A/B Testing
 
 There are a few other concepts you may see in practice and workplace settings: descriptive statistics, regression, and correlation vs causation.
 
@@ -108,17 +101,15 @@ Regression is fitting a prediction against actual outcomes. The stronger the cor
 The relationship between correlation and causation is pretty straightforward. Firstly, correlation does *not* imply causation. Causation means one variable directly influences another variable, such as one variable increasing because another decreases. Correlation is only describing the relationship, or association, between variables. Correlation and causation *together* serve as scientific evidence; correlation alone cannot be used as evidence for conclusions. A proper conclusion requires correlation alongside context acquired from experimental design, strong controls, and/or domain knowledge to inform decisions and results.
 - Despite this explanation, establishing causation is more complex than I imply here.
 
-### **Why Cover Analysis?**
+### **Set Operations and You**
 
-You may be wondering why a book on education dedicated so much real estate to math.
+I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis as well as *Statistical Inference* by Casella and Berger (2021).
+- Aside: These two specific books *do* assume basic training in Calculus.
 
-Outside of author bias, the actual reason is simple: you need to know math to understand research which influences the field of education and, well, just about *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
+There are comprehensive (even if informal/secondary sources) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to read the chapter.
+- If those resources are down in the future, doing a search on the Internet should uncover updated sources.
 
-Now we go onto analysis; an application of all that math with some science and social skills.
-
-The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though, which is why domain knowledge is important.
-
-The bad news about data analysis is you need math skills to get the most out of data and generate effective results. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
+Why am I calling out set operations in particular? It's because not knowing set operations is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
 
 ### **Statistical Quality Control (SQC)**
 
@@ -131,6 +122,18 @@ Quality could be a metric on its own, but is also made up of dimensions, like pe
 This topic also introduces processes and applications like DMAIC (Define, Measure, Analyze, Improve, and Control), control charts, status charts, and adjustments. Since it's still statistics, you can also expect to use existing statistics methodology like ANOVA, t-tests, and so on.
 
 Like Statistics and Probability, SQC will assume you can navigate Algebra, but also discuss parts where an understanding of Calculus immensely helps you out.
+
+### **Why Cover Analysis?**
+
+You may be wondering why a book on education dedicated so much real estate to math.
+
+Outside of author bias, the actual reason is simple: you need to know math to understand research which influences the field of education and, well, just about *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
+
+Now we go onto analysis; an application of all that math with some science and social skills.
+
+The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though, which is why domain knowledge is important.
+
+The bad news about data analysis is you need math skills to get the most out of data and generate effective results. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
 
 ### **Data Analysis Primer**
 
@@ -166,7 +169,7 @@ That same information may also contain multiple formatting issues, missing value
 You may not ever work with a coding language in your life or very seldomly do. You may work with coding languages extensively. In either case, the majority of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and most of the work needed.
 - In practice, this is often done by specialists, such as data scientists, data engineers, and software architects, rather than the general populace because of data cleaning's perception as "menial work."
 
-Cleaning data typically involves one, or more, of steps like so:
+Cleaning data typically involves one, or more, of steps like these:
 1. Removing duplicates
 2. Filtering outliers
 3. Handling missing (NULL) data
@@ -174,8 +177,6 @@ Cleaning data typically involves one, or more, of steps like so:
 5. Reassigning data types (number, float, text, etc.)
 6. Correcting inconsistencies
 7. Conversions
-
-There's far more ways to clean it outside of the ones listed above. 
 
 Messy data isn't always your fault either. While human error may lead to messy data, it can also be from external factors such as equipment, outdated information, and issues with software.
 
@@ -268,7 +269,10 @@ If I were to sum up, in a list, some concepts you may encounter, it'd be the fol
 - Anomaly Detection
 - Prediction
 
-I will inform readers machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital means.
+Machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital resources.
+
+As one example of a resource, for those with a math or science background unsure where to start or new, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
+- If you're curious about how AI Detectors may work, focus on topics under the "Classification" section.
 
 ## **Bibliography**
 
@@ -282,6 +286,8 @@ I will inform readers machine learning is a vast field evolving constantly, espe
 
 3. Goodstein, D. L. (2014). *States of Matter.* Dover Publications.
     - Original published in 1975 by Prentice-Hall.
+
+2. Google Developers. (2025). *Machine learning crash course*. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 
 4. *List of Probability and Statistics Symbols.* (2020, April 26). Math Vault. [https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/)
 
