@@ -117,6 +117,18 @@ You'll want a separate substitute plan template for planned days off and an emer
 
 You'll also want to share emergency procedures, schedules, and contact information like in teacher-to-teacher passporting. Add in any device/software logins or passwords needed to operate programs if substitute teachers need to use those as part of your plans. You don't *need* to give a cell phone number, but you should provide your *professional* email address for contacting.
 
+### **What About Between Grades and Schools/Education Systems?**
+
+If a student is advancing from one level to another level (e.g. 7th grade to 8th grade), in the same education system, that is similar to teacher-to-teacher (or teacher-to-administrator) communications above.
+ 
+Where it gets complicated, and like a game of Minesweeper, is passporting information between other education systems. To keep it simple: you don't, except when you must.
+
+Say for example you work at a particular school or educational platform. It is extremely easy to figure out information on any students who were a part of that school compared to information about students who were never a part of the school or students transferring into your school. Remember: you need secure data storage and collection, user consent, and authentication/access controls for *all* relevant parties involved. Compound this now with sensitive data and protected information laws like HIPAA, FERPA, COPPA, and GDPR. Only a certain amount of information *can* be transferred in the first place and each relevant law applies in its own way and not always simultaneously.
+
+Generally, this is handled at the administrative layer rather than the educator layer. One way you could handle this is a provider hosts the information on a system separate from any educational institutions as a neutral data intermediary or student data clearinghouse. Institutions still need to vet these providers, however, as saying they're compliant isn't the same as actually being compliant. Assuming the provider passes the relevant security and compliance checks, the onus is now on each education system to ensure they're compliant with information laws on their end.
+
+In short, *everyone* follows the same rules or they don't play with each other.
+
 ### **Substitute "Binder"**
 
 This is the one-stop-shop for everything a substitute needs. Some items are review and you likely know about already and other items I'll cover more in-depth later. **Your goal is assembling a binder that, ideally, takes no more than 5-10 minutes to scan through in its entirety.**
