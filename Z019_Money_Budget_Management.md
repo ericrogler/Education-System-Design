@@ -41,7 +41,9 @@ If you're trying to teach a student about wealth, go over the following:
 
 ## **Long Answer**
 
-Here's a joke: I only had a small amount of money at the time. I ask for some funds to afford a small breakfast from a millionaire friend of mine so I don't go hungry. Later that day, they're asking me for three dollars to cover it. I replied: "Here's ten dollars; keep the change."
+When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no toaster in your workplace.
+
+Are these meant to be jokes? Perhaps. Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are.
 
 In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
 

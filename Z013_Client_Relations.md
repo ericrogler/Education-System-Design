@@ -42,10 +42,6 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-When working with people, you can do anything they want. The only question is how much more money they want to spend. Everything's possible with enough money.
-
-Is that meant to be a joke? Perhaps.
-
 Nevertheless, diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney. On that same note, education systems must be allowed to enforce consequences. For many schools and education systems, this means enforcing consequences on the student *and* parent both, but at least the student in *every* education system.
 
 Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
