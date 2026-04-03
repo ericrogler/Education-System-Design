@@ -187,7 +187,7 @@ You may think it's harsh, but I'll ask a question of the reader: Would you knowi
 - What about if there were no alternatives?
 - What about if you *had* to use it despite whatever issues it had?
 
-The same parallel applies to education systems. Investors and local, state, and federal governments consider how a school performs through its ability to meet, or exceed, standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of its quality. 
+The same parallel applies to education systems. Investors, donators, and local, state, and federal governments consider how a school performs through its ability to meet, or exceed, standards. Parents, students, and families may support education and schools they feel are valuable, but could be forced to accept whatever education is available regardless of its quality. 
 
 If a school is performing well and has a reputable track record, perhaps you're more likely to contribute toward it because its ROI (Return on Investment) is higher. If a school doesn't have those qualities, then you're less likely to invest into it. How this may play out in policy is through two key examples, No Child Left Behind and Every Student Succeeds Act, which I'll cover more in the Metrics chapter.
 
