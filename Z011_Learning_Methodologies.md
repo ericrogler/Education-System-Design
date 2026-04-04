@@ -47,7 +47,7 @@ In general:
 
 I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without appropriate support is tantamount to neglect.
 
-I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
+I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
 There are many ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
 
@@ -75,15 +75,11 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state my opinion, I'd generally advise against homeschooling a student and I'll state my reasons below. To put it simply from a teacher/manager perspective: there's too much risk for its payout.
+To state my opinion, there's a lot of risk for its payout. The biggest deterrant to homeschooling is if it goes badly, it goes very badly. You also cannot replace a bad parent/guardian in a home setting as easily as you can a bad teacher in any education setting. A student can perform extremely well in homeschool; I'm not denying the possibility.
 
-*Can* it perform better than private/public schools? Yes, it can. 
+*Will* it perform better than private/public schools? It depends. There's evidence where **well-structured homeschooling does better than institutional (public/private) schooling, but unstructured homeschooling does significantly worse** (Martin-Chang et al., 2011).
 
-*Will* it perform better than private/public schools? It depends. There's evidence where well-structured homeschooling does better than institutional (public/private) schooling, but also shows unstructured homeschooling does significantly worse (Martin-Chang et al., 2011).
-
-The biggest deterrant to homeschooling is if it goes badly, it goes very badly. Firstly, you cannot replace a bad parent/guardian in a home setting as easily as you can a bad teacher in any education setting. Secondly, the potential for learning in homeschool has a floor somewhere under the sea and a ceiling up in the stratosphere. A student can perform extremely well; I'm not denying the possibility entirely, but affirming the possibility is really low.
-
-One major problem is when you take a student away from a facility, organization, etc. that utilizes *the organization's* resources to educate them. There's multiple sources of funding going into established schools; not just income from one source. If parents/guardians decide to homeschool, the monetary and resource burden is more on them, *not* the schools. Additionally, you'll still probably have stringent laws specifically covering homeschooling based on your location (e.g. Colorado or New York in the United States).
+One major problem to address is when you take a student away from a facility, organization, etc. that utilizes *the system's* resources to educate them. There's multiple sources of funding going into established schools; not just income from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden is more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your location (e.g. Colorado in the United States).
 - I won't go into details on homeschooling laws here because there's a lot of them. For the United States, they're typically found online by searching for "homeschool" + name of state + "Department of Education."
 
 **If a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for learning:**
@@ -98,10 +94,10 @@ One major problem is when you take a student away from a facility, organization,
 - The backbone to enforce regulations and standards in behavior, education, and conduct.
 - The ability to accommodate any disabilities, special needs, etc. if applicable.
 
-Dedicated school environments have the means and resources to at least meet every item in this list. Parents/Guardians more often than not do not have those means and resources. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
+Dedicated school environments have the means and resources to at least meet expectations on every item in this list. Parents/guardians, more often than not, do not have those means and resources as readily available. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
 
-As time goes by, you'll also need to consistently re-evaluate and judge the situation of the students involved in homeschooling. One cannot reasonably expect to develop a learning plan and expect it to hold 1, 5, or even 10 years without *some* modifications along the way. For the best interests of the student(s), you may need to abandon homeschooling and opt into school systems instead.
-- Of particular note, homeschooling may suffer when you go into advanced/specialized subjects like Calculus and Physics, as the teacher-parent may lack content mastery. This can, however, be alleviated through utilizing multiple community resources.
+As time goes by, you'll also need to consistently re-evaluate and judge the situation of the student(s) involved in homeschooling. One cannot reasonably expect to develop any learning plan and expect it to hold 1, 5, or even 10 years without *any* modifications during its lifespan. For the best interests of the student(s), you may need to abandon homeschooling and go back into formalized education systems instead.
+- Of particular note, homeschooling may suffer when you go into advanced/specialized subjects like Calculus and Physics, as the teacher-parent may lack content mastery. This can, however, be somewhat alleviated through utilizing multiple community resources.
 
 ### **Self-Study Primer**
 
@@ -155,13 +151,11 @@ The biggest benefits are you get a framework where everyone gets the same accomm
 - Guided notes as an IEP requirement now available for everyone
 - Speakers to make it easier for hard-of-hearing people
 
-The biggest downside, though, is you risk lowering the average rigor, intensity, engagement rates, and level of learning given to every student with a poor implementation. Simply put, you cannot throw UDL into a system and expect it to perform a miracle.
+I'm pretty positive about what UDL can do and the many problems it provides solutions for, but you cannot throw UDL into a system and expect it to perform a miracle. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL. 
 
-I'm positive about what UDL can do, but am careful not to sing praises about it. Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. In practice, though, it suffers the same resource/time problems and not all education can be completely accessible to every student. If sufficient supports cannot be provided with the resources available, it will still not work as intended. 
+Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. It still has the same resource/time problems like other systems; if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
 
-UDL technically doesn't cover IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is designed to cover those accommodations anyway. It's a pedagogical philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
-
-There's other aspects I'm personally against, such as letting students decide how they're evaluated vs the administrator/educator deciding that for them. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL.
+Designing with UDL technically doesn't cover IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is intended to cover those accommodations anyway. It's a pedagogical philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
 
 ### **A "Secret" for Students**
 
@@ -250,16 +244,21 @@ There's also dealing with the theories of learned helplessness, learned incompet
 
 These may show at any age in humans and also shows up in animals. In the context of students, it typically appears when they avoid challenges and difficulties. Their responses may include not attempting tasks, quitting after one failed attempt, or waiting for another person to solve it for them (Nickerson, 2022). Another way I'd describe learned helplessness is a lack of autonomy, where it feels like nothing you try will ever make a difference based on past experiences, even when opportunities exist in the present to improve things.
 
-In teaching, these concepts are surprisingly prevalent and show in unexpected ways. Here are some examples:
+In education, these concepts are surprisingly prevalent and show in unexpected ways. Here are some examples:
 
 - Student doesn't have a pencil? They may wait for you to provide one rather than search for one.
 - Students have to retake a test? They may not care enough, despite repeated classwide reminders, or even a 1-on-1 reminder. Even if it is essential, they may still avoid it or choose not to do it.
 - Students need to practice a new skill? They may refuse to do so because they don't know how and won't attempt solutions to fix it.
 - Student doesn't want to do an assignment? They may act like they don't know so they can get you to complete it for them.
 
-Countering learned helplessness, learned incompetence, and negative reinforcement is simple: make students experience and overcome difficulty on their own, even if it is only a small win. What's hard is the execution. Provide no more support than necessary, like a small nudge in the right direction. What matters is the effort and problem-solving coming from the student themselves.
+Countering learned helplessness, learned incompetence, and negative reinforcement is simple: make students experience and overcome difficulty on their own. What's hard is the execution and that's where trauma-informed pratices comes in as well as methods like cognitive behavioral therapy, support groups, and mindfulness. Other methods may include, but are not limited to:
+- Building resilience
+- Recognizing it is a problem
+- Achieving small, measureable goals
+- Self-compassion
+- Practice
 
-Resilience is built by facing and working through failures. Students have to learn to do more things on their own and get outside of their comfort zone, lest it follow them and negatively affect them for the rest of their lives. 
+Resilience, in this case, is built by facing and working through failures. Students have to learn to do more things on their own and get outside of their comfort zone, lest it follow them and negatively affect them for the rest of their lives. 
 - **A good learning environment isn't always a comfortable learning environment.**
 
 The goal isn't punishment. It is rebuilding lost autonomy and resilience by presenting manageable challenges; the small wins over time to gain confidence to achieve larger victories.
@@ -361,20 +360,24 @@ In short, present materials in ways to optimize learning, not just how students 
 
 *Alternatively: Scaffolding Gone Wrong*
 
-I'm not against the concept of scaffolding (and neither should you be, dear reader!), but certain ways scaffolding is implemented.
+I'm not against the concept of scaffolding (and neither should you be), but certain ways scaffolding is implemented. The basis of most learning, as you advance between grades, levels, etc. is building upon student's existing knowledge and maintaining high standards throughout the entire learning. It is entirely possible to maintain rigor and expections the whole way through.
 
-**You cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).** This remains true even if the educators do everything correctly on their part, such as properly scaffolding students and adhering to guidelines like Vygotsky's Zone of Proximal Development (McLeod, 2024).
+However, **you cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).** This remains true even if the educators do everything correctly on their part, such as properly scaffolding students and adhering to guidelines like Vygotsky's Zone of Proximal Development (McLeod, 2024).
 
-Though "meet them where they're at" sounds like good advice, and generally is what you *should* do, it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on the environment and how that environment upholds excellent standards.
+"Meet them where they're at" sounds like good advice, and generally is what you *should* do, but it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on the environment and how that environment upholds excellent standards.
 
 Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. The irony is many of these students, from the set of 150, are still getting good grades when they normally shouldn't be doing well because I lowered the rigor to "meet them where they're at."
 
-It's less an issue where students are not smart. They could go from point A to point B, but the thinking behind *why* they took that route from point A to point B may be gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up.
-
-I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples too!
+It's less an issue where students are not smart. They could go from point A to point B, but the thinking behind *why* they took that route from point A to point B may be gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up. I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples too!
 
 I'm genuinely unsure if the students are actually smart, but acting this way in this scenario because they *know* they cannot fail. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures, such as holding them back a grade or forcing a retake of the class.
-- And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days.
+- And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days. Duration of learning is not the same as demonstrated competency of learning.
+
+A question that may come up is how to implement accountability in a system resistant to it. First, you cannot properly implement a solution for a system that doesn't want it, even with the perfect sales pitch. A solution at one layer also gets scrubbed out at other layers: while an educator may hold standards in their classroom(s), administrators, parents, legal authorities, and other parties may intervene and override those same standards. Any changes upstream can be further neutralized by factors downstream. 
+
+You could use that same, external pressure to showcase how credentials don't match competency and incite change, but that requires making data visible and attributable. In a field where said data is heavily guarded and there's incentive to hold power and control over that data, that could mean an education system obscures information to preserve their reputation and ensure funds keep coming in. 
+
+In a way, the system isn't broken but acting towards the incentives and metrics determining its success and survival. There are pressures, both political and economic, outside the control of education systems that still affect those systems. If there is to be a lasting solution, it needs to come from everyone involved in education upstream *and* downstream. Any partial solutions will get swept away by the tide rather than stand the test of time.
 
 ### **What about when student performance is below expectations and/or grade level?**
 

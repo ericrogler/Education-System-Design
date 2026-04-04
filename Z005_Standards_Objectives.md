@@ -44,7 +44,7 @@ There are several reasons why:
 
 While standards can limit what is done, strong standards elevate teaching, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
 
-Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and create your curriculum. In both cases, as well as homeschooling, you may still be constrained by your State's Department of Education standards and objectives.
+Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and create your curriculum. In both cases, as well as homeschooling, you may still be constrained by a State's Department of Education standards and objectives.
 
 As for independent teachers and instructors not creating content for public and private schools, they should expect to handle most, if not all, setup by themselves.
 

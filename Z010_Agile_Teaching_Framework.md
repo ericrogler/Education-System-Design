@@ -85,7 +85,21 @@ What I'm asking you to do is think in terms of problems to solve and what framew
 
 Though this advice may run counter to this chapter's focus, it will help you in the future when you need to design your own systems from scratch or adapt curricula to an existing framework or system.
 
-### **Where does Agile fit into this?**
+### **What Other Methods Are There?**
+
+Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. This section lists a few that may illustrate what's outlined in the chapter.
+
+The closest comparison to what's presented in this chapter's framework, that I can think of (and found out *after* initially designing this), is the concept of "Backward Design" by McTighe and Wiggins in *Understanding by Design* (2005).
+- "Comparison" as in we took two different routes to arrive at similar conclusions.
+- Admittedly, those authors utilize more pedagogial vocabulary and methodology while I take a generalized approach through management-based methodology.
+
+Other methods include Bloom's Taxonomy and the cognitive domain (Anderson & Krathwohl, 2001) as well as the works from Robert M. Gagné like their Nine Events of Instruction (1965).
+
+A workshop model can work alongside this framework, but places a stronger emphasis on activities, practical approaches, and self-directed learning compared to what is already suggested here. 
+
+Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
+
+### **Where Does Agile Fit Into This?**
 
 *Notice: I may use the terms "distribution" and "ratio" interchangeably.*
 
@@ -141,9 +155,9 @@ Some parts in each unit I can summarize and explain fully in a few sentences. Ot
 **Be wary of disregarding a type of learning completely, like never doing lectures, never doing activities, or never doing tests. It may likely affect learning negatively and not properly convey important concepts effectively.**
 - For example, imagine removing coloring/drawing activities from kindergarten and young children. Those activities were around for decades, if not centuries or longer, because they help build up fine motor skills. You would need an *extremely* good reason, with evidence, to break away from a long established precedent.
 
-Though I do a 6/2/2 setup, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
+Though I did a 6/2/2 setup, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
 
-If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered.
+If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on long-term projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered.
 
 Another thing to keep in mind is there are multiple ways to teach multiple topics. 
 
@@ -175,7 +189,7 @@ When correctly implemented, everyone will be focused towards the goal (e.g. prop
 
 ### **Planning (Teacher)**
 
-The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of the "6/2/2" setup because it's not where students are heavily involved; it's mainly just you as a educator, designer, etc.
+The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of your student education days because it's not where students are heavily involved; it's mainly just you as a educator, designer, etc.
 
 Unlike a typical Scrum sprint, the Planning phase doesn't require the students to be present, but still accounts for the capabilities and conditions of students, such as:
 
@@ -217,7 +231,7 @@ Lastly, no plan you make survives first contact with students (paraphrased from 
 
 ### **Implementation (Teacher & Student)**
 
-Think of "Implementation" as the time to execute your plans made earlier in a teaching environment, whether in person or through distance learning. The majority of days for each unit are further defined here too. (6 days and 2 days, or 8 days total, from my original "6/2/2" setup).
+Think of "Implementation" as the time to execute your plans made earlier in a teaching environment, whether in person or through distance learning. How days are divided between units, topics, etc. are also included at this stage.
 
 There are three "primary" teaching methods: lectures, projects and activities, and tests/review. There's also a part called "daily scrum" where you, the teacher, can quickly reassess your progress and make minor to moderate adjustments if needed.
 
@@ -226,7 +240,7 @@ Before we dive further though, I'll bring forward the 17 Principles of Effective
 
 ### **Lectures (in Implementation)**
 
-Lectures are the first "6" of my setup. As a reminder, you can decrease lecture days for more hands-on classes.
+As a reminder, you can decrease lecture days for more hands-on classes.
 
 I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students. It's also where I found most inquiry-based learning occurred.
 
@@ -276,7 +290,7 @@ Condensing the above, lectures are a combinations of a few things:
 
 ### **Activities & Projects (in Implementation)**
 
-Activities and projects are the first "2" of my setup. **I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
+**I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
 
 Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. They also promote project-based learning in ways lectures and reviews may not be able to. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
 
@@ -314,18 +328,18 @@ Lastly, with activities, you're expected to manage students more than in lecture
 
 ### **Review & Tests (in Implementation)**
 
-In the review stage, we get to the last "2" in my "6/2/2" setup. Review is when you're presenting the material you've implemented in the previous stage, whether through lectures, activities, or a combination of the two.
+Review is when you're presenting the material you've implemented in the previous stage, whether through lectures, activities, or a combination of the two.
 
 In teaching, review sorts out deficiencies in learning, identifying where students struggle with the material, and demonstrating that students have "done" the learning they need.
 
 You can prove learning through tests, quizzes, review sessions, questionnaires, exit tickets, and more. For each of these sessions, you must explicitly define the test-taking conditions, such as what is allowed, what is not allowed, how much you can help a student with questions, how to take the test, the time allotted, and what other resources they may bring into the test.
 
-There are two ways I would separate the review days, as my example accounts for 2 days' worth of time out of 10 days total.
+There are two ways I would separate the review days, using an example of 2 days' worth of time out of 10 days total for a unit.
 
 1. 1 day of testing, 1 day of dedicated review
 2. 1 day of testing, 1 day of review spread out among lecture days.
 
-In both cases, dedicated testing is non-negotiable as you need an assessment with stakes to evaluate proper learning. The difference is how you review and check the "progress" of learning.
+In both cases, dedicated testing is non-negotiable as you need an assessment with stakes to evaluate proper learning and demonstrate proof of competency. The difference is how you review and check the "progress" of learning.
 
 In the first method, this assumes you'll set aside an entire day to review every concept and standard for the unit. Many students may appreciate this as it gives them a "breather" and time to review and reinforce areas they may have forgotten or are lacking in. Other students, however, may not want or desire this, as they'd prefer not to spend the extra time and complete the unit more quickly. A dedicated review day also allows final adjustments to determine what to review and test based on current student progress.
 
@@ -333,17 +347,27 @@ In the second method, you'll still do a review, but typically at the end of each
 
 **In general, I recommend you go with the first method: 1 day of testing with 1 day of dedicated review.** The second method is more complex to implement and more challenging for students. Still, it does save you time, gives you the chance to cover more material within the year, semester, or trimester, and provides more buffer days in case of unexpected events.
 
+If, however, your goal is embedding more formative assessments and mid-learning understanding, then you have a stronger case for the second method presented earlier. As one example, you can implement 3-5 minute long quizzes and reviews throughout, or in between, lectures, activities, projects, etc. to check for understanding *during* instruction. This'll give you a "wellness check" to monitor the health (i.e. understanding) of students while in the classroom or educational setting. It will also indicate whether the current approach is sufficient, or another method, tool, approach, etc. needs administering to remedy observed issues.
+- I could liken formative assessments in particular to a PulseOx (pulse oximeter), which you can periodically check over time. Both patient and doctor/nurse (i.e. student and teacher) can be alerted if any metric reaches abnormal levels.
+
+One important note about formative assessments, and assessments for reviewing and testing in general: the student must also be privy to the feedback and results of assessments. If they cannot see the results of their work, they'll lack the means to act upon any deficiencies and obscure gaps in their understanding.
+
 ### **"Daily Scrum" (Teacher)** 
 
 Think of the daily Scrum as your reassessment of the classroom and what you got done during the day.
 
 After each day/class session, you can see which topic(s) were covered, how well they were covered, and then spend a bit of time making minor to moderate adjustments if needed. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
 
+The biggest thing to check for is whether or not students are meeting the educational goals. For example, do they have a global understanding of the topic(s) you're introducing? 
+- If not, then examine if the instruction across all lectures, activities, projects, and tests is designed to best facilitate learning to reach that goal.
+
+While efficiency is important, there's also a balancing game between teaching what they need to know vs what they should know, such as big ideas vs granular details.**
+
 ### **Retrospective (Teacher & Student)**
 
-Unlike the "Daily Scrum," this occurs at the end of each unit.
+This occurs at the end of each unit, topic, chapter, etc. and is like a destination on a road trip you spend the night at and gather your bearings, rather than a momentary pit stop along the way like with a Daily Scrum.
 
-This part is outside of the "6/2/2" setup as it's done primarily through planning periods and not days where students are heavily involved. Additionally, the time spent here varies from minutes to hours, but you should not spend more than 2 to 3 hours here.
+This part is done primarily through planning periods and not days where students are heavily involved. Additionally, the time spent here varies from minutes to hours, but you should not spend more than 2 to 3 hours here.
 
 The retrospective is a time for you, as a teacher, to figure out ways to improve the effectiveness and efficiency of your teaching plans, style, presentation, and more. You figure out what went well, what did not go well, what problems arose, and any solutions you made to solve problems you faced.
 
@@ -357,7 +381,7 @@ Though I generally support giving students "a seat at the table," regarding thei
 
 Sometimes you won't have multiple days per week for teaching and instead delegate a single day per week, across various weeks, for all of your class periods.
 
-The 6/2/2 distribution still applies in this case, but it's a little different. Rather than days, you think in terms of hours. The same rules also apply if you need to change the distribution amongst lecturing, activities/projects, and review/tests.
+Rather than days, you think in terms of hours. The same rules also apply if you need to change the distribution amongst lecturing, activities/projects, and review/tests.
 
 For example, let's say you're in an adult learning session and you attend a class once a week. Each class period is 2 hours long. There are two ways to split this: intraday or interday.
 
@@ -423,6 +447,8 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 ## **Bibliography**
 
+1. Anderson, L.W., Krathwohl, D.R., eds. (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives.* New York: Longman. ISBN 978-0-8013-1903-7.
+
 1. Arrow, K.J., Harris, T., Marshak, J. (1951) *Optimal Inventory Policy.* Econometrica.
 
 1. Beck, K., Beedle, M., van Bennekum, A., et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
@@ -432,6 +458,8 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 2. Daniels, J. (1946). *The Wilson era: Years of war and after 1917–1923* (p. 624). The University of North Carolina Press.
 
 3. *Do I need to keep talks within 18 minutes?* (2025). TED. [https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes)
+
+3. Gagné, R. M. (1965). *The Conditions of Learning.* Holt, Rinehart and Winston.
 
 3. Hattie, J. (2018). *Hattie effect size list - 256 Influences Related To Achievement.* VISIBLE LEARNING. [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
 
@@ -452,5 +480,7 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 
 6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. [https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9).
+
+7. Wiggins, G., & McTighe, J. (2005). *Understanding By Design* (2nd ed.). Association for Supervision and Curriculum Development.
 
 ## **[Next Chapter](Z010a_Accommodations.html)**

@@ -91,14 +91,58 @@ If you want two examples, think about blind and deaf people. As an example, you 
 
 You might also claim that accessibility will harm the design and content of whatever you're teaching. Accessibility typically doesn't compromise design, but instead improves clarity for all users (Krug, 2014). It significantly improves the curriculum and made things simpler to understand for all students. It also eliminates, or heavily mitigates, issues where students without disabilities likely encountered difficulties in one area and students with disabilities experienced similar problems in the same area.
 
+### **Social-Emotional Learning (SEL)** 
+
+One goal of an education system is to bring in students and teach them the skills they need and the skills they're missing. These skills may include emotional regulation, which affects how learning may progress for students. Generally speaking, SEL programs have empirical evidence suggesting a positive impact on outcomes for students (Durlak et al., 2011).
+- This also includes long-term outcomes from these types of programs (Taylor et al., 2017).
+
+A common example is punishing students for misbehavior, despite students not knowing how to regulate themselves. This is where lessons, such as those on conflict resolution, self-awareness, identifying feelings, and empathy, may address gaps in social skill learning.
+
+The difficulty with SEL across education systems is specifically when it comes to SEL programs versus SEL-informed practices. For example, an educator may be paid, and hired into an education system, to teach a given type of content and *not* divert extensive time towards SEL lessons, but they may adhere to some SEL guidelines to better manage their classroom. Some educators may deprioritize or abandon SEL on reasonable grounds, such as working with well-functioning adult students, assuming students know how to self-regulate or believing "babysitting" falls outside their role and responsibilities.
+
+### **Culturally Responsive Pedagogy** 
+
+Another consideration for students is their culture and background as they embark upon, or join, the learning journey. The social and political climate of the past, present, and future is tough to talk about, which in turn means learning related to that is minimal (Samuels, 2018).
+
+You could think of it as a bridge between a student's home and education life, or at least affirming a student's background and voice in an educational setting.
+
+There's also real incentives to adopt this type of pedagogy. For example, at the state level, the New York State Education Department developed a framework catered towards culturally responsive-sustaining (CR-S) education and cites legislation such as Every Student Succeeds ACT (ESSA) these approaches hope to address (NYSED, 2018).
+
+To succinctly summarize, CR-S education aims for quality, rigorous learning and high expectations for students while maintaining a welcoming and inclusive environment. Culture, in this equation, is a core component rather than a feature and also strives to incorporate the community surrounding the education system.
+
+Culturally responsive pedagogy and CR-S can be associated with differentiation, but is not the same as differentiation. The difference is CR-S affects how the environment learning takes place and incorporating current events broadly into the curriculum versus differentiation tailoring curriculums and materials towards a student's specific learning needs.
+- i.e. CR-S is implemented into curriculums *before* differentiation affects it.
+
+### **The "Science of Reading"**
+
+As I've taught primarily Science, Engineering, and STEM rather than Literature and English, I won't delve into this section too much, but it is worth a mention.
+
+Science of reading is the culmination of reliable evidence and knowledge about learning to read and how to teach reading, drawing upon many fields to inform its practices. Every subject requires reading in some way, shape, or form, whether through digital literacy or instruction in general.
+
+This "movement" has a plethora of research as well as reviews of the research already developed (Goodwin & Jiménez, 2020). There's even legislation and policies developed specifically regarding reading instruction as well (Gabriel & Dennis, 2025).
+
+Even if you're not an educator teaching reading directly, you may still encounter decoding, language comprehension, and phonics-based instruction. Whether it's a science, math, or engineering textbook (or related material), a student's going to have a hard time, regardless of the content involved, if they cannot read it. Reading foundational skills are involved broadly, if not everywhere, so it'd be foolish to neglect them entirely.
+
+To address an elephant in the room: saying a curriculum or program is a "science of reading" curriculum does not make it one. I could declare this entire book is grounded in the science of reading, despite you and I full well knowing it's essentially just this section (and perhaps references elsewhere, at best).
+
+Despite what vendors may claim, it is still up to institutions, and by extension individuals, to vet programs and materials and confirm if they *truly* meet the desired and required standards.
+
 ## **Bibliography**
 
 1. Creative Commons. (n.d.). *About CC licenses.* [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)
     - Future Reading Source
 
+1. Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). *The impact of enhancing students' social and emotional learning: a meta-analysis of school-based universal interventions*. Child Development, 82(1), 405–432. [https://doi.org/10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
+
+2. Gabriel, R., & Dennis, D. V. (2025). *Introduction to the special issue: Science of Reading policies.* Education Policy Analysis Archives, 33. [https://doi.org/10.14507/epaa.33.9929](https://doi.org/10.14507/epaa.33.9929)
+
+2. Goodwin, A.P., & Jiménez, R.T. (2020). *The Science of Reading: Supports, Critiques, and Questions.* Reading Research Quarterly, 55(S1), S7–S16. [https://doi.org/10.1002/rrq.360](https://doi.org/10.1002/rrq.360)
+
 2. Simon, H. (1971). *Designing Organizations for an Information-rich World.* Baltimore, MD: Johns Hopkins University Press. pp. 37–52.
 
 2. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
+
+2. New York State Education Department (NYSED). (2018). *Culturally Responsive-Sustaining Education Framework*. [https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf](https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf)
 
 3. Open Source Initiative. (n.d.). *The MIT license.* [https://opensource.org/license/mit](https://opensource.org/license/mit)
     - Future Reading Source
@@ -106,7 +150,11 @@ You might also claim that accessibility will harm the design and content of what
 4. Pareto, Vilfredo (1898). "Cours d'economie politique". Journal of Political Economy. 6. [doi:10.1086/250536](https://doi.org/10.1086%2F250536).
     - The original source is from 1896, but the above is for journal publication.
 
+5. Samuels, A. (2018). Exploring Culturally Responsive Pedagogy: Teachers’ Perspectives on Fostering Equitable and Inclusive Classrooms. In SRATE Journal (Vol. 27, Issue 1, pp. 22–30). University of Montevallo. [https://files.eric.ed.gov/fulltext/EJ1166706.pdf](https://files.eric.ed.gov/fulltext/EJ1166706.pdf)
+
 5. Sweller, J. (April 1988). *Cognitive Load During Problem Solving: Effects on Learning*. Cognitive Science. 12 (2): 257–285. CiteSeerX 10.1.1.459.9126. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207%2Fs15516709cog1202_4). S2CID 9585835.
+
+5. Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). *Promoting Positive Youth Development Through School-Based Social and Emotional Learning Interventions: A Meta-Analysis of Follow-Up Effects.* Child development, 88(4), 1156–1171. [https://doi.org/10.1111/cdev.12864](https://doi.org/10.1111/cdev.12864)
 
 5. U.S. Department of Justice Civil Rights Division. (2020, February 28). *ADA Requirements - Effective Communication.* ADA.gov. [https://www.ada.gov/resources/effective-communication/](https://www.ada.gov/resources/effective-communication/)
 
