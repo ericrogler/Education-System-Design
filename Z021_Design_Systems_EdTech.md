@@ -57,28 +57,25 @@ Now then, there are several things to cover in this chapter, but I'll start with
 
 ### **Layman's Guide to Design Patterns**
 
-Design patterns are reusable solutions to commonly occurring problems with specific contexts. This may include things like math formulae, algorithms, lists of instructions, cooking recipes; the "fun" stuff.
+Design patterns are reusable solutions to commonly occurring problems with specific contexts. In other words, they're documented solutions to recurring design problems.
 
 To illustrate it with a deliciously, non-technical example: You want to make a cake.
 
 Your problem is you need to make a cake. 
 
-You have a recipe that *could* solve this problem; a method to make a cake and many more cakes like it. You recognize that recipe can make this cake, or solve the problem, then recall and reason through the steps to get from problem to solution.
+You have a recipe that *could* solve this problem; a general guideline on how to make a cake and many more cakes like it, with algorithms (i.e. step-by-step instructions) to perform specific tasks as required in the recipe. You recognize that recipe can make this cake, or solve the problem, then recall and reason through the steps to get from problem to solution.
 
 The recipe, or design pattern alone, will get you most of the way through. 
 
 *Most of the way.*
 
-What stops you now is applying the design pattern. There may be additional variables to consider, such as elevation affecting baking time or substituting ingredients. These variables are a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the recipe (the pattern) well enough and its underlying mechanics, then you can adapt your recipe to still bake your cake.
+What stops you now is applying the design pattern. There may be additional variables to consider, such as elevation affecting baking time or substituting ingredients. These variables are a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the recipe (the pattern) well enough and how to execute its steps, then you can adapt your recipe to still bake your cake.
 
-When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, and use the finest ingredients, but that process doesn't hold up if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
+That one recipe can make that one cake, but now let's say you want to make different kinds of cakes. You could reuse ingredients, but there's some context shifting and you may need a different recipe to make a different cake or another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems. There are times where you need to break away from the design pattern. If you're experienced and know what you're doing, you'll panic less compared to someone who's never followed a recipe in their life before.
 
-That one recipe can make that one cake, but now let's say you want to make different kinds of cakes. You could reuse ingredients, but need a different recipe to make a different cake or another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems. There are times where you need to break away from the design pattern. If you're experienced and know what you're doing, you'll panic less compared to someone who's never followed a recipe in their life before.
+Design patterns are good, but they should also lead to a high quality product. When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, and use the finest ingredients, but that process doesn't hold up if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches. You're very unlikely to have a sufficient amount of consumers worry about your internal production process (how it's made) for cakes compared to the cake's taste and experience they received.
 
 Another thing affecting design patterns is constraints. That recipe from earlier may make a cake, but perhaps it cannot make a wedding cake. Many steps in the recipe may transition over, but perhaps you need additional tools, such as support beams to hold up the towering cake, you previously didn't need.
-
-If you're familiar with software, you may recognize the term DSA (data structures and algorithms) and system design. Concepts from there are pretty close to what I'm getting at here!
-- *Another way my bias shows to get you to learn math, like I said in earlier chapters!*
 
 ### **The Weird Complexity (and Simplicity) of Design Systems**
 
