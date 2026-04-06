@@ -39,7 +39,7 @@ As for technology, we have enough tools to do things we never could've done befo
 
 Technology is permeating into classrooms at primary, secondary, tertiary, post-graduate, and adult education. This has accelerated greatly since COVID back in 2020. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments.
 - Whether or not this becomes a system administrator's nightmare in the future remains to be seen.
-- Though technology may intend to make education accessible, it can also make the education process longer and more cumbersome.
+- Though technology may intend to make education accessible, it can also make education more cumbersome.
 
 To give an example: a high school now provides every student with their own personal iPad (electronic tablet). It may have the following features:
 - Specifications to run school required software at acceptable parameters
@@ -91,9 +91,9 @@ Phishing tests are somewhat similar to how a vaccine "trains" white blood cells 
 - A sense of urgency or time component (end of day)
 - Low-stakes/not much effort needed (a simple RSVP)
 
-To dilute technological security (cybersecurity) down into two points:
-1. Technology, and its security, is far more protected with better protocols and tools compared to the past. Said protocols are continuously improving over time.
-2. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
+To dilute technological security (i.e. cybersecurity) down into two points:
+1. Technology, and its security, is far more protected with better protocols and tools continuously improving over time. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
+2. Humans are quite suspectible to giving away sensitive data to unsafe parties and falling prey to social engineering, like feeding information with security credentials and bypassing security protocols.
 
 Lastly, if you ever design something and have even the slightest concern about security risks, then design it as if an attacker was already inside or anyone accessing it can compromise it.
 - i.e. Worry about how to stop *further* damage.

@@ -17,6 +17,7 @@ I'll pretend a reader is in a situation where they start from, well, basically n
 
 ***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to be like IKEA and cater what products and services I provide, or have opinions about, on certain topics presented to you.
+- Or at least be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have.
 
 An educator exists in many different forms. There's the formal teacher many students are familiar with, but there are also teachers in unexpected places. Perhaps you've shown someone how to ride a bicycle, operate a piece of software, or help interpret a book passage. All those, and countless other examples, are taught by you as you assume the role of a teacher.
 

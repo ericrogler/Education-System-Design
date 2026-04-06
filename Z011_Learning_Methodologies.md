@@ -37,10 +37,9 @@ In general:
     - This *doesn't* mean avoiding throwing them into the fire for learning.
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
 6. You could be an amazing teacher, but if the system doesn't support you and/or students don't engage with your teaching, then you're fighting an uphill, or even losing, battle constantly.
+7. **It's not a rigorous curriculum, degree, program, etc. if you don't want anyone to fail it.**
 
-**Lessons should NOT be differentiated without good reason.** This viewpoint runs contrary to a modern perspective advocating for differentiating instead, but When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation fights against scope and risks affecting educational quality negatively and *not* following standards.
-- Decide between covering a few topics deeply vs many topics broadly.
-- An inclusive curriculum is extremely unlikely to be a rigorous curriculum.
+**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or medically diagnosed disorders. This viewpoint may run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* following standards.
 - It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.
 
 ## **Long Answer**
@@ -143,17 +142,17 @@ The 2-sigma problem, as shown by Benjamin Bloom, also shows statistical signific
 
 Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is often still out of reach. It could be because it's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
 
-As a potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
+To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
 
 The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the Agile framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
-- Pencils and paper for everyone
-- Guided notes as an IEP requirement now available for everyone
-- Speakers to make it easier for hard-of-hearing people
+- Pencils and paper for everyone, regardless of if they brought it already or not
+- Guided notes now available for everyone instead of provided only for an IEP requirement 
+- Speakers to transmit spoken voice louder and farther for hard-of-hearing people
 
-I'm pretty positive about what UDL can do and the many problems it provides solutions for, but you cannot throw UDL into a system and expect it to perform a miracle. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and grade with UDL. 
+Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. I'm pretty positive about what UDL can do and the many problems it provides solutions for. 
 
-Universal Design Learning *should* work well, because it already has parts "good" teachers do anyways. It also applies proven principles from different fields, like architecture and general design, into education. It still has the same resource/time problems like other systems; if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
+However, like with every other methodology or framework (even the ones I made here!), you cannot throw UDL into a system and expect it to perform a miracle. There's also still a point you cannot reasonably accommodate even the students several levels too low for a given subject matter, class, and/or grade with UDL. It still has the same resource/time problems like other systems; if sufficient supports cannot be provided with the resources available, it will still not work as intended. 
 
 Designing with UDL technically doesn't cover IEP/504/etc. or other legally required accommodations, even if an UDL-aligned curriculum is intended to cover those accommodations anyway. It's a pedagogical philosophy for everyone's education and not a legal mandate for an individual's education. Because that is the case, an accommodation you may think is reasonable may no longer become reasonable depending on what the environment provides. 
 

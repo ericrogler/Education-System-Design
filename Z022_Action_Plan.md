@@ -15,10 +15,35 @@ If you're limited on preparation time, focus on setting up classroom management 
 
 You may need to spend time outside of work (i.e. contract hours) to get everything done. In this first week, that is perfectly OK. If you invest the proper time planning *now* and set up your systems early on, even if they're basic scaffolds, then you save significant time later on.
 
+### **What Should I Expect?**
+
+For myself, the first three years, massively oversimplified, in education went something like the following:
+- Year 1: Great ideas, but terrible execution
+- Year 2: OK ideas, but OK execution
+- Year 3: Better ideas and better execution
+
+Some readers may draw similarities to the Dunning-Kruger effect, which is nearly exactly what's illustrated above (Kruger & Dunning, 1999). 
+
+You're starting with little experience and think you have more knowledge than you really do. It includes how much you overestimate you're getting better and underestimate the amount of practice you actually need. The road to competency, especially in the first year, will likely, if not certainly, be fraught with failures and mishaps to humble this false confidence before you start improving and actually get good.
+
 **If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.**
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
 - *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
 - Do not be everything to everyone; focus on teaching and managing students.
+
+### **"Those Who Can't Do, Teach."**
+
+I dislike the series of events that made this a popular phrase. All around, the phrase paints a bad picture of education and the people involved in education. Let me explain why.
+
+Firstly, have you ever known a subject, field, topic, concept, etc. really well, but fail to teach it or even explain it to others simply and/or properly? You can be *the* expert in content, but a "failure" in pedagogy/andragogy. That disconnect is why I emphasized the many difficulties and complexities of communication throughout this book.
+
+Secondly, it's a misrepresentation of a George Bernard Shaw stage play scene related to *revolutionaries* and not teachers/education (1903, Shaw). Additionally, the variation "Those who can, do, those who cannot, teach" has an original source that's currently anonymous, but still could be an implied reference alongside Shaw's work for revolutionaries, not educators, and therefore still misrepresent those in education.
+
+Thirdly, another popular, but related quotation, "Those who can, do. Those who understand, teach." is often misattributed to Aristotle despite its likely origins from Lee Shulman talking about Aristotlean views (1986).
+
+Lastly, teaching, and by extension education, *isn't* just teaching. It's also management and a slew of concepts from multiple fields all packaged alongside teaching/education.
+
+### **Day 0 & Day 1**
 
 ***I'll start with two assumptions in place:***
 1. *Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
@@ -300,9 +325,15 @@ You may think about effectiveness and efficiency during reflection. These are tw
 3. Drucker, P. F. (2006). *The Effective Executive: The Definitive Guide to Getting the Right Things Done.* HarperBusiness.
     - Originally published in 1966.
 
+3. Kruger, J., & Dunning, D. (1999). *Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.* Journal of personality and social psychology, 77(6), 1121–1134. [https://doi.org/10.1037//0022-3514.77.6.1121](https://doi.org/10.1037//0022-3514.77.6.1121)
+
 3. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. [https://medlineplus.gov/druginfo/meds/a681004.html](https://medlineplus.gov/druginfo/meds/a681004.html)
 
 4. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. [https://medlineplus.gov/ency/article/001958.htm](https://medlineplus.gov/ency/article/001958.htm)
+
+3. Shaw, B. (1903). *Man and Superman: a comedy and a philosophy.* Westminster: A. Constable. 
+
+4. Shulman, L. S. (1986). *Those who understand: Knowledge growth in teaching.* Educational Researcher, 15(2), 4 - 14. [http://www.jstor.org/stable/1175860](http://www.jstor.org/stable/1175860)
 
 5. U.S. Food and Drug Administration (FDA). (2024, October 21). *N95 respirators, surgical masks, face masks, and barrier face coverings*. [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings)
 

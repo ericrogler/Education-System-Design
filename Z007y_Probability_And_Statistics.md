@@ -271,7 +271,7 @@ If I were to sum up, in a list, some concepts you may encounter, it'd be the fol
 
 Machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital resources.
 
-As one example of a resource, for those with a math or science background unsure where to start or new, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
+As one example of a resource, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
 - If you're curious about how AI Detectors may work, focus on topics under the "Classification" section.
 
 ## **Bibliography**

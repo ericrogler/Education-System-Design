@@ -27,6 +27,7 @@ As great as the quotation above is, sometimes being visible is what gets you not
 
 Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
 - Similar advice applies for managers in other industries, like engineering.
+- E.g. You don't want to be the manager in a "data driven" meeting and not know anything about how data works; that's just a recipe for embarassment.
 
 If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
@@ -38,6 +39,8 @@ Cooking something at 1200 degrees for 1 hour does *not* produce the same result 
 Last, but not least: Higher wages are one of, if not the most, universal benefits for any employee.
 
 ## **Long Answer**
+
+If a manager makes a mistake, a manager makes a mistake. "We need to be a team player" 
 
 **Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems.
 

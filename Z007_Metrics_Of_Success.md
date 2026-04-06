@@ -431,6 +431,24 @@ If it's scenario A, and includes the students that genuinely did try their best 
 
 Overall, it's an application of the classic saying: bring a horse to water, but can't make it drink. If you're a teacher or instructor reading this, document their failures and be prepared to present a case about it if it happens. About all I can reliably say here.
 
+### **What If Bad Teachers Aren't Bad?**
+
+Let me present to you a hypothetical situation.
+
+Teacher A gets a general classroom of ill-mannered students with personalities that constantly disrupt the learning process and continually incur disciplinary issues.
+
+Teacher B gets a second classroom of well-behaved students who have a vested interest into the education they're receiving.
+
+Both teachers have the same curriculum and (reasonably) same teaching and management styles. Teacher A receives a poor score upon observation by administrators, while Teacher B receives a good score.
+
+Does this mean Teacher A is bad? Not necessarily. We're dealing with another problem of contextual validity here.
+
+Teacher A may have some bad practices, but their observed, negative outcome is amplified by the environment they're in and the students they're handling. Teacher B has those same bad practices too, but have it masked by an environment functioning well on the surface and produces favorable outcomes. It's a case where a teacher is penalized professionally for factors outside their control and, by extension, taking on more "difficult" work.
+
+Normally, in the case of observations by other professionals, *multiple* metrics are recorded and documented to eliminate any over-reliance on one variable. Metrics may include management of a classroom, behavior management, lesson introduction, content delivery, responding to needs and issues, and so on. Observations, though they may inject bias and students can intentionally try to influence their results, can also directly see and consider the context of an educator's situation in regards to their evaluation during the observation.
+
+A solution for this isn't altering what the teachers do, but the environment teachers are in. In the case of teacher A, to change their environment from negative to positive, you may need *multiple parties* (parents, administrators, teachers, etc.) to enforce consequences for any student's bad behaviors and misconduct. If that setup is implemented, you could at least level the playing field for both teachers and then have the metrics focus more on the teachers themselves rather than their classrooms.
+
 ## **Bibliography**
 
 1. Bivens, J. (2017, December 12). *Inequality is slowing US economic growth: Faster wage growth for low- and middle-wage workers is the solution.* Economic Policy Institute. [https://www.epi.org/publication/secular-stagnation/](https://www.epi.org/publication/secular-stagnation/)

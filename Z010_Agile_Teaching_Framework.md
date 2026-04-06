@@ -15,7 +15,8 @@ nav_order: 18
 
 ---
 
-*Disclaimer: I built this framework in mind for secondary and tertiary education (ages 12 and above). Elementary school/primary education may need adjustments beyond what is here. It is also independent of the subject(s) taught.*
+I built this framework in mind for secondary and tertiary education. Elementary school/primary education may need extensive adjustments beyond what is here. It is also independent of the subject(s) taught. **I also fully expect you to modify this framework in some way(s) if you choose to follow it in your own education systems, because your situation may be different than the situation I've gone through.** The only way I can think of making a framework like this repeatable (i.e. reproducible/replicable) is figuring out what the common threads between classroom types and subjects taught are, then isolating out the complexities of human interactions as much as humanly possible.
+- As a personal request: please do not praise this framework as gospel. It's just a framework.
 
 I find education always involves communication in some way, shape, or form, while another significant part is management. Communication and management are tightly integrated together here.
 
@@ -27,7 +28,7 @@ I find education always involves communication in some way, shape, or form, whil
 If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
 That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
-- Think CAP Theorem (attributed to Eric Brewer, 2000) and ETL pipelines, for those same readers with data backgrounds.
+- Think CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
 
 A more complicated answer with empirical grounding draws from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
 
@@ -98,6 +99,8 @@ Other methods include Bloom's Taxonomy and the cognitive domain (Anderson & Krat
 A workshop model can work alongside this framework, but places a stronger emphasis on activities, practical approaches, and self-directed learning compared to what is already suggested here. 
 
 Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
+
+The last example I'll include is various materials authored by Rosenshine.
 
 ### **Where Does Agile Fit Into This?**
 
@@ -235,7 +238,7 @@ Think of "Implementation" as the time to execute your plans made earlier in a te
 
 There are three "primary" teaching methods: lectures, projects and activities, and tests/review. There's also a part called "daily scrum" where you, the teacher, can quickly reassess your progress and make minor to moderate adjustments if needed.
 
-Before we dive further though, I'll bring forward the 17 Principles of Effective Instruction by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
+Before we dive further though, I'll bring forward, as an example for further reading, the 17 Principles of Effective Instruction by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
 - [Link to Full Report](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
 
 ### **Lectures (in Implementation)**
@@ -290,11 +293,14 @@ Condensing the above, lectures are a combinations of a few things:
 
 ### **Activities & Projects (in Implementation)**
 
-**I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
+If anything is to stop you from setting up activities and projects, it is time, space, and money. A lot of equipment and materials are not cheap (especially with science projects, from personal experience) and a significant amount of preparation and testing *before* students are involved is expected before you can properly incorporate it into a curriculum. When it's the stage students get involved at, you'll have to factor in any additional setup *and* cleanup time as well, which may very well cut into the activity/project's time too. Space is simply whether or not your environment would accommodate the activity/project in the first place.
+- e.g. If your goal is a project-based learning curriculum, you cannot properly go through with it unless you're able to *acquire/buy* the necessary materials/equipment.
+
+Another thing stopping you might be when teaching subjects or certain concepts where thinking abstractly *is* the point, like with certain upper level math and science, so hands-on/project-based learning is detrimental to that process. This extends into students being unable to read and follow directions as well as engage and participate.
 
 Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. They also promote project-based learning in ways lectures and reviews may not be able to. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
 
-Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. There may also be prerequisite knowledge required to follow along properly or else the purpose of the activity/project falls through.
+Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. They'll require understanding of simple concepts and other prerequisite knowledge to follow along properly or else the purpose of the activity/project falls through.
 
 If you haven't reviewed your safety measures for activities, review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
 

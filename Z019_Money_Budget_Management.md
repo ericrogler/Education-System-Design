@@ -47,6 +47,9 @@ Are these meant to be jokes? Perhaps. Anything's possible with enough money, but
 
 In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
 
+This chapter is *also* where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems may operate.
+- *Yes, this paragraph is intentionally replicated to emphasize the point.*
+
 While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. How much you're paid is also affected by money available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
 
 Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a student has available typically correlates positively with their quality of education (Diemer et al., 2019). 

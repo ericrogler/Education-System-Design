@@ -42,6 +42,13 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
+It is not solely the education system's fault that a student failed. This is the part where I kindly encourage readers to not displace blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes.
+- To put it another way: Public education reflects the public.
+
+This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems may operate.
+- E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems to help students get a quality education they can control.
+- E.g. A hospital can provide a clean facility, competent staff, and appropriate care, but cannot resolve a patient's housing crisis.
+
 Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney. On that same note, education systems must be allowed to enforce consequences. For many schools and education systems, this means enforcing consequences on the student *and* parent both, but at least the student in *every* education system.
 
 Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
@@ -93,6 +100,22 @@ There's usually less consideration given for other stakeholders influencing the 
 
 Within both simple and complex systems, complaints flow downstream to the most visible participant in a system even if they're not responsible. This isn't limited to only instructors and developers either; any front-facing role may face these same issues.
 
+### **External Stakeholders and Investors/Donators**
+
+You could include "higher ups" here if you wish and they could be individuals or organizations.
+
+Investors and donators are a muddy territory in client relations. An education system needs wealth and resources to fund their endeavors and investors/donators provide those resources, often with some simple (read: *NOT simple*) terms and conditions. Perhaps it's utilizing a particular curriculum, following some certain rules, and so on. An organization or individual that's responsible for a large enough portion funding could even "own" part of an education system, which means they can influence decisions.
+
+Say, for example, you're trying to secure some funds or donations for an education system. Investors in businesses could be similar to investors in education, which means they may expect a return on investment (ROI). That means, if you need their funding, you may expect to prepare some of the following:
+- A clear, concise pitch. Every second wasted is a dollar lost.
+- Demonstrate value. While "for education" sounds good, remember they need hard metrics to justify their spending.
+- Storytelling. For example, a skyscraper sounds normal, but *the world's tallest skyscraper?* Now you may've grabbed their attention.
+- What the funds will do. You can't expect everyone to give resources openly. If you clearly show them where their money goes, how it'll be spent, and what it may produce, that could be what seals the deal and their trust. 
+    - This also includes showing a history of spending through financial statements, both recent and dated, to further your case.
+- Maintain a relationship. If the investment goes through, you'll then want ways to keep that revenue stream going or even increase in the future.
+
+External stakeholders can include a broad and diverse group of people, but in the context of this book these are people who can influence education without being directly integrated into an education system. This may include politicians, members of the State, consumer organizations, and more. They may be the people who push for, enforce, and develop sweeping reforms for education as a whole and handle the entangled politics behind it. Even if there *is* something you could do regarding this group of people, it may take several years, if not decades, to reach fruition. Those methods are outside the scope of this book and require investigation on the reader's end into how to interact with them, whether through government websites, the Internet in general, or other digital/physical methods.
+
 ### **Administrators**
 
 Administrators manage educators directly, but students indirectly. You could assume administrators may not have great classroom management skills and may have never taught in a classroom/educational setting (or at least taught recently). It doesn't render their decisions and perspectives completely invalid though.
@@ -131,16 +154,16 @@ Another interesting reality about teachers and principals is potentially misalig
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is probably still true today and will remain true in the future.
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with and also spend far more time with them than any one educator might. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is probably still true today and will remain true in the future.
 
 Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
 
-Parents and adult students are also the closest thing educational systems have as "customers."
-- ...Which means they're "always" right, even when they're beyond a doubt incorrect. The power of the wallet is strong.
+Parents and adult students are also the closest thing education systems have as "customers." If anyone is likely to treat education as customer service instead of a public service, it's probably this group.
+- "The customer is always right" is ironic here because learning requires the possibility of being corrected. If they're never wrong, they're only validated instead of educated.
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
-The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as conventional reasoning; what seems rational to parents may not seem rational to non-parents. To narrow this divide, parents should work with, not against, teachers and educational staff.
+The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as conventional reasoning; what seems rational to parents may not seem rational to non-parents. To narrow this divide, parents should respond to communications and work with, not against, teachers and educational staff.
 - There's also legal consequences as an incentive. In multiple states in the United States, as of June 2025, "failure to educate" is potentially grounds for mandatory reporting under the definition of neglect (Child Welfare Information Gateway, 2025).
 
 When handling parents of students, you'll want to keep records of interactions, how policies are enforced, and evidence of learning (whether positive or negative). You may also request administrators or a second colleague to show up to meetings with them to act as a witness if there are potential issues with meeting them.

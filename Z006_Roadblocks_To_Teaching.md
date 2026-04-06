@@ -33,14 +33,14 @@ For simplicity's sake, I'll sort blockers into four categories.
 
 ### **Technical Blockers**
 
+Some education systems are made in a garage. Other education systems are given a sizeable grant to conduct research on (and possibly make a business out of teaching said system). Then there's systems with more barriers to success compared to other schools, whether it'd be from the students, staff, or resources available.
+
 Before I proceed, I'll make one assurance: 
 
 **"Old school" style teaching, or teaching without fancy tech, gadgets, widgets, etc. is perfectly fine (and sometimes encouraged!). If this is the case for you, you may have fewer technical blockers.**
 - This also includes fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students in your educational system.
 - Personally speaking, I'd use pencil and paper when I could, but technology, like computers, for things I cannot reasonably do with low tech solutions.
 - Each new person using technology is one more person you may have to troubleshoot issues for.
-
-*Moving on!*
 
 In one sentence: is there a device that cannot operate the software and/or perform the tasks I need for teaching?
 

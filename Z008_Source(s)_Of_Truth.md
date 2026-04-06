@@ -19,7 +19,7 @@ Even if you are the innovator and/or pioneer of the subject/field you are teachi
 
 If you find someone who knows and can do everything and anything, please tell me so I can add them to my network and get an excellent professional reference for my future career path.
 
-Last, but not least, your education system very likely doesn't need a shiny new curriculum every time they appear or 12+ different online platforms and tools for learning.
+Last, but not least, your education system very likely doesn't need a shiny new curriculum every time they appear or 12+ different online platforms and tools for learning. Perhaps the newest methodology or research has some flaw or constraint you didn't see at first, or cannot be replicated for your particular education system to produce similar outcomes.
 
 ## **Long Answer**
 
@@ -137,24 +137,25 @@ To emphasize again: I find Wikipedia better suited as a reference *after* you ha
 
 ### **The Dark Side of the Moon**
 
-**What should work in theory doesn't always work as well in practice.**
+**What should work in theory doesn't always work as well in practice.** Despite a perception that science is a shining beacon of perfection, the real world is very much imperfect in many ways. Additionally, what works well in practice may only work in one specific situation or even be non-repeatable, but pushed to be the next best thing since sliced bread because there's wealth (and resources) involved somewhere in some way.
 
-Academia operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research). It's precisely *because* it's controlled conditions, which can be replicated and reproduced for veracity, it's considered valid as research.
+Research in general, and academia by extension, operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research). It's precisely *because* it's controlled conditions, which can be replicated and reproduced for veracity, it's considered valid as research. This goes for just about every field and study in the past, present, and future.
 
-That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, refute their findings based on later evidence.
+That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, refute their findings if future evidence disproves their earlier works.
 
-As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100 years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
+As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, still work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100+ years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
 - This may be formally referred to as part of the Lindy Effect (Taleb, 2012).
 
 Because the conditions are controlled, however, this may lead to "Luxury Beliefs" which is ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, which runs counter against providing consistent equity for education in the first place!
 
-With research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
+With research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias (to name just a few) inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
 
-Additionally, some people conducting the research on education and classrooms may have never *taught* in a classroom before, which may remove vital context to inform their findings and draw conclusions. This lack of content may or may not be their fault either; acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research. What that means is they may acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
+Additionally, some people conducting the research on education and classrooms may have never *taught* in a classroom before, which may remove vital context and domain knowledge to inform their findings and draw conclusions. This lack of context may or may not be their fault either; acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research. What that means is they may acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
 
 All the theory in the world cannot fully correct problems at a real-life, systemic level. At its best, the theory is implemented and can solve a *set* of problems in a class, but not the entire classroom system as a whole at varying success. At its worst, the theory falls apart completely, or is adjusted to suit the interests of its implementers, and may make the classroom environment much worse.
 
 Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party should have an interest in, including teachers. Nevertheless, be mindful of how research is conducted and how well it translates to real-life scenarios.
+- For example, observing how well some publications fare on [reproducibility](https://www.nature.com/articles/s41586-026-10203-5), [robustness](https://www.nature.com/articles/s41586-025-09844-9), and [replicability](https://www.nature.com/articles/s41586-025-10078-y) (Tyner et al., 2026)(Miske et al., 2026)(Aczel et al., 2026)
 
 ### **The Panel Council**
 
@@ -171,6 +172,8 @@ If these experts are not available, usually the next best source becomes people 
 These experts you should happily accept into helping design an education system, or even a curriculum, because they'll verify facts with certainty vs a non-expert verifying facts with *some* certainty instead. Even if you don't directly enlist their help, they may have resources you can cite from to better design your own systems or curricula.
 
 ## **Bibliography**
+
+1. Aczel, B., Szaszi, B., Clelland, H.T. et al. (2026) *Investigating the analytical robustness of the social and behavioural sciences.* Nature 652, 135–142. [https://doi.org/10.1038/s41586-025-09844-9](https://doi.org/10.1038/s41586-025-09844-9)
 
 1. Brewer, C. A. (2016). *Designing better maps: A guide for GIS users.* Esri Press. [https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401](https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401)
     - Further Reading Source
@@ -205,7 +208,7 @@ These experts you should happily accept into helping design an education system,
 
 11. McCandless, D., et al. (n.d.). *Information is beautiful.* [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
-12. Microsoft. (n.d.). *Power BI.* [https://powerbi.microsoft.com/en-us/](https://powerbi.microsoft.com/en-us/)
+13. Miske, O., Abatayo, A.L., Daley, M. et al. (2026). *Investigating the reproducibility of the social and behavioural sciences.* Nature 652, 126–134. [https://doi.org/10.1038/s41586-026-10203-5](https://doi.org/10.1038/s41586-026-10203-5)
 
 13. Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee.
     - Further Reading Source
@@ -217,6 +220,8 @@ These experts you should happily accept into helping design an education system,
 16. Sheppard, T. (1895, December). On the occurrence of Scandinavian boulders in England. *The Glacialists’ Magazine: A Quarterly Record of Glacial Geology, 3*(3), 129–132. F. H. Butler. [https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152](https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152)
 
 18. Taleb, N. N. (2012). *Antifragile: Things That Gain from Disorder*. Random House. ISBN: 1-400-06782-0.
+
+17. Tyner, A.H., Abatayo, A.L., Daley, M. et al. (2026). *Investigating the replicability of the social and behavioural sciences.* Nature 652, 143–150. [https://doi.org/10.1038/s41586-025-10078-y](https://doi.org/10.1038/s41586-025-10078-y)
 
 17. Ulrich, R., & Miller, J. (2020). *Questionable research practices may have little effect on replicability.* ELife, 9. [https://doi.org/10.7554/elife.58237](https://doi.org/10.7554/elife.58237)
 
