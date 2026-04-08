@@ -20,8 +20,8 @@ nav_order: 13
 
 Being the "best" is simply a title based on a specific situation and circumstances. What is the best one day could no longer be the best the next day.
 
-Being "good" is, pragmatically speaking, simply being better than others.
-- An example of this is a staff engineer asking a lower level engineer about their opinion on what to do
+Being "good" is, pragmatically speaking, simply being better than others. It could also mean someone that doesn't cause issues or a person pointed at something and called it "good" one day, so that's the standard.
+- An example of the former is a staff engineer asking a lower level engineer about their opinion on what to do
 
 Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
 - The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
@@ -445,9 +445,15 @@ Does this mean Teacher A is bad? Not necessarily. We're dealing with another pro
 
 Teacher A may have some bad practices, but their observed, negative outcome is amplified by the environment they're in and the students they're handling. Teacher B has those same bad practices too, but have it masked by an environment functioning well on the surface and produces favorable outcomes. It's a case where a teacher is penalized professionally for factors outside their control and, by extension, taking on more "difficult" work.
 
-Normally, in the case of observations by other professionals, *multiple* metrics are recorded and documented to eliminate any over-reliance on one variable. Metrics may include management of a classroom, behavior management, lesson introduction, content delivery, responding to needs and issues, and so on. Observations, though they may inject bias and students can intentionally try to influence their results, can also directly see and consider the context of an educator's situation in regards to their evaluation during the observation.
+Normally, in the case of observations by other professionals, *multiple* metrics are recorded and documented to eliminate any over-reliance on one variable. Metrics may include management of a classroom, behavior management, lesson introduction, content delivery, responding to needs and issues, and so on. Observations, though they may inject bias and students can intentionally try to influence their results, can also directly see and consider the context of an educator's situation in regards to their evaluation during the observation. Even with context, it is ill-advised to ignore the dispositions and interests of any evaluators (which may indicate a leadership/relationship issue rather than a metrics issue).
 
 A solution for this isn't altering what the teachers do, but the environment teachers are in. In the case of teacher A, to change their environment from negative to positive, you may need *multiple parties* (parents, administrators, teachers, etc.) to enforce consequences for any student's bad behaviors and misconduct. If that setup is implemented, you could at least level the playing field for both teachers and then have the metrics focus more on the teachers themselves rather than their classrooms.
+
+Now, let's approach this scenario with a different perspective and ask if teacher effectiveness is portable (or transferable). Would simply adding a high-performing teacher solve the issue?
+
+The short answer is no. 
+
+The long answer is no because of an alphabet's list of reasons, including how management isn't easily replicated amongst groups, the environment *still* heavily affects how education is facilitated, and all the other nuances of human interactions and people involved in education systems vastly differ even among "similar" setups.
 
 ## **Bibliography**
 

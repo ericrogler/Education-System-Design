@@ -36,7 +36,7 @@ If you're not sure how to set up a process or workflow, start with the minimum (
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - This is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
 
-Last, but not least: Higher wages are one of, if not the most, universal benefits for any employee.
+Last, but not least: **the best managers are the ones who know when to pick their fights and when to step back.**
 
 ## **Long Answer**
 

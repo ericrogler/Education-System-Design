@@ -244,9 +244,21 @@ In short, there's a lot more work handling sensitive data that it may seem at fi
 
 Lastly, I'll cover one situation where a data leak did happen: Discord. This isn't putting a target on said application; only an observation [reported on by Cyber Security News](https://cybersecuritynews.com/discord-data-breach-sensitive-data/) (Baran, 2025) and [confirmed by Discord themselves](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service) (Discord, 2025). There was a security breach of a third party vendor from an unauthorized source. There may also be concerns about *how* said sensitive data was handled, such as the way it was stored, processed, and encrypted. Nevertheless, this one incident showcases what happens if someone misuses sensitive data: investigations happen and law enforcement gets involved.
 
-This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected too alongside children. Add onto this integrating age checks (which means storing and handling personal data) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft and undermines data protection in general.
+This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected by the information breach too alongside children. Add onto this integrating age checks (which means storing and handling personal identifiers) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft, therefore this information requires protection.
 
 Despite all of this, storing this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate.
+
+### **"Redshirting"**
+
+I will call out redshirting is *not* the same as repeating a year/grade.
+
+Additionally, this section is shining a light on the concept rather than explaining in detail.
+
+Birthdays are a surprisingly arbitrary method in education used to determine *when* a young kid may become a student. A common perception is it may be a way for parents to give their kids, or future students, an edge over their peers or a higher chance to succeed.
+
+Nevertheless, there's measureable outcomes of its results. For example, Malcom Gladwell in *Outliers* notes elite players in hockey (i.e. "best of the best") are significantly higher if they have birthdays from January to March and April to June versus July to September and October to December (2011).
+
+There's also evidence of *both* negative and positive results related towards redshirting (Fortner & Jenkins, 2017). Redshirting isn't a black and white issue, as it contains nuance and covers legal and medical issues beyond what this book can explore for readers. It's also not definitive whether or not redshirting is the cause or a symptom from another cause for any advantages it provides.
 
 ### **Teaching/Instructional Contracts**
 
@@ -312,9 +324,13 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 
 21. Federal Trade Commission. (2025). *Children’s Online Privacy Protection Rule (“COPPA”).* Federal Trade Commission; Federal Trade Commission. [https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
+21. Fortner, C. K., & Jenkins, J. M. (2017). *Kindergarten redshirting: Motivations and spillovers using census-level data.* Early Childhood Research Quarterly, 38, 44–56. [https://doi.org/10.1016/j.ecresq.2016.09.002](https://doi.org/10.1016/j.ecresq.2016.09.002)
+
 21. GED Testing Service. (n.d.). *GED*. [https://www.ged.com/](https://www.ged.com/)
 
 22. GDPR. (2018). *General Data Protection Regulation (GDPR).* GDPR. [https://gdpr-info.eu/](https://gdpr-info.eu/)
+
+22. Gladwell, M. (2011, June 7). *Outliers: The Story of Success*. Little, Brown Paperbacks. ISBN-10: 0316017930. ISBN-13: 978-0316017930.
 
 22. Higher Learning Commission. (2025). *Higher Learning Commission*. [https://www.hlcommission.org/](https://www.hlcommission.org/)
 

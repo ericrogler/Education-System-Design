@@ -19,19 +19,21 @@ AGI (Artificial general intelligence) is possible and AI may even replicate huma
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
+- As another example: [*The pedagogy of the impressed* by Convery](https://www.tandfonline.com/doi/full/10.1080/13540600802661303) and related works contain research showing what can happen with haphazard adoption of new technology (2009).
 
 **The problems you encounter don't often change, but the means (and technology) to address those problems can often change.**
 
 Opinion: The public proliferation of AI in just about every field and occupation is the equivalent of letting a person with no training pilot an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it. 
 - In case someone from those companies is reading this: no, this isn't an attack on you. 
 
-It's overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
+AI solutions are usually overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
 - Automation in history is usually adopted because it was far more effective *and* efficient compared to current methods to solve a problem. If the invention isn't *both* effective and efficient, it may not persist for long or cause detrimental damage to its users over time.
 - The biggest "hidden cost" is ambiguity and accidental complexity.
 - Other examples of overkill: giving frying pans and coffee machines firmware updates and AI.
 
-As for technology, we have enough tools to do things we never could've done before in the past, but we also lose the nuance for *how* things work "under the hood." There's also a lot of ways to abuse, exploit, and use technology, despite whatever guardrails you may implement.
+As for technology, we have advanced far and wide to do things we never could've done before in the past, but we also lose the nuance for *how* things work "under the hood." There's also a lot of ways to abuse, exploit, and use technology, despite whatever guardrails you may implement.
 - E.g. Chances are you probably don't know how to change over half the settings on a smart phone do, even if you're someone with one (almost) always on your person.
+- E.g. Deferring all of your thinking to an AI or any piece of technology may make you replaceable.
 
 ## **Long Answer**
 
@@ -41,7 +43,7 @@ Technology is permeating into classrooms at primary, secondary, tertiary, post-g
 - Whether or not this becomes a system administrator's nightmare in the future remains to be seen.
 - Though technology may intend to make education accessible, it can also make education more cumbersome.
 
-To give an example: a high school now provides every student with their own personal iPad (electronic tablet). It may have the following features:
+To give an example: a school may provide every student with their own personal electronic tablet (or similar, future technology). It may have the following features:
 - Specifications to run school required software at acceptable parameters
 - An internet browser
 - Camera software
@@ -357,6 +359,8 @@ If you want to try a different twist: you could create an assignment requiring A
 1. Brooks, Frederick P. (1986). ["No Silver Bullet—Essence and Accident in Software Engineering"](https://www.cs.unc.edu/techreports/86-020.pdf) (PDF). Proceedings of the IFIP Tenth World Computing Conference: 1069–1076.
 
 1. Cherepanov, Anton. (2025, August 26). *First known AI-powered ransomware uncovered by ESET Research.* Welivesecurity.com. [https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/)
+
+1. Convery, A. (2009). *The pedagogy of the impressed: how teachers become victims of technological vision.* Teachers and Teaching, 15(1), 25–41. [https://doi.org/10.1080/13540600802661303](https://doi.org/10.1080/13540600802661303)
 
 1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. [https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf)
 

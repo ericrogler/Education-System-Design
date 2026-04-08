@@ -45,7 +45,7 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 It is not solely the education system's fault that a student failed. This is the part where I kindly encourage readers to not displace blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes.
 - To put it another way: Public education reflects the public.
 
-This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems may operate.
+This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems and public services in general may operate.
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems to help students get a quality education they can control.
 - E.g. A hospital can provide a clean facility, competent staff, and appropriate care, but cannot resolve a patient's housing crisis.
 
@@ -102,11 +102,11 @@ Within both simple and complex systems, complaints flow downstream to the most v
 
 ### **External Stakeholders and Investors/Donators**
 
-You could include "higher ups" here if you wish and they could be individuals or organizations.
+You could include "higher ups" here if you wish and a stakeholder, investor, or donator can be either individuals or organizations.
 
-Investors and donators are a muddy territory in client relations. An education system needs wealth and resources to fund their endeavors and investors/donators provide those resources, often with some simple (read: *NOT simple*) terms and conditions. Perhaps it's utilizing a particular curriculum, following some certain rules, and so on. An organization or individual that's responsible for a large enough portion funding could even "own" part of an education system, which means they can influence decisions.
+Investors and donators are a muddy territory in client relations. An education system needs wealth and resources to fund their endeavors and investors/donators provide those resources, often with some simple (read: *NOT simple*) terms and conditions. Perhaps it's utilizing a particular curriculum, following some certain rules, and so on. An organization or individual responsible for a large enough portion of funding could even "own" part of an education system, which means they can influence decisions.
 
-Say, for example, you're trying to secure some funds or donations for an education system. Investors in businesses could be similar to investors in education, which means they may expect a return on investment (ROI). That means, if you need their funding, you may expect to prepare some of the following:
+Say, for example, you're trying to secure some funds for an education system. Investors in businesses could be similar to investors in education, which means they may expect a return on investment (ROI). That means, if you need their funding, you may expect to prepare some of the following:
 - A clear, concise pitch. Every second wasted is a dollar lost.
 - Demonstrate value. While "for education" sounds good, remember they need hard metrics to justify their spending.
 - Storytelling. For example, a skyscraper sounds normal, but *the world's tallest skyscraper?* Now you may've grabbed their attention.

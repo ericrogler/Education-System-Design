@@ -117,10 +117,11 @@ If you do not have HR, or an equivalent, I'd tell you to avoid the following:
 - Bullying and bringing down people through your words and actions
 - Relationships with students
 - Relationships (personal/romantic)
+- Inappropriate comments towards students
 
 There are *rare* exceptions to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class, but it's under the heavy caveat it's specifically related to education and a part of the class curriculum and lesson plans.
 
-In short: maintain a safe, acceptable, professional, and respectable distance between you and your students.
+In short: maintain a safe, acceptable, professional, and respectable distance between you and your students. You're a professional; you (hopefully) have standards.
 
 ### **Knowledge Blockers**
 

@@ -39,6 +39,8 @@ You may also need licensure or certifications to teach specific subjects or do p
 
 Fair, well-designed procedures are necessary to manage classrooms and behaviors from day one. Without them, you spend more time managing instead of teaching. A "fun" or casual teacher that lets students essentially do what they want is a nightmare to deal with for other teachers, administrators, and substitute teachers covering for the "fun" teacher. Do *not* be that teacher.
 
+Having a reason also does not equal having permission. Even if a student explains with a "But I" setup or tries to talk their way out of it, a redirection or request (like "please sit down" or "be quiet") is reasonable to comply with and a courtesy *before* a potential punishment. Just because a student tells an educator a reason why they're doing something does not make it valid to keep doing the thing, even if they're the one who didn't start it.
+
 **When people are not held to standards, they will not perform to standards.**
 
 If you need a one-liner? Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery.

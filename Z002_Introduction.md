@@ -27,11 +27,11 @@ Everyone can teach. If you can communicate a topic you know to another person, a
 
 ### **What The Book Isn't**
 
-To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. Though methods, frameworks, and ideas are mentioned, my intention is to be as tool-agnostic as possible.
+To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform, but I will mention what I personally found useful for myself occasionally. My intention is to present material here to be as tool-agnostic as possible.
 
 Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field, but they're exceptions and not the norm.
 
-I also do not expect this book to solve all system design problems related to education systems nor expect one single individual or organization to create such a system. It takes many kinds of people and groups in society working together. Even organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+I also do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system. It takes many kinds of people and groups in society working together. Even organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
 
 This book is also what I'll call a ground up approach. I feel this approach is the most accessible towards a general audience, which is why I take it. It examines from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down. 
 
