@@ -75,4 +75,4 @@ Avoid asking them questions dealing with heavy visual elements.
 
 1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007 [Video]. YouTube. [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o)
 
-## **[Next Chapter](Z026_Conclusion_Learnings.html)**
+## **[Next Chapter](Z024_Conclusion_Learnings.html)**
