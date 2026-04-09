@@ -40,7 +40,7 @@ Last, but not least: **the best managers are the ones who know when to pick thei
 
 ## **Long Answer**
 
-If a manager makes a mistake, a manager makes a mistake. "We need to be a team player" 
+If a manager makes a mistake, a manager makes a mistake. Not the people under them. 
 
 **Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems.
 

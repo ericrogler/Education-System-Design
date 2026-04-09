@@ -47,9 +47,9 @@ I'm going to draw parallels from two places you may not expect to see in a book 
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
-According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate *why* they are these values.
+According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter ("Operational Management") showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate *why* these breakpoints are at those values.
 - There's also mathematical formulae to help determine these values. See the Graicunas reference and paper links in the "Short Answer" section above for formulaic examples.
-- The concept of scaling isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic.
+- The concept of scaling discussed here isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic.
 
 Organizations in both public and private sectors don't fare well past these limits without appropriate planning. This planning includes, but is not limited to, communication methods, role designation and duties, and layers of management. 
 
@@ -61,9 +61,9 @@ Pretend you're an educator, teacher, or instructor.
 
 You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, which are past typical limits for managers and direct reports. 
 
-You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints *with only one manager*. Sometimes this is accommodated with assistant teachers, co-teachers, and other support staff. Sometimes this is not accommodated.
+You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints *with only one manager*. Sometimes this is accommodated with assistant teachers, co-teachers, and other support staff to assist at the "management" layer. Sometimes this is not accommodated.
 
-I'll discuss more on this below, but the general lesson is as the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. 
+I'll discuss more on this below, but the general lesson is as the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. The skills once reserved for product managers and managers in general now apply to *everyone*, as soft skills become more important with improvements in technology.
 
 ### **A Quick Aside**
 
@@ -78,19 +78,22 @@ Fun fact, I did project management before teaching. Additionally, me and my engi
 
 *I think I'm OK talking about this.*
 
-If you're making a business, you have to go through multiple hoops just to legally set up the business. There's registration with the State, market research, business plans, tax information, marketing plans, insurance, general management, contracts with labor and employment, licenses, banks, and many, many more.
+If you're making a business, you have to go through multiple hoops just to legally set up the business. For example, there's registration with the State, market research, business plans, tax information, advertising plans, insurance, general management, contracts with labor and employment, licenses, banks, and many, *many* more problems to address.
 
-If, for some reason, you actually want to start a business on the side, please refer to resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside scope here.
+If, for some reason, you actually want to start a business on the side, please refer to more dedicated resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside scope here.
 
-When starting out, you'll also want to set up communications like emails and websites through official business URLs (such as "companyname.com") rather than informal, personal emails for perception amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage and enforce than no workflow. 
-- As an aside, remember that *both* hiring and fully onboarding takes several months for every new person, employee, etc. you bring on! Plan for that time!
+When starting out, you'll want to set up communications like emails and websites through official business URLs (such as "companyname.com") rather than informal, personal emails for perception amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage and enforce than no workflow. 
+- As an aside, remember that *both* hiring and fully onboarding may take several months for every new person, employee, etc. you bring on! Plan for that time and expense!
 
-Additionally, if having to choose between two options, like which employees to hire, with similar performances between them, then use cultural/company fit as a tie-breaker. You'll want to be careful with bringing on new people, because the cost of one bad hire can quickly exceed the cost of recruiting and cause organizational issues. Even if someone will perform well, but cannot adjust to the environment, it'll still create issues.
+Additionally, if having to choose between two options, like two equally technical interviewees to bring into an organization, then use competency in soft skills (i.e. non-technical skills) and check for repeatable patterns of behavior as a tie-breaker. 
+- At the same time, be mindful of those who are good at presentation, but bad at execution.
+
+You'll want to be careful with onboarding new people because the cost of one bad hire can quickly exceed the cost of recruiting and further cause organizational issues. Even if someone will perform well, but cannot adjust to the environment, it'll still create issues.
 - You can also teach ability/skill far more easily than culture or mindset.
 - A really good employee being worth many employees is a widely accepted view, but you may risk a single point of failure and overworking them.
 - Don't expect top-tier talent unless you provide top-tier pay and benefits to keep them around.
 
-These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success and makes it easier to scale up.
+These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future.
 
 For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking at companies.
 
@@ -125,7 +128,7 @@ If you're at the top level here, or close to the top level, above, your goals st
 
 An assumed "upper limit" is about 4-5 managers with 8-10 employees each on average in a ~40-50 person organization. These people, called direct reports, are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors, and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
 
-You may also consider hiring on new individual contributors to assist you, the director, but remember they count towards the limit of direct reports. If their roles are not well-defined, they risk redundancy.
+You may also consider hiring on new individual contributors to assist you directly, the director, but remember they count towards the limit of direct reports. If their roles are not well-defined, they risk unnecessary overhead and are better off slotted under a manager to ensure clearer accountability and workload distribution.
 
 In smaller organizations, employee often wear multiple hats. When scaling up and expanding operations, you'll need specialists and managers to oversee new projects or expand existing projects. Generalists are still helpful, but you'll need to look into specialists to meet advanced project requirements. Some ICs may step up into management, but you may need to bring in outside managers and specialized individual contributors to fulfill new roles.
 

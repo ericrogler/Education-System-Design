@@ -26,7 +26,7 @@ This splits the text by chapter across multiple pages.
 - Legality
 - General Management
 - Scaling Growth in Organizations
-- Personnel in Operations
+- Operational Management
 - Macro[management] & Micro[management]
 - Classroom & Behavior Management
 - Standards / Objectives

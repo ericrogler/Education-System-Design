@@ -1,9 +1,9 @@
 ---
-title: 6. Personnel in Operations
+title: 6. Operational Management
 layout: default
 nav_order: 8
 ---
-# Personnel in Operations
+# Operational Management
 
 ### [Previous Chapter](Z004a_Management_Scaling_Growth.html)
 

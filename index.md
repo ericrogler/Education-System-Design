@@ -32,7 +32,7 @@ Table of contents for each chapter written below:
 - [Legality](Z003_Legality.html)
 - [General Management](Z004_Management_General_Teaching.html)
 - [Scaling Growth in Organizations](Z004a_Management_Scaling_Growth.html)
-- [Personnel in Operations](Z004ab_Management_Scaling_Operations.html)
+- [Operational Management](Z004ab_Management_Scaling_Operations.html)
 - [Macro[management] & Micro[management]](Z004ac_Management_Scaling_Macro_Micro.html)
 - [Classroom & Behavior Management](Z004b_Management_Classroom_Behavior.html)
 - [Standards / Objectives](Z005_Standards_Objectives.html)
