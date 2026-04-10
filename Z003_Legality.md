@@ -250,15 +250,13 @@ Despite all of this, storing this information is a necessary evil and future lia
 
 ### **"Redshirting"**
 
-I will call out redshirting is *not* the same as repeating a year/grade.
+Redshirting is *not* the same as repeating a year/grade. This section is shining a light on it rather than a full analysis.
 
-Additionally, this section is shining a light on the concept rather than explaining in detail.
+Birthdays are an arbitrary method in education to determine *when* a child becomes a student. Because of this, some parents may delay enrollment for their children to give them perceived advantages over peers.
 
-Birthdays are a surprisingly arbitrary method in education used to determine *when* a young kid may become a student. A common perception is it may be a way for parents to give their kids, or future students, an edge over their peers or a higher chance to succeed.
+There's measureable evidence that relative age matters too. For example, Malcom Gladwell in *Outliers* notes there's significantly more elite players in hockey (i.e. "best of the best") with birthdays earlier in the year (e.g. January to March and April to June), suggesting a small age difference compounds into advantages over time.
 
-Nevertheless, there's measureable outcomes of its results. For example, Malcom Gladwell in *Outliers* notes elite players in hockey (i.e. "best of the best") are significantly higher if they have birthdays from January to March and April to June versus July to September and October to December (2011).
-
-There's also evidence of *both* negative and positive results related towards redshirting (Fortner & Jenkins, 2017). Redshirting isn't a black and white issue, as it contains nuance and covers legal and medical issues beyond what this book can explore for readers. It's also not definitive whether or not redshirting is the cause or a symptom from another cause for any advantages it provides.
+There's also evidence of *both* negative and positive results from redshirting (Fortner & Jenkins, 2017). It's an open question if redshirting creates advantages or amplifies existing ones.
 
 ### **Teaching/Instructional Contracts**
 
