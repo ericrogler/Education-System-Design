@@ -42,16 +42,18 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
+Successful people rarely, if ever, achieve success on their own. They are products of their environment. One aspect includes the people you interact with. The same is true of education systems, as they require multiple people working together to be successful.
+
 It is not solely the education system's fault that a student failed. This is the part where I kindly encourage readers to not displace blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes.
 - To put it another way: Public education reflects the public.
 
 This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems and public services in general may operate.
-- E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems to help students get a quality education they can control.
+- E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A hospital can provide a clean facility, competent staff, and appropriate care, but cannot resolve a patient's housing crisis.
 
-Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney. On that same note, education systems must be allowed to enforce consequences. For many schools and education systems, this means enforcing consequences on the student *and* parent both, but at least the student in *every* education system.
+Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation or violence, or another similar act, is when that working relationship immediately ends and it's time to bring in security and/or the attorney. Education systems must be allowed to enforce consequences. For employees in many schools and education systems, this may mean enforcing consequences on the student *and* parent/guardian, not just the student.
 
-Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
+Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. Clients and people usually don't know what they want, but do know what they don't want. That doesn't mean people are adversaries to you, but their actions and goals may not line up with yours from time to time.
 - E.g. A status quo (existing environment) may persist because people still benefit from it.
 
 The amount of information you can display about students is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice and a lack of communication.
@@ -75,7 +77,7 @@ You might also hear this mentioned as stereotypes and this applies to many thing
 
 I'll stick with one example here: gender.
 
-Gender shapes perceptions of teachers, whether people admit it or not. Male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Female teachers may provide more support networks and have lower fears of retaliation, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
+Gender shapes perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. Male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Female teachers may provide more support networks and have lower fears of retaliation, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
 - I've seen, multiple times, male students treat female teachers worse, but male teachers better, despite both sets of teachers sharing the same roles, responsibilities, and skills.
 - Small aside: these same dynamics may occur to non-teachers and professionals across multiple fields too.
 
@@ -154,7 +156,9 @@ Another interesting reality about teachers and principals is potentially misalig
 
 ### **Parents & Adult Students**
 
-I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with and also spend far more time with them than any one educator might. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is probably still true today and will remain true in the future.
+I think of parents (and guardians) as apple trees. I've even told that directly to some parents and they've agreed! Besides that parenting is, at the end of the day, a mystery.
+
+Parents are a significant influence on all students you're dealing with and also spend far more time with them than any one educator might. If parents don't care about education, then it's more than likely their own children (i.e. students) also don't care about education. This is probably still true today and will remain true in the future.
 
 Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
 

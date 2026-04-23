@@ -32,7 +32,7 @@ If you're not sure where to find problems to solve, think of something that alre
 
 A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are, due to the nature of complexity, more prone to failure compared to simple designs. 
 - Use the simplest solution that meets your requirements. E.g. If you only need a hammer and nails, only use a hammer and nails.
-- [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple industries (2000).
+- [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple, diverse industries (2000).
 - Creating your own systems, setups, etc. makes sense when it provides a competitive advantage, otherwise it is a waste of time.
 
 **Your most important question is "Why?"** You don't jump straight into things or overengineer solutions when it's not necessary, especially if you'll never see the problems requiring advanced solutions. Acquire information and clarify requirements/context, when able, *before* working or you risk wasting time, money, and sanity.
@@ -43,7 +43,9 @@ A complex design is always worse than a simple design if they perform at the sam
 
 ## **Long Answer**
 
-**People eat with their eyes.** It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
+**First impressions are powerful and affect the rest of the experience.**
+
+People eat with their eyes too. It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
 
 Beyond food, "design" is present in many fields. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
 
@@ -330,7 +332,7 @@ Getting *repeat* customers and maintaining sales is much harder. This is where p
 
 There's also methods like "power creep" in many types of games. That is *not* planned obsolescence, but an evolutionary change and a consequence of shifting directions. An initial product can last for a long time, but adding newer products to bring back new and old customers may overshadow existing products. It's part of being a business and the need to continue selling content to consumers, adapt to an ever-changing environment, and avoid going stale.
 
-I'm not going into detail on this topic, but I do want you aware the concept exists.
+I'm not going into detail on this topic, but I do want you at least aware the concept exists.
 
 ### **What about EdTech?**
 

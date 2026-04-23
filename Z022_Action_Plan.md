@@ -26,7 +26,7 @@ Some readers may draw similarities to the Dunning-Kruger effect, which is nearly
 
 You're starting with little experience and think you have more knowledge than you really do. It includes how much you overestimate you're getting better and underestimate the amount of practice you actually need. The road to competency, especially in the first year, will likely, if not certainly, be fraught with failures and mishaps to humble this false confidence before you start improving and actually get good.
 
-**If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.**
+**If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.** If you're a first year educator, employee, etc. you may also be subject to more observations and sometimes pushed to do things to avoid termination, rather than an educator with many years of experience.
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
 - *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
 - Do not be everything to everyone; focus on teaching and managing students.

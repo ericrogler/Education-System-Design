@@ -59,6 +59,8 @@ For traditional testing and tests for subjects in your classroom, you define how
 
 For tests used to transfer into higher education or state assessments, expect a proctor guide on how to monitor students taking the test, including the test schedule, time allotments, break schedules, and the arrangement of students and desks in the testing area. 
 
-**Substitute teaching** can be assumed by a separate substitute teacher, or by a current teacher at the institution doing it during their non-teaching periods/timeslots. In general, follow the provided plans and ask support staff for guidance if needed.
+**Substitute teaching** can be assumed by a separate substitute teacher, or by a current teacher at the institution doing it during their non-teaching periods/timeslots. Sometimes an existing educator or administrator at a given school may be pulled in to cover classes in case substitute teachers are not available for coverage. Other times, like with SPED positions or physical education, classes may be merged together to cover the absence or no one covers the absence.
+
+In general, if you're in a substitute teaching position, follow the provided plans and ask support staff for guidance if needed.
 
 ## **[Next Chapter](Z018_Maintaining_Your_Health.html)**

@@ -33,6 +33,7 @@ When money is tied to metrics of success, people do things they normally wouldn'
 **Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** Metrics should inform decisions humans make, not replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric.
 - **Metrics are *diagnostic*, not prescriptive.**
 - **Correlation does not imply causation.**
+- **Making decisions on bad data is worse than decisions with no data**
 
 As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but force *every* student there to go into it, you're just replicating General Education again with additional steps and lost funds.
 - In general, a program that sells itself as a good fit "for everyone" is a program you should be skeptical of.
@@ -48,9 +49,11 @@ One part of that reality is **most data and information you work with and see is
 
 ### **Why Metrics of Success?**
 
+If you're dealing with other professionals, they may care about how you save them time and make them money. Metrics of success help you there.
+
 Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
-You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of these or just simply making it to the next day.
+You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces (*not* eliminates) that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of these or just simply making it to the next day.
 
 There are two types of data associated with metrics: quantitative and qualitative. Quantitative data is a specific and objective measure capturing numbers, quantities, and ranges. Qualitative data is based on subject and explanatory measures of qualities, traits, and characteristics. In short, quantitative is numbers and qualitative is words and images. Quantitative data may work alongside qualitative data, or separate from quantitative data, depending on your needs.
 
@@ -130,23 +133,27 @@ I could go on and on about other examples. Number of pages, word count, step cou
 
 ### **What If Metrics Mean Different Things?**
 
-If a metric means something different for multiple people, you're on the highway to communication errors, which potentially means lower performance and lost revenue.
+If a metric means something different for multiple people, you'll eventually, but certainly, get groups making conflicting decisions using the same information. *Every* metric requires a business owner who defines the metric and a technical owner who implements the metric. If there's no owner, the metric(s) should not affect decision-making.
 
-If you're in a position to do it *and maintain it* (because things always change over time), start with a single document or wiki page outlining what the metrics are, what each metric means, and how each metric is measured. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Afterwards, force every report and dashboard across the *entire* organization to adhere to that "common language" you established.
+If you're in a position to do it *and maintain it* (because things always change over time), start with a single documented definition outlining what the metrics are, what each metric means, and how each metric is measured. Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Humans tend to follow the path of least resistance, so your new standardized metrics shouldn't be harder to use or they may not be followed.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
+- If you're the one asking for this "single source of truth" and get someone/something else to make it, please do not ignore the stuff that is pulled together.
 
-This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It does, however, mitigate the issue where everyone uses the same metric, but tries to measure a different thing with that metric.
+This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It may also kill you spiritually and mentally on the inside depending on how complex/large the organization utilizing it is. It does, however, help mitigate the decision-making issue where two or more teams use the same metric, but interpret it differently.
 
-You could also implement a ticket system, which forces people to write down what they actually want or need before requesting or implementing a change for it. It's like doing a double take to confirm "do I actually need to change" before you go in and change it guns blazing.
-- Also ensure the ticket system has clear intake standards, like mandatory fields to fill out and write text in, to mitigate communication issues.
-- No ticket = no work
+You could also implement a ticket system, which forces people to write down what they actually want or need before requesting or implementing a change for it. It's like doing a double take to confirm "do I actually need to change" before you go in and change it guns blazing. The ticket system needs clear intake standards, like mandatory fields to fill out and write text in, to mitigate communication issues. You want to ensure it's lightweight enough it's actually used, rather than circumvented, and forces clarity instead of bureaucracy so you can eliminate vague, redundant, and unnecessary requests.
+
+You may encounter issues during this alignment phase. Sometimes you may not need to standardize *everything*, as there may be granular scale issues like team-specific metrics. A document or wiki may not fully cover all your needs either; you may need dashboards, code implementations, and centralized transformations towards databases so every new dashboard isn't a fork away from the truth. 
+
+Metric definitions are also not static. Much like how a system may grow and change over time, metrics may also change over time. If you don't track what changes, as well as when and why, you risk unreliable data and people losing trust in your metrics.
 
 ### **Diagnostics with Metrics**
 
-Let's say you're tracking a particular metric, or a group of metrics, and you notice values that don't look good.
+Let's say you're tracking a particular metric, or a group of metrics, and you notice values that don't look good or "don't seem right."
 
-Before you jump to conclusions and implement new changes, realize one fact: quantitative data (and qualitative to some degree) is good at revealing *what* is happening, but not *why* something is happening, how something is happening, or if the metric is even valid to continue measuring in the first place.
+Before you jump to conclusions and implement new changes, realize one fact: quantitative data (and qualitative to some degree) is good at revealing *what* is happening, but not *why* something is happening, how something is happening, or if the metric is even valid to continue measuring in the first place. In this case, you may need to directly ask the users/students what is happening and get qualitative data, like what they think about the material, what helped them learn or achieve a result, and most importantly track what they do.
 - It's possible to mitigate the *why* issue through additional metrics, but it may not fully solve the problem of why.
+- **A healthy skepticism is critical to limit improperly diagnosing what the real issues are.**
 
 To dive into one metric example: tracking attendance.
 
@@ -178,6 +185,33 @@ After data is collected and processed, then you can effective design whatever so
 
 Additionally, there is a hidden danger with quantitative metrics in particular: **quantitative metrics create an illusion of objectivity.** Say, for example, you're performing studies to figure out a System Usability Score (SUS) and surveying participants on how they feel about a system they tested. Though this is a quantitative measure, it is also entirely *subjective* since that score is based on a person's feelings or thoughts instead of hard data. That metric may be OK for diagnosing one product, but it should *never* be used to compare the effectiveness of one product against another product.
 - As further examples, this may include metrics with similar, subjective reporting methods from users like Net Promoter Score, customer satisfaction, Likert scales, pain scales, surveys, etc.
+
+### **Data and Data Issues**
+
+Many organizations collect data on all sorts of things. This isn't limited to education systems either.
+
+The problem arises in three ways: 
+1. There is too much data to process in a reasonable timeframe.
+2. The data collected is messy and not cleaned properly.
+3. The collected data isn't even useful.
+
+#1 is an issue related to your system's capabilities, rather than any process being wrong, and delves into the cost of collection and analysis. Nevertheless, if you have too much data and aren't sure what to do with it, the question is *why* are you collecting so much data in the first place?
+
+#2 is a process issue concerning hygiene. Data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
+
+#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, there's also certain data you have to collect, secure, and hold onto. This issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
+
+Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
+1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
+2. Very few people, if no one, wants to govern data (i.e. set data policies) from observation.
+3. Many stakeholders don't know what they want, are vague, or change expectations frequently.
+4. Access to data (and technology/tools) you need for your duties may be restricted and acquiring access may also be outside your control.
+
+If you combine the first two points above, you get two new problems: the data "being wrong" and getting multiple reports with multiple numbers. The first problem means there's no clear definition of what is right or "normal" in the data context. The second problem means multiple people are operating with vague (and often different) requirements, rigor, and contexts, possibly even different data sources, so each creates their own version of what is "right" and scramble to find a resolution when things go wrong.
+
+The third problem is something to expect in any business across any context. What sounds like a fun idea in the moment risks scope creep and derailing a project if you try to implement it, so getting people to figure out what they actually want is almost its own skill entirely.
+
+Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
 ### **The White and Orange Exception**
 
@@ -389,33 +423,6 @@ To give one case requiring reader judgment: Rating a professor across two course
 Despite the many ways to reduce bias in this metric, there are things it won't accurately, or fully, capture. This includes accommodations, the handling of sensitive topics and information, the transparency and methodology behind grading, how they respond outside of class, and more. A review may capture these to some extent in its explanation (if the system permits elaboration on reviews), but is bound to leave out gaps.
 
 Alternatively, there may be internal or "official" reviews given by existing students, other educators, professionals, and administrators. These typically exist separately from easy-to-access, online review platforms and generally have more backing and trust behind them. It's why administrators do observations on teachers and professors; to fill in gaps of information and verify things are going as intended.
-
-### **Data and Data Issues**
-
-Many organizations collect data on all sorts of things. This isn't limited to education systems either.
-
-The problem arises in three ways: 
-1. There is too much data to process in a reasonable timeframe.
-2. The data collected is messy and not cleaned properly.
-3. The collected data isn't even useful.
-
-#1 is an issue related to your system's capabilities, rather than any process being wrong, and delves into the cost of collection and analysis. Nevertheless, if you have too much data and aren't sure what to do with it, the question is *why* are you collecting so much data in the first place?
-
-#2 is a process issue concerning hygiene. Data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
-
-#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, there's also certain data you have to collect, secure, and hold onto. This issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
-
-Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
-1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
-2. Very few people, if no one, wants to govern data (i.e. set data policies) from observation.
-3. Many stakeholders don't know what they want, are vague, or change expectations frequently.
-4. Access to data (and technology/tools) you need for your duties may be restricted and acquiring access may also be outside your control.
-
-If you combine the first two points above, you get two new problems: the data "being wrong" and getting multiple reports with multiple numbers. The first problem means there's no clear definition of what is right or "normal" in the data context. The second problem means multiple people are operating with vague (and often different) requirements, rigor, and contexts, possibly even different data sources, so each creates their own version of what is "right" and scramble to find a resolution when things go wrong.
-
-The third problem is something to expect in any business across any context. What sounds like a fun idea in the moment risks scope creep and derailing a project if you try to implement it, so getting people to figure out what they actually want is almost its own skill entirely.
-
-Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
 ### **What about if the entire class fails?**
 

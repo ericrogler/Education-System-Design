@@ -28,11 +28,17 @@ Tertiary education (colleges, universities, etc.) and secondary education offeri
 
 *Repeat Notice: All information in this chapter is NOT legal advice.*
 
+**Generally speaking, laws related to education are rights-based and regulatory, which typically means one of two things (or even both things at once):**
+1. Provide protections and accommodations to people within them (students, staff, organizations, etc.)
+2. Enforce and determine how education and educational content should be executed.
+
 It doesn't matter if you're a teacher, an administrator, or a non-education role working with education systems. There's a *lot* of laws to get familiar with and they're all important.
 
-Legality protects everyone involved in an education system.
+Legality involves *everyone* involved in an education system.
 
-First, the obvious. What is a law is still a law you follow in education.
+First, the obvious. What is a law is still a law you follow in education. There's a lot of laws, but limited resources to comply with said laws, which means education systems will contend with legal mandates vs practical implementations at least once during their lifetime.
+- E.g. SPED teachers with caseloads over legal maximums for students with IEPs or too many students with accommodations for educators to reasonably meet *all* accommodations.
+- For a non-education example, one parallel is nurses in medicine who are "over matrix" on patients for their particular ward based on available staff and resources.
 
 As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so my examples are from there and I will use Colorado as my primary reference for this chapter. Other states should have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
@@ -55,6 +61,7 @@ Using the State of Colorado as an example, I had some level of interaction with 
 - International Baccalaureate (IB/IBO)
 - ACT
 - College Board (SAT, AP, etc.)
+- Payment Card Industry (PCI and PCI-DSS)
 
 **State Level**
 - Colorado Department of Education (CDE)
@@ -120,6 +127,22 @@ For more information on FERPA and HIPAA, see the following links below:
 Per the U.S. Department of Health & Human Services (2020) and the American Academy of Pediatrics (2024), the FERPA and HIPAA relationship stems from the fact that educational records covered under FERPA are excluded from HIPAA, but both cover personal information. They both have their own set of regulations when it comes to disclosing health information as well.
 
 In a teaching position, expect to follow FERPA guidelines more than HIPAA guidelines, but you'll still need to abide by both laws.
+
+To list out several examples of what is generally protected information, at the time of this writing, in case HIPAA, FERPA, etc. no longer exist in the future:
+1. Address
+2. Dates of admission (starting/ending education at a particular location, system, etc.)
+3. Birthdate
+4. Phone numbers (cellphone, fax, telephone, etc.)
+5. Social Security number
+6. Educational record number
+    - Additionally a medical record number if medical services are provided within education systems
+7. Student account number(s) and credentials
+9. Student plans and any insurance information (504, IEP, healthcare, etc.)
+10. Vehicle information
+11. Equipment access, numbers, credentials, etc.
+12. Photographs and videos
+13. Fingerprints
+14. Email addresses
 
 ### **Student Disabilities and Accommodations**
 
@@ -347,6 +370,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 24. National Architectural Accrediting Board. (n.d.). *NAAB*. [https://www.naab.org/home](https://www.naab.org/home)
 
 25. Office of Juvenile Justice and Delinquency Prevention. (n.d.). *OJJDP*. [https://ojjdp.ojp.gov/](https://ojjdp.ojp.gov/)
+
+25. PCI Security Standards Council. (2024). PCI Security Standards Overview. PCI Security Standards Council. [https://www.pcisecuritystandards.org/standards/](https://www.pcisecuritystandards.org/standards/)
 
 26. Pynchon, T. (1973). Gravity’s Rainbow [Review of Gravity’s Rainbow]. Viking Press.
 

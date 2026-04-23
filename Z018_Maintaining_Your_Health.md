@@ -15,7 +15,7 @@ nav_order: 27
 
 ---
 
-***Disclaimer: All items in this section are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
+***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
 
 If possible, have a nice day. Enjoy your life when you can.
 
@@ -39,11 +39,19 @@ With either way, be careful not to get taken advantage of and know when to set b
 
 ## **Long Answer**
 
-I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on.
+I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. What you and I can probably agree on though is good food boosts morale and how you feel after eating it.
 
 Alternatively, I could talk about how nurses and some licensed medical staff can know something is wrong with someone and put the information together to get the right people involved, but not have permission to diagnose someone themselves.
 
 Nevertheless, here's to hoping this chapter doesn't attract too much ire.
+
+What defines meaningful work differs from person to person. In this book, we'll say meaningful work (or work you can feel happy about doing) sufficiently fulfills three areas:
+1. Complexity
+2. Autonomy
+3. Appropriate effort vs reward
+
+If the work is too simple, you may zone out and atrophy your thinking skills. If you're not autonomous enough, you may not develop the necessary critical thinking to make decisions when push comes to shove. Lastly, if the effort isn't worth the reward, you might not value the work you're putting in in the first place! 
+- If someone says "no one wants to work," chances are they aren't providing at least one of these items above.
 
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to perform duties. You may also deal with increased workloads/duties, fewer support networks, reduced protections, and countless demands to do what's needed regardless of resources available. If it gets bad enough, someone may be in "survival mode" and simply doing what they can to get by rather than excel.
 - E.g. it feels like you have to always do more with less with every passing year.

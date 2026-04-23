@@ -23,17 +23,23 @@ An educator exists in many different forms. There's the formal teacher many stud
 
 Because a educator exists in many different forms, they can come from many backgrounds. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall over a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
 
-Everyone can teach. If you can communicate a topic you know to another person, and they can understand it, you're capable of teaching someone.
+While everyone can teach, people should be trained, or at least spend time figuring out, how to actually teach or else you get a blind leading the blind situation. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up.
+
+### **What's the Goal?**
+
+1. To increase the probability of success for a new or existing education system
+2. To explain some of the nuances and practicalities other materials may skip over or not address plainly.
+3. To help others design their own education systems
 
 ### **What The Book Isn't**
 
 To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform, but I will mention what I personally found useful for myself occasionally. My intention is to present material here to be as tool-agnostic as possible.
 
-Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field, but they're exceptions and not the norm.
+Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field, but they're exceptions and not the norm. Due to this propensity for change, some information may not map 1:1 on relevance in the future, but hopefully maintains a sense of timelessness.
 
-I also do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system. It takes many kinds of people and groups in society working together. Even organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+I also do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system. It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
 
-This book is also what I'll call a ground up approach. I feel this approach is the most accessible towards a general audience, which is why I take it. It examines from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down. 
+This book also uses what I'll call a "ground up" approach. I feel this approach is the most accessible towards a general audience, which is why I take it. It examines from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down. 
 
 ### **Who Should Read This Book**
 

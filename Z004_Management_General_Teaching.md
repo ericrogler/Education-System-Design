@@ -25,9 +25,9 @@ As great as the quotation above is, sometimes being visible is what gets you not
 **The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's probably a parallel with "passing up students" and "failing upward" somewhere in here.*
 
-Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
 - Similar advice applies for managers in other industries, like engineering.
-- E.g. You don't want to be the manager in a "data driven" meeting and not know anything about how data works; that's just a recipe for embarassment.
+- E.g. You don't want to be the manager in a "data driven" meeting and not know anything about how data works; that's just one recipe for embarassment.
 
 If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
@@ -144,7 +144,7 @@ Here's more examples of what a manager may do:
 
 There's a lot of things here. It reinforces the point that it's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of every other element.
 
-### **Everyday Management Rules**
+### **Everyday Management**
 
 There are rules (that are more like "guidelines") you should follow with every management style:
 
@@ -481,6 +481,23 @@ One other thing you may think scales well, but actually doesn't, is teaching thi
 
 Lastly, if you're considering bringing in someone new into the culture, you should give them time to *observe* the culture first before they make any changes to that culture.
 - You may see me echo similar advice multiple times in this book.
+
+### **Emergency Response Systems**
+
+Sometimes, things go beyond bad and into worse. Plans for emergencies try to cover these situations.
+
+For education, this may include tornado, earthquake, fire, hurricane, and shooter/security drills. For other industries, like medicine and hospitals, this may be things like code blue, sepsis alert, rapid response, code white, security alert (or code green), and controlled access. Sometimes the emergency codes are obvious and other times intentionally obscured to limit panic.
+
+There's several things to consider with emergencies:
+1. What even *are* considered emergencies?
+2. How to state which exact emergency is happening (students, other staff, etc.).
+3. What method to communicate said emergency to the relevant parties.
+
+The first part seems easy at first, but is more complex than expected. Think about things that your normal staff aren't equipped to handle. A person having a stroke or a medical emergency, surrounded by people who cannot properly treat that, is one example of an emergency fitting that criterion. Also think about things not related to people, but could affect the entire area where people are at, like natural disasters or issues with building functions affecting the facilities.
+
+The second part is more complicated and verbose. You need to communicate information quickly with as little room for misinterpretation as possible. While an entire sentence like "Student X is having a stroke in my classroom" may work, a shorter version like "Stroke Alert, Classroom ###." is faster to communicate. There's also codifying the system and differentiating each emergency you're addressing as a separate entity. For example, take the concept of the NATO Phonetic Alphabet, where unique words represent each letter, and apply it to emergencies where unique "codes" represent each emergency.
+
+The third part concerns not what was said, but how it is said. Some emergencies may warrant an intercomm or long-range communication, while other emergencies need an in-person message to convey what's going on. If people are typically located far apart from each other, you'll need a way to communicate at distance quickly. If two people are only a few feet, or a small room apart, then you may not need that same equipment. Though you could prepare for a small list of emergencies at the start, that list may grow as you scale up a system and the preparation, methods, training, and equipment required also scales up.
 
 ## **Bibliography**
 

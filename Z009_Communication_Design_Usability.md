@@ -115,7 +115,7 @@ Culturally responsive pedagogy and CR-S can be associated with differentiation, 
 
 ### **The "Science of Reading"**
 
-As I've taught primarily Science, Engineering, and STEM rather than Literature and English, I won't delve into this section too much, but it is worth a mention.
+As I've taught primarily Science, Engineering, and STEM, I won't delve into this section too much, but it is worth a mention.
 
 Science of reading is the culmination of reliable evidence and knowledge about learning to read and how to teach reading, drawing upon many fields to inform its practices. Every subject requires reading in some way, shape, or form, whether through digital literacy or instruction in general.
 
@@ -126,6 +126,23 @@ Even if you're not an educator teaching reading directly, you may still encounte
 To address an elephant in the room: saying a curriculum or program is a "science of reading" curriculum does not make it one. I could declare this entire book is grounded in the science of reading, despite you and I full well knowing it's essentially just this section (and perhaps references elsewhere, at best).
 
 Despite what vendors may claim, it is still up to institutions, and by extension individuals, to vet programs and materials and confirm if they *truly* meet the desired and required standards.
+
+### **The Trust Thermocline**
+
+While this could be a management or even an engineering problem too, I'm going to classify it as a user experience problem in this book. 
+
+You may have seen the word thermocline by itself in oceanography to describe the transition zone between warmer water and cooler water (i.e. going from the epipelagic zone to the mesopelagic zone) (NOAA, 2024). When you reach this thermocline, you'll easily know it and feel it by the sudden change in temperature.
+
+The trust thermocline is similar to oceanography's thermocline. It's a business concept describing the point where a consumer *chooses* to stop utilizing a product/service, or when the desire to keep using it is overshadowed by the desire to abandon it. You could consider it a hidden risk of business, because users abandoning your product means they lost any emotional and logical attachment to it and they aren't giving you money for your product(s) anymore. You also cannot manage it reactively, as you can only take proactive steps to hope that point is not reached.
+
+Many products and services can fail by passing this threshold. This isn't a linear graph or system either, because you can reach it through one, specific event or a series of events with the straw finally breaking the camel's back. Each person also has a specific threshold for where this point occurs; a fair weather fan may falter after a single bad instance but a hardcore fan may not swap over until the writing is literally on the wall.
+- i.e. Gradually, then suddenly.
+
+Once it's crossed, it's *usually* the point of no return. While you can weather the trust loss with enough financial resources or time, or even pivoting to a new industry to maintain revenue streams, the damage is ever present. It's severe enough that the best solution is not to cross the threshold at all in the first place. Though a user may have happy memories of a product or service, especially if they've used it for a long time, even they can still abandon it.
+
+In an education system, this can apply to anyone inside of it. For students, they may have happy memories about a school or learning experience they had throughout the years, only for a later event to sour it down the line. For educators and other staff members, they may have utilized a service to deliver education for several years, yet grew increasingly frustrated with its performance and company's stance on improvements until one day they decide to make the switch.
+
+And what happens when people aren't happy with a product? They'll look for ways to stop using it.
 
 ## **Bibliography**
 
@@ -143,6 +160,8 @@ Despite what vendors may claim, it is still up to institutions, and by extension
 2. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
 
 2. New York State Education Department (NYSED). (2018). *Culturally Responsive-Sustaining Education Framework*. [https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf](https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf)
+
+3. NOAA. (2024). *What is a thermocline?* Noaa.gov. [https://oceanservice.noaa.gov/facts/thermocline.html](https://oceanservice.noaa.gov/facts/thermocline.html)
 
 3. Open Source Initiative. (n.d.). *The MIT license.* [https://opensource.org/license/mit](https://opensource.org/license/mit)
     - Future Reading Source

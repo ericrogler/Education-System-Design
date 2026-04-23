@@ -37,11 +37,17 @@ As for technology, we have advanced far and wide to do things we never could've 
 
 ## **Long Answer**
 
+This chapter has a two sentence horror story for system administrators (and similar roles in the future).
+
+"Do you have a backup?"
+
+"No."
+
+Now then, let's talk about technology.
+
 ### **A Technology Overview in Education**
 
-Technology is permeating into classrooms at primary, secondary, tertiary, post-graduate, and adult education. This has accelerated greatly since COVID back in 2020. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments.
-- Whether or not this becomes a system administrator's nightmare in the future remains to be seen.
-- Though technology may intend to make education accessible, it can also make education more cumbersome.
+Technology is permeating into classrooms at primary, secondary, tertiary, post-graduate, and adult education. This has accelerated greatly since COVID back in 2020. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments. Though technology may intend to make education accessible, it can also make education more cumbersome.
 
 To give an example: a school may provide every student with their own personal electronic tablet (or similar, future technology). It may have the following features:
 - Specifications to run school required software at acceptable parameters
@@ -49,7 +55,7 @@ To give an example: a school may provide every student with their own personal e
 - Camera software
 - A monitoring software/setup in the backend so a teacher can monitor what's on a student's screen in the background during their specific class period
     - These softwares typically just project what's actively showing on one screen to a dashboard/another screen
-    - In this example, it's also the *school's* computer, not the student's. The school may do this.
+    - In this example, it's also the *school's* computer, not the student's. The school may be cleared to do this!
 - Proprietary security system
 - Email
 - Assignment and work software
@@ -71,27 +77,26 @@ Technology, like computers and cell phones, can also be misused by students *and
 - Example 2: Sharing your password with someone else so they can use your device or a school provided device in general.
 - Example 3: Keeping the default settings, which are easy to find out about, for a username/password to an administrator account.
 - Example 4: Making "12345" the combination to your luggage.
-- Example 5: You might also be [working at the Louvre and have the password set to "Louvre" for your surveillance system](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297) (Leath & Geho, 2025). 
+- Example 5: [Working at the Louvre with the password set to "Louvre" for your surveillance system](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297) (Leath & Geho, 2025). 
     - While that's easy to remember, that's just as easy to guess and cause havoc with.
-- Example 6: 
 
-There's also more points to consider with technology:
-- User privileges (e.g. students and staff) may be deliberately limited to mitigate permanent damage through software in devices vs administrator privileges (e.g. IT teams).
+There's also more points to consider when implementing new technologies:
+- User privileges (e.g. students and staff) should be deliberately limited to mitigate permanent damage and risks through software in devices vs administrator privileges (e.g. IT teams).
 - Unauthorized software may violate licenses and school policies, introducing more legal trouble.
 - Damages may lead to financial responsibility and paying back losses.
 - Malware and insecure software on one system can easily and quickly spread to every other connected system in a network.
 
 Though technological misuse can be mitigated through proper training, humans still remain one of the easiest, if not *the* easiest, ways to cause damage to technology in any setting. This applies to schools, homes, businesses, and many more places.
 
-As another example of human engineering above: there's a possibility you have security systems up-to-date and ready to defend against intrusions, but something like an employee's computer got breached and now there's an open door into every other system ripe for the taking.
+As another example of human engineering: there's a possibility you have security systems up-to-date and ready to defend against intrusions, but something like an employee's computer got breached and now there's an open door into every other system ripe for the taking.
 
 Human engineering *can* be mitigated through training, like an IT team running phishing tests/exercises. Remember, however, that these trainings only reduces suspectibility and cannot fully eliminate it, but it does make it harder and more costly to try and compromise. The entire point of these exercises is to *safely* expose people to examples of emotional manipulation and dishonesty a malicious individual (e.g. a "black hat") may employ so users can identify it and know it's a scam rather than legitimate. By training a human's ability for pattern recognition and exposing known patterns, it lowers the risk of emotional manipulation and not falling for these traps out in the wild!
 
-Phishing tests are somewhat similar to how a vaccine "trains" white blood cells with a weakened version of a virus to better defend against and mitigate the virus's potential severity. Like bad actors, viruses also won't care about emotional manipulation to break through your security measures and inflict damage on whatever system it can access. For example, you'd be surprised how a well framed "RSVP for free food in lounge by end of day" can get even cautious people to fall for it. What that example *alone* preys on is some of the following:
-- Relevance to the reader (free food!)
-- Appears "trusted" (sent interally)
-- A sense of urgency or time component (end of day)
-- Low-stakes/not much effort needed (a simple RSVP)
+Phishing tests are somewhat similar to how a vaccine "trains" white blood cells. You may use a weakened version of a virus to train the body on how to better defend against and mitigate the virus's potential severity. Like bad actors, viruses also won't care about emotional manipulation to break through your security measures and inflict damage on whatever system it can access. For example, you'd be surprised how a well framed example like "RSVP for free food in lounge by end of day" can get even cautious people to fall victim. What that example *alone* preys on is some of the following:
+- Relevance to the reader (free food, yay!)
+- Appears "trusted" (sent interally within company, so passed some filters)
+- A sense of urgency or time component (end of day (today))
+- Low-stakes/not much effort needed (a simple RSVP which could take less than a minute)
 
 To dilute technological security (i.e. cybersecurity) down into two points:
 1. Technology, and its security, is far more protected with better protocols and tools continuously improving over time. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
@@ -105,11 +110,13 @@ Lastly, if you ever design something and have even the slightest concern about s
 
 Imagine you have 100 servers to store your sensitive data, like personal records, transaction information, bank account information, and more. Now pretend those servers are located inside of a fortress.
 
-It's easier to defend one gate into all the servers versus 100 gates to access the servers. By reducing the attack surface and funneling attackers into one control point, you increase the overall defense of the fortress.
+It's easier to defend one gate into all the servers versus 100 gates for each server. By reducing the attack surface and funneling attackers into one control point, you increase the overall defense of the fortress.
 
-This concept applies to medieval times and modern times. In modern times, you may see this with authentication, monitoring, and authorization checks before entry is permitted. A physical school building may have one secure entry point visitors go into, check in at, and receive permission at before safely proceeding forward. Since you only have one entry point, you want to do everything to ensure proper safety but also do everything quickly to reduce queues/waiting time.
+This concept applies to medieval times and modern times. In modern times, you may see this with authentication, monitoring, and authorization checks before entry is permitted. A physical school building may have one secure entry point visitors go into, check in at, and receive permission at before safely proceeding forward through a second barrier. Since you only have one entry point, you want to do everything you can to ensure proper safety but also do everything quickly to reduce queues/waiting time. **Security is a balancing act between protection and mobility.**
 
-While it's possible to get in through unorthodox means, it's far harder to do so by limiting the number of entries past your "walls." Though you might need to increase how many gates you build as you scale up in size, you're strict on limiting the number of possible entries. What was a strategy for survival is now a risk mitigation strategy.
+While it's possible to get in through unorthodox means, it's far harder to do so by limiting the number of entries past your "walls." Could someone still break through the wall instead of the gate? Sure, but it'd be significantly more difficult and that difficulty to breach it is a deterrant. Though you might need to increase how many gates you build/permit as you scale up in size, you must stay strict on limiting the number of possible entries. 
+
+What was a strategy for survival in medieval times is now a general risk mitigation strategy in modern times.
 
 ### **Computer Literacy**
 
@@ -146,7 +153,7 @@ While technology is a good thing, there can be too much of a good thing.
 
 Getting AI to do something isn't the same as you doing something yourself. It's like a client describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer. Intent is not authorship.
 
-Most AI use in education is *doing the work for someone else* and should not to be confused with getting the work done. If a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
+Most AI use is *doing the work for someone else* and should not to be confused with getting the work done. In education, if a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
 - For example: the text you're reading now. AI could generate an answer for everything here, but I know the material here because I did the human element; putting in the work *and writing the thing in the first place.* The act of going through the work reinforced my knowledge, which is crucial for learning.
 - AI used in this way also permeates a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand.
 
@@ -295,7 +302,7 @@ Despite that viewpoint, I wouldn't be surprised if someone told me people were *
 
 All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it, so it's no surprise to me sudden and easy access to it may cause attachment.
 
-It isn't a stretch to believe AI acquired sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert. Many people may unintentionally, or intentionally, insert private/legally protected information into an AI model, which means it then *can* utilize that data. AI can, and has, been utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of these feats, showing accessibility is an additional concern.
+It isn't a stretch to believe AI acquires sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert. Many people may unintentionally, or intentionally, insert private/legally protected information into an AI model, which means it then *can* utilize that data. AI can, and has, been utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of these feats, showing accessibility is an additional concern.
 - A seemingly innocent case may be using AI to parse content and generate summaries of a website on a search engine so you don't have to visit the website to learn about something (Law & Guan, 2026).
 
 There's also only so much data available to train an AI model on. A lot of available data is built upon centuries and millenia of prior information generated by people and translated into machine readable formats. It's entirely possible to "run out" of data to feed an AI to let it solve problems, which may inhibit its progress and slow improvements to its functions.
@@ -309,9 +316,9 @@ Lastly, AI is an umbrella for many types of automation and large language models
 
 ### **Cost of AI Implementation?**
 
-In general, cost and latency (time taken) scale with scope. The larger the scope (or more general), the more it costs. 
+In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. 
 
-The most straightforward cost is the sheer quantity of data required to train AI (i.e. be "artificial general intelligence"). It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into a *single* model for training. The necessary amount increases with the more tasks you want AI to do and decreases with fewer tasks. Additionally, the more data to process, the more time it takes to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
+The most straightforward cost is the sheer quantity of data required to train AI (i.e. to become "artificial intelligence"). It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into a *single* model for training. The necessary amount increases with the more tasks you want AI to do and decreases with fewer tasks. Additionally, the more data to process, the more time it takes to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
 
 AI and related systems, like LLMs, have many of the following traits:
 - AI frequency/usage can multiply costs like complexity does and accrue *for each user request* in addition to any initial setup costs.
@@ -335,7 +342,7 @@ I'll emphasize this part only talks about cost and complexity in automation. It 
 You could also design your own AI instead of utilizing another AI service another provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay high costs per use, but you may lack the sheer processing power and quality of life a provider can afford through more resources and technology backing their models.
 - People may not even care if you can make a copy of a service for cheaper too, because it's not *that brand's product.* Name-brand recognition is very powerful.
 
-### **Potential Solution(s) to AI in Class Settings**
+### **Potential Solution(s) to AI in Education**
 
 As a reminder, AI can do some tasks really well and other tasks it flops down like a sad pancake on a griddle. If anything, it may make educators go *more* analog and avoid its implementation.
 
@@ -345,11 +352,12 @@ It also means adapting how the classroom functions to get more work done *in* cl
 
 Accommodations may alleviate some of these restrictions, but likely not all of them to preserve educational integrity. If it's handwritten, there's also fewer techological barriers and fewer excuses for why something isn't done.
 
-To counter this, a teacher may resort to doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology (i.e. paper and pencil). In shorter terms: all graded work is done in-person and they're back to paper and pencil. I find it ironic reverting technological progress for education is now a solution, but alternatives are limited and it does work despite any drawbacks.
+To counter this, a teacher may resort the to eliminating virtually all technology and doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology. In shorter terms: all graded work is done in-person and students are back to paper and pencil. I find it ironic reverting technological progress for education is a solution, but alternatives are limited and this solution *does* work despite its drawbacks.
 
-Another solution is establishing a clear, consistent strategy and guidance regarding AI (and other technological means of "cheating"), but it requires administrators or decision-makers to acquire techincal literacy. A quick training would not suffice either; they'd have to *really* spend time and learn about it or risk an ineffective implementation leading into a disasterous outcome. Without any support for educators within an education system, any education provided is at risk.
+Another potential solution is establishing a clear, consistent strategy and guidance regarding AI (and other technological means of academic dishonesty), but it requires administrators or decision-makers to acquire techincal literacy and permit these controlled methods. A quick training would not suffice either; people would have to *really* spend time and learn about it in-depth or risk an ineffective implementation leading into a disasterous outcome. Without any support for educators within an education system, any education provided is at risk of exploitation through technology.
+- E.g. a system may have students use a particular software to track all activity, revisions, etc. to *mitigate* undetected cheating while also permitting technology use.
 
-A third solution for technology *in general*, not just AI, includes creating an isolated space for educators to experiment and test out learning solutions. The downside is this method is resource-intensive and some schools and learning platforms cannot readily support it with what's available. Nevertheless, this potential method promotes in-house solutions tailor-made to work in a specific system instead of adopting or adapting a general solution with varying success.
+A third solution for technology *in general*, not just AI, includes creating an isolated space for educators to experiment and test out learning solutions. The downside is this method is resource-intensive and some schools, education systems, and learning platforms cannot readily support it with what's available to them. Nevertheless, this potential method promotes in-house solutions tailor-made to work in a specific system instead of adopting or adapting a general solution with varying success.
 
 If you want to try a different twist: you could create an assignment requiring AI usage and declare cheating for those who did the assignment without AI.
 - You could probably defend it by saying "the assignment asked for a specific software to complete it, but the student didn't use that software so they failed."

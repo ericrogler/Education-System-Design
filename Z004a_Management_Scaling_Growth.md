@@ -29,15 +29,13 @@ Scaling up typically involves things like:
 - New management layers
 - Role specialization
 - Process generalization
-- Communication formalization
-- New communication difficulties
+- Communication formalization and new difficulties
 
 A 5 minute email can have the same, if not better, results than a 1 hour meeting. Learn when to do emails over meetings.
 
-**If you don't know why your manager (or superior in general) wants something, it's usually ok to just ask them why it is important.**
+**If you don't know why your manager (or superior in general) wants something, it's usually ok to just ask them once why it is important.**
 
 The typical ratio of manager to direct reports I can reasonably assume is around 1 to 7-10, given or take a few more or less direct reports, depending on role, scope, manager experience, and proficiency. It's basically a judgment call.
-- If interested in my basis for that ratio, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (1938) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
 
 ## **Long Answer**
 
@@ -47,8 +45,8 @@ I'm going to draw parallels from two places you may not expect to see in a book 
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
-According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter ("Operational Management") showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate *why* these breakpoints are at those values.
-- There's also mathematical formulae to help determine these values. See the Graicunas reference and paper links in the "Short Answer" section above for formulaic examples.
+According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter ("Operational Management") showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate, through hypotheticals, *why* these breakpoints are at those values.
+- If interested in my primary basis for these ratios, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (1938) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
 - The concept of scaling discussed here isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic.
 
 Organizations in both public and private sectors don't fare well past these limits without appropriate planning. This planning includes, but is not limited to, communication methods, role designation and duties, and layers of management. 

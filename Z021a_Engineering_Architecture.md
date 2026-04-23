@@ -24,6 +24,10 @@ As a more "personal" note, or you happen to be a student reading this right now.
 
 ## **Long Answer**
 
+Remember: It's not stupid if it works. Even if it is stupid.
+
+The main difficulty in engineering and architecture isn't the content, but more the dedication and perseverance to get through it and dedicate the time and effort to figure out how things work.
+
 I'll identify four core branches of engineering: Chemical, Civil, Electrical, and Mechanical. Each branch has sub-disciplines tying back into one (or more) of these four. There's many types of engineers and plenty of crossover, with the primary difference being the core science involved in their discipline. 
 
 Think of engineering as a method for problem solving. Industrial engineers (my degree, so expect some bias), use that method to optimize systems; typically with the goal of minimizing costs, maximizing performance, or both. Meanwhile, chemical engineers may utilize chemicals and energy primarily through chemistry while civil engineers utilize earth sciences to design infrastructure and habitats.
@@ -49,6 +53,21 @@ Talking about your problems tends to help and sometimes uncovers solutions as yo
 Or even a BLÅHAJ.
 
 It's like thinking aloud, except you're reframing the subject and explaining it to somehow who may not know what you're talking about. You describe what it should do vs what it actually does. It's not a complete replacement for learning critical thinking skills, but it does help with blockers.
+
+### **Tolerances**
+
+*Alternatively: Standardization is GOOD*
+
+The concept of tolerances applies in about every industry. Even education. You may even see it as a management concept! Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
+
+Tolerances, from an engineering perspective, are allowable variations for a given product's dimensions. For example, you need a part that is 1 inch long, but you could accidentally make it a touch long (+1/16 inch) or a touch short (-1/16 inch) and it'd still work fine. Messing up the part too much, like making a 1 inch piece 1.25 inches instead, means a potentially successful product becomes wasted time, materials, and labor.
+
+Tolerances can be set by humans, but are also defined by the material, tools, and environment itself. For example, you may want a cupholder to be exactly 4.257 inch diameter and tolerate very little mistakes (±0.001 inch tolerance), but your tools can only make a product so well (e.g. ±0.01 inch tolerance) and *any* mistake could mean failure.
+
+In pseudo-English, as I'll call it, this may mean your tolerance is outside the scope of verification or measurement. For example, if you're measuring to exactly an inch, but your measurement tool can *only* measure down to 1/32 inch increments, you should NOT establish a tolerance that is smaller than 1/32 inch! If you do, you may need to spend a LOT of money to get a specialized part or service to verify everything is correct for you. That is *not* fun or easy to do.
+
+From a management perspective, think of tolerances as the allowable margin of error you'll tolerate for your employees and their performance, work, behavior, etc. against established standards. You don't want to be *too* tolerant of issues, but also not have so little tolerance you force nothing less than absolute perfection from imperfect human beings and methods.
+- For example, what you tolerate in an education system may be *far* more lenient than in the aerospace or military industry/system. The requirements are vastly different.
 
 ### **Interoperability**
 

@@ -34,6 +34,8 @@ Statistical Significance does not imply Practical Significance.
 
 ## **Long Answer**
 
+Statistics and Probability are where you realize a 50% success rate sounds bad at first, until you remember the last 50 times it happened came out just fine. It's learning a matter of perspective, in a way.
+
 Learning Statistics and Probability typically requires an advanced mathematical foundation before beginning. This is usually 1-2 years of Calculus, with all of its prerequisites, and/or Linear Algebra; often accomplished around late high school/early college age for students (17-21 years old) as of 2025.
 
 Do Statistics and Probability *require* Calculus? For their applied versions, no. For the math and theory behind it, I'd say yes. 

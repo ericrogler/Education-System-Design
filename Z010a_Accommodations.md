@@ -39,20 +39,20 @@ Not all accommodations are feasible. Even if accommodations are feasible, if the
 
 ## **Long Answer**
 
-*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice.
+*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice within education.
 
-If another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there (2026).
+If another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there than here (2026).
 
-**Everything I'm writing in this chapter is based on the assumption that every accommodation *must* be followed per federal law. I am *not* suggesting you can ignore accommodations.**
+**Everything I'm writing in this chapter is based on the assumption that every accommodation *must* be followed per law. I am *not* suggesting you can ignore accommodations.**
 - I.e. if I were a teacher and a student has one of these accommodations, it's a reflection of my views on it, how reasonable it may be, and/or how it might occur in practice if I'm required to satisfy that accommodation.
 
-**Accommodations provide opportunities for students to succeed like their peers. They also include opportunities to *fail* like their peers.**
+**Accommodations provide opportunities for students to succeed like their peers. They also include opportunities to *fail* like their peers.** It's not a free pass to get out of learning. If they want to succeed, students (and parents by extension) must own responsibility and plans like IEPs, 504s, etc. outlining accommodations must explicitly call out and enforce student and parent responsibilities to not be abused.
 
-If a teaching framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire graduate thesis from 0 to 100 in under 2 weeks.
+If a teaching framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire, original graduate thesis from 0 to 100 in under 2 weeks.
 
-Add on top of this that many accommodations are *legally required*, thanks to IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expect to adapt and adjust how you deliver content with, or without, whatever supports you have.
+Add on top of this that many accommodations are *legally required*, thanks to plans like IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expected to adapt and adjust how you deliver content with, or without, whatever supports you have.
 
-**I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by either students (or third parties assisting students) to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
+Therefore, **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by students, and/or third parties assisting students, to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
 - Put another way: they shouldn't move on when they aren't ready.
 
 I'll also emphasize, once again, something to keep in mind as you're reading this chapter: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.**
@@ -268,21 +268,28 @@ I may also consider giving them an open book test, with the goal of practicing t
 
 If you permit typing or writing the notes themselves, they'll try to cram in as much information as possible on whatever medium you permit. They may also claim that because it wasn't in their notes, it shouldn't have been on the test. They may also claim that because notes were allowed they didn't need to study (and probably still flunk anyways).
 
-### **Phones [and Similar Technology] as Emotional Support Device**
+### **Phones (and Similar Technology) in General**
 
-Increasingly illegal for students to use phones in classrooms anyways, as more and more states in the United States are banning cellphone use inside of classrooms (Amy, 2025).
+Pretend I'm talking about cameras too. It's similar enough for this section's purposes.
 
-Even if it isn't illegal, it is highly likely to not be a reasonable accommodation outside of extreme medical conditions. Cell phones also have cameras and audio capture, which means capacity to record the classroom and potentially violating laws like FERPA/HIPAA.
+Doesn't matter if it counts as an emotional support device or anything similar. Personally, I'd ban them outright inside of a classroom or education setting. I'd even restrict them heavily in a medical setting, because they follow much the same rules education systems also must follow.
 
-If cell phones are still allowed, then I'd consider moving the student to a location where they cannot easily obscure what they're doing on their phone. This helps ensure the accommodation is not abused and they're satisfying the primary goal of learning.
+Firstly, they're increasingly illegal for students to use phones in classrooms anyways, as more and more states in the United States are banning cellphone use inside of classrooms (Amy, 2025).
 
-### **Alternative Test Location (and similar items)**
+Even if it isn't illegal, it is highly likely to not be a reasonable accommodation outside of extreme medical conditions, such as using a device to "speak" for the student who cannot verbalize otherwise. Cell phones (and similar technology) also have cameras and audio capture, which means capacity to record the classroom and potentially violating laws like FERPA/HIPAA.
+
+Students themselves carrying around such devices may be recording all the time or even recording in "secure" locations like bathrooms, testing zones, and locker rooms. For K-12 and minors in particular, there's a growing trend of juveniles (i.e. minors themselves) producing and sharing CSAM (child sexual abuse material), which can lead to further pedophilic interests and behavior (U.S. Department of Justice, 2023).
+- This isn't including how technological advancements like Deepfake and AI (Artificial Intelligence) can exacerbate the problem further (Burgess, 2026).
+
+If cell phones (and similar technology, like wearable electronic glasses and lens) are still allowed, despite all the above, *observed*, issues with it, then I'd consider moving the student to a location where they cannot obscure what they're doing. This helps ensure the accommodation is not abused and hopefully satisfy the primary goal of learning.
+
+### **Alternative Test Location (and Similar Items)**
 
 Typically unreasonable, but depends on available resources. If those resources *are* available, then it leans towards reasonable.
 
 In some cases, there are no places teachers and staff can send students to conduct tests outside of their assigned classrooms without either:
 - A staff member, NOT another student, available to proctor to ensure academic integrity.
-- An area available for the test emulating the conditions of the original classroom.
+- An area available for the test emulating the conditions of the intended testing environment.
 
 If there's a time and place this accommodation is most likely abused, it's during high-stakes testing like ACT, SAT, and similar items due to the sheer advantage it can provide someone.
 
@@ -358,7 +365,7 @@ This isn't always tests or quizzes though. The intent of this is more like occas
 
 What is a "check" though depends on the specifics of the accommodation, so double check that first. If it doesn't define it explicitly, then stick with what is reasonable.
 
-### "Nothing below a 60 (Grade Floors)"
+### **"Nothing below a 60 (Grade Floors)"**
 
 Short answer: Don't do this please, even if it's with the best intentions.
 
@@ -390,11 +397,11 @@ Now, you could track their *real* grade on a spreadsheet, or similar method, and
 
 ### **No Deadlines / No Late Work Penalty**
 
-Please never add this. 
+**Please never allow this in your education system(s).**
 
-This accommodation removes accountability on student work, which means it's harming the student and left entirely to the motivation of said student to do the work and keep up with the class.
+This accommodation removes accountability on student work and leaves it entirely to the motivation of said student to do the work and keep up with the class. If you've ever tried to get someone to do work, when they don't want to *and don't have to*, you can imagine how well that'll go.
 
-It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and strict deadlines (even if extended a bit), set in stone, are actually a good thing instead.
+It's especially bad for any student with disorders like ADD or ADHD where structure is beneficial and extrinsic motivations like strict deadlines (even if extended a bit), set in stone, are actually a good thing instead.
 - E.g. many guidelines from the CDC suggest scheduling, managing distractions, planning and organization to *help* these conditions (2024).
 
 If this accommodation is forced, despite clear implications of what it allows, the typical "split 1 large task into multiple smaller tasks" tactic could alleviate it a bit. Also consider looking into frequent meetings and check-ins to help with organizational skills. Despite whatever tactics you employ, the drive to complete their work and learn the material is still heavily in favor of the student.
@@ -525,6 +532,8 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
 
 2. Aronson, J., Fried, C., & Good, C. (2002). *Reducing the Effects of Stereotype Threat on African American College Students by Shaping Theories of Intelligence.* Journal of Experimental Social Psychology, 38, 113–125.
 
+2. Burgess, M. (2026, April 15). *The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought.* WIRED. [https://www.wired.com/story/deepfake-nudify-schools-global-crisis/?utm_source=firefox-newtab-en-us](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/?utm_source=firefox-newtab-en-us)
+
 2. CDC. (2024, May 16). *Treatment of ADHD.* Attention-Deficit / Hyperactivity Disorder (ADHD). [https://www.cdc.gov/adhd/treatment/index.html](https://www.cdc.gov/adhd/treatment/index.html)
 
 2. Center for Accessible Education. (n.d.). *Why do universities provide accommodations?* UCLA. [https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations](https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations)
@@ -542,6 +551,8 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
     - "ACCOMODATIONS" is not a mispelling.
 
 2. U.S. Department of Education. (2025). *Individuals with Disabilities Education Act (IDEA).* U.S. Department of Education. [https://www.ed.gov/laws-and-policy/individuals-disabilities/idea](https://www.ed.gov/laws-and-policy/individuals-disabilities/idea)
+
+3. U.S. Department of Justice. (2023, June). *Child Sexual Abuse Material.* [https://www.justice.gov/d9/2023-06/child_sexual_abuse_material_2.pdf](https://www.justice.gov/d9/2023-06/child_sexual_abuse_material_2.pdf)
 
 3. Washington Office of Superintendent of Public Instruction (OSPI). (2022, December) *Appendix A: Best Practices for Planning Paraeducator Support.* [https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf](https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf)
 

@@ -191,6 +191,56 @@ Across all of these build orders and sequences, there's a consistent theme:
 
 Some downsides to this method are its usefulness decreases as operations scale up to become large and complex (Greco, 2020). If these constraints aren't an issue, then it performs admirably well.
 
+### **Managing At Scale**
+
+Scale is information and resource flow under changing constraints.
+
+When you're starting out, you're managing a small amount of resources. As you scale, you're managing more and more resources at a time.
+
+What was once hundreds becomes thousands. What was thousands becomes millions. At larger scales, small scale activities lose significance or worth.
+
+This may be seen with management as well or even with data pipelines for engineers. You're dealing with where transformations happen, tracking where loss, if any, occurs, and building logs and observation points across the pipeline to preserve what information travels across layers.
+
+Every layer in an organization operates with different contexts. Each layer has its own priorities, incentives, and translations to consider. The higher up in layers you go, the less granular and more summarized the information. Going down from the top layer, the intent is filtered and reshaped locally at each layer it passes through.
+
+Leaders deal more with abstractions while operators deal more with technical details. The fidelity is drastically different at its core and each layer affects the truth and data transmitted. Each new layer you add increases the amount of delay, steps for approval, and potential for misalignment across the organization. 
+
+It's why a smaller organization, like a startup, make seem fast compared to a massive conglomerate; there's simply fewer layers and blockers. By the nature of its scale, the distance and time between decision and action is larger.
+
+One cannot completely eliminate layers too, as they're necessary for scalability and management. The new constraint you manage is interfaces and their complexities between layers. If you're working with a small system, you can brute force certain methods and communications without too much issue, but the same cannot be said for larger systems though.
+
+Requirements affecting how layers may interface include:
+- Ownership of metrics
+- Explicit *and* enforced definitions for communication
+- Feedback paths bypassing layers/hierarchy when necessary
+- Top layer(s) maintaining exposure to what happens at the bottom layer(s)
+
+Though those examples may be solutions, you also need to account for the *types* of information and any incentives people across layers may have. For example, too much operational data without enough decision or narrative data for context means drowning in information without fully understanding it.
+
+As for incentives, every layer optimizes for how it's rewarded, even if it could break the system. Metrics of success should be scrutinized and monitored so they aren't gamed, drift in definition, or do something to the detriment of the system.
+
+Lastly, when you scale up, things *will* break along the way. You won't scale properly if you cannot diagnose what is causing issues along the way! 
+
+Each system needs ways to detect where information loss occurs, intent is distorted, and metrics no longer reflect reality. You'll need ways to audit systems, sample the data to check for inefficiencies and defects, and independent (but still reliable) validations for metrics. 
+
+Many failures at scale are silent killers that degrade a system over time before it breaks. You'll have to measure the truth alongside performance.
+
+### **Efficiency vs Laziness**
+
+*Alternatively: Punishment for Performance*
+
+Now that you know what to account for when scaling up, now we talk about an unspoken reality of efficiency at scale. It's something observed since at least the early 20th century and called underworking, or "soldiering," as Frederick Winslow Taylor may call it (1911).
+
+For video games and simulations, where you're a manager, commander, etc. you may not encounter this issue. In these environments, your "units" hold little or no agency and have set parameters determining their capabilities. You can "tech" (i.e. upgrade) these units, with minimal resistance to change, over time to be more efficient and effective and push their limits to meet your goals.
+
+In the real world, and certain games where real humans cooperate/compete together, people have agency in addition to goals that may not fully align with an organization's goals. For example, an employee may avoid productivity or only meet the expected and required output/threshold and not go beyond it. This will occur even if your solution is to set a quota to encourage efficiency. The primary reason is working fast is often rewarded with a bigger shovel. Once someone knows something can be done faster, they may expect it to keep being done faster in the future.
+- E.g. You dug a 5 meter hole faster than predicted, so now you get to dig a 10 meter hole in that same timeframe instead.
+
+You, a potential manager, leader, or founder, may be perfectly fine going above and beyond on effort and working hours for *your* business. The average employee under you, however, is not dedicating time to their own business, but yours instead. It's sensible and reasonable for you to recognize this disconnect and give your team(s) explicit and strict instructions to not overwork themselves because they may not be rewarded for it!
+- If however, despite said employees *knowing* this disconnect still want to go above and beyond, then find ways to scale their compensation with their extra effort put in.
+
+Many human beings do *not* want to be straddled by work. If they're being productive and efficient in their work, they're typically seeking more *freedom*, not more work. To this end, deliverables may be turned in right before the deadline or due date, people may take more time doing their job, and workers may intentionally appear slightly overworked and overwhelmed to deter additional work being sent their way. The bare minimum to not get into trouble is now the new goal and purpose at a job instead of promoting efficiency in that same job.
+
 ### **Relating Back to Instruction**
 
 Now, let's tie strategy and macro/micro to teaching/instruction.
@@ -222,5 +272,7 @@ Your ability to prepare, adapt, and scale, as well as learn what requires your a
 
 2. McCarthy, C. (2006). *No Country for Old Men.* Vintage International.
     - Original published in 2005.
+
+3. Taylor, F. W. (1911). *The Principles of Scientific Management.* Harper & Brothers.
 
 ## **[Next Chapter](Z004b_Management_Classroom_Behavior.html)**

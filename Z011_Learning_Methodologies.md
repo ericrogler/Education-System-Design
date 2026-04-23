@@ -46,6 +46,8 @@ In general:
 
 I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without appropriate support is tantamount to neglect.
 
+One opinion I'll separate out from the rest is, for any students that I have, they start a 0% in the class and work up to the grade they deserve based on the effort, time, and results they display. They don't start with a perfect grade; they start with *no* grade and can go only up from there. If they choose to mess around and not do any work towards learning despite knowing this, then they get the 0% they deserve.
+
 I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
 There are many ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).

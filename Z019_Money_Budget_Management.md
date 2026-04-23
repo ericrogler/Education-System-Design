@@ -19,6 +19,7 @@ nav_order: 28
 **Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling.
 
 **If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam.** Remember, the goal of a business (and financial operations) is *making* money, not saving money.
+- Alternatively, think about how you might sell shovels when people say there's a gold rush.
 
 If you're deciding between two or more options to spend money on, the following factors should be examined for tie-breakers:
 - Users (who it works for)
@@ -41,9 +42,9 @@ If you're trying to teach a student about wealth, go over the following:
 
 ## **Long Answer**
 
-When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no toaster in your workplace.
+When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace.
 
-Are these meant to be jokes? Perhaps. Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are.
+Are these meant to be jokes? Perhaps. Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means to afford said success.
 
 In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
 
@@ -154,6 +155,16 @@ Even if public schools and private schools perform similarly in controlled envir
 
 Both private schools and public schools can perform well. The focus should be more on the environments these schools have and whether or not the school has specific resources to suit your educational needs.
 
+### **Pay-As-You-Go Models**
+
+You may have used these models before in your life. For example, if you use more power for utilities than usual in a dwelling or home, you may be charged for that excess. Alternatively, if you use more compute or resources to operate a server or database, the costs associated with that server also increase.
+
+Spending is dynamic in these models, which means education systems utilizing services with these models face a major challenge: managing efficiency through budgets and priorities.
+
+You may also suffer from cost attacks, where an actor, intentionally or not, can ramp up costs through inefficient or even malicious methods. One example is a distributed denial-of-service (DDoS) attack, which slurps up available resources, increases the costs to the service provider, and may even temporarily shut down the service.
+
+Fortunately, the benefits of these models are scalability on demand. If you need more resources, you can scale up quickly. If it's a period of low activity or minimal resource consumption, you cut down the scale to save money.
+
 ### **Where's the Money?**
 
 Money for schools typically comes from three public funding sources:
@@ -208,15 +219,17 @@ As long as you don't carelessly spend money and realize the budget needs to last
 
 ### **Practical Application of a Budget**
 
-**If you're not sure how much you should spend, forget about whatever learning budget you have and pretend you have only 100 USD (United States dollars).** It's probable you can have at least the essentials and basic supplies you need for a classroom with that much money. 
+**If you're not sure how much you should spend, forget about whatever learning budget you have and pretend you have only 100 USD (United States dollars) coming out of your own assets.** It's probable you can get at least the essentials and basic supplies you need for a classroom with that much money, as of the year 2026. 
 
-**Remember: this is a 100 USD *spending* limit. You could get items for free if that's an option!**
+Could you expect other people within an education system, like administrators, donors, and parents to chip in money to help you? Sure, but let's assume there isn't and you're chipping away at whatever's left in your budget.
 
-- The only exception to this 100 USD limit right now is for any ONE item that is >=100 USD.
+**Remember: this is a 100 USD *spending* limit. You can get items for free, or paid for by another source, if that's an option!**
+
+- The only exception to this 100 USD limit right now is for any ONE necessity that is >=100 USD.
 - Keep in mind any items you buy can also be just for you, the teacher, and not for student use.
 - If the school/facility provides something you need in general, you could get away with not buying your version and save money.
   - E.g., don't get a laminator machine or a printer if your facility already has a working one. 
-- You also don't need to spend all 100 USD. If you get everything you need with less money spent, that's fine and saves you more money.
+- You also don't need to spend all 100 USD. If you get everything you need with less money spent, that's fine and saves you more money for the future.
 
 If you can use credit cards responsibly, I'd say do so over a debit card. Protections and benefits are generally worth it ([Further reading example from Michigan's Consumer Protection Team](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)).
 
@@ -233,19 +246,24 @@ If it's near the end of the year and you need to reach net zero–where you spen
 
 ### **What About NO Money At All?**
 
-Get used to being humble real quick then.
+Here's to hoping you're not picking up parental responsibilties for students too.
 
-On a serious note, you'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a useful amount of time). There's no sense listing them all because I'd use up several books worth of text real estate to do so.
+On a serious note, you'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). There's no sense listing them all because I'd use up at least a chapter's worth of text on that alone.
 
 Instead, let's go over some methods. Keep in mind you may need to provide an ID or verification to access some of these.
 - Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data.
 - Free resources offered through physical and online services. Like mentioned earlier, think areas like [Adopt a Classroom](https://www.adoptaclassroom.org/).
 - For those with at least *some* money, some stores and merchants may offer discounts on items and purchases for applicable educational needs.
-- For designing education, there are multiple tools online free by default or free for educators. This includes software like [Google Docs](https://docs.google.com/) and [Canva](https://www.canva.com/education/back-to-school/).
+- For designing education, there are multiple tools online free by default or free for educators. This includes free software like [Google Docs](https://docs.google.com/) and [Canva](https://www.canva.com/education/back-to-school/).
 
-Whether you're an educator looking for ways to reduce financial burdens in teaching or someone inside education systems looking for low-cost solutions, there are many options.
+Whether you're an educator looking for ways to reduce financial burdens in teaching or someone inside education systems looking for low-cost solutions, there are many options. All it takes is the ability to find them.
 
-All it takes is the ability to find them.
+The other thing you can do is set up a rules system (that you can actually enforce) about how products should be procured and what happens if someone breaks it or loses it. For example, what happens if you give a student something essential, like a pencil for writing, then they lose it in the same day and come demanding a replacement the next day.
+- Especially with more exaggerated cases where they're missing a 10 cent pencil despite wearing 1000+ dollars worth of designer brand clothes.
+
+ What do you in this case? Do you punish them? Do you try to teach them a lesson about careful handling of supplies and preparation for the future? Can you even do anything in the first place if other people in the education system won't support you punishing them, like administrators and parents?
+
+There's a lot of factors that can stress and tear away at even the most resilient people, especially when you're about out of resources to spare.
 
 ## **Bibliography**
 

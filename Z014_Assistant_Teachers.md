@@ -54,6 +54,7 @@ Depending on policy, TAs may not host a class or lab on their own without the pr
 Depending on the subject(s), your TAs may need licenses and certifications to assist you in the classroom. Check with any relevant authorities or administrative bodies before bringing on a TA.
 
 **Co-teachers** are licensed teachers assisting with multiple parts of a classroom. Of the categories listed in this chapter, they're also typically required to have a teaching license alongside the primary teacher/teacher of record. They may share or split teaching duties, work alongside the special needs students, and help with more specialized tasks like meeting accommodations or translating lessons across different languages. Co-teachers may have different backgrounds or similar background as the primary teacher, so they may not be as familiar with your content knowledge but still allowed to assist you in classrooms.
+- Something that is difficult, but necessary, with co-teachers is for the primary teacher to lose the "lead" part and treat them tloser to what they would a co-worker at the same level.
 
 **Student Teachers** are exactly that: students. They're not *your* students though; they're more like an intern you're overseeing at work. They're usually college, university, or graduate students who are under supervision of an existing, certified teacher (or in infrequent cases, a substitute/guest teacher). Student teachers are similar to co-teachers and share responsibilities in duties a teacher normally does, like grading, lesson planning, teaching, and so on. The major difference between co-teachers and student teachers is co-teachers *are* certified/licensed whereas student teachers are not, so a student teacher *cannot* be left alone within many education systems.
 
@@ -61,6 +62,8 @@ Assuming you are a current educator reading this, it is safe to assume student t
 - And yes, they *will* mess up. It's a matter of when and figuring out how to fix it when they do.
 
 ### **Handling Assistant Teachers**
+
+The first problem is figuring out if the assistant teacher(s), or co-teacher(s), even want to be in an assistant teacher position. If they do, that makes things easier. If they don't, you're trying to make a horse drink water. You'll need to consider client relations and negotiation in addition to why/how people find joy in the work they do. (Hint: complexity, autonomy, and effort vs reward).
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're the primary teacher, don't expect your assistant teachers to know what to do if you don't define what they *should* do. 
 
@@ -78,11 +81,15 @@ Managing assistant teacher expectations and how they assist you depends on commu
 **To sum up the above, you need to communicate what you need done and you need to share any materials with any assistant teachers.** For your own implementations, you'll have to experiment to determine what works best for you, the students, and the assistant teachers.
 - Whatever you do, get *everything* you discuss in writing when talking about who covers which things, so you can defend yourself when things go bad and have proof the assistant teacher isn't pulling their weight when you get questioned about it.
 
-Sometimes, the co-teacher is new and needs experience. In that case, you're better off imparting some preparation and teaching work rather than only assisting in the background. If the co-teacher's end goal is becoming a teacher, *they need to learn how to be a teacher and not an assistant*.
+Sometimes, the co-teacher is new and needs experience. In that case, you're better off imparting some preparation and teaching work rather than only assisting in the background. If the co-teacher's end goal is becoming a teacher, *they need to learn how to be a teacher and not only an assistant*.
 
 ### **Co-Teaching Models/Strategies**
 
-To give a brief overview of setups you may see in practice generally involving students split into one group, two groups, or multiple groups:
+The second problem to co-teaching is how co-teaching systems are set up. Sometimes the educators themselves may do this and other times the administrators firmly decide how they should be done. This includes providing resources in that system, such as trainings for teaching models, spaces *and time* dedicated to co-planning, and the division of powers between co-teachers and primary teachers.
+
+The simplest way to make co-teaching work is the classic strategy of divide and conquer. Said teachers involved figure out how to divide up their time and skills to best deliver education for students.
+
+Setups in practice generally involve students kept in one group or split into two or more groups:
 - One Teach, One Observe (One Group)
 - One Teach, One Assist (One Group)
 - One Teach, One Assess/Evaluate (One Group)
@@ -92,7 +99,9 @@ To give a brief overview of setups you may see in practice generally involving s
 - Team Teaching (One Group)
 - Monitor and Teach (Multiple Groups)
 
-While these approaches vary in implementation, the general idea is either one teacher handles instruction for the group, or each co-teacher involved handles some part of that instruction. In the case of alternative teaching specifically, this may further involve a teacher pre-teaching or re-teaching information while the other teacher(s) deliver alternative content.
+While these approaches vary in implementation, the general idea is either one teacher handles instruction for the group, or each co-teacher involved handles some part of that instruction. In the case of alternative teaching specifically, this may further involve a teacher pre-teaching or re-teaching information while the other teacher(s) deliver alternative content. You may find one setup works better compared to other setups for some groups of students over other groups of students. 
+
+The worst thing you can do in co-teaching is being rigid and overly specific on how it should work; you have to be flexible and adapt to the environment. Forcing one element into a spot it doesn't belong is like putting a square block into a circle hole. Every element should work in tandem and find its appropriate place for the best results.
 
 **Some setups I've seen work "well enough" in practice are:**
 

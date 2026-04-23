@@ -107,7 +107,7 @@ There include societal issues, cultural fit, gender, political affiliations, and
 
 If you have a HR (human resources) department, follow their guidelines and you should be fine.
 
-If you do not have HR, or an equivalent, I'd tell you to avoid the following:
+If you do not have HR, or an equivalent department, then I'd tell you to avoid the following as a general guideline:
 
 - Politics
 - Religion

@@ -23,11 +23,18 @@ Last, but not least, your education system very likely doesn't need a shiny new 
 
 ## **Long Answer**
 
-Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit I've read more management books than education books. Funny how that works.
+Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit, as the author writing this, I've read more management books than education books. 
 
-I'd also reasonably assume education will move away from hard copy (i.e. "physical") textbooks and other sources of information. This is due to increasingly digitalizing and storing information online and through databases instead mainly for cost and practical reasons. This has already happened at large by the time of this writing, with expectations it'll be more prevalant in the future despite any resistance towards it.
+Funny how that works.
 
-There are two sources of truth to work with: the knowledge you've already acquired vs the knowledge you need to acquire.
+I'd also reasonably assume education will move away from hard copy (i.e. "physical") textbooks and other sources of information. This is due to increasingly digitalizing and storing information online and through databases instead mainly for benefits like lower costs and practical reasons. This has already happened at large by the time of this writing, with expectations it'll be more prevalant in the future despite any resistance or reasonable wariness towards it.
+
+You'll also find many rules don't apply universally for determining a standard of quality. For example, academia follows the rules of academia and internally conducts peer reviews, citation standards, accreditations, and holds authority in its own jurisdiction. Many of these rules exist to protect the people inside of them. It cannot, however, readily enforce products and services outside of that academia jurisdiction; those products and services are subject to different rules in the environments they're active in.
+- That'd be like the United States using its federal laws to enforce what happens in the European Union.
+
+### **What are Sources of Truth?**
+
+There are two sources of truth I'll call out that you might work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 
 For both ways, I like these two quotations:
 
@@ -229,8 +236,6 @@ These experts you should happily accept into helping design an education system,
 
 18. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing.
     - Further Reading Source
-
-19. Watts, M. (2024, October 14). *Subject Matter Experts: Key Players in Process Improvement and Business Success.* iSixSigma. [https://www.isixsigma.com/dictionary/subject-matter-expert-sme/](https://www.isixsigma.com/dictionary/subject-matter-expert-sme/)
 
 
 ## **[Next Chapter](Z009_Communication_Design_Usability.html)**

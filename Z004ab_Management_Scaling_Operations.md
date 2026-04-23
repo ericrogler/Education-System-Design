@@ -158,7 +158,7 @@ Both student teachers and leadership applicants are expected to quickly take a b
 
 **Field Training Exercises (FTX)**
 
-The closest comparison for these is "continuing education" or "professional development." 
+The closest comparison for these are probably "continuing education" or "professional development." 
 
 Typically this is hosted at the squad or platoon level in a milsim group due to constraints in finding a location/space, scheduling, and getting personnel to attend. 
 
@@ -172,9 +172,13 @@ Some examples of FTXes may include the following:
 - Unit/Weakpoint Identification
 - Shooting Range Drills
 - CQB/CQC Training
-- Simulations of Operations
+- Practicing Tactical Maneuvers
 
-In milsim, they typically range from 30 minutes to 1.5 hours in length.
+In milsim, they typically range from 30 minutes to 1.5 hours in length so there's a reduced chance of scheduling conflicts.
+
+As for why an FTX is important, think about the first time you've tried something new. At first, you may have struggled to get it right and you're consciously thinking about how to do it. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process. This continues on and on until eventually you can do it subconsciously and spend more energy on the actions rather than the thoughts.
+
+Though a FTX may seem like a waste of time, it's ultimate goal is to set up a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think.
 
 ### **Leaders Eat Last**
 
