@@ -16,7 +16,7 @@ nav_order: 28
 
 ---
 
-**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling.
+**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling. The closer you are to truly being wealthy, the more you realize everything effectively becomes free and failure doesn't (really) exist.
 
 **If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam.** Remember, the goal of a business (and financial operations) is *making* money, not saving money.
 - Alternatively, think about how you might sell shovels when people say there's a gold rush.
@@ -44,7 +44,9 @@ If you're trying to teach a student about wealth, go over the following:
 
 When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace.
 
-Are these meant to be jokes? Perhaps. Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means to afford said success.
+Are these meant to be jokes? Perhaps. 
+
+Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means to afford said success.
 
 In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
 
@@ -70,6 +72,18 @@ Because money affords comfort and (many) resources, having too much money risks 
 - You have to make sure students are doing the work and not causing excessive issues amongst each other. There is behavior management involved.
 
 Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
+
+### **The Morality of Wealth**
+
+Before continuing, I want to talk about consequences. 
+
+Not just for students, or only people involved in education systems, but for everyone. 
+
+What happens when you make a bad decision? You'd likely feel the consequences of it. What if, instead, you didn't feel any consequences? Would you still retain your senses of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? And, out of my own curiosity, what would you do with all the newfound opportunities now open to you?
+
+Much like a successful person may be shaped by the environment they're raised in, a person lacking morality may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are often shaped by the environments they're in and they can change *as people* when their environments change too.
+
+You can do many things with enough time and resources. You can do countless more things when you're free from consequences.
 
 ### **Wealth Dynamics (for Education)**
 

@@ -36,7 +36,7 @@ This splits the text by chapter across multiple pages.
 - Probability, Statistics, and Analysis
 - Source(s) of Truth
 - The User Experience
-- “Agile” Teaching Framework - An Educational System
+- “Contrast" Framework - An Educational System
 - Accommodations
 - Learning Methodologies and Teaching Methods
 - Homework

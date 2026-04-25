@@ -151,6 +151,8 @@ While technology is a good thing, there can be too much of a good thing.
 
 ### **AI in General**
 
+If you use chatbots, AI, technology in general, etc. you should also be held accountable for its outputs. Were you in a corporate setting, you could also say that anyone, including managers and non-technical folks, that ship code is now on-call and owns incident remediation for anything they ship. 
+
 Getting AI to do something isn't the same as you doing something yourself. It's like a client describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer. Intent is not authorship.
 
 Most AI use is *doing the work for someone else* and should not to be confused with getting the work done. In education, if a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.

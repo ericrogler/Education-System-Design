@@ -125,13 +125,20 @@ In short: maintain a safe, acceptable, professional, and respectable distance be
 
 ### **Knowledge Blockers**
 
-These are issues students have because they don't have the requisite knowledge acquired before taking a specific class.
+These are issues students have because they don't have the requisite knowledge acquired before taking a specific class. There's always a chance that since student didn't know topic A, they may not know about topic B.
 
 To give a straightforward example, it's like having a student who doesn't know basic math jump immediately into postdoctoral and graduate level mathematics.
 
 Remedying knowledge blockers is exponentially difficult as it scales based on how large the knowledge gap is. For about 1-2 grades or semesters worth of difference it's possible to review and get students mostly ready, despite being behind before. For 3 or more grades/semesters deficit, I found this difficult without specialized assistance as it becomes too cumbersome or costly to handle those students.
+- This may also be a capacity blocker instead of a knowledge blocker, where someone cannot structurally perform at a given level regardless of their intelligence.
 
-Knowledge blockers will be talked about more later, but know there's always a chance that since student didn't know topic A, they may not know about topic B.
+You may also encounter knowledge blockers, or deficiencies, in people managing the education system, such as teachers and administrators, instead of the students. I'd consider this more dangerous towards the goal of education compared to any one student. Let me illustrate with an analogy: it is expected to get a bad result from time to time, but it's an issue if bad results are consistently generated. Incompetent, non-student parties in education systems are like machines that lack the precision and accuracy to make high-quality students *because they don't have the knowledge to do their roles!*
+
+These knowledge blockers can be subtle or obvious too. To give an obvious example: Your English/Literature teacher messes up protagonist and antagonist, two distinctly different and critical terms, without any attempt to correct themselves later on. To give a subtle example: trying to distinguishing between weaponized incompetence and plain ineptitude.
+
+Even if knowledge blockers don't exist, the opposite problem can creep up as well: the hubris of accomplishment, where you assume acknowledge in one thing (such as being called a genius) translates to success in everything. Ironically, that hubris can turn into its own blocker as resistance towards being proven wrong and changing to correct what's wrong.
+
+If knowledge blockers *are* encountered, the next question is whether or not the intent to learn is present. If someone truly cared to learn, or even make things right, it's reasonable to assume they would put in the effort to learn. Even with effort, they may not still get it perfectly right, but it's far more difficult to fault someone who genuinely tries and still get it wrong over someone confidently staying wrong and/or forcing you to pick up after their mistakes.
 
 ## **Bibliography**
 

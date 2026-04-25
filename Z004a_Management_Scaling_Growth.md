@@ -57,7 +57,7 @@ You should avoid limiting personnel as people may leave the organization and shi
 
 Pretend you're an educator, teacher, or instructor.
 
-You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, which are past typical limits for managers and direct reports. 
+You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, which are past typical limits for managers to direct reports. 
 
 You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints *with only one manager*. Sometimes this is accommodated with assistant teachers, co-teachers, and other support staff to assist at the "management" layer. Sometimes this is not accommodated.
 
@@ -65,18 +65,15 @@ I'll discuss more on this below, but the general lesson is as the number of peop
 
 ### **A Quick Aside**
 
-I'm not going into depth on matrices, or a weak vs strong matrix in management. That's too high level for this book.
+I'm not going into depth on matrices or a weak vs strong matrix in management. That's too high level for this book.
 
 At best, we're going to assume 1 manager oversees X number of direct reports and make a nice and simple tree diagram across multiple levels.
 
 I'm also not going into many edge cases, such as the manager with multiple managers *and* individual contributors under them as direct reports.
 
 ### **Business Breakpoint 0: The Start**
-Fun fact, I did project management before teaching. Additionally, me and my engineering class back in college also made a business as our senior project in undergraduate study. 
 
-*I think I'm OK talking about this.*
-
-If you're making a business, you have to go through multiple hoops just to legally set up the business. For example, there's registration with the State, market research, business plans, tax information, advertising plans, insurance, general management, contracts with labor and employment, licenses, banks, and many, *many* more problems to address.
+If you're making a business, you likely, if not certainly, go through multiple hoops just to legally set up the business. For example, there's registration with the State, market research, business plans, tax information, advertising plans, insurance, general management, contracts with labor and employment, licenses, banks, and many, *many* more problems to address.
 
 If, for some reason, you actually want to start a business on the side, please refer to more dedicated resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside scope here.
 

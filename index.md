@@ -42,7 +42,7 @@ Table of contents for each chapter written below:
 - [Probability, Statistics, and Analysis](Z007y_Probability_And_Statistics.html)
 - [Source(s) of Truth](Z008_Source(s)_Of_Truth.html)
 - [The User Experience](Z009_Communication_Design_Usability.html)
-- [“Agile” Teaching Framework - An Educational System](Z010_Agile_Teaching_Framework.html)
+- [“Contrast" Framework - An Educational System](Z010_Contrast_Framework.html)
 - [Accommodations](Z010a_Accommodations.html)
 - [Learning Methodologies and Teaching Methods](Z011_Learning_Methodologies.html)
 - [Homework](Z012_Homework.html)

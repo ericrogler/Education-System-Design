@@ -1,9 +1,9 @@
 ---
-title: 16. “Agile” Teaching Framework - An Educational System
+title: 16. “Contrast" Framework - An Educational System
 layout: default
 nav_order: 18
 ---
-# “Agile” Teaching Framework - An Educational System
+# “Contrast" Framework - An Educational System
 
 ### [Previous Chapter](Z009_Communication_Design_Usability.html)
 
@@ -21,18 +21,20 @@ I built this framework in mind for secondary and tertiary education. Elementary 
 I find education always involves communication in some way, shape, or form, while another significant part is management. Communication and management are tightly integrated together here.
 
 "Communication" is packed into three instructional categories:
-1. Lectures
-2. Activities & Projects
+1. Lectures (Direct Instruction)
+2. Activities & Projects (Hands-on Instruction)
 3. Review & Tests
 
 If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
-That's it. Simple and easy. You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
+That's it. Simple and easy. 
+
+You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to the problem with optimization constraints: **there is no perfect education system.**
 - Think CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
 
 A more complicated answer with empirical grounding draws from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
 
-**Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
+**Last, but not least: whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
 
 ## **Long Answer**
 
@@ -42,30 +44,9 @@ A student may only need to look up the information to learn about something or t
 
 A teacher, however, goes through multiple steps beyond looking up the information. They have to ensure the information is correct, figure out what parts they need to communicate, figure out the *method* of communication, then deliver that communication to a broader audience, and adjust–sometimes in the moment–how a concept is presented.
 
-**Paradoxically, teachers can often be better learners than students and may learn more new things about the same topic(s) compared to their students–the very people they're trying to educate!**
+**Paradoxically, teachers could (not always, but could) be better learners than students and may learn more new things about the same topic(s) compared to their students–the very people they're trying to educate!**
 
 This gap in learning creates a void to fill with an important question: how does a *student* learn if they're not a teacher and trying to teach others?
-
-### **What's the Overview?**
-
-A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. In a way, I'm taking parts from this framework and translating them into actionable items. We'll explore those reasons and more in this chapter.
-- The formal name is the "Gradual Release of Responsibility" in case you want more information (Pearson & Gallagher, 1983).
-
-**The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
-- Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
-- Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
-- *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students' attention, then you cannot get students to invest in your teachings and learn what they need to know.
-- If it works as a summary, then it might be best to keep it as a summary.
-- Good lectures are not boring. Bad lectures are boring.
-- **"If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now."** – Former US President Woodrow Wilson (Daniels, 1946, p. 624)
-
-This framework requires keeping some other important things in mind:
-- **You MUST hold students accountable.**
-- The goal is fast feedback and results on learning material (content), while keeping any changes cheap and easy to implement to take advantage of better learning opportunities.
-- It also requires autonomy; if an organization does not support it, it will not work.
-- It is NOT meant to micromanage people.
-- Do not implement this framework for the sake of process or as a means to offload more work onto instructors (and risk the single point of failure problem).
-- You must be allowed to criticize the system(s) to find and develop improvements for it.
 
 ### **A Cautionary Aside on Frameworks**
 
@@ -90,7 +71,11 @@ Though this advice may run counter to this chapter's focus, it will help you in 
 
 Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. This section lists a few that may illustrate what's outlined in the chapter.
 
-The closest comparison to what's presented in this chapter's framework, that I can think of (and found out *after* initially designing this), is the concept of "Backward Design" by McTighe and Wiggins in *Understanding by Design* (2005).
+The first one isn't an education framework, but a management framework: Agile (and Scrum). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside. For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). To compress Agile down into a single sentence, it's basically everyone talks to each other, the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
+
+Scrum is another management framework compatible with Agile (but Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The stages of a Scrum "sprint" include ([further reading](https://www.atlassian.com/agile/scrum/sprints)) planning, implementation, review, and retrospective. The goal of a sprint is to ship out work on a usable increment (i.e. a part of a project or even a complete project) at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
+
+As for education frameworks, the closest comparison to what's presented here, that I can think of (and found out *after* initially drafting this), is the concept of "Backward Design" by McTighe and Wiggins in *Understanding by Design* (2005).
 - "Comparison" as in we took two different routes to arrive at similar conclusions.
 - Admittedly, those authors utilize more pedagogial vocabulary and methodology while I take a generalized approach through management-based methodology.
 
@@ -100,34 +85,52 @@ A workshop model can work alongside this framework, but places a stronger emphas
 
 Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
 
+A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. In a way, I'm taking parts from this framework and translating them into actionable items. We'll explore those reasons and more in this chapter.
+- The formal name is the "Gradual Release of Responsibility" in case you want more information (Pearson & Gallagher, 1983).
+
 The last example I'll include is various materials authored by Rosenshine.
 
-### **Where Does Agile Fit Into This?**
+### **Framework Overview**
 
-*Notice: I may use the terms "distribution" and "ratio" interchangeably.*
+You should not solely dedicate yourself to a single educational method. You must see the contrast (hence the name) and discover what is good, what is bad, and *why* they are that way. Figure out the strengths and weaknesses of methods and use the various parts and pieces to create something meaningful.
 
-For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). 
+Also be wary of disregarding a type of learning completely, like never doing lectures, never doing activities, or never doing tests. It may likely affect learning negatively and not properly convey important concepts effectively.
+- For example, imagine removing coloring/drawing activities from kindergarten and young children. Those activities were around for decades, if not centuries or longer, because they help build up fine motor skills. You would need an *extremely* good reason, with evidence, to break away from a long established precedent.
 
-It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside.
+**The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
+- Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
+- Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
+- *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students' attention, then you cannot get students to invest in your teachings and learn what they need to know.
+- If it works as a summary, then it might be best to keep it as a summary.
+- Good lectures are not boring. Bad lectures are boring.
+- **"If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now."** – Former US President Woodrow Wilson (Daniels, 1946, p. 624)
 
-Despite that haphazard treatment in practice, it's still a philosophy focused on getting many people at different places in their lives and varied skill sets to work on one common goal (e.g. getting through a curriculum in a class). That is a great description for education and the people who go through education systems.
+This framework requires keeping some other important things in mind:
+- **You MUST hold students accountable.**
+- The goal is fast feedback and results on learning material (content), while keeping any changes cheap and easy to implement to take advantage of better learning opportunities.
+- It also requires autonomy; if an organization does not support it, it will not work.
+- It is NOT meant to micromanage people.
+- Do not implement this framework for the sake of process or as a means to offload more work onto instructors (and risk the single point of failure problem).
+- You must be allowed to criticize the system(s) to find and develop improvements for it.
 
-If you were to really compress Agile down, it's basically everyone talks to each other (students, teachers, administrators, etc.), the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
+### **The Initial Setup**
 
-Scrum is a framework compatible with Agile (but Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a usable increment (i.e. a part of a project or even a complete project) at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
+There's three categories to remember:
+1. Lectures (Direct Instruction)
+2. Activities & Projects (Hands-on Instruction)
+3. Review & Tests
 
-**The stages of a Scrum "sprint" are the following** ([further reading](https://www.atlassian.com/agile/scrum/sprints)):
+If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across these categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
-- Planning
-- Implementation
-- Review
-- Retrospective
+With any distribution of parts of time, keep in mind the following:
 
-I'll go over these four stages and where they apply in a teaching context below. Each unit or "cycle" repeats these four stages continuously from start to end during a school year, semester, or trimester. Though you go through iterations with a sprint, it's not ideal to go across stages in a sprint, such as moving from Implementation to Planning. It's best to go through a whole cycle of Planning, Implementation, Review, and then Retrospective whenever possible, as the Retrospective stage is time dedicated to adjusting your approach, seeing what went wrong or right, and more.
+1. You'll eventually lose some instructional days. It's possible, but difficult, to plan for losses like these, but you'll likely only decently prepare lessons 1-2 weeks out at a time.
+2. This distribution example is for a two-business-week (10-day) coverage of one unit. 1 week (5 days) would be 3/1/1 and 4 weeks (20 days) would be 12/4/4.
+3. 1 or 2 week periods work best from personal observation, because you won't go too in-depth when you should summarize instead and are less likely to get behind on schedule.
 
-I should also explicitly call out I cannot, in good faith, call this framework Scrum. The Scrum framework itself doesn't actually do that much on its own and is intentionally imperfect. I am cherry-picking and implementing parts of Scrum specifically to fit education systems, so I absolutely do not expect it to work as intended outside of that. Normally the intention is to implement Scrum in its entirety, but I also have to cover *how* certain aspects should be done, rather than focus purely on the "what" and leave the "how" entirely up to whomever reads it.
+Some parts in each unit I can summarize and explain fully in a few sentences. Other parts required significantly more depth or required methods where typical text or verbal explanations alone were insufficient.
 
-When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
+When I taught, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
 - (60%) 6 days lecture
 - (20%) 2 days projects and/or activities
@@ -145,62 +148,33 @@ To give an example of a mixed "lecture" day in one, 50 minute class session:
 **You try to define ratios for each category (e.g. "6:2:2") and NOT finite units of time in this framework, so you can scale up and down based on how much time you'll have to instruct.**
 - E.g. You have 10 minutes instead of 10 days, so it splits into 6 minutes, 2 minutes, and 2 minutes.
 
-More important notes with the above distribution:
+### **What About Other Subjects?**
 
-1. You'll eventually lose some instructional days. It's possible, but difficult, to plan for losses like these, but you'll likely only be able to decently prepare 1-2 weeks out at a time.
-2. This distribution example is for a two-business-week (10-day) coverage of one unit. 1 week (5 days) would be 3/1/1 and 4 weeks (20 days) would be 12/4/4.
-3. 1 or 2 week periods work best for me, because you won't go too in-depth when you should summarize instead, and you are less likely to get behind on your teaching schedule.
-
-Some parts in each unit I can summarize and explain fully in a few sentences. Other parts required significantly more depth or required methods where typical text or verbal explanations alone were insufficient.
-
-### **Pre-emptive Advisory**
-
-**Be wary of disregarding a type of learning completely, like never doing lectures, never doing activities, or never doing tests. It may likely affect learning negatively and not properly convey important concepts effectively.**
-- For example, imagine removing coloring/drawing activities from kindergarten and young children. Those activities were around for decades, if not centuries or longer, because they help build up fine motor skills. You would need an *extremely* good reason, with evidence, to break away from a long established precedent.
+There are multiple ways to teach multiple topics. 
 
 Though I did a 6/2/2 setup, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
 
 If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on long-term projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered.
 
-Another thing to keep in mind is there are multiple ways to teach multiple topics. 
-
 This framework focuses on categorizing methods and distributing their ratios to fit a learning environment. It's my attempt to make a framework one can apply across multiple environments, multiple age groups, multiple levels of education, and multiple accommodations all at once. 
 
-**Some important notes before reading further:**
-1. It's ok for students to be bored sometimes.
+**Some important notes on education:**
+1. It's ok for students to be bored *sometimes.*
 2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. It should accommodate most systems though!
 3. Modifications are expected and *will* happen in practice; plan for when they're needed.
 4. Sometimes old methods work better than new methods.
-
-### **Artifact Overview**
-
-There's three parts representing the work involved inside of here: product backlogs, sprint backlogs, and increments (Schwaber & Sutherland, 2020).
-
-Product backlogs are a list of how you improve a product or service and owned by a Product Owner (which can be the educator) tied to a Product Goal. A person selects and orders items doable within a single sprint (typically the 2-week limit defined earlier). It defines value, stakeholders, and direction. Refinement is continuous and ensures items are small, clear, and actionable before Sprint planning stages.
-- Think of the product backlog as an ordered list of what helps achieve your goals.
-- It is intentionally never complete as well, because refinement is always ongoing.
-
-Sprint backlogs cover multiple things, such as the Sprint Goal, Sprint items from the product backlog, and actionale plans for increments. In other words, the why, what, and how. Every Sprint has a single Sprint Goal present in that Sprint. Designating two or more goals dilutes focus and may further risk not meeting your intended goals. If work is different than expected, or does not meet the goal, that's when you redefine the scope and refine the sprint's backlog to still fit the current Sprint goal.
-
-Increments are reusable steps representing value made towards the Product Goal, are additive as you go through increments, and verified at each "step" to ensure they fit together. Multiple increments may be included in each sprint and available for stakeholders before a sprint ends (e.g. updated grades available for viewing at any time during a sprint).
-
-The most critical part of Increments is the Definition of Done. This is a formalized description of an increment everyone involved across multiple teams to establish a defined boundary, like how people would agree on what a metric means. Without a clear definition, you risk micromanagement and poor work practices slipping in and poisoning the entire process. If an increment doesn't meet the definition of done, it cannot be released or presented as part of a Sprint.
-
-In this particular framework, there are some deviations. In education, students won't be in control of the Sprint Backlog, unlike a normal Scrum implementation, but may still provide feedback and discuss the work done within a Sprint. Additionally, the educator or higher level manager, like administrators, may affect *both* product and sprint backlogs because they're ultimately responsible for ensuring curriculum standards are met.
-
-When correctly implemented, everyone will be focused towards the goal (e.g. properly learning the material/curriculum) rather than the backlog (e.g. doing assignments and work to get a grade).
 
 ### **Planning (Teacher)**
 
 The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of your student education days because it's not where students are heavily involved; it's mainly just you as a educator, designer, etc.
 
-Unlike a typical Scrum sprint, the Planning phase doesn't require the students to be present, but still accounts for the capabilities and conditions of students, such as:
+The planning phase doesn't require the students to be present, but still accounts for the capabilities and conditions of students, such as:
 
 - Disabilities & accommodations, such as IEPs and 504s
 - What students can reasonably accomplish
 - What skill(s) students have going into the course/unit
 
-Before starting your planning, look for a set of standards or objectives (your product backlog) you need to cover and find the appropriate materials, such as textbooks, that cover or meet those standards and objectives.
+Before starting your planning, look for a set of standards or objectives and find the appropriate materials, such as textbooks, that cover or meet those standards and objectives.
 
 *A typical planning phase for me looked something like the following for each unit:*
 
@@ -222,7 +196,7 @@ Before starting your planning, look for a set of standards or objectives (your p
 **The core idea is straightforward: review the units, review the standards related to the units, start with summaries on concepts, and expand with detail as needed.**
 - You also want to be the teacher that actually *teaches* students. 
 
-While this list seems long, it takes only a few times at most to go through before it becomes easy to adapt. Later on, this took up to 1 hour for each entire unit. You also don't need to write *everything* down on a lesson plan, but this may differ depending on the specific requirements and expectations of your teaching and administrators.
+While this list seems long, it's easy to adapt to over time. Later on, this took up to 1 hour for each entire unit. You also don't need to write *everything* down on a lesson plan, but this may differ depending on the specific requirements and expectations of your teaching and administrators.
 
 If you're struggling in the planning phase, don't worry. This part takes practice. In my situation, I eventually got each day/class down to lesson plans of 3-4 line summaries, like the following, which leaves me room to adjust and be flexible in a classroom:
 
@@ -230,7 +204,7 @@ If you're struggling in the planning phase, don't worry. This part takes practic
 - 1 sentence on the objectives
 - Any other task(s) to cover if able to or if needed
 
-Lastly, no plan you make survives first contact with students (paraphrased from Helmuth von Moltke, 1871). The planning is still useful, but prepare to deviate when needed and as situations outside of your control arise.
+Lastly, no plan you make survives first contact with students (paraphrased from Helmuth von Moltke, 1871). Planning is useful and should still be done, but prepare to deviate when needed and as situations outside of your control arise.
 
 ### **Implementation (Teacher & Student)**
 
@@ -238,10 +212,10 @@ Think of "Implementation" as the time to execute your plans made earlier in a te
 
 There are three "primary" teaching methods: lectures, projects and activities, and tests/review. There's also a part called "daily scrum" where you, the teacher, can quickly reassess your progress and make minor to moderate adjustments if needed.
 
-Before we dive further though, I'll bring forward, as an example for further reading, the 17 Principles of Effective Instruction by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
+Before we dive further, I'll reference *The 17 Principles of Effective Instruction* by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
 - [Link to Full Report](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
 
-### **Lectures (in Implementation)**
+### **Lectures (Direct Instruction)**
 
 As a reminder, you can decrease lecture days for more hands-on classes.
 
@@ -258,7 +232,7 @@ Lectures are like meetings. The person "calling the meeting" is the instructor a
 - Thanking *only* those who are there on time.
 - Properly assigning responsibilities.
 
-Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to a student, or group of students, and allow them to ask questions. It's sometimes called direct instruction too. Direct instruction requires at least some lecturing done and I find helps students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
+Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to students and allow them to ask questions. It's sometimes called direct instruction. Direct instruction requires at least some lecturing done and I find helps both students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
 
 You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** As for a small sampling of these studies, please refer to the following:
 - [Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/) (Hattie, 2018)
@@ -289,9 +263,9 @@ Condensing the above, lectures are a combinations of a few things:
 - Open discussion (and "controlled" conversations) to question *why* that knowledge is important
 - Ways to engage with the content through active learning beyond simply listening
 
-**Lecturing works great if the lecture is well structured. If not, then it does not work well.** It is a powerful tool for learning, but it requires preparation, dedication, and proper delivery on the teacher's part.
+**Lectures and direct instruction work well if well structured. If not, then it does not work well.** It is a powerful tool for learning, but it requires preparation, dedication, and proper delivery on the teacher's part.
 
-### **Activities & Projects (in Implementation)**
+### **Activities & Projects (Hands-on Instruction)**
 
 If anything is to stop you from setting up activities and projects, it is time, space, and money. A lot of equipment and materials are not cheap (especially with science projects, from personal experience) and a significant amount of preparation and testing *before* students are involved is expected before you can properly incorporate it into a curriculum. When it's the stage students get involved at, you'll have to factor in any additional setup *and* cleanup time as well, which may very well cut into the activity/project's time too. Space is simply whether or not your environment would accommodate the activity/project in the first place.
 - e.g. If your goal is a project-based learning curriculum, you cannot properly go through with it unless you're able to *acquire/buy* the necessary materials/equipment.
@@ -332,7 +306,7 @@ If the student refuses to do a particular activity or assignment because it won'
 Lastly, with activities, you're expected to manage students more than in lectures. Managing isn't necessarily a bad thing, but an observed fact of doing activities; you're giving students more freedom and not confining them (mostly) to chairs or in a single spot, so your role of keeping them on task intensifies greatly.
 - Additionally, activities can serve as a break from "constant instruction" while also not sacrificing your learning objectives.
 
-### **Review & Tests (in Implementation)**
+### **Review & Tests**
 
 Review is when you're presenting the material you've implemented in the previous stage, whether through lectures, activities, or a combination of the two.
 
@@ -358,26 +332,16 @@ If, however, your goal is embedding more formative assessments and mid-learning 
 
 One important note about formative assessments, and assessments for reviewing and testing in general: the student must also be privy to the feedback and results of assessments. If they cannot see the results of their work, they'll lack the means to act upon any deficiencies and obscure gaps in their understanding.
 
-### **"Daily Scrum" (Teacher)** 
+### **Retrospective (Teacher & Student)**
 
-Think of the daily Scrum as your reassessment of the classroom and what you got done during the day.
-
-After each day/class session, you can see which topic(s) were covered, how well they were covered, and then spend a bit of time making minor to moderate adjustments if needed. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
+The retrospective is a time for you, as a teacher, to figure out ways to improve the effectiveness and efficiency of your teaching plans, style, presentation, and more. You figure out what went well, what did not go well, what problems arose, and any solutions you made to solve problems you faced. This can occur after each day/class session, or at the end of each unit, topic, chapter, etc. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
 
 The biggest thing to check for is whether or not students are meeting the educational goals. For example, do they have a global understanding of the topic(s) you're introducing? 
 - If not, then examine if the instruction across all lectures, activities, projects, and tests is designed to best facilitate learning to reach that goal.
 
-While efficiency is important, there's also a balancing game between teaching what they need to know vs what they should know, such as big ideas vs granular details.**
-
-### **Retrospective (Teacher & Student)**
-
-This occurs at the end of each unit, topic, chapter, etc. and is like a destination on a road trip you spend the night at and gather your bearings, rather than a momentary pit stop along the way like with a Daily Scrum.
-
 This part is done primarily through planning periods and not days where students are heavily involved. Additionally, the time spent here varies from minutes to hours, but you should not spend more than 2 to 3 hours here.
 
-The retrospective is a time for you, as a teacher, to figure out ways to improve the effectiveness and efficiency of your teaching plans, style, presentation, and more. You figure out what went well, what did not go well, what problems arose, and any solutions you made to solve problems you faced.
-
-If you find significant improvements, assess the feasibility of implementation and then implement them. You may also discover new material that you didn't cover in this unit. You may need or want to cover it in the next unit.
+If you find significant improvements, assess the feasibility of implementation and then implement them. You may also discover new material that you didn't cover in this unit. You may need or want to cover it in the next unit. While efficiency is important, there's a balancing game between teaching what they need to know vs what they should know, such as big ideas vs granular details.
 
 You can also include, typically as part of a review day, a dedicated time for students to offer genuine feedback about the class, setup, teacher, etc. It gives students a chance to voice criticisms or concerns in an open environment, which helps make them feel validated and provide a direction to improve your own teaching skills you otherwise would not find out on your own.
 

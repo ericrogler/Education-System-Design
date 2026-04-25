@@ -47,9 +47,9 @@ Successful people rarely, if ever, achieve success on their own. They are produc
 It is not solely the education system's fault that a student failed. This is the part where I kindly encourage readers to not displace blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes.
 - To put it another way: Public education reflects the public.
 
-This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems and public services in general may operate.
+This chapter is where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service. If anything, education is essentially a public service.
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
-- E.g. A hospital can provide a clean facility, competent staff, and appropriate care, but cannot resolve a patient's housing crisis.
+- E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis.
 
 Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation or violence, or another similar act, is when that working relationship immediately ends and it's time to bring in security and/or the attorney. Education systems must be allowed to enforce consequences. For employees in many schools and education systems, this may mean enforcing consequences on the student *and* parent/guardian, not just the student.
 
@@ -294,21 +294,25 @@ In short, **they help *you* do *your* job, even if it's indirect help.**
 
 ### **What About Student Agency & Relationships?**
 
-Throughout this book I often discussed students in a context similar to how an employeer might speak about employees and as a management tool. This section is a different, but quite important, perspective reinforcing students as simply *students.*
+Throughout this book I often discussed students in a context similar to how an employeer might speak about employees and as a management tool. This section is a different, but quite important, perspective reinforcing students as simply *students.* I'll cover aspects of relationship management here specifically for students.
 
-For other research on this field, I'll briefly list some examples:
+For additional research on this subject, I'll briefly list some examples:
 - Deci & Ryan's Self-Determination Theory (2000)
 - Hattie's Visible Learning Meta-analysis (2009)
 
-The concept of student-centered learning also leans heavily into student agency. It's not where a teacher hands over *all* duties towards students, but *facilitates* the learning process and ensure material and content remains accessible. Though concepts from management like removing blockers, guiding peers, and training people towards self-sufficiency still exist, it's ultimately letting students make sense of things rather than an educator do all of that for them.
+The concept of student-centered learning leans heavily into student agency. It's not where a teacher hands over *all* duties towards students, but *facilitates* the learning process and ensure material and content remains accessible. Though concepts from management like removing blockers, guiding peers, and training people towards self-sufficiency still exist, it's ultimately letting students make sense of things rather than an educator do all of that for them.
 
 To recall one example of student-centered learning from personal experience: making a business as our senior project in undergraduate college. The professor was there as a facilitator and still handled grades, provided ideas, and gave a template for where we should be at certain points in time along our work and project. Outside of that, the rest was left towards students and we determined a company name, company product, the manufacturing processes and materials for the product, the sales pitch and marketing, which students were devoted to each "department," who was the leader and sub-leaders, and many more.
 
-In this case, said students are still responsible, if not *more* responsible compared to teacher-centered learning, for their grades and their own learning in student-centered models. It's entirely possible to keep the intellectual rigor and accountability, even when the educator is only a facilitator.
+Another example of student-centered learning in practice is through co-constructing goals (i.e. success criteria). It's basically backward planning, but involving students, and it doesn't always mean students are creating the criteria or assessments themselves. Instead, it may be an educator starting with an assignment, or draft, then inviting students to offer feedback and improvements onto it. Though an educator may create high-quality work with clearly defined criteria, student input provides clarity and an outside perspective to help plan better in the future.
+
+Nevertheless, students are still responsible, if not *more* responsible compared to teacher-centered learning, for their grades and their own learning in student-centered models. It's entirely possible to keep the intellectual rigor and accountability, even when the educator is only a facilitator.
 
 Additionally, a teacher-student relationship may be a prerequisite towards learning. To present a hypothetical: it's probably easier to genuinely listen to someone you like versus someone you do not like instead. These relationships are also important for trauma-informed approaches, as a relationship establishes trust, safety, and collaboration, which organizations at federal/sovereign levels like SAMHSA developed guidelines for (2024).
 
-Now, if you were told "have you tried building a relationship with them?" as a response or inquiry towards things going wrong, remember that simply having a relationship doesn't mean things *won't* go wrong. An educator may have good rapport with students and earn their respect through professional relationships, but it won't stop every potential issue. They may also need to get them to stop talking all the time because it distracts and tampers the learning experience of all other students. And much like any other relationship, it takes buy-in, engagement, and effort from *all* parties involved to work. It's not solely an educator's or student's fault!
+Now, if you were told "have you tried building a relationship with them?" as a response or inquiry towards things going wrong, remember that simply having a relationship doesn't mean things *won't* go wrong. Relationships of all kinds can go wrong, even if all parties involved have good rapport with each other.
+
+An educator may have good rapport with students and earn their respect through professional relationships, but it won't stop every potential issue. They may also need to get them to stop talking all the time because it distracts and tampers the learning experience of all other students. And much like any other relationship, it takes buy-in, engagement, and effort from *all* parties involved to work. It's not solely an educator's or student's fault!
 
 ### **Handling [Adult] Communications and Urgency**
 

@@ -5,7 +5,7 @@ nav_order: 19
 ---
 # Accommodations
 
-### [Previous Chapter](Z010_Agile_Teaching_Framework.html)
+### [Previous Chapter](Z010_Contrast_Framework.html)
 
 ## **Short Answer**
 
@@ -39,18 +39,18 @@ Not all accommodations are feasible. Even if accommodations are feasible, if the
 
 ## **Long Answer**
 
-*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice within education.
+*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice within education. The tone may skew more negative as a result.
 
-If another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there than here (2026).
+As an aside, if another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there than here (2026).
 
-**Everything I'm writing in this chapter is based on the assumption that every accommodation *must* be followed per law. I am *not* suggesting you can ignore accommodations.**
-- I.e. if I were a teacher and a student has one of these accommodations, it's a reflection of my views on it, how reasonable it may be, and/or how it might occur in practice if I'm required to satisfy that accommodation.
+**Everything I'm writing in this chapter is based on the assumption every accommodation *must* be followed per law. I am *not* suggesting you can ignore accommodations, but I will critique specific implementations of certain accommodations.**
+- i.e. if I were a teacher and a student has one or more of these accommodations, it's a reflection of my views on it, how reasonable it may be, and/or how it might occur in practice if I'm required to satisfy that accommodation.
 
 **Accommodations provide opportunities for students to succeed like their peers. They also include opportunities to *fail* like their peers.** It's not a free pass to get out of learning. If they want to succeed, students (and parents by extension) must own responsibility and plans like IEPs, 504s, etc. outlining accommodations must explicitly call out and enforce student and parent responsibilities to not be abused.
 
 If a teaching framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire, original graduate thesis from 0 to 100 in under 2 weeks.
 
-Add on top of this that many accommodations are *legally required*, thanks to plans like IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expected to adapt and adjust how you deliver content with, or without, whatever supports you have.
+Add on top of this that many accommodations are *legally required*, thanks to plans like IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expected to adapt and adjust the education process with, or without, whatever supports you have.
 
 Therefore, **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by students, and/or third parties assisting students, to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
 - Put another way: they shouldn't move on when they aren't ready.
@@ -62,9 +62,9 @@ I'll also emphasize, once again, something to keep in mind as you're reading thi
 > A reasonable accommodation enables a person with a disability to enjoy equal
 employment opportunities, benefits, and privileges.
 - [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024)
-- Yes, I'm using an employment definition instead of a student accommodation definition. Nevertheless, the goal is preparing students for future lives as working, functional adults.
+- I'm using an employment definition instead of a student accommodation definition. Nevertheless, a goal of many education systems is preparing students for future lives as working, functional adults.
 
-Accommodations provide equity, not advantages, to students with physical, mental, or medical conditions putting them at disadvantages compared to peers. Some of these conditions cannot be fully cured (as of writing this), despite whatever therapy or practice is implemented for them. That means assisting people with diseases and conditions like dyslexia, dysgraphia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their peers. Accommodations are not just for one type of student; it's for many types of students. 
+Accommodations should provide equity, not advantages, to students with physical, mental, or medical conditions at a disadvantage compared to peers. Some of these conditions cannot be fully cured (as of writing this), despite whatever therapy or practice is implemented for them. That means assisting people with diseases and conditions like dyslexia, dysgraphia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their peers. Accommodations are not just for one type of student; it's for many types of students. 
 
 Additionally, the number and intensity of accommodations students need should decrease over time as students develop better techniques to deal with any issues. Students should also avoid relying on accommodations, and their condition(s), as an excuse. It's similar to physical therapy, where you're trying to restore functions so you can operate without assistance or minimal assistance.
 - One example of "fading supports" is from the [Paraeducator Support files of Washington Office of Superintendent of Public Instruction (OSPI)](https://ospi.k12.wa.us/sites/default/files/2022-12/tap_6_best_practices.pdf) (2022)

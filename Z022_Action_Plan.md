@@ -250,7 +250,7 @@ This timeframe is difficult precisely because everything is still "new." Expect 
 - Lesson plans for next week.
 - Knowing how to use the grading system.
 - Templates for assignments, quizzes, projects, labs, and tests.
-- Ideas for how to approach the unit(s) and topic(s) you're covering (see "Agile Teaching Framework" for example).
+- Ideas for how to approach the unit(s) and topic(s) you're covering.
 - Software/account issues resolved for students and teacher(s).
 - Student contact information stored and organized.
 - Outstanding payments from students collected (if applicable).

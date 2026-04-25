@@ -32,19 +32,23 @@ If you're transitioning or changing into new standards or curriculums, be aware 
 
 ## **Long Answer**
 
-**Warning: Do not cut corners with standards and objectives for your curriculum!**
+Can you question established standards? Yes.
+
+*Should* you? If you have the time, effort, and money required to see it through, or there's a legitimate concern about said standards, then maybe so.
+
+Regardless, **do not cut corners with standards and objectives for any education system!**
 
 There are several reasons why:
 
-- It's hard to build a good curriculum without them
-- Some teaching materials may not align with standards
-- Not adequately covering standards may risk trouble like non-renewal
+- It's hard to build a good curriculum, or learning experience in general, without them
+- Some educational materials may not align with standards, which adds noise when you need signals
+- Not adequately covering standards may risk trouble like non-renewal and potential legal and ethical issues
 
-**Once you firmly establish standards and objectives, *then* you can be creative in your teaching methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
+**Once you firmly establish standards and objectives, *then* you can be creative in your methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
 
 While standards can limit what is done, strong standards elevate teaching, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
 
-Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and create your curriculum. In both cases, as well as homeschooling, you may still be constrained by a State's Department of Education standards and objectives.
+Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and create your curriculum. In both cases, as well as homeschooling, you may still be constrained by a State's Department of Education standards and objectives. While these standards/curricula may not be *perfect*, these usually go through multiple rounds of review before final publication, so they're more reliable than you may expect.
 
 As for independent teachers and instructors not creating content for public and private schools, they should expect to handle most, if not all, setup by themselves.
 
@@ -73,6 +77,9 @@ You may come across other sets of standards (not to be confused with curricula!)
 - The same set of standards and how they're implemented can vary widely from school to school, district to district, and state to state.
 - Sometimes standards are not solely based on what is best for learning, but as a response to cultural and political environments they're developed in.
     - See Gamage et al. (2021) for one research example.
+
+Though you may have a good curriculum or set of standards to work with, the other part is the educator creating and delivering learning content based on them. It's a two part ordeal; the standards should be good and the person/method should also be good. If the teacher isn't good either, the students may get unduly passed through and thrust into an environment they're unprepared for in the future. If both good teachers and curricula are present, there is still the risk of systemic pressure passing along students in the case of failure.
+- Sadly, I find teacher quality notoriously hard to regulate. You can check for indicators and signals, like passing certain exams or having targeted degrees, but they measure compliance and meeting requirements more than actual effectiveness in education.
 
 ### **How Do I Design Something?**
 

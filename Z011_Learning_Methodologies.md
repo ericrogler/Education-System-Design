@@ -44,11 +44,11 @@ In general:
 
 ## **Long Answer**
 
-I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without appropriate support is tantamount to neglect.
+I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without the appropriate supports is tantamount to neglect.
 
 One opinion I'll separate out from the rest is, for any students that I have, they start a 0% in the class and work up to the grade they deserve based on the effort, time, and results they display. They don't start with a perfect grade; they start with *no* grade and can go only up from there. If they choose to mess around and not do any work towards learning despite knowing this, then they get the 0% they deserve.
 
-I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
+I'm also not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
 There are many ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
 
@@ -67,7 +67,7 @@ Lastly, I'd also say to focus on the knowledge and not on the job. If you learn 
 *All that said, let's approach this subject carefully.*
 
 Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other parallels:
-- It is easier (and lower cost) to make and serve 1 type of hamburger to customers vs 30 types of hamburgers.
+- It is far easier (and lower cost) to handle the logistics for 1 type of hamburger vs 30 types of hamburgers.
 - Logistics are typically easier transporting 60 people to one location vs 60 people to multiple locations.
 - It's less taxing on employees to maintain one version of an application rather than developing backwards compatibility on multiple, different operating systems.
 - Assembly lines are easily configured to optimize production on one product compared to setting up multiple production lines for multiple products.
@@ -124,13 +124,15 @@ If you needed reasons to determine whether you should self-study or seek formal 
 
 There are two ways to approach differentiation: differentiation as individualized work and differentiation as flexible instruction. I'll discuss the former first, then the latter.
 
+As a reminder, this isn't opposition to inclusion and differentiation, but it will critique ways it can be, and has been, implemented.
+
 **Part 1: Differentiation As Individualized Work**
 
 Differentiation here is great on paper and often poorly implemented in practice. When I hear about it, it's essentially people wanting the benefits of one-on-one education, but in a classroom *group* setting with unfortunately strained resources.
 
-There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: CLASSROOMS AREN'T SUPPORTED FOR IT!
+There's just "one teensy-weensy but ever-so-crucial little tiny detail" as Hades from *Hercules* (1997) might put it: MANY CLASSROOMS AREN'T SUPPORTED FOR IT!
 
-Having *the teacher/instructor* deal with all differentiation for every student places your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction? Do the students police themselves into learning? That's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
+Having *the teacher/instructor* deal with all differentiation for every student places your education system onto a single point of failure. What happens when the teachers/instructors are no longer there? Do the other staff in the education system cover instruction sufficiently? Do the students police themselves into learning? It's unlikely, even in the case of student-centered learning, as an educator is also a facilitator.
 
 A conventional classroom has 1 adult, around 25-30 kids, and a surprisingly large skill spread among students. Imagine a group of students where there's 3 different IEPs, 4 ESL students, 1 student trying to start a fire, and 4 504 plans. You've all of a sudden went from 1 way to designing your education to 12+ ways instead. A solution designed for an individual rarely perform wells as a solution for an entire group, which means we're dealing with systemic issues here.
 
@@ -146,7 +148,7 @@ Though technological advancements now provide online tutors, cognitive tutors, a
 
 To further explore one potential solution to the above problem, Universal Design Learning (UDL) may replace differentiation, but has benefits and drawbacks. I'm going to summarize it here, but if you want more information you can look for it online (e.g. [CAST on Universal Design for Learning](https://www.cast.org/what-we-do/universal-design-for-learning/) (2024)). You're also *technically* standardizing education as it aims for a single curriculum with adaptability and flexibility, but also destandardizes the learner by taking their personal considerations into the design.
 
-The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the Agile framework I talked about previously. To list some examples of UDL:
+The biggest benefits are you get a framework where everyone gets the same accommodations under one curriculum and it's accessible to as many students as possible. With this setup, you're able to improve outcomes for *all* learners from the start. It's also compatible with other teaching methods and frameworks, such as direct instruction and the framework I talked about previously. To list some examples of UDL:
 - Subtitles/closed captions for videos
 - Pencils and paper for everyone, regardless of if they brought it already or not
 - Guided notes now available for everyone instead of provided only for an IEP requirement 
