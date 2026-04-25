@@ -27,6 +27,8 @@ nav_order: 3
 
 I'm treating education as a system and not purely a pedagogical abstraction. For this goal, **this book utilizes cross-domain knowledge to suggest improvements towards education and education systems.**
 
+Because of this book's breadth, I fully expect any reader to delve further into topics discussed here and supplement knowledge with specialized texts, documents, books, and guides. This is more of a starting point than a deep-dive.
+
 Education is discussed in an operational environment and covers various topics, such as:
 - Legal, financial, and human constraints
 - Stakeholder/client relationships and management principles

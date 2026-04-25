@@ -13,7 +13,7 @@ Imagine I want to get a new teacher, instructor, presenter, etc. from 0-100 as f
 
 I'll pretend a reader is in a situation where they start from, well, basically nothing.
 
-**That's my problem here to solve and this book is my solution. It serves as an introduction towards education systems and examines multiple topics broadly.**
+**That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
 ***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to be like IKEA and cater what products and services I provide, or have opinions about, on certain topics presented to you.
