@@ -49,11 +49,11 @@ If you need a one-liner? Enforce rules like a pilot in aviation: no room for sur
 
 *Notice: This is its own dedicated "chapter" as there are many ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
-If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
+If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (their version of "direct reports"), they'd probably ask "total or per class" like it's another Tuesday.
 
-What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You may have affinity with a particular type of student, or students, or just be "good" across all disciplines; it varies a lot person-to-person.
+What seems normal and reasonable everywhere else for management is not the case in an educational system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person.
 
-Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
+Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
 Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot overlook how that disruptive student is denying 30+ (or however many) other students an education. 
@@ -97,7 +97,14 @@ So what makes a classroom management plan a good plan anyways? I'll provide a co
 
 Any good classroom management plan accomplishes one task exceptionally well: A simple, consistent, and fair way to manage a class. 
 
-**Your management plan doesn't need to be too extensive nor does it have to answer *every* edge case initially.** It only needs to cover, at a minimum, what ensures a functional classroom setting. 
+**Your management plan doesn't need to be too extensive nor does it have to answer *every* edge case initially.** It only needs to cover, at a minimum, what ensures a functional classroom setting. While a complicated list may work, aim for fewer steps when reasonable. For example, if I'm a teacher and I need a quick idea how to establish expectations, I may do some of the following:
+- Begin *on time.* Not before. Not after. Right on time.
+- Have a seating chart visible to students at the start of class.
+- Thanking students for doing something right.
+- Designate areas to place specific items, like turn-in assignments, backpacks, coats, etc.
+- Briefly go over, in about a few sentences, what you, the educator, expect to cover in this particular session.
+
+Some of that may sounds boring. *That's fine.* Your goal is saying what needs to be done with clarity and establish concrete reasons to redirect students if they go off-task.
 
 I've seen pages upons pages of rules in one scenario and I've seen an entire classroom management plan written on a single sheet of paper in 10 lines of text. Both did work well and both were appropriately designed for their classroom setting. Those same workplaces designed their plans to safely and effectively teach their specific classroom material and catered the procedures to their needs.
 

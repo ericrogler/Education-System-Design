@@ -111,26 +111,6 @@ There's also metrics not related just to students, but also staff members (and s
 
 There are a whole host of metrics, but there's a few I want to call out because I usually see them as "objectives" rather than performance indicators.
 
-### **"Lines of Code"**
-
-*Alternatively: Why Context Matters*
-
-**In short: context validates metrics.**
-
-Here's an example I want to cover quickly. A metric I've seen mentioned here and there in 2022-2025 is "lines of code."
-
-People phrase it like [number of] lines of code is better if it's a big number and worse if it's a low number. For someone unaware, it *sounds* like it makes sense, but we're actually dealing with perverse incentives here.
-
-It's improper to treat the metric this way. The context isn't interpreted correctly and the logic behind the story is misconstrued. It betrays one important fundamental design concept, amongst many others: simplicity (or clarity) trumps complexity. 
-
-I'll put it another way: Imagine you have a problem to solve and there's two solutions to handle it. One option contains 10,000,000 lines of code and the other option contains 10,000 lines of code. Both options will perform the job to the user's needs.
-
-Programming languages have wildly varying quantities of lines of code due to the logic and structure of those languages. It's like comparing two different spoken languages. "I love you" vs "Ich liebe dich" both mean the same thing, but the latter has more letters. That's something you cannot reconcile easily between languages, so it dilutes the metric's veracity.
-
-If something goes wrong while you're solving a problem, what would you rather troubleshoot/fix: the 10,000,000 lines option or the 10,000 lines option? I'd choose the 10,000 lines option because it'd be way faster and simpler; you probably would too.
-
-I could go on and on about other examples. Number of pages, word count, step count, number of clicks etc. Metrics that only sound good on paper to "optimize," but don't prove something is effective/efficient, are functionally worthless.
-
 ### **What If Metrics Mean Different Things?**
 
 If a metric means something different for multiple people, you'll eventually, but certainly, get groups making conflicting decisions using the same information. *Every* metric requires a business owner who defines the metric and a technical owner who implements the metric. If there's no owner, the metric(s) should not affect decision-making.
@@ -186,6 +166,21 @@ After data is collected and processed, then you can effective design whatever so
 Additionally, there is a hidden danger with quantitative metrics in particular: **quantitative metrics create an illusion of objectivity.** Say, for example, you're performing studies to figure out a System Usability Score (SUS) and surveying participants on how they feel about a system they tested. Though this is a quantitative measure, it is also entirely *subjective* since that score is based on a person's feelings or thoughts instead of hard data. That metric may be OK for diagnosing one product, but it should *never* be used to compare the effectiveness of one product against another product.
 - As further examples, this may include metrics with similar, subjective reporting methods from users like Net Promoter Score, customer satisfaction, Likert scales, pain scales, surveys, etc.
 
+### **Pre-Analysis Considerations**
+
+For this section, forget about metrics for just a bit.
+
+Before you start an analysis, there's several things to consider:
+1. What is the goal of your business? This could be a financial group, administration, etc.
+    - This is NOT just metrics.
+2. Who will see the results of your analysis? For example, Steve from accounting has different needs vs Jane from HR.
+3. What decisions does it support/oppose?
+4. What actions will it affect? If it doesn't change anything, why do it?
+
+If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers that are pretty to look at.
+
+Basically, figure out the context, the expected questions, and the worth of an analysis before you get too deep into it or you risk wasting time and effort.
+
 ### **Data and Data Issues**
 
 Many organizations collect data on all sorts of things. This isn't limited to education systems either.
@@ -213,24 +208,7 @@ The third problem is something to expect in any business across any context. Wha
 
 Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
-### **The White and Orange Exception**
-
-There's an example I like to talk about where a better result occurs in practice despite established metrics saying it's worse: white text on orange background in a button. 
-- There's even [a dedicated case study on this topic](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) from Ericka O'Connor (2019).
-
-Designs need to consider similar accessibility laws. Instead of ESSA and LRE, however, it's ADA, Section 508, and WCAG (Web Content Accessibility Guidelines). Someone may risk legal actions if they aren't designing with consideration for these rules.
-- Aside: Section 508 is specifically for federal agencies/programs, not a universal rule.
-
-There were two main levels of WCAG compliance, AA and AAA, when the case study was written in 2019. Designs should meet a minimum contrast ratio of at least AA, or 4.5 for small text and 3 for large text, but a higher "value" is generally better. For reference, contrast ratio is how well text of one color appears against a background of another color.
-- As of writing this (2026), WCAG has since been updated and the above was relevant for WCAG 2.1.
-
-In that same article, the contrast ratio for black text on orange background was 6.44, or AA, while the contrast ratio for white text on orange background was 3.26, or AA (for large text requirements). Despite metrics indicating black was better, white text had a human factor play where 61% of participants found white on orange was easier to read compared to 39% with black on orange.
-
-This exception is here to remind you of two things:
-1. Metrics are not always perfect and still diagnostic.
-2. You should still aim to meet some level of standard(s) even if all metrics aren't perfectly favorable.
-
-### **How Education is Evaluated (with Examples)**
+### **Evaluating Education (with Examples)**
 
 In the United States, as of March 2026, there's multiple ways to evaluate its learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
 - These particular examples deal with K-12 education instead of tertiary/university education.
@@ -461,6 +439,63 @@ Now, let's approach this scenario with a different perspective and ask if teache
 The short answer is no. 
 
 The long answer is no because of an alphabet's list of reasons, including how management isn't easily replicated amongst groups, the environment *still* heavily affects how education is facilitated, and all the other nuances of human interactions and people involved in education systems vastly differ even among "similar" setups.
+
+### **The White and Orange Exception**
+
+There's an example I like to talk about where a better result occurs in practice despite established metrics saying it's worse: white text on orange background in a button. 
+- There's even [a dedicated case study on this topic](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) from Ericka O'Connor (2019).
+
+Designs need to consider similar accessibility laws. Instead of ESSA and LRE, however, it's ADA, Section 508, and WCAG (Web Content Accessibility Guidelines). Someone may risk legal actions if they aren't designing with consideration for these rules.
+- Aside: Section 508 is specifically for federal agencies/programs, not a universal rule.
+
+There were two main levels of WCAG compliance, AA and AAA, when the case study was written in 2019. Designs should meet a minimum contrast ratio of at least AA, or 4.5 for small text and 3 for large text, but a higher "value" is generally better. For reference, contrast ratio is how well text of one color appears against a background of another color.
+- As of writing this (2026), WCAG has since been updated and the above was relevant for WCAG 2.1.
+
+In that same article, the contrast ratio for black text on orange background was 6.44, or AA, while the contrast ratio for white text on orange background was 3.26, or AA (for large text requirements). Despite metrics indicating black was better, white text had a human factor play where 61% of participants found white on orange was easier to read compared to 39% with black on orange.
+
+This exception is here to remind you of two things:
+1. Metrics are not always perfect and still diagnostic.
+2. You should still aim to meet some level of standard(s) even if all metrics aren't perfectly favorable.
+
+### **"Lines of Code"**
+
+*Alternatively: Why Context Matters*
+
+**In short: context validates metrics.**
+
+Here's an example I want to cover quickly. A metric I've seen mentioned here and there in 2022-2025 is "lines of code."
+
+People phrase it like [number of] lines of code is better if it's a big number and worse if it's a low number. For someone unaware, it *sounds* like it makes sense, but we're actually dealing with perverse incentives here.
+
+It's improper to treat the metric this way. The context isn't interpreted correctly and the logic behind the story is misconstrued. It betrays one important fundamental design concept, amongst many others: simplicity (or clarity) trumps complexity. 
+
+I'll put it another way: Imagine you have a problem to solve and there's two solutions to handle it. One option contains 10,000,000 lines of code and the other option contains 10,000 lines of code. Both options will perform the job to the user's needs.
+
+Programming languages have wildly varying quantities of lines of code due to the logic and structure of those languages. It's like comparing two different spoken languages. "I love you" vs "Ich liebe dich" both mean the same thing, but the latter has more letters. That's something you cannot reconcile easily between languages, so it dilutes the metric's veracity.
+
+If something goes wrong while you're solving a problem, what would you rather troubleshoot/fix: the 10,000,000 lines option or the 10,000 lines option? I'd choose the 10,000 lines option because it'd be way faster and simpler; you probably would too.
+
+I could go on and on about other examples. Number of pages, word count, step count, number of clicks etc. Metrics that only sound good on paper to "optimize," but don't prove something is effective/efficient, are functionally worthless.
+
+### **TTK & TAE vs DPS & DPR**
+
+This is another example, outside of education systems, that a modern audience may be familiar with and primarily concerns video games. The lesson is context inform decisions and what users will prioritize.
+
+DPS (Damage per Second) is the value of a character's, item's, or other system's output. TTK (Time to Kill) is how long it takes to complete a task (eliminating an opponent) 100% from start to finish. In a TTRPG (table-top roleplaying game) or similar context, such as from Pathfinder or Dungeons & Dragons, you may see DPR (damage per round) and TAE (total action efficiency) in addition to DPS and TTK, with DPR replacing DPS as only the time unit changes between them. 
+
+We're introducing two separate pairs of metrics and showing how they apply to different contexts here.
+
+DPR is pretty similar to DPS, but TAE is somewhat different from TTK. TAE is a measure of efficency regarding multiple events, not necessarily only one event like TTK, and works from an existing action economy; the pool of things a group can do per round. This includes number of actions to do something, or support said action(s), and how well actions consistently perform. You could use TAE to help evaluate how well a setup fares across different contexts and whether or not having a high DPS/DPR character is a detriment or benefit.
+
+These metrics sound similar, but should not be treated similarily. TTK and TAE are measures of effectiveness *and* efficiency, where effectiveness (task completion) is "constant" while efficiency is variable (time taken). Additionally, people try to do things faster, even if they're already effective, which TTK and TAE will easily track. DPS and DPR, meanwhile, are a single variable only measuring output, as it can take more time and actions to reach that effectiveness.
+
+Across *both* PvP (player-vs-player) and PvE (player-vs-environment) scenarios, the importance of TTK/TAE vs DPS/DPR is highlighted further.
+
+In PvP scenarios, you're looking at a competitive, zero-sum context where the metric you choose most accurately picks the correct outcome. For example, in PvP, if you take two players and have them try to eliminate each other, assuming perfect accuracy and precision across all damage instances, the player with the lower TTK *will* win. If you replaced TTK with DPS, the player with the lower DPS *might* win.
+
+In PvE scenarios, TTK and TAE are especially important for solo players and groups of players. Even if one character has a high DPS/DPR, it can take away actions from others and bring down the overall TAE/TTK. If it takes longer to eliminate the enemies, that gives the enemies more time and actions against the players, which means players also must spend more time and actions to win.
+
+TTK and TAE are decision metrics while DPS and DPR are diagnostic metrics. Decision makers should *not* use a diagnostic metric beyond establishing context or else you risk an improperly created setup. This is especially important when under time pressures, like strict deadlines, and dealing with asymmetry across multiple players, factions, etc.
 
 ## **Bibliography**
 

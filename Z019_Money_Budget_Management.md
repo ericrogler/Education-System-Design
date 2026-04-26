@@ -66,7 +66,7 @@ Because money affords comfort and (many) resources, having too much money risks 
     - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
     - More aptly put: making decisions based on convenience rather than monetary cost.
 
-**If teachers are managers, then each class you're teaching is like a project you're overseeing.**
+**If teachers are managers, then each class they're teaching is like a project they're overseeing.**
 
 - Students are employees doing the tasks by learning and showing proof they learned properly.
 - You have an assigned budget for supplies, equipment, and materials–mainly provided by the school, PTO/PTA, or investments.
@@ -74,6 +74,29 @@ Because money affords comfort and (many) resources, having too much money risks 
 - You have to make sure students are doing the work and not causing excessive issues amongst each other. There is behavior management involved.
 
 Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
+
+### **How to Make Money**
+
+Many businesses operate on a simple, but important, core loop for customers:
+1. Attract Customers
+2. Convert Customers
+3. Deliver Value
+4. Retain Customers
+5. Grow Revenue
+
+You may work with every step in the loop in an organization, or be under a department only handling one step in this loop. If you do everything correctly, each step in this loop reinforces and strengthens the next step over time. Regardless of your status in an environment, the goal of a business, and financial operations, is to *make* money.
+
+Attracting customers is marketing yourself. It's where content, SEO (search engine optimization), advertising, word-of-mouth, branding, reviews, and far more come into play. While attracting a large quantity of customers is important, attracting *quality* customers is just as, if not more, important, as they're more likely to go through the loop.
+
+Converting customers is where you turn free customers into paying customers. It's conversions, trials, demos, pricing structures, benefits, gifts, and incentives. Without conversion, all you're doing is expending effort without reward. If customers like what they see and use, then you want to reduce any friction, earn their trust, and make it easy for them to give you money.
+
+Delivering value is where you walk the walk from the talk you talk. This is where your onboarding, product quality, customer support, the overall user experience, and meeting expectations arrives on the scene. If you underinvest here, you'll lose a paying customer and whatever trust they built up to this point. You might even make them think it was the wrong decision all along and let their negativity spread to others, meaning less paying customers going to you.
+
+Retaining customers is when you *sustain* incoming revenue streams. A dollar today sounds nice, but what about a dollar *every* day? You've delivered once, but now it's consistent value delivery, relationship management, loyalty, and communication. Keeping existing customers is far less costly than onboarding new customers, much like how bringing on new employees can be far more costly than keeping current employees happy. If you mess up here, your customers may not be completely let down, but left with only fonder memories of a better time and an indication you messed up your value delivery.
+
+Growing revenue is scaling upwards. Instead of earning only 1 dollar, you try and earn 2 dollars. You'll likely go through upselling, cross-sells, expanding contracts, buying and selling more frequently, increasing the scale of logistics and operations (and its costs!) and plenty more examples. Assuming your customers are retained at this point and you've kept them quite happy, they may feed back into step 1 and attract even more customers for you.
+
+If we take this same loop and apply it to education systems, they're still like a business. You're trying to bring in new students and keep them around, because each new student usually means more money for budget, salaries, and more. The curricula and environment you provide is the value you deliver to these students. If they feel like the education they receive is valuable and the learning environment is pleasant, they'll want to stay around and perhaps bring in other people. To keep funds and the education system(s) afloat, you'll have to find ways to bring in new students as older, or disgruntled, students depart.
 
 ### **The Morality of Wealth**
 
