@@ -31,11 +31,17 @@ You're starting with little experience and think you have more knowledge than yo
 - *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
 - Do not be everything to everyone; focus on teaching and managing students.
 
+Additionally, if you're new to education, I'm afraid there's *some* bad news. It's part of the reality of starting out. 
+
+You may enter into an education system with a "less than ideal" scenario. This could be a school with high turnover rates and teachers leaving mid-year (likely breaking contracts too!), a classroom with many problem students, or you're pushed into teaching remedial and low level classes over classes *you* desire to teach. It could also be you're in an environment dealing with blockers entirely out of your control, such as ever-changing policies from above, weird and unusual standards and rules to follow, and more.
+
+More experienced teachers have more choices available for them, while means less experienced teachers are more limited, picking up scraps, or forced into the toughest schools first. Low rewards (i.e. money and benefits), lack of support, and poor working conditions can accelerate burnout and affect retention of educators (James & DeMio, 2025).
+
 ### **"Those Who Can't Do, Teach."**
 
 I dislike the series of events that made this a popular phrase. All around, the phrase paints a bad picture of education and the people involved in education. Let me explain why.
 
-Firstly, have you ever known a subject, field, topic, concept, etc. really well, but fail to teach it or even explain it to others simply and/or properly? You can be *the* expert in content, but a "failure" in pedagogy/andragogy. That disconnect is why I emphasized the many difficulties and complexities of communication throughout this book.
+Firstly, have you ever known a subject, field, topic, concept, etc. really well, but fail to teach it or even explain it to others simply and/or properly? You can be *the* expert in content, with several decades or more of experience on that specific content, but a "failure" in pedagogy/andragogy. That disconnect is why I emphasized the many difficulties and complexities of communication throughout this book.
 
 Secondly, it's a misrepresentation of a George Bernard Shaw stage play scene related to *revolutionaries* and not teachers/education (1903, Shaw). Additionally, the variation "Those who can, do, those who cannot, teach" has an original source that's currently anonymous, but still could be an implied reference alongside Shaw's work for revolutionaries, not educators, and therefore still misrepresent those in education.
 
@@ -324,6 +330,8 @@ You may think about effectiveness and efficiency during reflection. These are tw
 
 3. Drucker, P. F. (2006). *The Effective Executive: The Definitive Guide to Getting the Right Things Done.* HarperBusiness.
     - Originally published in 1966.
+
+3. James, M., DeMio, P.S. (2025, December 18). How To Increase the Retention of Early Career Teachers. Center for American Progress. [https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/](https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/)
 
 3. Kruger, J., & Dunning, D. (1999). *Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.* Journal of personality and social psychology, 77(6), 1121–1134. [https://doi.org/10.1037//0022-3514.77.6.1121](https://doi.org/10.1037//0022-3514.77.6.1121)
 

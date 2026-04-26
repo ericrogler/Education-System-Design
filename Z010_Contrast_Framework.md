@@ -332,6 +332,21 @@ If, however, your goal is embedding more formative assessments and mid-learning 
 
 One important note about formative assessments, and assessments for reviewing and testing in general: the student must also be privy to the feedback and results of assessments. If they cannot see the results of their work, they'll lack the means to act upon any deficiencies and obscure gaps in their understanding.
 
+**What about only quizzes and tests for graded work?**
+
+*Alternatively: 100% Summative*
+
+If you could do it, that may be preferred and I would do that myself if I could pull it off. Afterall, what matters are tests of proficiency to see if students understand the material taught to them. As for "test" anxiety, that occurs mainly because there's the fear of failure or consequences in an evaluation situation, which lower knowledge and gaps in knowledge can trigger (Theobald et al, 2022).
+
+Due to technological advancements, homework is increasingly easier to complete with assistance from third parties *without* getting caught. Without homework or other assignments to grade, that means less work to grade overall or have students claim there's nothing to work on, since they can always work on preparing for the upcoming quizzes and tests. You may also eliminate, or heavily reduce, missing work too. Lastly, students may skip the processing behind how many assignments they can skip and still pass if every assignment is now a quiz/test they cannot easily disregard without failing the course. 
+
+Granted, you should conduct this with certain conditions.
+1. Heavily restrict, or ban, the use of any technology while taking quizzes and tests.
+2. Retakes are limited to one time only and granted due to extreme circumstances.
+3. Grade recovery options in general are limited, or require a prerequisite that's hard or annoying to meet, such as completing X amount of work beforehand.
+
+One exception may be for projects and activities, but you can still treat them with the same seriousness as a typical quiz/test and grade them appropriately.
+
 ### **Retrospective (Teacher & Student)**
 
 The retrospective is a time for you, as a teacher, to figure out ways to improve the effectiveness and efficiency of your teaching plans, style, presentation, and more. You figure out what went well, what did not go well, what problems arose, and any solutions you made to solve problems you faced. This can occur after each day/class session, or at the end of each unit, topic, chapter, etc. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
@@ -448,6 +463,8 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
     - Alternate Link: [https://files.eric.ed.gov/fulltext/EJ971753.pdf](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
 
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+
+7. Theobald, M., Breitwieser, J., & Brod, G. (2022). *Test Anxiety Does Not Predict Exam Performance When Knowledge Is Controlled For: Strong Evidence Against the Interference Hypothesis of Test Anxiety.* Psychological Science. [https://journals.sagepub.com/doi/full/10.1177/09567976221119391](https://journals.sagepub.com/doi/full/10.1177/09567976221119391)
 
 6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. [https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9).
 

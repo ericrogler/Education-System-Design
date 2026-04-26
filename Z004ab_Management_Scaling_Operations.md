@@ -160,7 +160,7 @@ Both student teachers and leadership applicants are expected to quickly take a b
 
 The closest comparison for these are probably "continuing education" or "professional development." 
 
-Typically this is hosted at the squad or platoon level in a milsim group due to constraints in finding a location/space, scheduling, and getting personnel to attend. 
+Typically this is hosted at the squad or platoon level in a milsim group due to constraints in finding a location/space, scheduling, and getting all relevant personnel to reasonably attend. 
 
 People inside these organizations may or may not have to go through multiple FTX to remain in a billet or maintain a particular "rank." It depends on the rules and culture of said organization.
 
@@ -173,12 +173,15 @@ Some examples of FTXes may include the following:
 - Shooting Range Drills
 - CQB/CQC Training
 - Practicing Tactical Maneuvers
+- Specialized Roles (Medic, Logistics, Leadership, etc.)
 
-In milsim, they typically range from 30 minutes to 1.5 hours in length so there's a reduced chance of scheduling conflicts.
+In a milsim, they typically range from 30 minutes up to 2 hours in length, with attendance usually tracked, so there's a reduced chance of scheduling conflicts. There may also be a minimum cadence of weekly, bi-weekly, or monthly to mitigate skill degradation.
 
-As for why an FTX is important, think about the first time you've tried something new. At first, you may have struggled to get it right and you're consciously thinking about how to do it. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process. This continues on and on until eventually you can do it subconsciously and spend more energy on the actions rather than the thoughts.
+As for why an FTX is important, think about the first time you've tried something new or wanted to start an initiative if you're a leader. At first, you may have struggled to get it right and you're consciously thinking about how to do it. The second time goes a bit better because you've been through the steps once before, so now it's improving upon the execution of the process. This continues on and on until eventually you can do it subconsciously and spend more energy on the actions rather than the thoughts.
 
-Though a FTX may seem like a waste of time, it's ultimate goal is to set up a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think.
+Though a FTX may seem like a waste of time, its ultimate goal is to set up a "safe" environment to prepare you for how to do things before you are *forced* to figure it out in an unsafe environment without time to think. It's also a timeslot where, if someone fails the baseline, the consequences for failure are *significantly* less severe and there's far more time for instructors to provide remediation on the spot as needed or refer to other training if it cannot be solved on the spot.
+
+I found people, and students, have a habit of "locking up" in stressful situations where they don't know what to do. In an FTX, it forces someone to encounter the problem head-on and practice a solution for it. Once enough practice is done, the likelihood of "locking up" and messing up is greatly reduced as we've made an attempt to fill that knowledge gap. On the metrics side, this may mean improved reaction times, fewer communication issues, better operations performance, and more which senior leadership can point to and track over time.
 
 ### **Leaders Eat Last**
 

@@ -42,6 +42,8 @@ If you're trying to teach a student about wealth, go over the following:
 
 ## **Long Answer**
 
+**A lot of things happen due to money. Optics (i.e. perceptions) are a factor too.**
+
 When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace.
 
 Are these meant to be jokes? Perhaps. 
@@ -77,13 +79,17 @@ Teachers function like managers, even if it's not outwardly stated. Another role
 
 Before continuing, I want to talk about consequences. 
 
-Not just for students, or only people involved in education systems, but for everyone. 
+Not just for students, or only people involved in education systems. For everyone. 
 
-What happens when you make a bad decision? You'd likely feel the consequences of it. What if, instead, you didn't feel any consequences? Would you still retain your senses of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? And, out of my own curiosity, what would you do with all the newfound opportunities now open to you?
+What happens when you make a bad decision? You'd likely feel the consequences of it. 
+
+What if, instead, you didn't feel any consequences? Would you still retain your senses of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? And, out of my own curiosity, what would you do with all the newfound opportunities now open to you?
 
 Much like a successful person may be shaped by the environment they're raised in, a person lacking morality may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are often shaped by the environments they're in and they can change *as people* when their environments change too.
 
-You can do many things with enough time and resources. You can do countless more things when you're free from consequences.
+You can do many things with enough time and resources. 
+
+You can do countless things when you're also free from consequences.
 
 ### **Wealth Dynamics (for Education)**
 

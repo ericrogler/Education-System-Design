@@ -9,21 +9,19 @@ nav_order: 27
 
 ## **Short Answer**
 
-> “Don’t get so busy making a living that you forget to make a life.”
+> “It is possible to commit no mistakes and still lose. That is not weakness. That is life.”
 
-- Dolly Parton (2010) 
+- Jean-Luc Picard (Scheerer, 1989)
 
 ---
 
 ***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
 
-If possible, have a nice day. Enjoy your life when you can.
+If possible, have a nice day. Enjoy your life when you can. Even if you don't know what you're doing, act like you do, walk like you know where you're going, and get things done at a primary location instead of going to a secondary location.
 
-Additionally, avoid a culture emphasizing 24/7 work over an appropriate work life balance. If the system you work with cannot survive without you, the system has a problem to address.
+Avoid a culture emphasizing 24/7 work over an appropriate work life balance. If the system you work with cannot survive without you, the system has a problem to address.
 
-It is possible to be the best employee, teacher, etc. in your organization and still get fired without a second thought. That's not necessarily failure; that's life.
-
-You are allowed to quit/walk away and not have an opinion on everything.
+You are allowed to quit/walk away and not have an opinion on everything. You can deviate from the "plan."
 - What consequences follow, though, is still your responsibility, but you can and may stop.
 
 You are human, so you have human needs. For many, a job is a job and not their life.
@@ -35,7 +33,7 @@ I view two ways to approach teaching and instruction: as a job and as a career.
 
 Both ways are valid. You can have amazing and passionate teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. 
 
-With either way, be careful not to get taken advantage of and know when to set boundaries. Even if teaching/instruction is your calling, there is *always* a threshold where you'll no longer tolerate bad working conditions and/or impossible standards.
+With either way above, be careful not to get taken advantage of and know when to set boundaries. Even if teaching/instruction is your calling, there is *always* a threshold where you'll no longer tolerate bad working conditions and/or impossible standards.
 
 ## **Long Answer**
 
@@ -149,7 +147,8 @@ Venting and decompressing methods vary among individuals. It can be done through
 
 5. Occupational Safety and Health Administration (OSHA). (2023). Workplace Stress - Overview.Occupational Safety and Health Administration. Www.osha.gov. [https://www.osha.gov/workplace-stress](https://www.osha.gov/workplace-stress)
 
-6. Parton, D. (2010, August 9). *"Don't get so busy making a living that you forget to make a life."* [Post]. X (Formerly Twitter). [https://x.com/DollyParton/status/20723962228?lang=en](https://x.com/DollyParton/status/20723962228?lang=en)
+6. Scheerer, R. (1989, July 10). *Star Trek: The Next Generation* (Kemper, D., Writer; No. 21) [Television Broadcast “Peak Performance”].
+    - Season 2, Episode 21
 
 6. U.S. Department of Agriculture. (n.d.). *Healthy Eating*. Nutrition.gov. [https://www.nutrition.gov/topics/basic-nutrition/healthy-eating](https://www.nutrition.gov/topics/basic-nutrition/healthy-eating)
 

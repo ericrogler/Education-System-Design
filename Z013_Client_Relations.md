@@ -62,7 +62,7 @@ The amount of information you can display about students is staggering. In most 
 
 The amount of *legally* allowed information an educator can share is equally staggering. Even in cases such as one student bullying or physically threatening another student, educators may not be allowed to share the information of the students involved due to privacy laws. Though there are exceptions, they are quite narrow in scope.
 
-Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos.
+Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos. The same could be said for people in general: sometimes things aren't a problem until it's *made* a problem for them.
 - Key word: *Sometimes.*
 
 You may also hear the terms "upstream stakeholders" and "downstream stakeholders" for people. Though more common in supply chain and system contexts, think of upstream stakeholders as those who supply goods and services to deliver and downstream stakeholders as those who receive said goods or services. If an instructor were an example, support staff and administrators may be upstream stakeholders while students may be downstream stakeholders to an instructor, who is the manufacturer (or "hub") managing resources to create and deliver instruction.
@@ -292,7 +292,7 @@ Without these people, your education system wouldn't be able to keep rooms clean
 
 In short, **they help *you* do *your* job, even if it's indirect help.**
 
-### **What About Student Agency & Relationships?**
+### **Student Agency & Relationships**
 
 Throughout this book I often discussed students in a context similar to how an employeer might speak about employees and as a management tool. This section is a different, but quite important, perspective reinforcing students as simply *students.* I'll cover aspects of relationship management here specifically for students.
 
@@ -312,7 +312,9 @@ Additionally, a teacher-student relationship may be a prerequisite towards learn
 
 Now, if you were told "have you tried building a relationship with them?" as a response or inquiry towards things going wrong, remember that simply having a relationship doesn't mean things *won't* go wrong. Relationships of all kinds can go wrong, even if all parties involved have good rapport with each other.
 
-An educator may have good rapport with students and earn their respect through professional relationships, but it won't stop every potential issue. They may also need to get them to stop talking all the time because it distracts and tampers the learning experience of all other students. And much like any other relationship, it takes buy-in, engagement, and effort from *all* parties involved to work. It's not solely an educator's or student's fault!
+An educator may have good rapport with students and earn their respect through professional relationships, but it won't stop every potential issue. They may also need to get them to stop talking all the time because it distracts and tampers the learning experience of all other students. Much like any other relationship, it takes buy-in, engagement, and effort from *all* parties involved to work. It's not solely an educator's or student's fault!
+
+That said, you can be friendly without being friends. Being too friendly or nice can make you a pushover and negatively affect education, much like being too strict or too mean to students can also be a detriment. There's a happy medium and it's somewhere around "firm, but polite" when it comes to students.
 
 ### **Handling [Adult] Communications and Urgency**
 
@@ -332,7 +334,8 @@ When you develop an intuition for it, you'll learn to better protect your time a
 
 Next question: How often should you check things like your email every day?
 
-If you're in a line of work like communication, social media, owning a business, or a manager, this is pretty often. If your primary work is NOT communicating, then you should plan out specific times of the day to look at emails, etc. and what days, like vacation days and weekends, to NOT look at emails, etc.
+If you're in a line of work like communication, social media, owning a business, or a manager, this is pretty often. If your primary work is NOT communicating, then you should plan out specific times of the day to look at emails, etc. and what days, like vacation days and weekends, to NOT look at emails, etc. On that same note, avoid answer emails after hours or outside contract hours. If you *really* must answer an email after hours, then write out a draft and schedule it to send out *during* your hours.
+- That also includes a weekend, like writing it Saturday and sending it out Monday morning.
 
 There's also some "rules of thumb" to emails/texts I like to follow:
 - Keep it short

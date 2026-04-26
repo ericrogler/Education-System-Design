@@ -50,15 +50,17 @@ I love this method personally. It's a concept attributed to Hunt and Thomas (199
 
 Talking about your problems tends to help and sometimes uncovers solutions as you're talking through them. It doesn't have to be a human you talk to either; it can be a rubber duck instead!
 
-Or even a BLÅHAJ.
+Or even a Blåhaj from IKEA.
 
 It's like thinking aloud, except you're reframing the subject and explaining it to somehow who may not know what you're talking about. You describe what it should do vs what it actually does. It's not a complete replacement for learning critical thinking skills, but it does help with blockers.
+
+Try it at least once. That's all I ask.
 
 ### **Tolerances**
 
 *Alternatively: Standardization is GOOD*
 
-The concept of tolerances applies in about every industry. Even education. You may even see it as a management concept! Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
+The concept of tolerances applies in about every industry. Even education. Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
 
 Tolerances, from an engineering perspective, are allowable variations for a given product's dimensions. For example, you need a part that is 1 inch long, but you could accidentally make it a touch long (+1/16 inch) or a touch short (-1/16 inch) and it'd still work fine. Messing up the part too much, like making a 1 inch piece 1.25 inches instead, means a potentially successful product becomes wasted time, materials, and labor.
 
@@ -112,8 +114,8 @@ Additionally, some rules and guidelines are accompanied by maps to highlight whe
 
 ### **"Shorthand" Building Knowledge Examples**
 
-Most houses I've lived in I've remodeled myself utilizing IRC. I'll provide you simpler examples of factoids I memorized as I designed floor plans. For reference, IRC 2024 and Chapter 3 Building Planning provide many common details, but I'm naming off several that immediately come to mind and paraphrasing the exact wording (ICC, 2024).
-- Most interior walls are 2x4 with studs at 12 OC or 16 OC
+Most houses I've lived in I've remodeled myself under IRC building codes. I'll provide you simpler examples of factoids I memorized as I designed floor plans. For reference, IRC 2024 and Chapter 3 Building Planning provide many common details, but I'm naming off several that immediately come to mind and paraphrasing the exact wording (ICC, 2024).
+- Most interior walls are 2x4 studs at 12 OC or 16 OC
     - "OC" = On-center, measuring the distance from the center of one stud (structural wood plank) to the center of the nearest stud.
     - Many tape measurers have red squares/specialized markings on certain measurements to make measuring OC along a wall easier (e.g. a "red square" number every 16 inches)
 - Most exterior walls are 2x6 (or larger) with studs at 12 OC or 16 OC.
@@ -134,15 +136,21 @@ Much like mental math, you want to memorize information that quickly enables dec
 
 ### **Graphics, Plans, and Schematics**
 
-Graphics relates to schematics and blueprints or how something is built. This could be something small, like the design of a screw and its thread placement, or something large, like a skyscraper building.
+Shall I tell a story first?
+
+You have a plan. You get estimators to figure out how much that plan costs to bring to life and lay out *how* it should be done. Everyone agrees upon the specified work and everything beyond that is a change order (i.e. clients pay more money). Everything seems perfectly fine and we're all good to go!
+
+...At least until you go to the job site and there's staff/machinery lying around, you've gone over budget and deadlines, and the crew is pissed at the number of change orders and shifting demands thrown at them, even *with* the clients accepting crazy high prices for all the change orders.
+
+So yea. Learn how to read graphics, plans, and schematics and what can/cannot be reasonably done. It may just save your wallet and sanity.
+
+Graphics, plans, and schematics are often interchangeable terms. In this case, think of them as blueprints or how something is built. This could be something small, like the design of a screw and its thread placement, or something large, like a skyscraper building. This include many different types, such as topography maps, electrical plans, site plans and floor plans, exploded views, and so on. There's many free sources available to learn about plans as you encounter them, so I won't list them here for brevity's sake. 
 
 If you're designing the facilities where you'll implement education systems, you should have passing familiarity with how to read plans. While you could be adept enough to design your own plans, understanding how they're written leaves you the option of contracting out another building service to assist on the project and you knowing how to verify progress at each step.
-- Even if you're the designer, you'll need an engineer/architect of record to "stamp" it for approval before it may be utilized in practice.
+- For architectural designs specifically, you'll need an engineer/architect of record to "stamp" it for approval before it may be utilized in practice.
 
 Understanding plans is basically understanding symbols and how they're drawn. For engineering plans, the exact symbology used depends on the software plans are drawn in, but they typically remain consistent across software tools. For building plans, the information required and the CAD (computer-aided design) standards are subject to state control (and local reviewing authorities, if applicable). 
 - One such standard at the time of writing (March 2026), albeit paid access, is from the [United States National CAD Standard, or NCS](https://www.nationalcadstandard.org/ncs7/content.php) (2025).
-
-This include many different types of graphics, such as topography maps, electrical plans, site plans and floor plans, exploded views, and so on. There's many free sources available to learn about plans as you encounter them, so I won't list them here for brevity's sake. 
 
 Of particular note for my own endeavors were "topo" (topographic) maps and site plans. Knowing how to read topo maps has use inside and outside of work and lets you interpret terrain features, map scales, contour lines, locations of vegetation, triangulating locations on a map, and more. Site plans are useful as they provide a high-level overview of an entire site (i.e. a zoned property) and the location of features like building, foliage, water, road, and parking lot placements.
 

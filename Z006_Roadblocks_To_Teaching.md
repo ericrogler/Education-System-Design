@@ -92,7 +92,8 @@ For online teaching, you'll still need guardrails to keep students focused on yo
 
 You can accomplish a lot with sufficient funding. More often than not, you don't have enough funds.
 
-When funding is limited, be ready to resort to low-cost or free alternatives, or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, and Visual Studio. Some teacher planning and scheduling tools are also low-cost or free.
+When funding is limited, be ready to resort to low-cost or free alternatives or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, QGIS, GRASS, SAGA, Postgres, PostGIS, and Visual Studio. Some teacher planning and scheduling tools are also low-cost or free.
+- Past a low to moderate amount of data, scale, etc. however, even free options may cost monetary resources.
 
 There are multiple types of websites–government, commercial, non-profit, and personal–with free simulations and interactive software available for student and public use, such as [NASA's Eyes](https://science.nasa.gov/eyes/) for solar systems and [USGS TopoView](https://ngmdb.usgs.gov/topoview/) for topographic map viewing and manipulation.
 

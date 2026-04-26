@@ -22,6 +22,10 @@ Just because your passporting and information transfer procedures, especially wi
 
 ## **Long Answer**
 
+Teachers, and generally everyone else in an education system, can be extremely cliquey.
+
+Don't be cliquey. A mentor today means a better educator (and education) tomorrow.
+
 In a position (teaching/instructing) where you need all the help you can get, it's surprisingly hard to get that help. It may be for a multitude of reasons, such as:
 - It took someone else a lot of effort to set up everything they use, so are reluctant to pass it off
 - Someone wants to sell their curriculum or teaching materials
