@@ -20,6 +20,8 @@ nav_order: 22
 
 ---
 
+If someone is supposed to hate you, ask if they are. If someone asks for help, you may simply because they asked. There's always a choice to be better, even if it seems bad.
+
 Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and significantly determine how good or bad a job is in a given environment.
 
 You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
