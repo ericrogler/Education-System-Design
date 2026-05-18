@@ -18,11 +18,10 @@ nav_order: 10
 **The more people you have to manage, the more likely something can go wrong.**
 - i.e. Anything that can go wrong *will* go wrong.
 
-**In my experience, you can fix most (80-90%) classroom management issues with two actions: enforcing consequences for behavior and limiting the size of classrooms/number of students instructors manage.**
-- Though a solution is scaling down, it typically demands more resources like real estate, staff, and wealth which may not be available.
-- To describe it technically: that solution is horizontal scaling, but vertical scaling is deployed instead due to lack of resources.
+**In my experience, you can fix most (80-90%) classroom management issues with three actions: consistently (and actually) enforcing discipline and consequences for actions, allowing students to fail, and limiting the size of classrooms/number of students instructors manage.**
+- Though a solution, it may demand more resources like real estate, staff, and money which may not be readily available.
 
-A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, etc.). It's a reality your plan may experience failure due to factors outside your control.
+A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality your plan may experience failure due to factors outside your control.
 
 Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
 - It's so significant I'd  recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
@@ -43,20 +42,22 @@ Having a reason also does not equal having permission. Even if a student explain
 
 **When people are not held to standards, they will not perform to standards.**
 
-If you need a one-liner? Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery.
+If you need another one-liner: Enforce rules like a pilot in aviation: no room for surprises and no tolerance for tomfoolery.
 
 ## **Long Answer**
 
 *Notice: This is its own dedicated "chapter" as there are many ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
-If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor they had 40 students (their version of "direct reports"), they'd probably ask "total or per class" like it's another Tuesday.
+If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor in a physical school setting (K-12, in this case) they had 40 students (their version of "direct reports"), they'd probably ask "total or per class" like it's another Tuesday.
 
-What seems normal and reasonable everywhere else for management is not the case in an educational system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person.
+What seems normal and reasonable everywhere else for management is not the case in an education system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person.
+
+Across many of these policies, however, is the need for structure. Having no structure is, ironically, writing a recipe for disaster.
 
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
-Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot overlook how that disruptive student is denying 30+ (or however many) other students an education. 
+Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot reasonably overlook how that same disruptive student is denying 30+ (or however many) other students an education. 
 - If I didn't explicitly write it down here, someone will call it out.
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
@@ -73,11 +74,31 @@ Lastly, there's also many different types of schools even within the public and 
 
 *Alright, let's get into it.*
 
+### **The Parts You May Not Understand (At First)**
+
+Remember how I said "normal and reasonable everywhere else for management is not always the case in an education system" earlier? This section goes further into that and exposes some of the differences and similarities.
+
+One thing that *is* similar to management in other systems inside education is going into a school does not qualify you to teach in a school or be an expert in pedagogy. It's similar to a typical manager lacking technical knowledge as they cannot truly understand what's happening within their own project(s). Being skilled at a particular subject also doesn't automatically qualify you as being a good educator of that subject. Think of it as the difference between intelligence and charisma: intelligence is your subject matter knowledge whereas charisma is your ability to communicate. You might know everything there is about cakes, but your students won't learn about cakes if you cannot effectively communicate that knowledge!
+
+Another thing that's similar to managers in other systems is educators are usually first in line when things break. If something goes wrong, they're on the hook and have to communicate the issue, any impacts or problems it's causing, and solutions to anyone above and below them. It may not matter if a student caused it either and the educator blames a student; the administration and skip-levels might place blame on the educator anyways.
+
+Next is interruptions. Inside of education systems and in roles dealing directly with students, you will be juggling around multiple, constantly appearing interruptions that can derail the class at any time. This also includes the constant stream of questions, and *especially* off-topic questions, that can "break" the flow of direct instruction, activities, and other education.
+
+You also cannot brute force a solution inside of a broken system. Your good intentions may be wasted unless the system itself is fixed first, without breaking down from any changes, to accommodate what you need to do. Even if you do a headstrong attempt regardless of the system's state, it may make little difference.
+
+Some people inside of education systems may view education as a customer service. Someone may acquiesce to customer demands to "keep" a customer rather than lose a customer, because that may mean less money going into the "business."
+
+Lastly, there is a great deal of multitasking involved. It's not simply delivering education to students; it's managing every other factor in the environment that could affect that delivery on top of it.
+
 ### **One Plan to Rule Them All**
 
-Lord of the Rings reference aside, your ideal goal is one plan to handle every student. Even if you did develop one perfect management strategy, you may be forced to adapt it to your environment. The *major* exceptions are students with legal documents or accommodations with legal backings, such as IEPs or 504s, where a change is mandated. 
+Your ideal goal is one plan to handle every student. 
 
-In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may make minor edits to accommodate special education students.
+That ideal goal is rarely, if ever, met in practice.
+
+Even if you did develop one perfect management strategy, you may be forced to adapt it to your environment. The *major* exceptions are students with legal documents or accommodations with legal backings, such as IEPs or 504s, where a change is mandated. 
+
+In practice, while a better option is to design a plan to accommodate as many people as possible, there are cases you cannot do that and you may make minor edits to accommodate certain students.
 - This may mean one plan for everything is infeasible. If that's true, the new goal is *minimizing* the number of different plans.
 - One example in practice limiting a single plan may also be the sheer range of abilities and habits across students in a classroom, which means maybe only a small group get the full effect of learning at an appropriate level.
 
@@ -104,9 +125,9 @@ Any good classroom management plan accomplishes one task exceptionally well: A s
 - Designate areas to place specific items, like turn-in assignments, backpacks, coats, etc.
 - Briefly go over, in about a few sentences, what you, the educator, expect to cover in this particular session.
 
-Some of that may sounds boring. *That's fine.* Your goal is saying what needs to be done with clarity and establish concrete reasons to redirect students if they go off-task.
+Some of that may sounds boring. *That's fine.* Your goal is saying what needs to be done with clarity and establish concrete reasons to redirect students if they go off-task. Once you have a few key routines, you teach those routines, and the steps involved, as flawlessly as you can. Drill the routines down until they can do it autonomously. Without establishing any routines and/or expectations, you don't establish a "normal" students can adhere to and fall back on, which ensures chaos flourishes and education suffers.
 
-I've seen pages upons pages of rules in one scenario and I've seen an entire classroom management plan written on a single sheet of paper in 10 lines of text. Both did work well and both were appropriately designed for their classroom setting. Those same workplaces designed their plans to safely and effectively teach their specific classroom material and catered the procedures to their needs.
+I've seen pages upons pages of rules in one scenario and I've seen an entire classroom management plan written on a single sheet of paper in 10 lines of text. Both work well and both were appropriately designed for their classroom setting. Those same workplaces designed their plans to safely and effectively teach their specific material and catered any routines and procedures to their specific needs.
 
 ### **Going Beyond the Plan**
 
@@ -262,15 +283,15 @@ Now, that doesn't mean it's *not* an emergency too. Some complaints are mild and
 
 Even for mild complaints, it's still worth double checking at a later point because what may seem mild at first can progress in severity and warrant an emergency.
 
-### **What about allowing cell phones in the classroom?**
+### **What About Allowing Cell Phones (and Similar Technology) in Classrooms?**
 
-**Don't.** **For colleges and K-12 classrooms, the answer is a resounding *no*.** 
+**Don't.** **For colleges and K-12 classrooms, *especially* no.** 
 
 Even if it proves to be yet another logistical challenge to enforce, the benefits of not allowing cell phones far outweigh the costs. This answer still remains the same, in the future, if another type of technology replicates much, if not all, of the functionality of cell phones in 2025.
 
 Three exceptions in my opinion:
 
-1. People who confirmed potential emergencies may occur with the instructors beforehand and need a cell phone handy, but not in active use, to respond appropriately.
+1. People with potential emergencies that may occur cleared with the instructors beforehand and need a cell phone handy, but not in active use, to respond appropriately.
 2. Students with verifiable legal or medical documents permitting the use of a cell phone for explicitly defined and specific purposes.
 3. Your state, district, and/or school have a different policy to abide by regardless of your personal stance.
 
@@ -288,7 +309,7 @@ There are other reasons why I'm against cell phones, but they delve more into op
 
 As for laptops and computers, since those particular techologies are deemed necessary in modern times for learning, a typical solution is to heavily restrict what can be done, viewed, and completed on that technology. You don't have to mimic George Orwell's *1984* here, but you need extreme safeguards against any potential distraction inside of any learning environment.
 
-### **What about critical incidents and traumatic events?**
+### **What About Critical Incidents and Traumatic Events?**
 
 This section refers to cases like deaths of students/staff, shootings, extreme violence, terrorist attacks, and other crises.
 
@@ -304,7 +325,7 @@ These kind of incidents affect everyone differently, including you, so multiple 
 
 Lastly, if you need personal time off, ensure you go through the proper channels. Also ensure the emergency substitute plans (or regular plans, if time permits) are available as students still need a teacher-of-record present.
 
-### **What if students just don't give a #$%^?**
+### **What If Students Just Don't Give a #$%^?**
 
 That's typically a worst case scenario and doesn't have a perfect fix for any individual instructor/teacher. If most of the class is at this point, this may also suggest a systemic problem outside of your control. In this situation, regular classwork is likely not getting done. 
 
@@ -323,6 +344,20 @@ Even the best learning methods don't do anything if they aren't properly utilize
 
 I'll also emphasize once more to document how the class goes, just in case someone contests grades, results, or outcomes.
 
+### **Controlling Classroom Access**
+
+Educators are generally responsible for only the students under their explicit (and often *written*) care, with the odd exception. This includes handling their grades, giving them assignments and tests, arbitration of their conduct vs classroom rules, and more. Said educators may also handle legally sensitive information and personally identifying information covered under HIPAA, GDPR, etc.
+
+Let's say there's people who go into a classrom who might students, but not that specific instructors students, such as one teacher's students being in another classroom at the same school. Unless there is a pre-approved arrangement or emergency (hopefully in writing!), it may be reasonable to assume the instructor did not magically gain new students that day.
+
+In other cases, such as students going into another classroom during their study hall period monitored by a teacher *that isn't their educator*, that may open up some issues. An educator is usually responsible only for the students on their roster. If an unauthorized student arrives and something happens to said student, that's an investigation waiting to happen.
+
+How to control this? Treat it as if you're running a club or security firm with strict entry control. For example:
+1. Take attendance by name of student. If a name isn't on the list, the student doesn't get in.
+2. Keep all doorways and methods acting as entries and exits closed, with only necessary entry/exit points unlocked.
+3. Do not let anyone else, other than authorized individuals (e.g. teachers, administrators, etc.) into the classroom.
+4. If an unauthorized student gets in, then issue a warning to the student. If said student does not leave despite the warning, then eject said student from the "restricted" area as soon as possible.
+
 ### **Handling Disruptive Students in a Classroom**
 
 Ideally, administration or security removes them from the classroom despite multiple warnings and violations of classroom policy and school/facility rules.
@@ -339,7 +374,7 @@ A and B are more ideal situations, whereas C is a worse situation to be placed i
 Essentially, if the environment doesn't enforce disciplinary actions for bad behaviors, expect bad behaviors to occur. This environment includes administration, parents, other professionals responsible for discipline, and related roles.
 - If systemic support doesn't work, any options for management moving forward are heavily limited.
 
-### **What should I do for low-energy days without sacrificing class time?**
+### **What Should I Do for Low-Energy Days Without Sacrificing Class Time?**
 
 It's a common problem and there were definitely days I wanted to just sit in a comfy chair, but had to be in class.
 
@@ -357,7 +392,7 @@ If it's a STEM class, you could present a problem or model to discover and have 
 
 These are only a few examples. There's plenty more out there ready to be searched for, created, or found.
 
-### **What happens if a student catches me making a mistake?**
+### **What Happens If A Student Catches Me Making a Mistake?**
 
 Admit you made one, thank them for catching it, and move on with the lesson.
 
@@ -365,7 +400,7 @@ People make mistakes and you should acknowledge that. No need to let ego get in 
 
 Exception may be if it's a mistake causing a full lesson interrupt. In that case, you may need to create an alternative assignment, activity, etc. to supplement the rest of the class period.
 
-### **“Are we doing something today?”**
+### **“Are We Doing Something Today?”**
 
 *Alternatively: "Did we do anything yesterday?" and "Is this graded?"*
 
@@ -384,6 +419,36 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 - (College) "Every class you ignore, take out 500 dollars from a bank account and burn it. That's how much each class you don't care about costs you."
 - (Is this graded?) "For you, yes." (author advisory: yes, this is a joke)
 - (while surrounded by buildings) "Yea, we fought a bear here."
+
+### **End of Year/Semester/Etc. Panic**
+
+Around the end of a school year, semester, etc. which usually is April/May of any given year at the time of writing, people in education systems... act differently.
+
+If you've ever been an educator, you may be familiar with at least one of the following situations:
+- Students not attending the entire class suddenly showing up, asking for what's needed to pass.
+- Asking educators what "we" (as in only the educators) can do for a student to pass.
+- Students (and administration plus parents of students) asking if there's "anything I can do" to not fail particular students.
+- Weeks, if not months, of work turned in all at once.
+- Zero participation becomes extreme participation.
+- Students only now realizing they may not graduate and begin panicking despite multiple reminders beforehand.
+- Students who gave up when they realized they're going to fail.
+- Students using AI (or a third party) to do their work, despite their multiple absences and you explicitly telling them *not* to do that.
+- Parents (and students) deciding to communicate *now* when they had months to do so earlier, despite near 24/7 access to technology, grades, etc.
+- The need to remind students about, and provide information on, retaking the class or going through summer school.
+- An abnormally high number of requests for extra credit or rounding up grades.
+- Students spending more time arguing about assignments when it takes less time to *do* the assignments.
+- A large number of calls and emails to parents and students regarding grades, work, etc.
+
+In these cases, you may not have to change much as an educator or something designing education systems. Assuming your management plan, such as a syllabus to cover what the class covers, grade distribution, and so on are ironclad, you may not need to do additional work. The policies were already in place and, outside of extreme circumstances, they simply remain upheld and not change at the last minute.
+
+If any procedures and rules *aren't* clear though, expect a lot of battles brought on in the future. Said battles may occur from not properly preparing on your end, administration or higher layer personnel overriding decisions educatorsm and, and the student/parent arguing for grades going extremely gun-ho (or maybe suing) about it.
+
+What are ways to "fight" these battles? It depends on what you're allowed to say. Some examples may include:
+- That is a breach of professional ethics (e.g. rounding up grades).
+- The work to complete is posted on X platform they may access.
+- Student was aware of the rules and consequences on this day. They choose to receive consequences.
+- There is no non-essential work in this class.
+- Here are the documented attempts previously made to help this student not fail, despite their currently failing grade.
 
 ## **Bibliography**
 

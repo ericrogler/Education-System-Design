@@ -22,7 +22,7 @@ As great as the quotation above is, sometimes being visible is what gets you not
 **The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** You make sure the work gets done correctly, legally, and safely.
 - In other words: clarity, ownership, and decisions over tasks. That's management in a nutshell.
 
-**The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
+**The easiest mistake is always prioritizing speed over quality.** Sometimes slower is actually faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's probably a parallel with "passing up students" and "failing upward" somewhere in here.*
 
 Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
@@ -46,22 +46,22 @@ If a manager makes a mistake, a manager makes a mistake. Not the people under th
 
 As for education, education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
-Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. 
+Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another and how a student behaves in class varies from student to student. The same can be said for classroom management in general; a strategy created in a time and place for classrooms where every student has manageable behaviors and consistent competencies doesn't directly translate well to classrooms where every student has variable behaviors and competencies.
 
 Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt teachers when an opportunity arises, or even resort to physical violence.
 
-This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. You have to manage people. 
+This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. *They have to manage people.* 
 
-Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good," that's rarely, if ever, going to be the case in practice. Even the best plan still deals with accountability and autonomy issues.
+Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good," that's rarely, if ever, going to be the case in practice. Even the best plan still contends with adapting to change as well as accountability and autonomy issues.
 
 **This means you still need to plan for the worst-case scenarios.**
 
-If you can handle students at their worst, then you can handle them at every other degree of behavior.
+If you can handle students at their worst, then you can likely handle them at every other degree of behavior.
 
-Even if you can handle the worst behaviors, you'll have to account for lost time anyway. If you're estimating how long something will take, chances are you might be wrong. There's additional overhead you may not have accounted for, or can control, which may incur delays. For example: just because you have 8 hours in a day to do work, you'll rarely *ever* be using all 8 hours to get work done.
+Even if you can handle the worst behaviors, you'll have to account for lost time anyway. If you're estimating how long something will take, chances are you might be wrong. There's additional overhead you may not have accounted for, or can control, which may incur delays. For example: just because you have 8 hours in a day to do work, you'll rarely *ever* be using all those 8 hours to get work done.
 - When in doubt, underpromise and overperform.
 - Involve your team/students/etc. because they may know how long something takes better than you.
-    - They can underestimate a lot though. E.g. If another teacher says 1 week, considering planning for 1.5 weeks in case of emergencies.
+    - They can underestimate a lot though. E.g. If another teacher says 1 week, consider planning for 1.5 weeks in case of emergencies.
 
 If a manager, or someone who manages, consistently encounters the same problem(s) over and over, then that manager is likely the problem.
 
@@ -69,7 +69,7 @@ If a manager, or someone who manages, consistently encounters the same problem(s
 
 *Be advised this is heavily opinionated compared to other sections.*
 
-It depends! 
+**It depends!** 
 
 For a catch-all answer: every role and its difficulties depends on the person in the role, the role itself, and the environment the role operates in.
 
@@ -79,7 +79,7 @@ In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data 
     - Majority of issues result in suspensions given to student.
 - Most disciplinary actions (~80%) are results from detrimental behavior, conduct violations, and disobedience/repeated interference.
 - Drugs and alcohol account for 10% of violations.
-- There's on average 2 disciplinary actions per student (132892 DAs vs 64538 students).
+- There's on average ~2 disciplinary actions per student (132892 DAs vs 64538 students).
 
 By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible one student, or multiple, can cause significant issues every single day of teaching. 
 
@@ -118,9 +118,15 @@ Teaching is not a role one can easily excel at. Even people in highly technical 
 
 ### **What does a Manager do?**
 
-Manage resources. People are part of resources and the source of many ideas and methods to perform well. That's the simple, pragmatic answer. 
+Manage resources and risk. That's the simple, pragmatic answer.
 
-What they actually do is handle communication and relationships between people, task delegation, creating schedules, define why something is important and setting context, and accomplish goals in their projects/work. Ironically, a manager should train employees under them to perform their jobs so well they don't "need" a manager and become capable of operating without constant direction. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
+People are part of resources and the source of many ideas and methods to perform well. Risk is unreliable, unpredictable, and chaotic, so a manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to honesty and trust, afterll. **Do *not* underestimate the importance of reliability.**
+
+Any policies managers make should also be effective and efficient. If it looks good on paper, but terrible in practice, that policy should be eliminated or modified. This may include policies which are effective, but inefficient because they add unnecessary complexity.
+
+How do managers acquire the knowledge to determine policies? Preferably, it's by having experience in what they manage (e.g. having teaching experience when managing teachers) or proactively and intently researching/studying the relevant technical material to properly inform decisions.
+
+What they actually do is handle communication and relationships between people, task delegation, create schedules, define why something is important and set context, and accomplish goals in the projects/work they oversee. Ironically, a manager should train employees under them to perform their jobs so well they don't "need" a manager and become capable of operating without constant direction. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
 
 Here's more examples of what a manager may do:
 - Finding new projects and work to keep everyone in business and employed
@@ -130,19 +136,20 @@ Here's more examples of what a manager may do:
 - Facilitating growth and mentorship of people
 - Setting clear and definitive expectations
 - Firing people who cannot meet performance expectations
-- Reporting to leadership above, and sometimes reports below or at the same level, about progress and results
+- Reporting to leadership above and direct reports below, or at the same level, about progress, results, and projects to do
 - Working with team and external elements, like stakeholders, to learn requirements and what work should be done
 - Eliminating blockers for direct reports
 - Securing resources to meet project goals
-- Distributing workloads across employees
+- Distributing workloads across direct reports and employees
 - Keeping a baseline familiarity with other departments to stay ahead of the curve
 - Staying up to date with what their direct reports do
 - Managing relationships between multiple teams, departments, people, and more
 - Setting up effective and efficient meetings and schedules
 - Understanding how to do the actual work of their team to better delegate work and explain technical topics to assist more customers
 - Ensuring everything is done legally
+- Protecting their team from unexpected overhead and workloads
 
-There's a lot of things here. It reinforces the point that it's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of every other element.
+There's a lot of things here. It reinforces the point it's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of *every other element here*.
 
 ### **Everyday Management**
 
@@ -168,13 +175,13 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 There are four levels of managers from best to worst in most environments (from what I've been around):
 1. Competent and technical manager
-1. Competent, but non-technical manager
 1. Incompetent, but technical manager
+1. Competent, but non-technical manager
 1. Incompetent and non-technical manager
 
 The first and last rankings are as expected. Competence means you do things well and "technical" means you have the background knowledge to properly inform your decisions. 
 
-When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. The issues occur when managers, technical or not, step in too much and try to dictate processes they're not well equipped to handle themselves. 
+When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. Technical managers, who are weak on the management part, may overcome the incompetence through educated reasoning on how to reach the finish line, mentoring along the way, and finding ways to hand-hold their employees when things go south. The issues occur when managers, technical or not, step in too much, micromanage, and dictate processes they're not well equipped to handle themselves. 
 
 Remember, managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact helps more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. 
 
@@ -197,19 +204,19 @@ It's *how* you say something, not just what you say, and getting people to *see*
 
 Let me use one item above in an example.
 
-"This is a good idea, I think we should do it." instead of "Let's implement this idea."
+"This is a good idea, I think we should do it." instead of "Let's do this."
 
-That one phrase, "I think," in the former instills doubt and makes someone think you cannot stand behind your words. The latter cuts that doubt out entirely and makes it sound like you're sure and ready to act.
+"I think," in the former instills doubt and makes someone think you cannot stand behind your words. The latter cuts that doubt out entirely and makes it sound like you're sure and ready to act.
 
-You also want to avoid thinking outpacing speaking. It's hard to detect at first, but I usually catch myself doing that when I say stop or gap words like "uh" and "um" *even when I don't want to.*
+You also want to avoid thinking outpacing speaking. It's hard to detect at first, but an immediate example is stop or gap words like "uh" and "um" *even when you don't want to say those.*
 
-You can pause for a bit. It's ok. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. It'l help you. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
+You can also pause for a bit. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. It'l help you. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
 
 Last part here is communicating impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
 
 ### **The Rule of Two [Contracts]**
 
-There's two things to remember when handling written communications
+There's two things to remember when handling written communications:
 1. Replying in anger doesn't help your case. 
 2. When in doubt, get life-changing issues, contracts, and important documents in writing.
 
@@ -415,7 +422,9 @@ Restorative justice exists both inside and outside of education systems. It's be
 
 This system addresses the needs of the offender, the needs of the victim(s), and the needs of the community. The community is also involved as it holds some responsibility for why the offender committed the crime in the first place due to social conditions and relationships. Restorative justice is also intended as "a complementary process" to add onto an existing justice system rather than a wholesale replacement for justice systems (Marshall, 1998). Even across several decades, there's still criticism about restorative justice and its effects may be only small changes in recidivism and victim satisfaction with varying factors at play (Fulham, 2023). **Regardless, it must also be victim-focused; the victim gets what is reasonably desired to ensure the offender is held accountable for their actions.**
 
-The concept works well in theory, but in practice it requires sufficient personnel, workflows to follow through with it, and a lot of available time from everyone involved to support it. Without any of these resources, it will fail. There's also two other factors:
+The concept works well in theory, but in practice it requires sufficient personnel, workflows to follow through with it, and a lot of available time from everyone involved to support it. You also need *tangible* accountability and future, harmful behaviors altered or mitigated in the future from any people (i.e. students) involved. Without any of these, it may fail. 
+
+There's also two other factors:
 1. While victim-offender meetings can provide restitution, they can mistakenly focus on the offender instead and reintroduce a victim's trauma.
 2. It asks of offenders to care about the problems caused and whom they affected. If there is no buy-in, it is ineffective.
 
@@ -484,7 +493,8 @@ Lastly, if you're considering bringing in someone new into the culture, you shou
 
 ### **Emergency Response Systems**
 
-Sometimes, things go beyond bad and into worse. Plans for emergencies try to cover these situations.
+Sometimes, things go beyond bad and into worse. Plans for emergencies try to cover these situations. For example, if a building you're inside was on fire for several hours already and you only now noticed, that's a sign there's an ineffective, or no, emergency system in place and you may need to install sprinklers to stop it before it gets big.
+- You could also allude poor emergency systems to any issue where "it's not a problem until it's made my problem."
 
 For education, this may include tornado, earthquake, fire, hurricane, and shooter/security drills. For other industries, like medicine and hospitals, this may be things like code blue, sepsis alert, rapid response, code white, security alert (or code green), and controlled access. Sometimes the emergency codes are obvious and other times intentionally obscured to limit panic.
 

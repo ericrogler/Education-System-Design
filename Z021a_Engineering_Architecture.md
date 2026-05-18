@@ -39,7 +39,7 @@ The good news is you can do a lot with these disciplines and apply their concept
 The bad news is you need math and science skills, and enough creativity and critical thinking skills, to effectively do those disciplines.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts, because I have education and work experience with these kinds of things. For readers, think of this chapter as topics from these fields you can use to design educational systems.
-- No I'm not saying any of this as professional engineering or architecture advice. That requires someone with a stamp and a legally protected title, like Professional Engineer or Professional Architect. I did, however, have a Class A General Contractor license.
+- No I'm not saying any of this as professional engineering or architecture advice. That requires someone with a stamp and a legally protected title, like Professional Engineer or Professional Architect. I did, however, hold a Class A General Contractor license before.
 - Expect me to highlight Industrial Engineering concepts in particular.
 
 As a reminder, you could easily have several books on each topic here, so if you want to learn more, you are free to look up other sources. I'll try my best to summarize them, so let's get into it in no particular order.
@@ -114,9 +114,13 @@ Additionally, some rules and guidelines are accompanied by maps to highlight whe
 
 ### **"Shorthand" Building Knowledge Examples**
 
-Most houses I've lived in I've remodeled myself under IRC building codes. I'll provide you simpler examples of factoids I memorized as I designed floor plans. For reference, IRC 2024 and Chapter 3 Building Planning provide many common details, but I'm naming off several that immediately come to mind and paraphrasing the exact wording (ICC, 2024).
+The biggest shorthand rule for home design is simple: design it so someone would *want* to live in it. You wouldn't want an airport lounge situation (i.e. busy foot traffic) in a living room where you need to relax instead of wait.
+
+The second rule is the furniture inside the home may be the problem rather than the home itself. If simply rearranging furniture solves the problem, then attempt that first.
+
+I've usually designed houses under IRC building codes, including some homes I've lived in. I'll provide you simpler examples of factoids I memorized as I designed floor plans. For reference, IRC 2024 and Chapter 3 Building Planning provide many common details, but I'm naming off several that immediately come to mind and paraphrasing the exact wording (ICC, 2024).
 - Most interior walls are 2x4 studs at 12 OC or 16 OC
-    - "OC" = On-center, measuring the distance from the center of one stud (structural wood plank) to the center of the nearest stud.
+    - "OC" = On-center, measuring the distance from the center of one stud (structural wood plank) to the center of the next nearest stud in the same structural wall.
     - Many tape measurers have red squares/specialized markings on certain measurements to make measuring OC along a wall easier (e.g. a "red square" number every 16 inches)
 - Most exterior walls are 2x6 (or larger) with studs at 12 OC or 16 OC.
 - Egress windows
@@ -126,11 +130,13 @@ Most houses I've lived in I've remodeled myself under IRC building codes. I'll p
     - Additionally this formula: Length (inches) x Width (inches) / 144 (i.e. 12 inches squared) = square footage
 - 1 pound per square foot = 0.0479 kPa (kilo-Pascals)
 - 1 mile per hour = 0.447 m/s (meters per second)
-- Hallways, and stairways, in new construction are generally at least 36 to 42 inches wide.
+- Standard hallways, and some stairways, in new construction are generally at least 36 to 42 inches wide.
 - At least one door, designated as egress, is at least 32 inches wide and 78 inches high.
     - Other doors are generally at least 30 inches wide, but exact details vary widely by municipality.
+- When able, design a bedroom on the same floor as the primary entrance in a house.
+- You need a 1/4 inch (quarter-inch) of fall for each 1 foot length for water runoff.
 
-There's plenty more to write about, but I'd rather not make too large a list here. 
+There's plenty more to write about, but I'd rather not make too large a list here. Some items here may not make sense at first until you explore the designs yourself and see the results once they're fully built.
 
 Much like mental math, you want to memorize information that quickly enables decision making and gets through frequently occurring, but minor, work. For harder items, or where you'll reference specific formulae, it is expected you'll look it up from time to time.
 
@@ -225,24 +231,24 @@ If you've ever had an interest in machine learning (ML), then you've probably he
 
 As for math requirements, I'd say both Data Science and Operations Research requires knowledge in Calculus, Algebra, and Statistics. If you don't have that knowledge, you'll be hard pressed to figure out algorithms, distributions, and any models you encounter and be less effective.
 
-While OR largely covers mathematical optimization, it also branches out and focuses on statistics and forecasting as well. The core of OR is inputs and models; these two factors affect what your outputs are and the quality of said outputs. A perfect solution is possible, but may take an extremely long time to brute force a solution on any given model.
-- For the mathematically inclined, look further into P vs NP (polynomial time vs nondeterministic polynomial time) or computational complexity.
+While OR largely covers mathematical optimization, it also branches out and focuses on statistics and forecasting as well. The core of OR is inputs and models; these two factors affect what your outputs are and the quality of said outputs. A perfect solution is *possible*, but may take an extremely long, and often unreasonable, time to brute force a solution on any given model.
+- For the mathematically inclined reader, look further into P vs NP (polynomial time vs nondeterministic polynomial time) or computational complexity.
 
 The main goal of OR is to get a solution as close to optimal as possible. Fully optimal takes too much time so we aim for 99.9% instead of 100%, like antibacterial soap in a bathroom, because we want a working model that generates a solution in a reasonable amount of time. That self-imposed restriction is also there because some problems don't have the memory capacity to be solved at the scale they demand. Therefore, a model may need tweaking, such as adjusting weights, constraints, and the objective function(s), or even splitting apart one model into multiple models or subsets of a problem.
 
-Data Science (DS) is related to OR and has overlap with it, but is several decades younger by comparison and some perspectives may view DS as a matured and better developed/validated version of OR. Compared to OR, Data science strives for accurate models and utilizes real world data to prove the model's value and ensure that model is reproducible, so those perspectives are valid. 
+Data Science (DS) is related to OR and has overlap with it, but is several decades younger by comparison and some perspectives may view DS as a matured and better developed/validated version of OR. Compared to OR, data science strives for accurate models and utilizes real world data to prove the model's value and ensure that model is reproducible, so those perspectives are valid.
 
 Software and technology developments solved many problems existing in OR, so DS (as of writing this in 2026) appears more popular and in demand because machine learning and AI is trending. Nevertheless, I think OR is better at optimization with heuristics and solvers, whereas DS is better for general problems regarding analytics.
 
 ### **Ergonomics (Human Factors)**
 
-Many objects you're utilizing today have ergonomics considered in some way, shape, or form. It could be your chair, the desk, how people want you to position a keyboard and monitor, the utensils you use in the kitchen, and countless more items. You may've been introduced to it before from a separate source, [like OSHA](https://www.osha.gov/ergonomics), or as part of a training because of its relation to musculoskeletal disorders, fatigue, overexertion, and so on (2022).
+Many objects you're utilizing today utilize ergonomics in some way, shape, or form. It could be your chair, a desk, how people want you to position a keyboard and monitor, the utensils you use in the kitchen, and countless more items. You may've been introduced to it before from a separate source, [like OSHA](https://www.osha.gov/ergonomics), or as part of a training because of its relation to musculoskeletal disorders, fatigue, overexertion, and other conditions (2022).
 
 Ergonomics is studying how people function in their environment or how to fit the job to a person. Its goal is optimizing health of the person and their work productivity. In education systems, it's how you can best accommodate all staff and students in their given environment, whether it is at home or a workplace.
 
-This field isn't limited to engineers and architects and includes other professionals like doctors and designers. The former two professions utilize it because it informs *how* they should design something for human interaction.
+This field isn't limited to engineers and architects and includes other professionals like doctors and designers. The former two professions utilize it because it informs *how* they should design something for human interaction. Humans are, more often than not, using the products afterall.
 
-To put it in an example, let's say you want to design a chair for someone to sit in. First, there's a problem to define: to support a human body for prolonged sitting periods and reduce stress on spine, hips, and legs. The hypothesized solution, for your first iteration, is an adjustable, body-conforming chair design.
+To put it in an example, let's say you want to design a chair for someone to sit in. First, there's a problem to define: you need to support a human body for prolonged sitting periods and reduce stress on their spine, hips, and legs. Let's also say the hypothesized solution, for your first iteration, is an adjustable, body-conforming chair design. The first iteration is typically a reasonable, educated guess based on the information you know and the assumptions you have going into the problem.
 
 Much like any other project, you're handling scope, resources, and time. You'll still need to figure out what kind of chair you want, its context and use cases, test out other types of chairs (if they exist), and do background research. This is to mitigate the effects of bias going into the design with a picture in your head and helping ground that reality. 
 - When in doubt, figure out the user need and use cases *before* spending time and money testing current chairs.

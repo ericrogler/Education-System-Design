@@ -11,17 +11,9 @@ nav_order: 3
 ## **Related Background**
 
 - **Role:** In-person Science/STEM Teacher, including substitute teacher roles
-- **Educational Role Duration:** ~3 years (2022-2025+)
-- **Primary School Types:** Public & Private K-12 schools
+- **Educational Role Duration:** ~3 years (2022-2025)
+- **Primary School Types:** Public & Private K-12 Schools
 - **Author's Degree:** Master of Science in Industrial Engineering (MSIE) 
-
-## **Results (in Education)**
-
-- Designed and delivered multiple, complete curricula.
-- Completed all projects within time and budget constraints.
-- Maintained consistency and performance across various types of classes.
-- Built scalable systems supporting education for students and staff.
-- Utilized cake and donut analogies for almost every Science/STEM subject.
 
 ## **The Elevator Pitch**
 
@@ -33,7 +25,7 @@ Education is discussed in an operational environment and covers various topics, 
 - Legal, financial, and human constraints
 - Stakeholder/client relationships and management principles
 - Preparing a classroom environment and curriculum
-- Metrics, math, and statistics
+- Metrics, math, probability, and statistics
 - Methodology from other fields and disciplines to enhance existing education systems
 
 Rather than discuss educational theory in isolation, concepts such as system design, engineering, operational scaling, management, and communications are applied to evaluate classroom and educational operations.

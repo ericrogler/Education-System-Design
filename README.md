@@ -6,17 +6,16 @@ Welcome to *Education System Design*. Included is the license involved with this
 
 ### Wait, a book hosted on GitHub?
 
-Yea! It's unconventional to host a book on this platform and I was against it at first and almost developed a website instead.
+Yea! It's unconventional to host a book on this platform. I was against it at first and almost developed my own website instead.
 
 Surprisingly though, it has more benefits than expected:
 - Version control capabilities
 - Text styles
 - Break points
-- Converts Markdown into HTML
+- Converts Markdown into HTML, CSS, etc. automatically
 - Can be converted further from here
-- You can copy it freely and without issue
 - It's self-published, so no middle man
-- It's free for you, the user/reader
+- It's free for you: the user/reader
 
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
@@ -26,7 +25,7 @@ This splits the text by chapter across multiple pages.
 - Legality
 - General Management
 - Scaling Growth in Organizations
-- Operational Management
+- Operations At Scale
 - Macro[management] & Micro[management]
 - Classroom & Behavior Management
 - Standards / Objectives
@@ -47,7 +46,7 @@ This splits the text by chapter across multiple pages.
 - Other Additional Duties
 - Maintaining Work Health
 - Money and Budget Management
-- The Use of AI and Technology
+- Technology and AI
 - Design Systems and EdTech
 - Engineering & Architecture
 - Action Plan For Educators

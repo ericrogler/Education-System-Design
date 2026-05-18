@@ -32,11 +32,11 @@ If you're transitioning or changing into new standards or curriculums, be aware 
 
 ## **Long Answer**
 
-Can you question established standards? Yes.
+Can you question and go against established standards? Of course.
 
-*Should* you? If you have the time, effort, and money required to see it through, or there's a legitimate concern about said standards, then maybe so.
+*Should* you? If you have the time, effort, and money required to see it through, or there's a legitimate concern about said standards, then maybe so. You could further develop a case doing it *your* way is more effective, but that requires data collection and convincing other people to adhere to that viewpoint.
 
-Regardless, **do not cut corners with standards and objectives for any education system!**
+Regardless, **do not cut corners with standards and objectives for any education system!** Core subjects and concepts are important.
 
 There are several reasons why:
 
@@ -46,15 +46,17 @@ There are several reasons why:
 
 **Once you firmly establish standards and objectives, *then* you can be creative in your methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
 
-While standards can limit what is done, strong standards elevate teaching, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
+While standards can limit what is done, strong standards elevate education, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
 
-Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and create your curriculum. In both cases, as well as homeschooling, you may still be constrained by a State's Department of Education standards and objectives. While these standards/curricula may not be *perfect*, these usually go through multiple rounds of review before final publication, so they're more reliable than you may expect.
+Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and simply create your curriculum. It's a *guide*, rather than a script, defining the scope, sequence, and hoops to jump through to get through it.
+
+In both cases, as well as homeschooling, you may still be constrained by a State's Department of Education standards and objectives. While these standards/curricula may not be *perfect*, these usually go through multiple rounds of review before final publication, so they're more reliable than you may expect.
 
 As for independent teachers and instructors not creating content for public and private schools, they should expect to handle most, if not all, setup by themselves.
 
 For people in the United States, if you're unsure how to find state education standards, look for and start with your state's Department of Education website (Colorado Department of Education, 2025a, 2025b, 2025c). For this example, I'll use Colorado's DoE website and search for K-12 academic standards.
 
-1. Go to your State's DoE website (Colorado = CDE)
+1. Go to the State's DoE website (Colorado = CDE)
     - E.g. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  
 2. Search for "Academic Standards"
 3. If indexed correct, it should be on the first result page.
@@ -75,11 +77,11 @@ You may come across other sets of standards (not to be confused with curricula!)
 - States and districts, in the United States, "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
 - A good set of standards can still make a poor curriculum.
 - The same set of standards and how they're implemented can vary widely from school to school, district to district, and state to state.
-- Sometimes standards are not solely based on what is best for learning, but as a response to cultural and political environments they're developed in.
-    - See Gamage et al. (2021) for one research example.
+- Sometimes standards are not solely based on what is best for learning, but as a response to the cultural and political environments they're developed in.
+    - See Gamage et al. (2021) for one research example on this particular point.
 
 Though you may have a good curriculum or set of standards to work with, the other part is the educator creating and delivering learning content based on them. It's a two part ordeal; the standards should be good and the person/method should also be good. If the teacher isn't good either, the students may get unduly passed through and thrust into an environment they're unprepared for in the future. If both good teachers and curricula are present, there is still the risk of systemic pressure passing along students in the case of failure.
-- Sadly, I find teacher quality notoriously hard to regulate. You can check for indicators and signals, like passing certain exams or having targeted degrees, but they measure compliance and meeting requirements more than actual effectiveness in education.
+- Sadly, I find teacher quality notoriously hard to regulate. You can check for indicators and signals, like passing certain exams or having targeted degrees, but they often measure compliance and meeting requirements more than actual effectiveness in education.
 
 ### **How Do I Design Something?**
 
@@ -132,7 +134,7 @@ You can easily set your own standards at a micro level (personal/school), but no
 
 Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
 
-### **Grades / Grading System**
+### **Grades & Grading System**
 
 Grading is essential. It's how you determine good vs bad and serves distinct functions like feedback for the learner, certification (or proof of learning) towards any third parties, and diagnostics for education systems. 
 
@@ -188,7 +190,7 @@ These assessments are not things to be completely avoided. It's expected to find
 
 **Yes.**
 
-For a business, if their products and services don't meet the standards of their users, the company needs to meet these standards, figure out ways to recoup losses, cut costs, or risk going bankrupt and out of business.
+For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the company needs to meet these standards and figure out ways to either recoup losses, cut costs, or risk going bankrupt and out of business.
 
 You may think it's harsh, but I'll ask a question of the reader: Would you knowingly and willingly stick with a brand or product that wasn't good by your own standards?
 - What about if there were no alternatives?

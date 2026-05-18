@@ -88,6 +88,8 @@ You'll want to be careful with onboarding new people because the cost of one bad
 - A really good employee being worth many employees is a widely accepted view, but you may risk a single point of failure and overworking them.
 - Don't expect top-tier talent unless you provide top-tier pay and benefits to keep them around.
 
+You also need to choose technologies useful for today, but plan for the future. A bakery cannot sell 1000 cakes in one day if it cannot sell even 10 cakes in a single day. While there's a risk of under-preparing, there's also over-investing. You don't need the same technology as a massive corporation with 10000+ employees at this breakpoint; you may spend unnecessarily, deal with excessive complexity, and be stuck too long in the setup phase, which greatly delays any return on investment. Don't plan for the stars when you haven't reached the moon.
+
 These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future.
 
 For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking at companies.
@@ -192,6 +194,33 @@ Scaling beyond this breakpoint seems like repeating the same strategies at large
 - Establish a steady ratio of managers:direct reports for each management layer
 - Formalizing communications across layers
 
+### **Should You Flatten Organizations?**
+
+Short answer: It depends on a lot of factors, including costs. Middle management often includes the layers where costs are visible, yet the functions may be invisible until those layers disappear.
+
+Long answer:
+
+Have you ever been in a situation where you go immediately from 0 to 100? You may encounter that situation if you suddenly go from the bottom layer to the top layer of an organization.
+
+Middle management, or the layers in between, soften that ascent and make it gradual rather than steep. They're a training ground for incoming managers to expose them to the ins and outs of systems, management at large, handling political situations now at their doorstep, and finding ways to deal with people above *and* below them. Eliminating these layers affects the pipeline for promotions and mobility throughout the layers. Though some members may move into more technical roles and remain at a given layer, those people who want to "move up" need layers as an incentive to learn their role, prove their worth, and show they can take on bigger decisions and responsibility. If you block these paths or obstruct this training ground in an organization, people may leave the organization and venture onto greener pastures.
+
+At the same time, an organization may "flatten" these layers and get rid of middle managers. On one hand, it reduces labor costs significantly, the time it takes to make decisions (generally), and the layers of red tape and approvals go down so research and innovation efforts can go through faster. On the other hand, there's different costs incurred as a result. 
+
+You increase the manager:direct report ratio to more "dangerous" levels and can, ironically in some ways, complicate communications further. In a situation where the ratio is 1 manager to 2-3 direct reports before flattening, this may not be as serious.
+- As an aside, I'd also question if you *really* need such a low manager:employee ratio in the first place. That's a small coordination burden and, unless the work is exceeding complex or hands-on, also a risk on ambiguity, bottlenecks, and bureaucracy.
+
+In a situation where these ratios are further strained, you risk a tangled web of communications and, ironically, eliminate any benefits from direct access to upper layers by flattening. A middle management layer is where information is filtered and translated before it goes up or down in the organization. Their intended purpose is to fix the signal-to-noise problem, so people aren't dealing with issues that are either not worthwhile or unnecessary.
+
+The level of work on whomever is left over after flattening may increase, as flattening an organization may not necessarily mean reducing the workload in an organization. If workload isn't reduced, but personnel *is* reduced, what follows is a redistribution of any visible, and invisible, labor amongst existing members. This may mean a salary increase to maintain a reasonable effort vs reward ratio, but it's possible to get away with tacking on additional duties without increasing pay and benefits.
+
+As layers flatten, the entry point for newcomers and new hires into an education system, or perhaps a job market in general, is also stricter. An organization with more people, and therefore more layers, can afford to split up tasks and utilize less skilled labor. An organization with fewer people, however, cannot afford that same mistake; a newcomer needs far more proficiency across a wider range of tools, subjects, concepts, etc. to make up for any shortcomings. For example, a bad hire at a 15 person company, or when they're starting out, may be extremely devastating, whereas that same bad hire at a 500 person company may have its detrimental effects less noticeable and damaging to the organization.
+
+There's another dangerous situation I'll expose here: the leader who has no responsibility or attachment to an organization. It may be the person who flattens the organization too, or even a long-standing leader whose priorities shifted due to various reasons. This is someone who can come into the organization, make sweeping changes, and then leave the organization with a "golden parachute." If the damage is done, and leadership is gone, who'll be left to salvage what remains?
+
+Another situation is where you may reduce headcount by adopting a particular tool, software, etc. While operational costs may go down, you increase dependence on more services outside of your control. Monitoring the overall pipeline (or processes) will alleviate some worries, but you'll need a response plan and fallback in case the service(s) goes down. You may negate any savings from cutting headcount to frantically increasing headcount if said service cannot scale or handle the operations you encounter.
+
+So again: should you flatten organizations? It depends. The benefits include lower labor costs, increased autonomy, and faster innovations. The costs include more informal hierarchies, lack of supervision, and more confusion in coordination and responsibility. Whether or not the benefits outweigh the costs is a decision only you, a potential leader, can make after careful analysis.
+
 ### **The "Hidden Costs" Problem**
 
 *Alternatively: Small Things Lead to Big Problems*
@@ -263,20 +292,53 @@ Let's explore a *bad* implementation in the shoes of John Employee; the average 
 
 Despite that goal, the organization may require meetings to go over work. That's still "normal" because meetings communicate necessary information.
 
-However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things.
+However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things. Then those meetings have meetings for scheduling meetings. This becomes a hassle for your current employees, so you hire on someone specifically to handle meetings for employees.
 
-Then those meetings have meetings for scheduling meetings. This becomes a hassle for your current employees, so you hire on someone specifically to handle meetings for employees.
-
-Then you get a new initiative to adhere to multiple different activity trackers because managers across all layers of an organization want to know their employees are working and not just collecting paychecks. To verify work outputs, new levels of performance are developed such as meeting expectations and exceeding expectations.
+Now you get a new initiative to adhere to multiple different activity trackers because managers across all layers of an organization want to know their employees are working and not simply collecting paychecks. To verify work outputs, new levels of performance are developed such as meeting expectations and exceeding expectations.
 - Except "exceeding expectations" may be what people consider "meeting expectations" and ruins the new system anyway.
 
 It's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off.
 
 In short, unchecked bureaucracy creates the very failures it tries to prevent.
 
+### **Scaling Up & Hiring**
+
+As you grow in scale, you'll need more people to handle the ever-increasing load of work that needs doing. After a certain point, you'll need dedicated personnel to handle onboarding for you or else you risk your attention, time, and effort spread too thin amongst your various duties.
+
+It's a difficult task to bring on new people because of the time, cost, and potential damage a single bad hire can wreck. While people making hiring decisions need autonomy and authority to do their jobs, they shouldn't have *too* much authority. Excessive authority risks stiffling growth, getting rid of recommendations and proven competence, and redirecting growth into decline. 
+
+For hiring, you'll ideally have simplified, yet explicit, requirements for candidates. It could be you're looking for a set of skills, a certain level of experience, or general competence to perform the particular role(s). These are typically written down, rather than verbally transmitted, and may be put into software to "automate" the process.
+
+Remember that information, which includes requirements, gets filtered as you travel across organizational layers. For example, a hiring manager may have a practical understanding of what's needed for a role and the technical competence to call a bluff on an imposter candidate. When requirements are sent down to their direct reports, it's at least a one layer difference, so some information and context gets filtered out. 
+
+While the majority of information makes it through, there's more wiggle room for incompetence to settle down. That incompetence risks creating an environment where incoming candidates are good at getting into roles, but not necessarily doing those roles. In a less-than-ideal situation, you may create a department heavily ingrained within the hiring process holding excess authority and final say on decisions, but without any competence or ideas to function as intended.
+
+Anyone you off-load hiring responsibilities to must have some technical competency in what they're hiring for or you risk implementing an ineffective "filter" to bring in new talent. For example, if you're hiring a math teacher, the people in the hiring process should have familiarity with math. As another example, if you're working in a construction company, the people hiring should have some knowledge about the construction process. If the person screening a candidate doesn't know about these things, they may pass along a false positive and potentially waste resources as a result.
+
+In the best case scenario, managers receive what they intended (or perhaps beyond that) and come away happy with a role filled. In the worse case scenario, any recruiters (including the managers) heavily filters out incoming candidates, even those with glowing recommendations, and either rejects incoming personnel or brings in underwhelming personnel. Additionally, the department as a whole can "override" decisions despite every requirement for the candidate being met, which may cause ire across different layers and departments in an organization.
+
+One potential solution is training. It's similar to acquiring technical skills as a non-technical manager. This is where subject matter experts are brought in to figure out important questions and answers to gauge genuine knowledge and skill from feigned knowledge. 
+
+This training lets you establish flags, terms, and phrases that indicate hollow terminology and jargon instead of genuine competence. Despite being in different organizational layers, backgrounds, and roles, everyone involved gets to a similar "baseline" and understands the difference between A and B, C and D, and so on. What matters here is you give people in these hiring positions as much explicit context and instruction. Proper education and training here is a form of risk mitigation, where said risk is leaving it up to the hiring person's fantasies on what's needed instead of what's actually needed.
+
+The training should also include limiting reasons to reject hiring a candidate. For example, reject someone because they clearly don't know how to do a job rather than their age, gender, way they said a particular word, lack of diversity, and so on. While hiring someone because they're nice to work with is also important, that shouldn't be the sole deciding factor. Sometimes the best person for a job is the person you may least expect, like a new engineer with a lower-level degree or an unrelated degree to the role. Though it's understandable to hire the most legally defensible candidate, that may mean rejecting the most qualified candidate as a result.
+
+While training may seem like an obvious solution, it may not be implemented in practice for several reasons:
+- To save money.
+- An organization may save money and time hiring someone already competent rather than training up existing personnel.
+    - This may mean not hiring juniors or interns as a result, as one example.
+- You may have to redirect time and effort from existing personnel away from any other essential work to do training.
+- Waiting months for a "return on investment" is not an appealing idea.
+- Why invest training into someone who may leave soon after.
+- Training talent may make that same talent more identifiable to, or poached by, your competition.
+
+Another solution is off-loading the requirements onto a software or other automation tool and not hiring on people to assist with hiring. On one hand, it may vastly reduce the time and money needed to process incoming candidates. On the other hand, you may encounter the same issues as before where people only good at getting through your filters show up and you can overlook people competent at the role. You also need to be extremely explicit with requirements because software can easily misinterpret ambiguity.
+
+Nevertheless, if an organization wants to complain about the labor available in the market for hire, they cannot, in good faith, neglect any attempts to train up labor inside their organization to perform the necessary roles.
+
 ### **Scaling Down & Layoffs**
 
-Scaling down can occur in different ways, including scope, number of projects, operations, investments, personnel counts, attrition, reduced hours, outsourcing, and more.
+Scaling down can occur in different ways, including scope, number of projects, operations, investments, personnel counts, attrition, reduced hours, outsourcing, and more. This may be done by the same department or set of individuals like in the previous section on scaling up and hiring.
 
 Generally speaking, employees react negatively to downsizing and there's multiple reasons why:
 - Firing/laying off employees
@@ -292,7 +354,36 @@ This isn't to say all perks are bad or excessive. Some are genuinely beneficial 
 
 In short, scale down carefully and with purpose. You're laser focusing on solving problems by keeping the good and cutting the bad. Handwaving away problems and pretending they don't exist will not help you.
 
-### Final Notes for Managers
+### **What about X Appreciation Day/Week/Etc.?**
+
+I will preface this by stating this is a slippery slope of a topic and also applies to any similar events.
+
+On one hand, you bring attention towards a group whose good deeds and efforts may have gone unnoticed by a larger population and give them the recognition they deserve.
+
+On the other hand, establishing an appreciation week, day, etc. opens you up to a can of *ethical* worms. Let's go over why that's the case. 
+
+Secondly, some questions you may generate from employees as a result of your actions: 
+- Why does this profession need that in the first place? 
+- Is every other time of day, month, year, and so on not worthy of appreciation? 
+- Is it an attempt to justify any atrocities committed against that group and/or to maintain PR (public relations) and optics? 
+
+Ironically, by showing appreciation during only a specific timeframe, you risk the people receiving said appreciation viewing it negatively. You also risk alienating groups of people and breeding entitlement in the people you designate appreciation for. For example, if one group of people sees another group of people getting appreciation, they may wonder where that appreciation is *for them as well.* The group receiving the appreciation may also expect those benefits continuing forward, which means you established a new baseline, and generate backlash the moment they're taken away.
+
+Say you go through with establishing an appreciation period for a group of people. To show appreciation towards them, you should know three things at a minimum: 
+1. People like things that they want to have *and* are useful to them
+2. Recognition that shows someone understands and pays attention is good, but poorly given recognition is bad.
+3. Doing nothing and acting like you made a difference is a terrible idea.
+
+Money, or another similar currency if money no longer exists in the future, is *extremely* useful to people in modern societies. They can exchange that for goods and services they need.
+- By money here, I mean cold, hard cash. Not gift cards, coupons, etc.
+
+Food is also useful to have, but food people want and like is even better. If, for example, one of your employees has been wanting to eat pizza for a long time and you magically show up with a pizza for them, that makes them pretty dang happy.
+
+If you're short on funding and resources, that's where point #2 comes in. While it may be nice to say someone is doing a good job, if you can tie it back into something *specific* rather than generic, that may mean more for the people receiving the appreciation. You may also avoid spending money for *individuals* and instead ensure any funds go towards the environment they work in, such as topping up necessary supplies like paper for work or upgrading facilities they utilize.
+
+As for point #3, that falls under the core tenet of client relationships and management: don't be an asshole.
+
+### **Final Notes for Managers**
 
 As the organization scales, the level of risk each layer takes on may increase as well. A director affecting the workflows of hundreds of employees means each decision carries more weight on average compared to a single employee at the bottom of an organizational layer.
 

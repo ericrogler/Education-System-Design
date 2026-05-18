@@ -19,7 +19,7 @@ nav_order: 5
 
 What rules you must follow depends on location, subject, and employer.
 
-Self-regulation in practice works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from outside, third parties and higher authorities exist.
+Self-regulation in practice works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from third parties and higher authorities exist.
 - More often than not, regulations are written in blood.
 
 Tertiary education (colleges, universities, etc.) and secondary education offering college courses may operate under different rules compared to primary and secondary education.
@@ -28,19 +28,19 @@ Tertiary education (colleges, universities, etc.) and secondary education offeri
 
 *Repeat Notice: All information in this chapter is NOT legal advice.*
 
-**Generally speaking, laws related to education are rights-based and regulatory, which typically means one of two things (or even both things at once):**
+**Generally speaking, laws related to education systems are rights-based and regulatory, which typically means one of two things (or even both things at once):**
 1. Provide protections and accommodations to people within them (students, staff, organizations, etc.)
-2. Enforce and determine how education and educational content should be executed.
+2. Enforce and determine how education and educational content should be handled.
 
 It doesn't matter if you're a teacher, an administrator, or a non-education role working with education systems. There's a *lot* of laws to get familiar with and they're all important.
 
-Legality involves *everyone* involved in an education system.
+**Legality involves *everyone* involved in an education system.**
 
 First, the obvious. What is a law is still a law you follow in education. There's a lot of laws, but limited resources to comply with said laws, which means education systems will contend with legal mandates vs practical implementations at least once during their lifetime.
 - E.g. SPED teachers with caseloads over legal maximums for students with IEPs or too many students with accommodations for educators to reasonably meet *all* accommodations.
 - For a non-education example, one parallel is nurses in medicine who are "over matrix" on patients for their particular ward based on available staff and resources.
 
-As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so my examples are from there and I will use Colorado as my primary reference for this chapter. Other states should have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
+As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so many examples are from there and I will use Colorado as my primary reference for this chapter. Other states may have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
 Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to list, remember, or describe every organization, act, and law here, because that would be its own book, if not several books, on those alone.
 
@@ -61,7 +61,9 @@ Using the State of Colorado as an example, I had some level of interaction with 
 - International Baccalaureate (IB/IBO)
 - ACT
 - College Board (SAT, AP, etc.)
-- Payment Card Industry (PCI and PCI-DSS)
+- Payment Card Industry (PCI and PCI DSS)
+- Code of Federal Regulations, but most notably Title 34 covering Education
+- Federal Aviation Administration (FAA)
 
 **State Level**
 - Colorado Department of Education (CDE)
@@ -74,7 +76,7 @@ Using the State of Colorado as an example, I had some level of interaction with 
 - Service Agencies
 - Contractors and "Subs" (sub-contractors)
 
-For high schools with specialized tracks, colleges, and universities, your list may include, but is not limited to, accreditations necessary for licensing and job requirements, such as:
+For high schools with specialized tracks, colleges, universities, and specialist/certification programs, your list may include, but is not limited to, accreditations necessary for licensing and job requirements, such as:
 
 - Higher Learning Commission (HLC)
 - Western Association of Schools and Colleges Senior College and University Commission (WSCUC)
@@ -84,9 +86,9 @@ For high schools with specialized tracks, colleges, and universities, your list 
 
 ### **Education in School Types (Overview)**
 
-Education is a responsibility of the state, including its public and private organizations, to establish, fund, and maintain schools and education (Colorado Department of Education, 2022). "State" means states like New York, Kansas, and Colorado, not the United States as a country. For this section and onward, I'll use state of Colorado regulations as my examples.
+At the time of writing, education is a responsibility of the state, including its public and private organizations, to establish, fund, and maintain schools and education (Colorado Department of Education, 2022). "State" means states like New York, Kansas, and Colorado, not the United States as a country. For this section and onward, I'll use state of Colorado regulations as my examples.
 
-Of the organizations listed, the CDE plays the broadest role in Colorado education. District offices and school boards oversee individual public, private, and charter schools, but the CDE sits above them in legal hierarchy. The CDE serves multiple roles, such as (Colorado Department of Education, 2025a, 2025d):
+Of the organizations listed, the CDE at state level plays the broadest role in Colorado education. District offices and school boards oversee individual public, private, and charter schools, but the CDE sits above them in legal hierarchy. The CDE serves multiple roles, such as (Colorado Department of Education, 2025a, 2025d):
 - Defining and regulating different school types
 - Defining rules for home-schooling programs
 - Overseeing student protections, medical health, and accommodations
@@ -96,27 +98,27 @@ Of the organizations listed, the CDE plays the broadest role in Colorado educati
 - Providing guidance for instructional materials
 - Enforcing state-wide laws related to education
 
-There are exceptions to what education facilities and programs the CDE holds direct oversight on, notably private schools, but they are not fully exempt from all CDE regulations. They still abide by many CDE standards, such as building standards, health, basic education, and attendance requirements (Colorado Department of Education, 2013). In case the CDE has issues, the U.S. Department of Education also keeps track of state regulations, like Colorado's, on locations like their ed.gov website (U.S. Department of Education, 2025).
+There are exceptions to what education facilities and programs the CDE holds direct oversight on, such as some rules on private schools, but they are not fully exempt from all CDE regulations. They still abide by many CDE standards, such as building standards, health, basic education, and attendance requirements (Colorado Department of Education, 2013). In case the CDE has issues, the U.S. Department of Education also keeps track of state regulations, like Colorado's, on locations like their ed.gov website (U.S. Department of Education, 2025).
 
 Teachers interact mainly with their respective district offices and school boards, which are regulated by the CDE. Districts and school boards typically oversee items like the following, in addition to any CDE/state regulations:
 - Permiting learning materials like textbooks
 - Approving curricula for various subjects
-- Allowing or disallowing technology use, like applications
+- Allowing or disallowing technology use, like certain software applications
 - Defining additional rules and regulations
 
-Private schools follow different rules from public schools, allowing them more freedom for internal affairs, curriculum, and teaching methods. Despite this increased freedom, the CDE considers private schools as private/small businesses instead of educational institutions (Colorado Department of Education, 2025c). This means the CDE cannot accredit or endorse private schools, hold jurisdiction over their operations, nor act as a custodian of a private school's records and transcripts. It also means a private school may technically employ teachers without teaching licenses, but a public school cannot.
+Private schools follow some different rules from public schools, allowing them more freedom for internal affairs, curriculum, and teaching methods. Despite these freedoms, the CDE considers private schools as private/small businesses instead of educational institutions (Colorado Department of Education, 2025c). This means the CDE cannot accredit or endorse private schools, hold jurisdiction over their operations, nor act as a custodian of a private school's records and transcripts. It also means a private school may technically employ teachers without teaching licenses, but a public school cannot.
 
 The CDE also oversees and supports online public schools and online education programs in general, performing roles like facilitation, creation, and quality control (Colorado Department of Education, 2025e).
 
 Independent instructors may use platforms like YouTube, Udemy, and Coursera for their content and may operate under DMCA safe harbor provisions, i.e. Section 512 (U.S. Copyright Office, 2020). For these platforms, it can be as simple as making a video or presentation on a topic you're passionate about and want to share with others. Rather than traditional educational bodies, you'll deal primarily with the rules (and monetization requirements) of your hosting platforms as well as U.S. Federal Courts and the Copyright Office to protect any content you or other creators made.
 
-There are some online courses separate from educational institutions that count towards college credits, such as IBM Professional Certificates endorsed by the American Council of Education (ACE), but where they count towards credit varies significantly and is outside the scope of this discussion (Coursera Staff, 2025). Nevertheless, be aware that they do exist.
+There are some online courses separate from educational institutions that count towards college credits, such as IBM Professional Certificates endorsed by the American Council of Education (ACE). Where they count towards credit varies significantly and is outside the scope of this discussion (Coursera Staff, 2025). Nevertheless, be aware that they do exist.
 
 ### **Student Protection Laws**
 
 *Notice: This is for the United States only.*
 
-In most cases, students, teachers, and staff deal with FERPA and HIPAA. FERPA and HIPAA are safeguards for people's personal information, such as address, first and last name, gender, and other personal identifiers (PIDs and PIIs). You cannot share this information outside of specific cases, such as other teachers in your school, law enforcement, public health, EMTs, and the parent(s)/guardian(s) of the relevant student(s) (CDC, 2024). Sharing information with professionals in outside organizations, even other teachers not a part of your school, may also violate FERPA/HIPAA in certain circumstances.
+In most cases, students, teachers, and staff deal with FERPA and HIPAA. FERPA and HIPAA are safeguards for people's personal information, such as address, first and last name, gender, and other personal identifiers (PIDs and PIIs). You cannot share this information outside of approved personnel and specific cases, such as other teachers in your school, law enforcement, public health, EMTs, and the parent(s)/guardian(s) of the relevant student(s) (CDC, 2024). Sharing information with professionals in outside organizations, even other teachers not a part of your school or working with the same students you work with, may also violate FERPA/HIPAA in certain circumstances.
 
 For more information on FERPA and HIPAA, see the following links below:
 
@@ -126,7 +128,7 @@ For more information on FERPA and HIPAA, see the following links below:
 
 Per the U.S. Department of Health & Human Services (2020) and the American Academy of Pediatrics (2024), the FERPA and HIPAA relationship stems from the fact that educational records covered under FERPA are excluded from HIPAA, but both cover personal information. They both have their own set of regulations when it comes to disclosing health information as well.
 
-In a teaching position, expect to follow FERPA guidelines more than HIPAA guidelines, but you'll still need to abide by both laws.
+In a professional role within education systems, expect to follow FERPA guidelines more than HIPAA guidelines, but you may need to abide by both laws (and any other related laws).
 
 To list out several examples of what is generally protected information, at the time of this writing, in case HIPAA, FERPA, etc. no longer exist in the future:
 1. Address
@@ -144,9 +146,16 @@ To list out several examples of what is generally protected information, at the 
 13. Fingerprints
 14. Email addresses
 
+Rocher et al. conducted one study of an American population, across anonymized datasets, in 2019 and found 99.98% successful identification with 15 demographic attributes and 83% with 3 demographic attributes. Demographic attributes include items like date of birth (age), gender, zip code, race, citizenship, and so on. 
+
+To put that into perspective: revealing 3 important attributes about a classroom of any size gives *anyone* an 83% chance to find out information on any one student in there. **I'll stress this point: it is very easy to make yourself and others a target by carelessly revealing information (or quasi-identifiers). That's one major reason these laws and regulations exist!**
+
+One example that may break these laws and regulations, even with explicitly written permission from all correct parties to do it, is filming and recording students (especially students who are minors). The same could be said of patients in hospitals, as a non-education comparison. You can, and probably will, give away personal identifying information including, but not limited to, names, age, gender, ethnicity, address (of where it's filmed at), and many more items. These identifiers may be uncovered even if not showing any students in the recording either. Privacy is important and recording is one of the quickest ways to eliminate privacy.
+- The same applies for *students* also filming and recording too, though the exact rules and disciplinary actions may be different based on one-party and two-party consent states.
+
 ### **Student Disabilities and Accommodations**
 
-For students with disabilities and accommodations, you'll be expected to adjust your lesson plans and curriculum to meet their needs. Sometimes this is easy to do and other times this is extremely difficult to accommodate. 
+For students with disabilities and accommodations, educators are expected to adjust lesson plans and curricula to meet their needs. Sometimes this is easy to do and other times this is extremely difficult and/or unreasonable to accommodate. 
 
 In the United States, the most common accommodations I've personally seen are Individualized Education Plans (IEPs) and Section 504 Plans (504s). States, like Colorado, may have guidelines for Individualized Health Plans (IHPs) to cover specific health needs and treatments (Colorado Department of Education, 2025b). Sometimes there are Behavior Intervention Plans or Behavior Support Plans (BIPs and BSPs), but I've encountered them less often in comparison. Each plan addresses physical, mental, medical, cognitive abilities, education, and learning ability.
 
@@ -160,11 +169,11 @@ IEPs and 504s have nationwide resources available, whereas IHPs have info at the
 - [https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)  
 - [https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019](https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019)
 
-These plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery. Initially establishing one of these plans is not always your responsibility as a teacher, but meeting the plan's accommodations and understanding a student's specific needs are a teacher's responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
+These plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery. Initially establishing one of these plans is not always an educator's responsibility, but meeting the plan's accommodations and understanding a student's specific needs is their responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
 
 Another important note: you also cannot tell other students, even in the same class, that one of your student(s) has an IEP/504. That also violates FERPA because students don't have a legitimate, educational need-to-know basis for that information.
 - By extension, you also are heavily restricted on asking about any medical conditions related to the accommodations as well.
-- The only potential way around this is if the student, or parent/guardian depending on their age, discloses details of their own IEP/504/etc. and conditions publicly. That's when it's waived, but you're still only allowed to say what is now public knowledge.
+- One potential way around this is if the student, or parent/guardian depending on their age, discloses details of their own IEP/504/etc. and conditions publicly. Nevertheless, you're still only allowed to say what is public knowledge.
 
 ### **Behavioral Intervention Plans (BIPs)**
 
@@ -172,11 +181,11 @@ I separated these from the previous section intentionally. For context, this is 
 
 In theory, these plans help students struggling to control behaviors and actions in class.
 
-In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble, with the promise that the kid won't be removed. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs may turn into boilerplate solutions due to a lack of resources or available personnel to help these students outside of specialized schools.
+In practice, it's utilized as a layer of protection to avoid the education system getting sued or into legal trouble with the promise that the kid won't be removed from education. Additionally, some teachers may not have adequate training or supports to properly follow through these plans, which suggests needed improvements (Iovannone et al., 2024). Due to these issues, BIPs may turn into boilerplate solutions due to a lack of resources or available personnel to help these students outside of specialized schools.
 
 Despite the disconnect between theory and practice, BIPs *do* work when well-implemented.
 
-For my opinion, I cannot help but view a BIP as a means to keep students and clients (i.e. parents) happy and in education, but stranded without sufficient help.
+For my opinion, I cannot help but view a BIP as a means to keep students and clients (i.e. parents) happy and in education, but often stranded without sufficient help.
 
 ### **Mandatory Reporting**
 
@@ -191,7 +200,7 @@ Teachers (among other professions) are legally required to report **suspected** 
 
 ### **Teacher Protection Laws**
 
-There's various laws in place to protect you, the teacher, in case of incidents. There are also times where you'll need to go "above your manager" or outside the chain-of-command becauses of work environment issues or for legal compliance with authorities. Because of the quantity and variety of these protections, I won't explain every single one of them.
+There's various laws in place to protect a teacher in case of incidents. There are also times where you'll need to go "above your manager" or outside the chain-of-command becauses of work environment issues or for legal compliance with authorities. Because of the quantity and variety of these protections, I won't explain every single one of them.
 
 These protections may be useful when reporting direct violations of laws, like sexual harassment or civil/criminal misconduct, or times where the principal/manager is unable to provide a safe work environment. There are various organizations overseeing these protections for both public or private employees, such as Public Health and Safety organizations in each state and OSHA at federal level. In addition, retaliation laws may apply if you lose your role as a result of taking action (U.S. Department of Labor, 2025).
 
@@ -217,13 +226,13 @@ As for a short answer, as long as the following apply, it's *likely* permissible
 
 Keep in mind Title 17 is a *primary* source. Other laws may still supercede it like organizational contract terms, Fair Use, DMCA, and more.
 
-Again, this isn't legal advice; it's a summary of what educators and copyright experts interpret for copyright exemptions in classroom use. For better guidance, refer to public legal literature or a qualified expert in copyright.
+Again, this isn't legal advice; it's a summary of what educators and copyright experts may interpret for copyright exemptions in classroom use. For better guidance, refer to public legal literature or a qualified expert specialized in copyright law.
 
 ### **Social Media and "The Blame Game"**
 
 In a teacher role, you're usually the front line. If something goes wrong, you're often the first person blamed because you're easy to reach, limited in defense mechanisms, and convenient to blame.
 
-Social media is not always your friend. Besides potentially violating FERPA/HIPAA, you aren't necessarily protected in saying whatever you want. If you have a "spicy" political opinion, you shouldn't post that in written form and have it drafted as evidence against you in a court of law.
+Social media is not always your friend. Besides potentially violating FERPA/HIPAA, you aren't necessarily protected in saying whatever you want. If you have a "spicy" political opinion, you shouldn't post that in written form because it may be drafted as evidence against you in a court of law.
 
 For case studies related to social media and speech, I see these three cited often:
 - [Pickering v. Board of Education - 391 U.S. 563 (1968)](https://supreme.justia.com/cases/federal/us/391/563/)
@@ -242,34 +251,34 @@ Outside of that, it depends how it's implemented. A small flat fee, without any 
 
 Even if said fee increases to percentage of revenue (or assets) and scales properly based on the damages done, that may decrease the number of issues. If it's not coupled with something you cannot "pay off," however, you'll still get people who do it because the consequences are of no consequence.
 
-Bribes can also go under here as well, though they aren't a "fine" you do after the fact and instead uses wealth to bypass a barrier in advance to avoid an issue altogether instead of escaping an issue.
+Bribes can also go under here as well, though they aren't a "fine" you do after the fact and instead use wealth to bypass a barrier in advance to avoid an issue altogether instead of escaping an issue.
 
-You could also place influence and power under here as well, though it's not a perfect comparison. Name brands and recognition makes you familiar to others. People tend to be friendlier with what is similar and known to them with plenty of research backing that claim.
+You could also place influence and power under here as well, though it's not a perfectly accurately comparison. Name brands and recognition makes you familiar to others, though, and people tend to be friendlier with what is similar and known to them with plenty of research backing that claim.
 - E.g. [Schwyck et al. on *Similarity Among Friends*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11080385/) (paraphrased title; 2023)
 
-At the end of the day, these types of punishments turn moral/legal prohibitions into a cost-benefit analysis game.
+At the end of the day, these types of punishments may turn moral/legal/ethical prohibitions into a cost-benefit analysis game.
 
 ### **Age Verification Systems**
 
-This is a sensitive issue, but it's precisely because it's a sensitive issue it may get rules and systems approved which normally are not approved. There's laws in place to help protect personally identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know and must know basis.
+This is a sensitive issue, but it's precisely because it's a sensitive issue it may get rules and systems approved which normally are not approved. There's laws in place to help protect personal identifying information, such as HIPAA, FERPA, and GDPR. It also covers logging and auditing of information and determines who is on a should know, may know, need-to-know, shall know, and must know basis.
 
-From personal experience, if you have one method to verify who someone is already in place, it is significantly easier to find and implement new methods afterwards.
+From personal experience, if you have one method to verify who someone is already in place, it is significantly easier to find and implement new methods afterwards and uncover more information about that same person.
 
-If you, or an institution, store personal information of students in your software, systems, etc. then you now face one of two scenarios.
+If you, or an institution, store personal information of students in your software, systems, etc. then you now face one of two scenarios:
 1. Nothing bad happens.
-2. Data gets breached/leak and legal liabilities may ensue.
+2. Data gets breached/leaked and legal/financial liabilities follow.
 
-Most users won't deal with the underlying currents of these softwares, but all users with access to this information will deal with it. Designers, engineers, and more may stay far away from these systems precisely to avoid following the compliance required from these laws and the risk altogether. Even if one adopts a "Compliance-First" mindset, they may not be well versed in the legal literature if they're new to the field and prone to mistakes.
+Most users won't deal with the underlying currents of these software, but all users with access to this information will deal with it in some way. Designers, engineers, and more may stay far away from working on these systems precisely to avoid following the compliance required from these laws and any risk altogether. Even if one adopts a "Compliance-First" mindset, they may not be well versed in the legal literature if they're new to the field and prone to mistakes.
 
-If I had to work with HIPAA (or similar) data, I'd consider a resource already verified as HIPAA/FERPA/GDPR-compliant in the first place. It might be a hosted service managing the data, handling the security around it, and providing a separate layer (i.e. an API) for access to then build solutions around. That ensures one extra layer of protection for myself and the host in case issues arise, but I'd also have to set up security protocols on my own end, such as tokenization and restricting request types (request minimization).
+If I had to work with HIPAA (or similar) data, I'd consider utilizing a service already verified as HIPAA/FERPA/GDPR-compliant in the first place. It might be a hosted service managing the data, handling the security around it, and providing a separate layer (i.e. an API) for access to then build solutions around. That ensures one extra layer of protection for myself and the host in case issues arise, but I'd also have to set up security protocols on my own end, such as tokenization, deletion of data after use, and restricting request types (i.e. request minimization).
 
-In short, there's a lot more work handling sensitive data that it may seem at first. This book won't go into all the details regarding how these systems work though, as it's outside scope and generally its own book, if not multiple books, on that topic.
+In short, there's a lot more work handling sensitive data that it may seem at first. This book won't go into all the details regarding how these systems work though, as it's outside scope and generally its own book, if not multiple books, on that topic alone.
 
-Lastly, I'll cover one situation where a data leak did happen: Discord. This isn't putting a target on said application; only an observation [reported on by Cyber Security News](https://cybersecuritynews.com/discord-data-breach-sensitive-data/) (Baran, 2025) and [confirmed by Discord themselves](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service) (Discord, 2025). There was a security breach of a third party vendor from an unauthorized source. There may also be concerns about *how* said sensitive data was handled, such as the way it was stored, processed, and encrypted. Nevertheless, this one incident showcases what happens if someone misuses sensitive data: investigations happen and law enforcement gets involved.
+Lastly, I'll cover one situation where a data leak did happen: Discord. This isn't putting a target on said software; only an observation [reported on by Cyber Security News](https://cybersecuritynews.com/discord-data-breach-sensitive-data/) (Baran, 2025) and [confirmed by Discord themselves](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service) (Discord, 2025). There was a security breach of a third party vendor from an unauthorized source. There may also be concerns about *how* said sensitive data was handled, such as the way it was stored, processed, and encrypted. Nevertheless, this one incident showcases what happens if someone misuses sensitive data: investigations happen and law enforcement gets involved.
 
-This doesn't even *need* to be students involved. Though the articles make no mention of age, you could reasonably assume adults were affected by the information breach too alongside children. Add onto this integrating age checks (which means storing and handling personal identifiers) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft, therefore this information requires protection.
+Age verification systems don't even need *students* involved. Though the articles make no mention of age, you could reasonably assume adults were affected by the information breach too alongside children. Add onto this integrating age checks (which means storing and handling personal identifiers) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft, therefore this information requires protection.
 
-Despite all of this, storing this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate.
+Despite all of this, storing and handling this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate and control.
 
 ### **"Redshirting"**
 
@@ -280,6 +289,20 @@ Birthdays are an arbitrary method in education to determine *when* a child becom
 There's measureable evidence that relative age matters too. For example, Malcom Gladwell in *Outliers* notes there's significantly more elite players in hockey (i.e. "best of the best") with birthdays earlier in the year (e.g. January to March and April to June), suggesting a small age difference compounds into advantages over time.
 
 There's also evidence of *both* negative and positive results from redshirting (Fortner & Jenkins, 2017). It's an open question if redshirting creates advantages or amplifies existing ones.
+
+### **Attendance**
+
+One may think attendance in education systems is not a legal issue. I'm here to say it is.
+
+In short, *don't knowingly misreport attendance* because that's falsifying a legal document. It's an alibi for everyone involved and ensures they're where they're supposed to be. It's a matter of safety.
+
+I'll reframe it with a general analogy.
+
+You are responsible for knowing where someone is. If they are in a classroom, you need to report they are "present" in a certain classroom. If they are not in a classrom, you need to report they are "absent" from a certain classroom. If their status suddenly changes from present to absent, or absent to present, you also need to note that down with a timestamp. If any emergency or issue comes along, but they're marked "present" when they're actually absent (or the inverse!), you may be held responsible because you neglected your duties.
+
+Nevertheless, with attendance in education, it's typically a teacher making a reasonable effort to confirm whether or not students are here. This can be doing a roll-call and audibly calling out each students name and marking absent whoever doesn't respond, a teacher confirming visually a student is physically there in a classroom, or a similar method. What matters is any positive response, confirmation, or identification of a student in that particular area at that particular timeframe in case of any particular emergencies they need to be contacted for.
+
+In the case of "errors" with attendance, an education system may have other staff members, such as an attendance secretary or administrator, around to double-check and confirm whether or not that is the case. That safety net changes a knowing misrepresentation (and legal issues) back into honest errors (and not legal issues), which can be rectified. This correction process still has to act in good faith, however.
 
 ### **Teaching/Instructional Contracts**
 
@@ -376,6 +399,8 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 26. Pynchon, T. (1973). Gravity’s Rainbow [Review of Gravity’s Rainbow]. Viking Press.
 
 26. Readiness and Emergency Management for Schools. (2024, August 13). *K-12 FERPA*. [https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1](https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1)
+
+27. Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). *Estimating the success of re-identifications in incomplete datasets using generative models.* Nature Communications, 10(1). [https://doi.org/10.1038/s41467-019-10933-3](https://doi.org/10.1038/s41467-019-10933-3)
 
 27. Schultz, S. (2022, December). *Differences between 504 plan and individualized education program (IEP)*. [https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep](https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep)
 

@@ -115,7 +115,9 @@ There are a whole host of metrics, but there's a few I want to call out because 
 
 If a metric means something different for multiple people, you'll eventually, but certainly, get groups making conflicting decisions using the same information. *Every* metric requires a business owner who defines the metric and a technical owner who implements the metric. If there's no owner, the metric(s) should not affect decision-making.
 
-If you're in a position to do it *and maintain it* (because things always change over time), start with a single documented definition outlining what the metrics are, what each metric means, and how each metric is measured. Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Humans tend to follow the path of least resistance, so your new standardized metrics shouldn't be harder to use or they may not be followed.
+If you're in a position to do it *and maintain it* (because things always change over time), start with a single document outlining definitions on what the metrics are, what each metric means, and how each metric is measured. Once this document is created, include the date it was created *and finalized* on, as it'll serve as evidence and a reference for when questions arise regarding any metrics. You may also need to include the people who agreed on what the metric(s) mean as insurance, in case someone claims they never agreed to it.
+
+Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Humans tend to follow the path of least resistance, so your new standardized metrics shouldn't be harder to use or they may not be followed and your work becomes wasted effort.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
 - If you're the one asking for this "single source of truth" and get someone/something else to make it, please do not ignore the stuff that is pulled together.
 
@@ -183,7 +185,7 @@ Basically, figure out the context, the expected questions, and the worth of an a
 
 ### **Data and Data Issues**
 
-Many organizations collect data on all sorts of things. This isn't limited to education systems either.
+Many organizations collect data on all sorts of things. This isn't limited to education systems either. While there are size issues, the bulk comes from how you use the data or change it to be usable.
 
 The problem arises in three ways: 
 1. There is too much data to process in a reasonable timeframe.
@@ -208,9 +210,31 @@ The third problem is something to expect in any business across any context. Wha
 
 Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
+### **The Human Element**
+
+*Alternatively: Doing Well At What Others Fail At*
+
+When you see someone doing something well, you may consider replicating what they do and implementing it into your own lifestyle, products, services, etc.
+
+What if, instead of replication, you differentiated?
+
+It may not make sense at first. You're going against proven and effective practices with the metrics and data supporting that success. Instead of focusing on their strengths, you focus on blind spots and where perceptions and psychology determine success. The question becomes what things you should do to make it *worse*, rather than better, and provide something competitors don't. 
+
+One example of such an approach comes from Will Guidara, author of *Unreasonable Hospitality*, and their journey to create the world's #1 restaurant at the time (2022). It's a risk to do your own thing and go against the norm, but that risk has high returns if done well. Innovation has, at its core, some risk involved, but it can turn the ordinary into extraordinary and create experiences humans will cherish.
+
+All it takes is giving people more than what they expect. Pleasant surprises and the human element.
+
+### **Ad Hoc Metrics**
+
+Sometimes there's not a standard available for what you need to measure. Maybe it is available, but it's a real-time situation where you cannot effectively a standard method and devise an alternative. There could also be a low amount of historical data to reference.
+
+This situation may show up in research cases and fields, such as user experience (UX). For example, UX may have standardized scales like SUS (System Usability Scale) and SUPR-Q (Standardized User Experience Percentile Rank Questionnaire) which you may convert ad hoc data into (Lewis & Sauro, 2026). While you can covert these scores, you shouldn't compare these types of scores against each other despite them being quantitative metrics, as they're heavily subjective measurements derived from qualitative data.
+
+When converting, you need to consider the aspects of the data too, such as if there's a positively (a tail to the right) or negatively (a tail to the left) skewed distribution. This information can affect the median and percentile scores, such as how a 50th percently on a scale of 1-100 may be 68 on a negatively skewed dataset instead of 50 on a normally distributed dataset. These also determine where you should determine cutoff points and where a particular score may be "good" or "bad." Despite whatever cutpoints you set, remember to document it down so its meaning does not drift and cause issues in the future.
+
 ### **Evaluating Education (with Examples)**
 
-In the United States, as of March 2026, there's multiple ways to evaluate its learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
+In the United States, as of March 2026, there's multiple ways to evaluate learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
 - These particular examples deal with K-12 education instead of tertiary/university education.
 
 TIMSS is an ongoing assessment handling mathematics and science; I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years with some variation, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
@@ -235,13 +259,14 @@ There's other forms of testing conducted by organizations aside from these. The 
 
 ### **100% Graduation Rate**
 
-This is a funny metric to use for success and the same applies for job placement rate. It's also a case of why you need *multiple* metrics of success instead of just one to help verify data authenticity and why making a metric a target proves Goodhart's Law.
+This is a funny metric to use for success and the same applies for job placement rate outside education systems. It's also a case of why you need *multiple* metrics of success instead of one for data veracity and why making a metric a target proves Goodhart's Law.
 
-100% graduation rate means you're telling me *every* student in the history of the school (or specific year) got passing grades on every subject they went through.
+100% graduation rate means you're telling me *every* student in the history of the school (or specific year, class, etc.) got passing grades on every subject they went through.
 
-If you see this value, be skeptical. Be doubly skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it.
+If you see a high value on this metric, be at least a little skeptical. Be extra skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it.
 - I'd also be skeptical of >= 95% as well, but that's my personal opinion.
 - You'd also want to reference standardized scores the school achieves for testing it cannot easily manipulate, like SAT and ACT scores.
+- One example of verifying skepticism is a school has high graduation rates, but students currently there have low reading rates or there's a low number of students at grade level for particular subjects.
 
 There's two immediate ways that came to my mind to manipulate this.
 1. Lower the standards for what is considered "graduation"
@@ -333,13 +358,13 @@ While these acts provide data for metrics and analysis, doing so at the cost of 
 
 ### **Misalignment Case: IB vs Implementation**
 
-International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of the mission statement vs metrics.
+International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of the mission statement vs metrics presented in a hypothetical.
 
-Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
+Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing education specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
 
 The metrics that administration, or other people responsible for implementing programs like IB into an institution, may care about grades, graduation rates, student retention rates, and test scores.
 
-This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
+This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Each party utilizes the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
 
 One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
 
@@ -418,17 +443,17 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
 
 ### **What If Bad Teachers Aren't Bad?**
 
-Let me present to you a hypothetical situation.
+Let me present a hypothetical.
 
 Teacher A gets a general classroom of ill-mannered students with personalities that constantly disrupt the learning process and continually incur disciplinary issues.
 
 Teacher B gets a second classroom of well-behaved students who have a vested interest into the education they're receiving.
 
-Both teachers have the same curriculum and (reasonably) same teaching and management styles. Teacher A receives a poor score upon observation by administrators, while Teacher B receives a good score.
+Assume both teachers follow the same curriculum and (reasonably) same teaching methods and management styles. Teacher A receives a poor score upon observation while Teacher B receives a good score.
 
-Does this mean Teacher A is bad? Not necessarily. We're dealing with another problem of contextual validity here.
+Does this mean Teacher A is bad? Not necessarily. We're dealing with contextual validity here.
 
-Teacher A may have some bad practices, but their observed, negative outcome is amplified by the environment they're in and the students they're handling. Teacher B has those same bad practices too, but have it masked by an environment functioning well on the surface and produces favorable outcomes. It's a case where a teacher is penalized professionally for factors outside their control and, by extension, taking on more "difficult" work.
+Teacher A may have some bad practices, but their observed, negative outcome is amplified by the environment they're in and the students they're handling. Teacher B has those same bad practices too, but instead it's suppressed by an environment functioning well on the surface and produces favorable outcomes. It's a case where a teacher is penalized professionally for factors outside their control and, by extension, taking on more "difficult" work.
 
 Normally, in the case of observations by other professionals, *multiple* metrics are recorded and documented to eliminate any over-reliance on one variable. Metrics may include management of a classroom, behavior management, lesson introduction, content delivery, responding to needs and issues, and so on. Observations, though they may inject bias and students can intentionally try to influence their results, can also directly see and consider the context of an educator's situation in regards to their evaluation during the observation. Even with context, it is ill-advised to ignore the dispositions and interests of any evaluators (which may indicate a leadership/relationship issue rather than a metrics issue).
 
@@ -510,14 +535,18 @@ TTK and TAE are decision metrics while DPS and DPR are diagnostic metrics. Decis
 3. Goodhart, C. (1975). *Problems of Monetary Management: The UK Experience.* Papers in Monetary Economics. Papers in monetary economics 1975; 1; 1. - [Sydney]. - 1975, p. 1-20. Vol. 1. Sydney: Reserve Bank of Australia.
     - Paraphrase attributed to Marilyn Strathern (1997).
 
-1. Hirschfeld Davis, J. (2015, December 11). President Obama Signs Into Law a Rewrite of No Child Left Behind. The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
+1. Guidara, W. (2022). *Unreasonable Hospitality.* Penguin.
+
+1. Hirschfeld Davis, J. (2015, December 11). *President Obama Signs Into Law a Rewrite of No Child Left Behind.* The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
 
 1. Institute of Education Sciences (IES). (2025, July 31). *Understanding Results - NAEP.* Nces.ed.gov. [https://nces.ed.gov/nationsreportcard/guides/]
 
 2. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/about-the-ib/](https://www.ibo.org/about-the-ib/). Accessed on December 17, 2025.
 
-1. Klein, M., Sosu, E. M., & Dare, S. (2020). Mapping inequalities in school attendance: The relationship between dimensions of socioeconomic status and forms of school absence. Children and Youth Services Review, 118(118), 105432. [https://doi.org/10.1016/j.childyouth.2020.105432](https://doi.org/10.1016/j.childyouth.2020.105432)
+1. Klein, M., Sosu, E. M., & Dare, S. (2020). *Mapping inequalities in school attendance: The relationship between dimensions of socioeconomic status and forms of school absence.* Children and Youth Services Review, 118(118), 105432. [https://doi.org/10.1016/j.childyouth.2020.105432](https://doi.org/10.1016/j.childyouth.2020.105432)
     - Alt Link: [https://www.sciencedirect.com/science/article/pii/S0190740920303698](https://www.sciencedirect.com/science/article/pii/S0190740920303698)
+
+1. Lewis, J., Sauro, J. (2026, May 12). *How to Interpret a Rating Scale Without Historical Data*. MeasuringU. measuringu.com. [https://measuringu.com/how-to-interpret-a-rating-scale-without-historical-data/](https://measuringu.com/how-to-interpret-a-rating-scale-without-historical-data/)
 
 1. O'Connor, Ericka. (2019, March 22). *Orange You Accessible? A Mini Case Study on Color Ratio - Bounteous.* www.bounteous.com. [https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)
 

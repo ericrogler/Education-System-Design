@@ -144,11 +144,13 @@ To emphasize again: I find Wikipedia better suited as a reference *after* you ha
 
 ### **The Dark Side of the Moon**
 
-**What should work in theory doesn't always work as well in practice.** Despite a perception that science is a shining beacon of perfection, the real world is very much imperfect in many ways. Additionally, what works well in practice may only work in one specific situation or even be non-repeatable, but pushed to be the next best thing since sliced bread because there's wealth (and resources) involved somewhere in some way.
+**What should work in theory doesn't always work as well in practice.** 
+
+Despite a perception that science is a shining beacon of perfection, the real world is very much imperfect in many ways. Additionally, what works well in practice may only work in one specific situation or the research/study is simply non-repeatable. Despite that primary issue, methods may be pushed to be the next best thing since sliced bread because there's wealth (and resources) involved somewhere in some way.
 
 Research in general, and academia by extension, operates under controlled settings and takes into account many assumptions, such as good-faith effort on students (if they're part of the group tested for research). It's precisely *because* it's controlled conditions, which can be replicated and reproduced for veracity, it's considered valid as research. This goes for just about every field and study in the past, present, and future.
 
-That doesn't mean the research itself is perfect. Even research groups who made one study can, and should, refute their findings if future evidence disproves their earlier works.
+That doesn't mean the research itself is perfect. Analyses can be flawed and experimental designs inaccurate. Even researchers who made one study can, and should, refute their findings if future evidence disproves their earlier works.
 
 As for how *old* research can be while remaining relevant, it's a somewhat complicated answer. I've seen methods around for several decades that, quite frankly, still work well but have relatively dated sources. I've also seen new research crop up as a "fad" before fading away from existence as a mistake to hopefully not repeat again. It's also dependent on the field; a math book from 100+ years ago *could* still be relevant today, pending some minor changes to its explanations, whereas some science books could be made irrelevant tomorrow if a major discovery comes out of nowhere.
 - This may be formally referred to as part of the Lindy Effect (Taleb, 2012).

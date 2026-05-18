@@ -334,11 +334,50 @@ There's also methods like "power creep" in many types of games. That is *not* pl
 
 I'm not going into detail on this topic, but I do want you at least aware the concept exists.
 
-### **What about EdTech?**
+### **Good. Fast. Cheap.**
+
+Readers may be familiar with the project management triangle or the triple constraint (Wyngaard, 2012), or may've heard about its axioms when creating quality products for customers. This is where tradeoffs come in.
+
+You can build simple products by yourself in a reasonable timeframe, but complex projects are rarely ever done by yourself without dedicating significant time and effort. That could mean one person may not achieve the desired results in their lifetime.
+
+Generally speaking, a project seeks to produce a quality output governed by constraints, such as scope, time, and cost. If you want to change one of these constraints, the other constraints "trade" effects between each other to balance out. While that's the ideal scenario, reality may not translate nicely. For example, throwing more money at a project may not necessarily speed up a project or expand its capabilities; it may even slow it down. A poorly run project can still lack quality outputs even if you improve all constraints.
+
+When designing many things, in and outside of education, you may find yourself constrained by labor (a cost). For example, while you may want to create a great system, perfect curriculum, or an ideal improvement plan to help even the most disadvantaged students, your capabilities are limited. You could have a lot of money, but lack time or personnel. You could also have all the time in the world, but not the means to access resources to improve your work.
+
+For a more practical example, someone may explain how the entire architecture of a particular software, tech stack, or organizational process works. While it's entirely possible they alone did it, any highly complex work more than likely originated from a *group* rather than an individual. An individual can own parts of that system, however, such as one person setting up a broker or proxy or managing the migration of resources.
+
+### **What About EdTech?**
 
 Many rules and concepts you find in designing systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are not. Quality typically improves over time, but gaps and deficiencies persist between iterations of new products.
 
 Sometimes you're forced to use particular software to accomplish your goal. Software is a tool to achieve a task or solve a problem you have and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
+
+### **What is an MVP?**
+
+An MVP, in a design and engineering context, is a minimum viable product. It is the smallest thing you would actually use.
+
+For example, you may want to design something and have it do a whole bunch of cool features. That's a *full* product.
+
+An MVP, on the other hand, is when you scale down that same product to do only one to a few things and could see using yourself (i.e. spending money on).
+
+MVPs are important because they're intentionally scoped down. They're ways to ship products and generate income and feedback on them quickly without heavily investing much time, cost, or resources into them.
+
+Some examples of potential MVPs include:
+- A company showcasing a demo video of a product using a simple webpage to go through the core process they scoped out.
+- Another company starting an online business selling one item before expanding its selection.
+
+Many products and technologies you see today started with some sort of MVP and, over years, decades, and even longer periods of time now became what you're familiar with.
+
+From a business perspective, the MVP is the baseline you need to convince someone else to use, and spend money on, the product you're designing. That's where the "V" in MVP comes in: viable. If it's not viable, it's not a product you can give to a user, get a user to want to use, and therefore generate no returns on your investment. This may mean excelling in one standout feature, finetuning several key features performing better than the competition, and many other scenarios.
+
+What an MVP isn't, however, is a prototype or a proof of concept. A prototype is similar to a recipe you develop in a test kitchen and recruit participants to try out, refine, give feedback on, and then improve on over time. It is *not* the final recipe you deliver to your wider consumer audience, but something you develop and test in a controlled environment similar to a typical science experiment. A proof of concept, meanwhile, is a design or model showcasing the feasibility or viability of an approach. It answers the question of if people *can* make this, but not necessarily if people *will* use (and pay for) this.
+
+Creating an MVP is a surprisingly long and complicated process beyond the scope of one section, but typically involves answering items like the following:
+- What questions to ask
+- What tools/systems do I need
+- Who is this designed for
+- Is this the simplest solution I can implement
+- What is needed to implement it now rather than later
 
 ### **What if I cannot find problems with designs?**
 
@@ -433,7 +472,7 @@ Some general rules of thumb you can quickly apply come from personal experience 
 7. Moran, K. (2024, February 3). *The Aesthetic-Usability Effect.* Nielsen Norman Group. [https://www.nngroup.com/articles/aesthetic-usability-effect/](https://www.nngroup.com/articles/aesthetic-usability-effect/)
 
 7. Nielsen, J. (1994, April 24). 10 Heuristics for User Interface Design. Nielsen Norman Group. [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
-    - Updated: 2024, January 30.
+    - Updated Version: 2024, January 30.
 
 7. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
 
@@ -442,6 +481,8 @@ Some general rules of thumb you can quickly apply come from personal experience 
 9. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
 10. Wathan, A., & Schoger, S. (2018). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
+
+10. Wyngaard, C.V. (2012). *Theory of the triple constraint — A conceptual review*. 2012 IEEE International Conference on Industrial Engineering and Engineering Management. pp. 1991–1997. doi:10.1109/IEEM.2012.6838095. ISBN 978-1-4673-2945-3. S2CID 12434391.
 
 
 ## **[Next Chapter](Z021a_Engineering_Architecture.html)**

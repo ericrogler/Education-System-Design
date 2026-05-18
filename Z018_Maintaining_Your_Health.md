@@ -37,15 +37,15 @@ With either way above, be careful not to get taken advantage of and know when to
 
 ## **Long Answer**
 
-I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. 
+Let me just say this first: **don't get addicted to the technology you use and consume. Moderation is important.**
 
-What you and I can probably agree on though is good food boosts morale and everyone is going to be hungry on a diet.
+With that out of the way, let's continue.
+
+I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. What you and I can probably agree on though, despite any differences, is good food boosts morale and everyone is going to be hungry on a diet.
 
 Alternatively, I could talk about how nurses and some licensed medical staff can know something is wrong with someone and put the information together to know what is wrong and/or get the right people involved, but not have permission/authority to diagnose/fix someone themselves.
 
-Now let's talk about work.
-
-What defines meaningful work differs from person to person. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills three areas:
+Now let's talk about work. What defines meaningful work differs from person to person. In this book, we'll say meaningful work (or work you can feel satisfaction from) sufficiently fulfills three areas:
 1. Complexity
 2. Autonomy
 3. Appropriate effort vs reward
@@ -64,6 +64,18 @@ Is it normal to work outside of contract/normal work hours? For most people, no.
 
 Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes.
 
+### **The Environment Itself**
+
+Being in a stressful and chaotic environment isn't good for you. For children and younger students especially, adversity, unpredictability, and household chaos are associated with poorer adolescent health (Pu et al., 2025).
+
+As a hypothetical: if an educational facility has fights every day, furniture getting broken, injuries sustained on both students and staff, then a student's concerns may shift from education to safety. If they're overly focused on their own safety and well-being, that leaves little room to focus on education.
+
+This is also *not* purely one part of an education system. While a school or education system should strive for a safe and secure environment, the household *outside of that education system* must also be safe and secure.
+
+Though there are ways to alleviate and accommodate for these concerns, many factors are frankly outside the control of any educators, administrators, or staff members in education. Parents and students have issues they must resolve on their end too. Overcorrecting by being either too strict through harsh discipline or too lenient with only a slap on the wrist as punishment may compromise education for *every* student involved; not just the few with issues. 
+
+Are there solutions to these problems? Yes, but they require enforcing consequences for actions and dealing with human issues as they arise. That is applied across education systems as a whole rather than in one particular location.
+
 ### **An Educator's Creed**
 
 Despite providing what's usually perceived as an honorable service to society, I've never had to "take" a creed in education. I don't think there's even a universally recognized, official creed for education as of writing this. If it does exist, they were probably guidelines or terms of employment rather than an oath.
@@ -71,11 +83,11 @@ Despite providing what's usually perceived as an honorable service to society, I
 Maybe there's too many debates about what educators are responsible for or they encompass too many roles at once. I'm not sure the reason myself, but it does leaves things ambiguous and morally/ethically questionable at least.
 
 Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with, such as the [the National Society of Professional Engineers](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021).
-- If you cannot think of something to abide by, perhaps take a cue from that above. Ethics is pretty important afterall.
+- If you cannot think of something to abide by, consider something similar to the above. Ethics is pretty important afterall.
 
 ### **A List of Things to Consider**
 
-Most of what's mentioned below can be found from sources like the Centers for Disease Control and Prevention and Office of Disease Prevention and Health Promotion. They should be treated as general information references and include educator-specific items too.
+Most of what's mentioned below can be found from medical sources like the Centers for Disease Control and Prevention as well as the Office of Disease Prevention and Health Promotion. They should be treated as general information references rather than direct medical advice.
 
 - Get enough sleep.
 - Protect and stay within contract hours when you can. If you go over, make it intentional.
@@ -119,14 +131,16 @@ In an instructional/teaching setting, your brain is processing multiple things a
 - Maintaining a "high alert" state the entire class period, multiple hours at once, or even the entire day without pause or rest
 - How to not undergo a sensory overload during the day
 
-These occurrences aren't exclusive to teachers. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions typically do not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
+All of these things happening at the same time simultaneously, and for an extended period of time, leads to mental exhaustion and decision fatigue. 
+
+These occurrences aren't exclusive to teachers and professionals in education systes. High-stress, high-stakes roles such as firefighters, police, military, doctors, air traffic controllers, and nurses may have similar experiences and situations, though across vastly different contexts, scenarios, and conflicts. Your actions may not affect whether someone lives or dies (except for when that's your job!), but the environment you're in places a higher amount of stress than you may first expect.
 - This applies to a lot of workers in general too. 65% of U.S. workers (from 2019-2021) surveyed by OSHA equate work as a significant stress factor (2023).
 
 It's like your brain is at near constant utilization with little downtime, at best, at any given time on a workday. What this lack of downtime means is you may suppress many emotions because you don't have time to process them. When a break does occur, you may want to vent out and decompress as soon as possible. Even then, your current location at work may not be ideal for decompressing. You might wait for a later opportunity again, likely at the end of the day when you're back home from work.
 
-Venting and decompressing methods vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. Maybe it takes 1 minute, 15 minutes, 30 minutes, or even an hour before you mentally return to a "normal" state and de-escalate from a "high alert" state.
+Venting and decompressing methods vary among individuals. It can be done through body language, verbally venting frustrations, relaxing peacefully, or any combination of these three and more. It could even be your brain powering down into recovery mode and you not doing anything outside of a blank stare for some time once the constant overload from the noise and decision-making stops. Maybe it takes 1 minute, 15 minutes, 30 minutes, or even an hour before you mentally return to a "normal" state and de-escalate from a "high alert" state.
 
-**Keep in mind, these mental states and decompression processes are surprisingly normal.** Be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. Also ensure it doesn't reach the point where it involves drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
+Be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. Also ensure it doesn't reach the point where it involves drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
 - Even if you're currently one of these professionals, a "physician-patient" still needs appropriate help (Rosvold (MD), 2004).
 
 ## **Bibliography**
@@ -146,6 +160,8 @@ Venting and decompressing methods vary among individuals. It can be done through
 5. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. [https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating](https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating)
 
 5. Occupational Safety and Health Administration (OSHA). (2023). Workplace Stress - Overview.Occupational Safety and Health Administration. Www.osha.gov. [https://www.osha.gov/workplace-stress](https://www.osha.gov/workplace-stress)
+
+6. Pu, Q., Luo, Y., Niu, L., Luo, R., Yang, Z., & Chen, F. (2025). *Associations between household chaos and mental health in adolescents: The role of parent-adolescent relationship and adolescent resilience.* Children and Youth Services Review, 108312–108312. [https://doi.org/10.1016/j.childyouth.2025.108312](https://doi.org/10.1016/j.childyouth.2025.108312)
 
 6. Scheerer, R. (1989, July 10). *Star Trek: The Next Generation* (Kemper, D., Writer; No. 21) [Television Broadcast “Peak Performance”].
     - Season 2, Episode 21

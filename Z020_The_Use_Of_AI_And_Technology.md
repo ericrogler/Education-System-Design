@@ -1,21 +1,38 @@
 ---
-title: 27. The Use of AI and Technology
+title: 27. Technology and AI
 layout: default
 nav_order: 29
 ---
-# The Use of AI and Technology
+# Technology and AI
 
 ### [Previous Chapter](Z019_Money_Budget_Management.html)
 
 ## **Short Answer**
 
+*You get three quotations!*
+
 > "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
 
 - Roy Batty to Rick Deckard, *Blade Runner* (Scott, 1982)
 
+> "Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."
+
+- Reverend Mother Gaius Helen Mohiam, *Dune* (Herbert, 1965)
+
+> "A computer can never be held accountable 
+> 
+> Therefore a computer must never make a management decision."
+
+- IBM Training Manual, 1979 (Attribution; internal IBM training)
+
 ---
 
-AGI (Artificial general intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though.
+Views on technology introduced less than 5 years ago may have exaggerated views. For example:
+- Something drastic may change within 1-2 years, like growth, stalling, or decline.
+- Maybe the timeline for full implementation is not 5 years, but 10+ years.
+- Many assumptions about how it could affect roles and positions in society.
+
+For example, I may say AGI (Artificial general intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though. That's one assumption that may change quickly or slowly over time.
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
@@ -23,7 +40,7 @@ AGI (Artificial general intelligence) is possible and AI may even replicate huma
 
 **The problems you encounter don't often change, but the means (and technology) to address those problems can often change.**
 
-Opinion: The public proliferation of AI in just about every field and occupation is the equivalent of letting a person with no training pilot an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it. 
+Opinion: The public proliferation of AI in just about every field and occupation is the equivalent of letting a person with no pilot training operate an A10 Thunderbolt II from Fairchild Republic with a GAU-8/A Avenger from General Electric (or General Dynamics) strapped onto it. 
 - In case someone from those companies is reading this: no, this isn't an attack on you. 
 
 AI solutions are usually overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
@@ -45,22 +62,30 @@ This chapter has a two sentence horror story for system administrators (and simi
 
 Now then, let's talk about technology.
 
-### **A Technology Overview in Education**
+### **A Technology Overview**
 
-Technology is permeating into classrooms at primary, secondary, tertiary, post-graduate, and adult education. This has accelerated greatly since COVID back in 2020. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments. Though technology may intend to make education accessible, it can also make education more cumbersome.
+People can use computers, phones, etc. all day, every day, and still not know how the technology works. Even at the smallest issue and roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
+
+Is this an exaggeration? *No.*
+
+Many systems are also held together through duct tape and temporary fixes, which ironically become permanent fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional at the end of their 12-hour shift either. Nevertheless, there's many things the public may not be comfortable knowing about and technology is *full* of those things.
+
+In education, technology should *support* learning, not hinder it, and only works well when people know how to use the technology provided. This is why skills like critical thinking, reading literacy, and computer literacy are essential for both students and professionals. Don't blindly replace existing methods, like physical books and writing by hand, or give it out to everyone because a new piece of technology seems like the next best thing since sliced bread.
+
+Technology also permeates into all forms of education. Schools may move towards near-full or full technological equivalents for resources like accessing textbooks and generating work for assignments. Though technology may intend to make education accessible, it can also make education more cumbersome.
 
 To give an example: a school may provide every student with their own personal electronic tablet (or similar, future technology). It may have the following features:
 - Specifications to run school required software at acceptable parameters
 - An internet browser
-- Camera software
-- A monitoring software/setup in the backend so a teacher can monitor what's on a student's screen in the background during their specific class period
+- Camera software (for specific uses like film club)
+- A monitoring software/setup in the backend so a teacher can monitor what's actively on a student's screen during their specific class period and remote control certain types of access
     - These softwares typically just project what's actively showing on one screen to a dashboard/another screen
-    - In this example, it's also the *school's* computer, not the student's. The school may be cleared to do this!
+    - In this example, it may be the *school's* computer, not the student's, so the school may be cleared to do this!
 - Proprietary security system
 - Email
 - Assignment and work software
 - Activity software
-- Storage and organization software
+- Storage and file organization software
 - Classroom management software
 - "All-in-one" software to cover multiple use cases
 - Access to online textbooks
@@ -102,9 +127,33 @@ To dilute technological security (i.e. cybersecurity) down into two points:
 1. Technology, and its security, is far more protected with better protocols and tools continuously improving over time. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
 2. Humans are quite suspectible to giving away sensitive data to unsafe parties and falling prey to social engineering, like feeding information with security credentials and bypassing security protocols.
 
-Lastly, if you ever design something and have even the slightest concern about security risks, then design it as if an attacker was already inside or anyone accessing it can compromise it.
+If you ever design something and have even the slightest concern about security risks, then design it as if an attacker was already inside or anyone accessing it can compromise it.
 - i.e. Worry about how to stop *further* damage.
 - Don't give everyone administrator access.
+
+Negative thinking lets you explore what bad things could happen and hopefully persuades you to plan contingencies. When you're figuring out security, go through how attacks could happen and what's needed to stop them. A simple solution with sufficient security is ideal, but sometimes you need a more complex solution. This thinking leads you faster towards real security instead of perceived security. You don't need a strong technical background either; simple practices and adherence to them alone can do a lot to reduce risk.
+
+### **What About Computer Safety?**
+
+Computers, and the contents on them, are *mostly* safe and secure... until you give them access to the Internet (or its equivalent if it changes in the future). A computer without any Internet is simply an "airgapped" computer and is physically isolated.
+
+Or a human gives the keys away like we've seen above.
+
+Let me put it in a low-technology analogy. A house is a lot harder to break into without any windows or doors. That's a computer without the Internet. You can still "break" into it, but the means to do so (e.g. remotely connect) are far more limited and you'll need more specialized methods (e.g. malware on a USB stick plugged into the computer). You add the Internet and all of a sudden there's a lot more "holes" with doors and windows. All it takes is one of those to open and you could compromise the entire interior.
+
+Assuming you do access the Internet, then you still need to worry about security. If you're dealing with information, *even in a secure situation,* then you should lie if you're legally allowed to. If you cannot lie, then give as little information about yourself as possible. If you can avoid giving *any* information about yourself, that's even better. Even in situations where providing that information grants access to the convenience of a service, product, etc., you do not want to easily trade away security for convenience.
+
+Even with "secure" systems, there's still the risk of breaking in and discovering your information amongst others in places you distribute it to. This is why security standards, such as PCI DSS from the PCI Security Standards Council, are implemented and regulated across various vendors and services (2026).
+
+How much information should you avoid providing? *More than you think.*
+
+As a reminder, Rocher et al. conducted one study of an American population, across anonymized datasets, in 2019 and found 99.98% successful identification with 15 demographic attributes and 83% with 3 demographic attributes. Demographic attributes include items like date of birth (age), gender, zip code, race, citizenship, and so on. 
+
+**Anonymous isn't as anonymous as you may think.**
+
+As for how you can address these threats to security, it depends on what the threat is (i.e. the threat model) and what type of target you are. A government agency with the full force of the law on its side is usually far more capable of breaking through many systems compared to your average person off the street. Conversely, any random person, such as a pickpocket on the street, is far more likely to break through your security measures despite their reduced functionality. You could also be a specific target worth dedicating resources to or simply one of millions of targets caught in the crossfire. The full exploration of this concept beyond actors and target types is far beyond the scope of this book, however.
+
+While you may be someone who knows *how* to fix these issues yourself and troubleshoot problems, that doesn't earn you the "key" to do so. It does, however, let you avoid significant frustration with any IT or system administrative personnel because you can clearly state you have X problem, know the solution is Y, and only clarify what other steps and permissions are needed for it.
 
 ### **From Medieval Security to Modern Security**
 
@@ -151,7 +200,7 @@ While technology is a good thing, there can be too much of a good thing.
 
 ### **AI in General**
 
-If you use chatbots, AI, technology in general, etc. you should also be held accountable for its outputs. Were you in a corporate setting, you could also say that anyone, including managers and non-technical folks, that ship code is now on-call and owns incident remediation for anything they ship. 
+If you use chatbots, AI, technology in general, etc. you should also be held accountable for its outputs. Were you in a corporate setting, you could also say that anyone, including managers and non-technical folks, that ship code is now on-call and owns incident remediation and responsibility for anything they ship. 
 
 Getting AI to do something isn't the same as you doing something yourself. It's like a client describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer. Intent is not authorship.
 
@@ -233,7 +282,7 @@ When I was much younger, there was a web browser game called Akinator.
 Is it AI? Nope, it was basically a binary search tree.
 - I'm aware that's a massive oversimplification; don't worry.
 
-Did it look like magic to me? At the time, yes.
+Did it look like magic to the younger me? At the time, yes.
 
 The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were:
 - Yes
@@ -250,15 +299,14 @@ The more questions you answer, the more likely it is to narrow down the correct 
 
 To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. That means it moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
 - In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtracks a few nodes/steps.
-- More technically speaking, it is O(log n) time complexity.
 
-If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the values of yes/no you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
+If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the answers you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
 
 Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
 
 ### **AI in Education**
 
-Where AI applies to teaching and students specifically is not likely to change easily. Here are some examples I've seen and would categorize below. Additionally, a lot of things AI can do, automation, like a script or macro, can probably do instead at far cheaper costs and lower error rates.
+Where AI applies to teaching and students specifically is not likely to change easily. Here are some examples I've seen and would categorize below. Additionally, a lot of things AI can do, like automation, scripts, or macros, can probably work on a less sophisticated technology to achieve similar results at far cheaper costs and lower error rates.
 
 **Examples of "Allowed" AI Use**
 - Repeating redundant tasks usually done manually, like grading
@@ -271,7 +319,6 @@ Where AI applies to teaching and students specifically is not likely to change e
 **Examples of "Prohibited" AI Use**
 - Completing assignments for students
 - Feeding AI confidential or classified information
-- As a replacement for learning new topics
 - Using it as a substitute for critical thought and problem-solving
 - Cheating
 - Making AI videos of teachers/students (legal issues on this one)
@@ -282,7 +329,7 @@ As a stern reminder, anything listed under "Recommended AI Use" should require a
 
 In my opinion, AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways. It can do things fast, but make mistakes just as fast. That's why you still need a human verifying AI outputs. You can make some parallels to AI learning like how a human may learn though.
 
-Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to reason through and sufficiently cover here.
+Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to reason through and sufficiently cover here in any short time.
 
 What it can do *really* well is pattern based work. Even then, it's still unintelligent and requires a significant amount of time and data training to reach competency. This encompasses many types of specifically trained repetitions of tasks like speech-to-text, image generation, moderation, and embedding.
 - E.g. It may know tomato is a fruit, but may not know not to put it in fruit salad.
@@ -294,7 +341,7 @@ AI cannot understand like a human can. Overdependence on AI by humans breeds nor
 Another problem I see with AI is when people want to automate large projects or work at large scale. It is a resource sink in every way possible, whether through time, cost, staff, and management. The more things you try to automate, the resources required to create *and maintain* that automation exponentially increases. If you really need to automate something, then I'd say three things before attempting to do so:
 1. Start small. Extremely small. Start with one tiny problem.
 2. Assume whatever solution you make *will* cause problems and you need to maintain it for a long time.
-3. Your operating costs may drastically increase with AI vs no AI.
+3. Your operating costs may drastically increase using AI vs not using AI.
 
 I would say AI is better for people with prior domain expertise, as they can differentiate right and wrong and boost productivity with it. AI, however, is detrimental to those with lower background knowledge as it's more likely to create technical debt and these people may not accurately, or precisely, tell if outputs are good or bad.
 - This aligns with views I've seen from other professionals in the technology sector and their perspectives, such as [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
@@ -302,19 +349,19 @@ I would say AI is better for people with prior domain expertise, as they can dif
 
 Despite that viewpoint, I wouldn't be surprised if someone told me people were *addicted* to AI, what it provides, and its capabilities. It's a technological marvel enabling the average user to interact with data and models with plain languages like English rather than coding languages like Python and R. It can solve problems in seconds what used to take some people days or longer to achieve. It can create life-saving medicines and discover methods humans may not normally achieve in their lifetimes.
 
-All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it, so it's no surprise to me sudden and easy access to it may cause attachment.
+All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it, so it's no surprise to me sudden and easy access to it may cause attachment and fascination with it.
 
 It isn't a stretch to believe AI acquires sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert. Many people may unintentionally, or intentionally, insert private/legally protected information into an AI model, which means it then *can* utilize that data. AI can, and has, been utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of these feats, showing accessibility is an additional concern.
 - A seemingly innocent case may be using AI to parse content and generate summaries of a website on a search engine so you don't have to visit the website to learn about something (Law & Guan, 2026).
 
 There's also only so much data available to train an AI model on. A lot of available data is built upon centuries and millenia of prior information generated by people and translated into machine readable formats. It's entirely possible to "run out" of data to feed an AI to let it solve problems, which may inhibit its progress and slow improvements to its functions.
 
-Views towards AI may also be distorted by administrative, managers, and directors thinking they can use AI to replace junior staff as well. That, however, means eliminating people you can train up to be seniors with domain expertise. If a company, nation, etc. invests so much into AI it replaces human labor, and by extension *paid* human labor for "*free*" AI labor, then how do humans afford goods and services or contribute to the economy?
+Views towards AI may also be distorted by administrative, managers, and directors thinking they can use AI to replace junior staff as well. That view may come from incompetence with technology and believing it can do something it cannot, which rarely survives contact with reality. A new technology may likely enhance workflows, but not always replace every person handling those workflows. Some roles may get consolidated, eliminated, or slimmed down as new technologies generally means better productivity. That, however, may mean eliminating people you can train up to be seniors with domain expertise. An uncomfortable question is left as a result: If a company, nation, etc. invests so much into AI it replaces human labor, and by extension *paid* human labor for AI labor, then how do humans afford goods and services or contribute back to the economy without funds?
 
 AI can also use survivorship bias to its advantage through selection pressure; a force causing a particular trait/attribute to more likely survive in certain conditions. For example, say you publicly transmit the outputs of AI into a wider audience. That same audience can report whether it's made by AI or a human. Most AI content would get correctly flagged this way, but some AI-written content still makes it through. People reporting content may also state *why* it appears AI-written as data to utilize. You can train a model on which content was flagged vs which content was not flagged, and even *why* it was flagged, to increases the chances of creating unflagged content. The implications for this are scary; as more AI content passes as human-made, it becomes harder to detect what is developed by AI and what is developed by humans.
 - A commonly cited survivorship bias example is from [Abraham Wald on plane vulnerability](https://web.archive.org/web/20190713234909/https://apps.dtic.mil/docs/citations/ADA091073) (1943). 
 
-Lastly, AI is an umbrella for many types of automation and large language models (LLMs) are one item under that umbrella. While general AI may not be performing all that well, highly specialized machine learning tools dedicated to fields like astronomy, law, production, translation, and even medicine perform a select set of tasks and pattern recognition *exceedingly* well. Machine learning, while often lumped together with LLMs (large language models) and General AI (AGI), is extremely useful with real potential for improvements, but I'd caution against overexaggerating its capabilities.
+Lastly, AI is an umbrella for many types of automation and large language models (LLMs) are but one item under that umbrella. While general AI may not be performing all that well, highly specialized machine learning tools dedicated to fields like astronomy, law, production, translation, and even medicine perform a select set of tasks and pattern recognition *exceedingly* well. Machine learning, while often lumped together with LLMs (large language models) and General AI (AGI), is extremely useful with real potential for improvements, but I'd caution against overexaggerating its capabilities.
 
 ### **Cost of AI Implementation?**
 
@@ -354,7 +401,10 @@ It also means adapting how the classroom functions to get more work done *in* cl
 
 Accommodations may alleviate some of these restrictions, but likely not all of them to preserve educational integrity. If it's handwritten, there's also fewer techological barriers and fewer excuses for why something isn't done.
 
-To counter this, a teacher may resort the to eliminating virtually all technology and doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology. In shorter terms: all graded work is done in-person and students are back to paper and pencil. I find it ironic reverting technological progress for education is a solution, but alternatives are limited and this solution *does* work despite its drawbacks.
+To counter this, a teacher may resort the to eliminating virtually all technology and doing in-person, handwritten tests and other materials at the school, in a monitored area, without the use of any assistive technology. In shorter terms: all graded work is done in-person and students are back to paper and pencil, while any ungraded work doesn't leave the "classroom" area. 
+- I find it ironic reverting technological progress for education is a solution, but alternatives are limited and this solution *does* work despite its drawbacks.
+
+A second solution is a simpler approach. Rather than purchaee and implement new software, such as an AI detector, have the student read and interpret the work they did, then translate and explain it back to their educator. The major downside is doing this for each student, or groups of students, is time-intensive, but it can expose information gaps quickly for students and make it apparent something, even if AI wasn't used, is wrong.
 
 Another potential solution is establishing a clear, consistent strategy and guidance regarding AI (and other technological means of academic dishonesty), but it requires administrators or decision-makers to acquire techincal literacy and permit these controlled methods. A quick training would not suffice either; people would have to *really* spend time and learn about it in-depth or risk an ineffective implementation leading into a disasterous outcome. Without any support for educators within an education system, any education provided is at risk of exploitation through technology.
 - E.g. a system may have students use a particular software to track all activity, revisions, etc. to *mitigate* undetected cheating while also permitting technology use.
@@ -376,11 +426,17 @@ If you want to try a different twist: you could create an assignment requiring A
 
 2. Flynn, A. N., Takahashi, T., Sim, A., & Brunstrom, J. M. (2025). *Dish swap across a weekly menu can deliver health and sustainability gains.* Nat Food 6, 843–847. [https://doi.org/10.1038/s43016-025-01218-8](https://doi.org/10.1038/s43016-025-01218-8)
 
-2. Law, R., Guan, X. (2026, February 4). Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs. [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
+3. Herbert, F. (1965, October 1). *Dune.* Chilton Books.
+
+2. Law, R., Guan, X. (2026, February 4). *Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs.* [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
 
 3. Leath, M., & Geho, L. (2025, November 6). *Password to Louvre’s video surveillance system was “Louvre”, according to employee.* ABC News. [https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297](https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297)
 
+4. PCI Security Standards Council. (2024). *PCI Security Standards Overview.* PCI Security Standards Council. [https://www.pcisecuritystandards.org/standards/](https://www.pcisecuritystandards.org/standards/)
+
 4. Ptacek, T. (2025, June 2). *My AI skeptic friends are all nuts*. Fly.io Blog. [https://fly.io/blog/youre-all-nuts/](https://fly.io/blog/youre-all-nuts/)
+
+5. Rocher, L., Hendrickx, J. M., & de Montjoye, Y.-A. (2019). *Estimating the success of re-identifications in incomplete datasets using generative models.* Nature Communications, 10(1). [https://doi.org/10.1038/s41467-019-10933-3](https://doi.org/10.1038/s41467-019-10933-3)
 
 5. Sampasa-Kanyinga, H., Hamilton, H. A., Goldfield, G. S., & Chaput, J.-P. (2022). *Problem Technology Use, Academic Performance, and School Connectedness among Adolescents.* International Journal of Environmental Research and Public Health, 19(4), 2337. [https://doi.org/10.3390/ijerph19042337](https://doi.org/10.3390/ijerph19042337)
 

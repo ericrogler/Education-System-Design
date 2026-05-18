@@ -1,9 +1,9 @@
 ---
-title: 6. Operational Management
+title: 6. Operations At Scale
 layout: default
 nav_order: 8
 ---
-# Operational Management
+# Operations At Scale
 
 ### [Previous Chapter](Z004a_Management_Scaling_Growth.html)
 
@@ -205,9 +205,9 @@ To stay concise, readers may look into the [Whitehall (I and II) Studies](https:
 
 In environments like these, simulated or not, the margin of error is extremely low.
 
-Mistakes are costly and many situations are matters of life and death. Leadership doesn't correct mistakes from animosity; they correct mistakes because oversights endanger missions and people under their command, which includes you. Even a single gamble or gut instinct gone wrong can lead to all-out conflict, like if "The Man Who Saved The World" Stanislav Petrov made the wrong decision in 1983 (Lebedev, 2004). The same principle also applies to smaller scale situations, like a misread radio call on a fireteam mission.
+Mistakes are costly and many situations are matters of life and death. Leadership doesn't correct mistakes from animosity; they correct mistakes because oversights endanger missions and people under their command, which includes you. Even a single gamble or gut instinct gone wrong can lead to all-out conflict, like if "The Man Who Saved The World" Stanislav Petrov made the wrong decision in 1983 (Lebedev, 2004). The same principle also applies to smaller scale situations, like a misinterpreted radio call on a fireteam mission.
 
-How do you mitigate risks? Strict adherence to discipline. One oversight may lead to an immediate consequence, which may quickly snowball into casualties. This applies on a strategic, tactical, and procedural level. Discipline, through checklists, drills, scripts, rehearsals, and contingencies keep people alive when it's seconds on the clock.
+How do you mitigate risks? Strict adherence to discipline. One oversight may lead to an immediate consequence and quickly snowball into casualties. This applies on a strategic, tactical, and procedural level. Discipline, through checklists, drills, scripts, rehearsals, and contingencies keep people alive when it's seconds on the clock.
 
 Precision and discipline also affects other situations, like the following examples:
 1. Uniform guidelines
@@ -240,7 +240,7 @@ Reconnaissance is pretty important. You're gathering information that must be ac
 It's common to use acronyms, abbreviations, markings, and symbols to communicate to other people.
 - It was common to use terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
 
-Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolis effect, wind, and far more variables short range interactions get to ignore entirely.
+Whenever I participated in milsim scenarios, I usually did reconnaissance. Why was I assigned that? I was good at math and doing it quickly, but more importantly I could interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Working at long ranges also means dealing with issues like drops, Coriolis effect, wind, and far more variables short range interactions get to ignore entirely.
 
 I made three rules for *all* communications in these specialist groups:
 1. Concise

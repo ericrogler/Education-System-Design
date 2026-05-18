@@ -12,17 +12,16 @@ Welcome to *Education System Design*. Included is the license involved with this
 
 ### **Wait, a book hosted on GitHub?**
 
-Yea! It's unconventional to host a book on this platform and I was against it at first and almost developed my own website instead.
+Yea! It's unconventional to host a book on this platform. I was against it at first and almost developed my own website instead.
 
-Surprisingly, it has more benefits than expected:
+Surprisingly though, it has more benefits than expected:
 - Version control capabilities
 - Text styles
 - Break points
-- Converts Markdown into HTML
+- Converts Markdown into HTML, CSS, etc. automatically
 - Can be converted further from here
-- You can copy it freely and without issue
 - It's self-published, so no middle man
-- It's free for you, the user/reader
+- It's free for you: the user/reader
 
 ## **Navigation by Chapter**
 Table of contents for each chapter written below:
@@ -32,7 +31,7 @@ Table of contents for each chapter written below:
 - [Legality](Z003_Legality.html)
 - [General Management](Z004_Management_General_Teaching.html)
 - [Scaling Growth in Organizations](Z004a_Management_Scaling_Growth.html)
-- [Operational Management](Z004ab_Management_Scaling_Operations.html)
+- [Operations At Scale](Z004ab_Management_Scaling_Operations.html)
 - [Macro[management] & Micro[management]](Z004ac_Management_Scaling_Macro_Micro.html)
 - [Classroom & Behavior Management](Z004b_Management_Classroom_Behavior.html)
 - [Standards / Objectives](Z005_Standards_Objectives.html)
@@ -53,7 +52,7 @@ Table of contents for each chapter written below:
 - [Other Additional Duties](Z017_Other_Additional_Duties.html)
 - [Maintaining Work Health](Z018_Maintaining_Your_Health.html)
 - [Money and Budget Management](Z019_Money_Budget_Management.html)
-- [The Use of AI and Technology](Z020_The_Use_Of_AI_And_Technology.html)
+- [Technology and AI](Z020_The_Use_Of_AI_And_Technology.html)
 - [Design Systems and EdTech](Z021_Design_Systems_EdTech.html)
 - [Engineering & Architecture](Z021a_Engineering_Architecture.html)
 - [Action Plan For Educators](Z022_Action_Plan.html)

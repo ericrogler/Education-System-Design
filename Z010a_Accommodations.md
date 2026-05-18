@@ -18,7 +18,7 @@ nav_order: 19
 The quotation above isn't here to show I'm against accommodations. It's warning against treating accommodations as generosity over obligation and misapplying accommodations when they aren't needed, or bad, in the first place.
 - If I were to put it another way, will this accommodation make it harder to succeed outside of education where that accommodation no longer exists?
 
-Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections.
+Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections. Lawsuits can be scary, so getting close to getting close to one may cause panic and affect how accommodations may be handled.
 
 There are unreasonable accommodations, which you can push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Lastly, there's accommodations made purely to avoid litigation, which are dubious in intent and distort the spirit of accommodations, but probably need to be followed anyways.
 
@@ -54,8 +54,9 @@ Add on top of this that many accommodations are *legally required*, thanks to pl
 
 Therefore, **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by students, and/or third parties assisting students, to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
 - Put another way: they shouldn't move on when they aren't ready.
+- Additionally, accommodations can help those who can't, but not those who won't. Students with accommodations that genuinely want to learn will likely be fine.
 
-I'll also emphasize, once again, something to keep in mind as you're reading this chapter: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.**
+I'll also emphasize, once again: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.** At the same time, if a system lets you weaponize an accommodation like an IEP, 504, etc. meant to help students, *but you, the individual or group, actively exploit it or weaponize it*, you may need to revisit ethics and morality. The same could be said about using an accommodation as a shield to protect a student from any punishments. You can learn about an exploit or loophole and choose not to abuse it or take advantage of it, afterall.
 
 ### **The "Reasonable" Accommodation**
 
@@ -134,7 +135,7 @@ Accommodations cannot be made in isolation. They must be made while considering 
 
 ### **Non-specific vs Specific Accommodations**
 
-Whenever possible, do NOT leave any accommodation open to interpretation or too general. Any ambiguous accommodation is almost always pushed to legal and practical limits.
+Whenever possible, do NOT leave any accommodation open to interpretation or too general. Any ambiguous accommodation is almost always pushed to legal and practical limits by those who benefit from it.
 
 An example is the difference between allowing "extra time on *all* assignments" vs "extra time on *only* tests." You can further this specificity with something like "Extended time 100% on assignments" so a 2 day deadline on an assignment now has 4 days to complete, but no additional time beyond that before it takes normal penalities.
 
@@ -410,20 +411,23 @@ Again, this is a bad accommodation.
 
 ### **Extended ("Extra") Time and Deadlines**
 
-*It's complicated* who really needs this accommodation and where it applies. There's cases for it, but I'd say they're exceptions for medical conditions significantly affecting learning abilities. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
+*It's complicated* who really needs this accommodation and where it applies. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
 - I'd also say this accommodation is not a way for a student to play games, watch non-educational videos, or be on social media instead of using that time *for their coursework*.
+
+Extended deadlines, and extended time in general, is a slippery slope where the student risks falling behind and unable to keep up with classroom pacing and work. If that happens, the accommodation is harmful rather than beneficial. There's cases for it, but I'd say they're for exceptions for medical conditions significantly affecting learning abilities. 
 
 I'll give some examples where I think it's reasonable: 
 - Example 1: A student with ADHD requests extra time for tests as they perform well in the class in general but poorly under test-specific conditions. 
 - Example 2: A student with cerebral palsy receives extra time because they physically cannot write down all their answers in the normal timeframe.
 - Example 3: The law in a given state/nation mandates the accommodation(s) for student.
 
+A hidden issue is also its implementation. In a case of a student finishing an assignment, the extra time may be useful for small mental breaks throughout the assignment, giving them time to chunk information, process questions, and reduce burnout. Even knowing the time was available and that a break midway was fine, or a break to let out all the panic at once quickly, reduced a student's anxiety. This is one case I've seen in practice where it *is* used to great effect.
+- Alternatively, you could give X minutes allowed to work on the test with a chance to "stop the clock" and permit short breaks *not* counting against that time for students with this accommodation. Check the fine print on any contracts just in case.
+
+More commonly seen from personal experience, however, is when you grant extended time and deadlines, that usually results in a student putting it off longer and feeds into procrastination and, ironically, more last-minute anxiety.
+- One easy proof of this is checking something like submission time vs deadline time
+
 Additionally, I would force a specific extension amount and NEVER leave it open to interpretation. I'd say only 100% extended time *at most* beyond the due date and strictly limit *which* work gets that extension. 
-
-From personal experience, even if you do grant extended time and deadlines, that usually results in a student putting it off longer and feeds into procrastination.
-- Easy proof of this is checking submission time vs deadline time
-
-Extended deadlines, and extended time in general, is a slippery slope where the student risks falling behind and unable to keep up with classroom pacing and work. If that happens, the accommodation is harmful rather than beneficial.
 
 Extended time also opens the door to a student asking for, and getting, and extension on *all* work, which means harming the student and hurting their accountability. For example, if the accommodation says "double time" on assignments, that puts them in a compromised position where massive amounts of work can pile up and all become due on the same day. That's when a teacher should be documenting extensively what happens with that student so they don't lose their job. 
 

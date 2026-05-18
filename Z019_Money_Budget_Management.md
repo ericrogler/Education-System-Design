@@ -31,7 +31,7 @@ The typical goal of an organization is to improve performance (effectiveness) an
 
 If selling products or services, it's typically better to offer incentives towards customers to buy something rather than force customers to buy something.
 
-One of the biggest risks to your own wealth is you. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management.
+One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management and you making a stupid decision, on accident or on purpose, is *a very real risk.*
 
 If you're trying to teach a student about wealth, go over the following:
 - How to be humble and gracious.
@@ -42,15 +42,19 @@ If you're trying to teach a student about wealth, go over the following:
 
 ## **Long Answer**
 
-**A lot of things happen due to money. Optics (i.e. perceptions) are a factor too.**
+Many questions have a simple answer: money.
 
-When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace.
+**A lot of things happen due to money. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing money itself.** 
+
+When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology.
+
+You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
 
 Are these meant to be jokes? Perhaps. 
 
 Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means to afford said success.
 
-In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still.
+In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked.
 
 This chapter is *also* where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems may operate.
 - *Yes, this paragraph is intentionally replicated to emphasize the point.*
@@ -74,6 +78,22 @@ Because money affords comfort and (many) resources, having too much money risks 
 - You have to make sure students are doing the work and not causing excessive issues amongst each other. There is behavior management involved.
 
 Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
+
+### **The Cost of Doing Things**
+
+Generally speaking, the cost of doing things is split into four categories (Reis & Housley, 2022):
+1. Direct Costs
+2. Indirect Costs
+3. Capital Expenses
+4. Operational Expenses
+
+Many costs are deteremined as direct and indirect costs based on *what* they are, while capital and operational expenses are based on *how* they're incurred.
+
+Direct costs are tied to goods or services related to a specific works like projects or initiatives. This includes materials, project labor, dedicated equipment, etc. They're fixed or variable in cost.
+
+Indirect costs, or overhead, are not tied to specific works but still utilized by an organization. This may be covering items like maintenance, utilities, office, and administrative costs. They accrue broadly and can be used for *multiple* purposes in an organization rather than one specific purpose.
+
+Capital expenses (CapEx) are generally upfront, long-term purchases dealing with assets, such as hardware, software, and property. Operational expenses (OpEx), meanwhile, are ongoing, short-term costs like subscriptions, pay-as-you-go models, and recurring services.
 
 ### **How to Make Money**
 
@@ -233,6 +253,20 @@ The irony is shutting down a federal education department does not exempt follow
 
 To put this into perspective for many readers, it's like being told to complete a project with only a fraction of your original team and without many necessary tools. You're still expected to complete everything in the project scope by the deadline, but your ability to do so is crippled.
 
+### **What About Enrollment Formulae?**
+
+Systems for education, such as schools, may utilize enrollment formulae. By extension, attendance may be included here too.
+
+If enrollment increases, funding increases. If enrollment decreases, funding *also* decreases. There can be a sigificant difference in budget from a system with 30 students per teacher compared to 29 or 31 students per teacher, despite a small, visible change.
+
+It is entirely possible to decrease funding faster than decreasing expenses, which may lead to a financial downspiral. This remains true for educational facilities surrounding by an low-changing, or unchanging, city population as well. One such example is with the number of students to teachers like mentioned before: a very small decrease may greatly impact available funding.
+
+This is separate from any overhead or other costs and expenses. Regardless of how many students are enrolled, systems still need to pay for maintenance, transportation, administration, utilities, contracts, employees, taxes, and so on. They don't scale up and down like enrollment does here and includes many fixed costs. There may be limits to classroom sizes and number of students per teacher, in addition to paying for an entire facility and all its associated costs.
+
+While some solutions are straightforward, like consolidating classrooms, focusing on retention, and cutting unnecessary costs, they might have terrible optics and further accelerate the downspiral.
+
+Regardless of the situation leading into it, getting out of that downspiral from budget cuts means trimming the fat. Contracts may need to be cut, consultants and professional development pulled back, administrators and high-level director salaries reduced, staff redundancy eliminated, name-brand soda switched to off-brand soda, no new technology purchased when current technology is perfectly fine and still working, and so on. Even if fat is trimmed and education systems do everything right to bolster enrollment, it is still possible to fail and be forced to close down. 
+
 ### **The Learning Budget**
 
 Your "budget" allotted to you as a teacher comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
@@ -337,6 +371,8 @@ There's a lot of factors that can stress and tear away at even the most resilien
 7. Internal Revenue Service. (2025e, June 20). *Digital assets*. [https://www.irs.gov/filing/digital-assets](https://www.irs.gov/filing/digital-assets)
 
 1. Opportunity Insights. (2024). *The Opportunity Atlas.* Opportunityatlas.org. [https://www.opportunityatlas.org/](https://www.opportunityatlas.org/)
+
+1. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
 
 1. Schermele, Z. (2025, October 11). Education Department wipes out special ed office in shutdown layoffs, union says. USA TODAY. [https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/](https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/) 
 

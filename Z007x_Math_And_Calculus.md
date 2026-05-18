@@ -44,7 +44,7 @@ Applying math is what makes money.
 
 Money (and currency) affords goods and services to keep you alive.
 
-Money or no money, doing cool things with math, even if you cannot directly apply it, *is still pretty cool.* The less cool part, though, is the field is so incredibly diverse that no one single person will likely ever learn *all* of it.
+Money or no money, doing cool things with math, even if you cannot directly apply it, *is still pretty cool.* The less cool part, though, is the field is so incredibly diverse that no one single person will likely ever learn *all* of it. Another less cool part is the lack of pop-science appeal and how prevelant applications of math are versus the theory of math. Your average person may know about Albert Einstein and the Theory of Relativity, but not necessarily know anything about Leonhard Euler and all of his various works.
 
 The average person may not get much mileage out of math, but the smarter person may. Not every person is expected to become an engineer (or even complete an engineering degree) or suddenly be good at math just because they took a course in it. There's also adjacent roles using math like physicists and analysts, and countless roles using math in some way, shape, or form.
 
@@ -103,7 +103,14 @@ Basics as in functions, decimals, percentages, fractions, times tables, and rudi
 
 It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (PEMDAS or GEMS) and what a percent actually means.
 
-It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition.
+It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition. 
+
+Cognitive outsourcing shouldn't ever become a default state for students when it comes to even the basics. To give more examples of cases I've seen which result in blank stares, wildly incorrect answers, or resorting to a calculator:
+- What is the same number as three?
+- What is one half of ten?
+- What happens when two letters (i.e. variables) are next to each other?
+- What is two squared?
+- What is eight times one?
 
 Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations or apply the math you learn effectively. The same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important.  You cannot escape language arts that easily!
 - Students can solve many of their frustrations by simply reading the problem(s) too.
@@ -130,6 +137,8 @@ If I were to tell you what minimum level of mathematics every student should lea
     - e.g. a d10 consistently has a higher average than a d8, despite a larger range of numbers
 - Communication & Data Interpretation
     - e.g. correctly reading graphs of various types, like bar and line charts
+
+These minimums are important because without them, future learning for students may become exercises in memorization rather than understanding of material. While I list mathematics examples here, the same principle applies towards other fields and core subjects, like science, literature, and history.
 
 ### **"But I'll Never Use This"**
 

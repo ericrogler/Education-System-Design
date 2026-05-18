@@ -229,7 +229,28 @@ As for statistics, it's tough to answer this without knowing a specific backgrou
 Finally, a lot of research doesn't actually make it to publication. There could be errors made in the process, the committee reviewing the paper decided not to approve it for publication, funding was cut, it wasn't ideal for science, it is (or became) classified, and so on are some of many reasons why it's not published in a peer-reviewed journal. Not being published isn't always an indicator of quality.
 - Just because it's not *published* doesn't mean it might not show up in talks, posters, videos, online forums/sites, and so on.
 
-### **Business, Operations, and Embedded Analytics**
+### **Example: Reading Rates**
+
+While reading rates is used as the example here, information here could apply to other subjects like math, science, and so on. Accessing these rates may be found publicly through primary and government sources, like the Nation's Report Card, or given directly to professionals in education systems.
+- For example, The Nation's Report Card with 2024 results published (NAEP, 2025)
+
+Someone reporting a perfect reading rate (i.e. 100%) is rare, but possible. It requires bias, however, in what people you measure and how large of a group you measure. In other cases, medical conditions may impair cognitive functions to make it impossible to be up to par by no choice of their own, which means a ceiling of <=99.9%. Generally speaking, the higher these rates are, the more a population, or at least the measured sample(s), meets a baseline level.
+
+A sample from a larger population is usually measured through metrics like percentiles, average score, and a p-value. Percentiles are scores greater than a percentage of all scores in a given sample and follow the same units of measurement as the inputs. For example, a 90th percentile score is a value that is higher than 90% of all scores in the sample. The average score is simpler: you take the value of every data point/score in the sample, then divide it by how many scores are reported in the sample.
+
+A p-value measures probability of getting test results as extreme as the observed results assuming the null hypothesis is true. By itself, it isn't sufficient as evidence and requires context and other evidence like the other metrics utilized, but it does help suggest the strength of evidence for a sample. A common threshold is p < 0.05, which means a 5% chance of a Type 1 error (i.e. a false positive) assuming the threshold is consistently used over a long-term period, *not* a 5% chance of that error in a specific test. For example, if a percentile or average score is called "significant different" from other tests, or has p <0.05, that indicates strong evidence, *not certainty*, against the null hypothesis and there may be a measured difference between samples.
+
+The 0.05 used earlier is called a significance level (denoted by lowercase alpha or "α"). That value is chosen by the person running the analysis and is based on how detrimental a false positive is for concluding an effect exists or not. Increasing it means lowering the amount of evidence you need, but also increasing the chance of a Type 1, or false positive, error. Decreasing it, on the other hand, requires more evidence to support a conclusion but reduces the chance of errors.
+
+If you were to add additional metrics to the ones mentioned above, which are percentiles, average score, and p-value, you may consider effect size and confidence intervals. Effect size can be calculated independently of p-values and measures magnitude of any difference, even if it isn't statistically significant, and helps determine if there's a practical difference among various sample sizes. One example of effect size is using it to add context on and between percentiles and determine if there's meaningful differences between groups. 
+
+Confidence intervals (CI) measure reliability where, if you repeat an experiment continuously, X% (where X is a "confidence" like 95%) of intervals have the true value (Siavoshi, 2024). The intervals either contain that value or they don't; a CI won't give a distribution or determine the true value is in an interval. As CI measures reliability, it will tell you how precisely you've measured magnitude and how much trust to give your recorded results.
+
+With context behind the metrics provided above, let's consider one case of reading rates: a "significant difference" between percentiles. Remember that reading rates measure if students meet a baseline value. I could say there's 90% of students with a reading rate at grade level, but among that 90% there could be a stark difference in performance. That's what the different percentiles, such as 90th, 75th, and 25th percentiles check for and determine. With these percentiles, and other metrics, you can determine how well students perform at the top, middle, and bottom levels across different years and tests, even if one value like mean score remains flat/stable. One possibility from your results is you can say "our top performers are doing much better this year compared to before, but our average students are clearly falling behind" and you've set the grounds to develop a targeted solution.
+
+### **Business, Operational, and Embedded Analytics**
+
+Reis & Housley in *Fundamentals of Data Engineering* touch on various analytics employing various statistical methods I'll bring up in this section (2022).
 
 A fair bit of decision-making happens through two means: operational analytics and business analytics. Operational analytics seeks to enable immediate action whereas business analytics seeks actionable insights from data.
 
@@ -245,11 +266,11 @@ For users in education systems, they may do more business analytics due to domai
 
 A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
 
-Amongst all approaches, system design involves tradeoffs. This includes availability, consistency, partitioning, latency, query performance, and concurrency (the ability to execute multiple tasks simultaneously). Business analytics may tolerate lower availability and higher latency, but operational and embedded analytics typically require high availability and low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so people should design for scalability and adaptability early on to reduce issues down the road.
+Amongst all approaches, any approach in a given system involves tradeoffs. For example, business analytics may tolerate lower availability at higher latency, but operational and embedded analytics typically require high availability at low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so scalability and adaptability should be considered early on to avoid issues later.
 
 ### **What About Machine Learning?**
 
-I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching you it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it all.
+I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Many functions in education systems don't necessarily *need* machine learning to function well, but there may be uses for it in the future. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it past foundational knowledge.
 
 If I were to sum up, in a list, some concepts you may encounter, it'd be the following:
 - Supervised vs Unsupervised vs Semisupervised Learning
@@ -271,6 +292,8 @@ If I were to sum up, in a list, some concepts you may encounter, it'd be the fol
 - Anomaly Detection
 - Prediction
 
+You may find many of these topics covered in more dedicated resources, such as *Ace the Data Science Interview* by Huo and Singh (2021), *Fundamentals of Data Engineering* by Reis & Housley (2022), and various other textbooks and courses.
+
 Machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital resources.
 
 As one example of a resource, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
@@ -291,13 +314,23 @@ As one example of a resource, I'll point a finger at [Google's Machine Learning 
 
 2. Google Developers. (2025). *Machine learning crash course*. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 
+3. Huo, K., & Singh, N. (2021). *Ace the data science interview: 201 real interview questions asked by FAANG, tech startups, & Wall Street.* Ace The Data Science Interview. ISBN: 978-0-578-97383-8.
+
 4. *List of Probability and Statistics Symbols.* (2020, April 26). Math Vault. [https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/)
 
 4. Montgomery, D. C. (2013). *Introduction to Statistical Quality Control* (7th ed.). John Wiley & Sons, Inc.
 
+1. National Assessment of Educational Progress (NAEP). (2025). *RESULTS FROM THE
+2025 NAEP Long-Term Trend Reading and Mathematics Assessments at Ages 9 and 13*. Nationsreportcard.gov. [https://www.nationsreportcard.gov/](https://www.nationsreportcard.gov/)
+    - Aside: A new report is expected around June 2026 per the website at the time of initial access (May 18 2026).
+
+5. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
+
 4. Sanderson, G. (2026). *3Blue1Brown*. 3Blue1Brown. [https://www.3blue1brown.com/](https://www.3blue1brown.com/)
 
 5. Sauro, J., & Lewis, J. (2016). *Quantifying the User Experience: Practical Statistics for User Research.* Morgan Kaufmann.
+
+5. Siavoshi, M. (2024, September 24). *Understanding Confidence Intervals: What They Are and How to Use Them.* Statology. [https://www.statology.org/understanding-confidence-intervals-what-they-are-and-how-to-use-them/](https://www.statology.org/understanding-confidence-intervals-what-they-are-and-how-to-use-them/)
 
 6. Starmer, J. (2025). *StatQuest with Josh Starmer.* In YouTube. [https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 

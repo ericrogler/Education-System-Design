@@ -36,17 +36,19 @@ In general:
     - It mitigates the issue down the line where information is read, skips processing in the brain, and goes straight to work with hands.
     - This *doesn't* mean avoiding throwing them into the fire for learning.
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
-6. You could be an amazing teacher, but if the system doesn't support you and/or students don't engage with your teaching, then you're fighting an uphill, or even losing, battle constantly.
-7. **It's not a rigorous curriculum, degree, program, etc. if you don't want anyone to fail it.**
+6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction, then you're fighting an uphill, or even losing, battle constantly.
+7. **It's not a rigorous curriculum, degree, program, etc. if you stop anyone from failing it.**
 
 **Lessons should NOT be differentiated without good reason,** such as language acquisition issues or medically diagnosed disorders. This viewpoint may run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* following standards.
 - It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.
 
 ## **Long Answer**
 
-I hold a lot of opinions about learning. For example, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without the appropriate supports is tantamount to neglect.
+**Apathy is the death of many things, including education.**
 
-One opinion I'll separate out from the rest is, for any students that I have, they start a 0% in the class and work up to the grade they deserve based on the effort, time, and results they display. They don't start with a perfect grade; they start with *no* grade and can go only up from there. If they choose to mess around and not do any work towards learning despite knowing this, then they get the 0% they deserve.
+As for other opinions, students with behavior problems should be outright separated from those without behavior problems and capable of controlling themselves. Educators are also not there to "entertain" students for their amusement or constantly provide updates to people (like parents) who already have 24/7 access to student performance records and grades. I could also say any inclusion without the appropriate supports is tantamount to neglect.
+
+One other opinion I'll separate out from the rest is, for any students that I have, they start with a 0% in the class and work up to the grade they deserve based on the effort, time, and results they display. They don't start with a perfect grade; they start with *no* grade and can go only up from there. If they choose to mess around and not do any work towards learning despite knowing this, then they get the 0% they deserve.
 
 I'm also not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, but there are different ways across different topics and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
@@ -472,7 +474,7 @@ Normally, this type of learning isn't suitable for minors and civilian populace.
 The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learned* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of learning.
 - This part aligns with what I mentioned in a previous chapter: "The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible."
 
-Because it's a high-stress environment, learning is also condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnemonics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
+Because it's a high-stress environment, learning may be condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnemonics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
 
 There's also few, if any, potential distractions, such as a cell phone in your pocket, so you can maximize concentration. The impact of a *single* interruption can mean losing approximately 25 minutes before you're back on task and complete context switching (Mark et al, 2005). If this were an environment where distractions happen every few minutes, or even every few seconds, a distraction-free environment is a significant learning advantage.
 
