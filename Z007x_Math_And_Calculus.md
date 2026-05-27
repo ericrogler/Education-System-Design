@@ -197,7 +197,7 @@ I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar Un
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
     - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll fail it without solid foundations and understanding in those areas. 
 
- I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it. At this level, and before it hopefully, understanding is essential to mathematics and science. Trying to rote memorize your way through it all is an exercise in frustration, easy way to forget what you learned in the first place, and may potentially lead you on the highway to failure here.
+I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it. At this level, and before it hopefully, understanding is essential to mathematics and science. Trying to rote memorize your way through it all is an exercise in frustration, easy way to forget what you learned in the first place, and may potentially lead you on the highway to failure here.
 
 **Calculus is a gateway to modern/advanced math and science, but is mainly important for two reasons:** 
 
