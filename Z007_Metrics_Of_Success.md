@@ -404,7 +404,7 @@ How can we make this metric less biased/more objective? Several ways:
     - If the review isn't real, doesn't exist, or doesn't map to a course taught by said educator, you should void it from consideration.
     - Platforms may have minimal verification measures, so the burden of truth is left to the interpreter/reader.
 2. Sample Size 
-    - A professor with 100 reviews is more reliable than a professor with 10 reviews.
+    - A professor with 100 reviews is generally more reliable than a professor with 10 reviews.
     - Of important note: many reviews are self-selected (both positive and negative) rather than randomly selected. A larger sample reduces noise, but also means more incoming reviews and may cast a subjective light on the types of students reviewing.
 3. Group Consensus
     - Anomalies and outliers are expected, but if a significant majority of reviews point towards the same benefits/issues, it's probably true. 
