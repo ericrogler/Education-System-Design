@@ -166,6 +166,18 @@ All the theory in the world cannot fully correct problems at a real-life, system
 Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party should have an interest in, including teachers. Nevertheless, be mindful of how research is conducted and how well it translates to real-life scenarios.
 - For example, observing how well some publications fare on [reproducibility](https://www.nature.com/articles/s41586-026-10203-5), [robustness](https://www.nature.com/articles/s41586-025-09844-9), and [replicability](https://www.nature.com/articles/s41586-025-10078-y) (Tyner et al., 2026)(Miske et al., 2026)(Aczel et al., 2026)
 
+### **The Many Authors Problem**
+
+When you've read through enough research papers and textbooks and so on, you may discover many of them have *multiple* authors assigned to a particular publication. This could be as few as 2 or 3 authors or 1,000+ authors with sufficient levels of contribution towards the total work. It depends on factors like the organization(s) involved, amount of collaboration, and allocation of resources.
+
+Let's say you're a regulatory body overseeing these publications and you impose a new rule where you ban authors of a publication for falsifying information or hallucinating a citation. Perhaps it's because technology enables a method necessitating new regulation, resources are lacking to sufficiently verify every publication in a timely manner, or another unknown reason.
+
+Consider the potential collateral damage that one new regulation may cause. An author could be a "bad actor," intentionally or not, sneakily making an edit to a publication and transmitting the punishment to several other authors despite no one else having no knowledge of the edit(s) occurring!
+
+One potential solution is writing publications on a source control platform/medium, much like how this book was drafted. Every single edit, even for the most minor of edits, is assigned to the editor who implemented it. This is a record where you can find who did what, what did something, and if that something is what caused issues. A downside is it may make any would-be authors more stringent about how they contribute to work and which works they contribute to as well as requiring more security measures to ensure permissions and access aren't misappropriated.
+
+This solution already exists in practice too. Many software engineers use source control setups, where every change gets a review by at least one other engineer of similar standing (i.e. two software engineers involved vs one software engineer & "Steve" from Accounting). The author of that change *and the reviewer* are assigned attributed if it's pushed through. This system is in place because a single mistake is costly and goes up to scales of millions, if not billions, of dollars worth of damage.
+
 ### **The Panel Council**
 
 Perhaps you're a teacher, instructor, or something similar and want to explore content you have *some* familiarity with. Perhaps you have *no* familiarity with the content itself, but you are familiar with the system, its rules/laws, and the process to integrate content from outside into the system.

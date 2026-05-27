@@ -19,18 +19,19 @@ nav_order: 14
 
 For an alternative view of this chapter, and as a critique of mathematics education, you may consider reading *A Mathematician's Lament* by Paul Lockhart (2009).
 
-**If there's one thing you at least need to take away from this chapter, it's people should memorize their times tables.**
+Mathematics is both absolutely necessary and extremely unimportant at the same time. The answer is complicated and deals with the nature of the questions you face.
 
-The average adult (and people becoming adults) should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
-- *Let me stress once again: every adult should care about math and have some knowledge in it.*
-- **Put another way: If you need to commute, you just need to know how to drive a car.**
-    - **Alternatively: At a minimum, learn the high-level concepts.**
+In the Information Era, and projected future of humanity, understanding math is like a survival skill. A lot of applied math you may see was made precisely to solve certain problems across various fields, such as engineering, architecture, science, and business.
 
-I have bias writing this chapter because my background in education is as a Science/STEM Teacher (and substitute teacher). This chapter, however, covers math and some of its applications, *based on what I use outside education systems and as part of a graduate engineering degree (M.S.I.E.).*
-- Additionally, most Science in general requires the student proficient in math.
-- Even if you forget most the math here in 5-10 years after initially learning, you'll still (hopefully) retain logical thinking and reasoning habits acquired during the learning process.
+Strip away all the practicality and what you're left with is mathematics in its purest form: an art made from patterns. At this point, you get to play around with math, make more patterns, and ask questions of those patterns, which leads to proofs and discovery.
 
-I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. A lot of math you may see was also made precisely to solve practical problems too, like Calculus for orbital mechanics, so it's pretty cool to know about and see in action.
+I'd say the average person in society should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
+
+I have bias writing this chapter because my background in education is as a science/STEM Teacher (and substitute teacher). This chapter, however, covers math and some of its applications, *based on what I used inside and outside education systems and as part of a graduate engineering degree (M.S.I.E.).*
+- Additionally, most science in general requires the student proficient in math because of its applications.
+- Even if you forget most the math here in 5-10 years after initially learning it, you'll still (hopefully) retain any logical thinking and reasoning habits acquired during the learning process.
+
+I believe learning mathematics isn't optional anymore and absolutely necessary. 
 
 You don't need to be an expert in mathematics, know how to do complex math well, or even expect you'll see an application for all math theories and methods. You should, however, acquire familiarity with the abstract and concepts behind the math to prove properties/things, recognize what is happening, *and* when math is used for deception. 
 
@@ -38,38 +39,47 @@ Lastly, you'll want advanced knowledge precisely to know when an advanced method
 
 ## **Long Answer**
 
-Math is about theory and proofs. Science is application of math to solve real problems. Applying math is what makes money, which affords goods and services to keep you alive.
+Math is about theory and proofs. science is application of math to solve real problems. Applying math is what makes money, which affords goods and services to keep you alive.
 
-Does that mean you need to be a genius at math to survive? No. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
+If you need to know "why is math important," then there's your answer: you need math to apply it to problems you need to solve.
 
-Regardless of money, doing cool things with math, even if you cannot directly apply it or it has no direct relevance to daily life, *is still pretty cool and essentially an art.* The field is so incredibly diverse that no one single person will likely ever learn *all* of it in their lifetimes, but everyone can certainly show appreciation for the field at large. That appreciation could be showcased by students taking the initiative to try and solve problems themselves and flex their creativity instead of only being told how to solve it.
+Does that mean you need to be a genius at math to survive? Of course not. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
 
-A less cool part is the lack of pop-science appeal and how prevalent applications of math are versus the theory of math. Your average person may know about Albert Einstein and the Theory of Relativity, but not necessarily know anything about Leonhard Euler and all of his various works.
+The field is so incredibly diverse that no one single person will likely ever perfect mathematics in their lifetimes, but everyone can at least show appreciation for mathematics. That appreciation could be shown by students taking the initiative to try and solve problems themselves and flex their creativity instead of only being told how to solve it. Much of the history and discovery process behind math in education is thrown to the wayside in favor of getting straight to the applications of math.
 
-The average person may not get much mileage out of math, but the smarter person may. Not every person is expected to become an engineer (or even complete an engineering degree) or suddenly be good at math just because they took a course in it. There's also adjacent roles using math like physicists and analysts, and countless roles using math in some way, shape, or form.
+If you want to explore what math could be, you may be better served looking at it from the lens of authors such as Paul Lockhart in *A Mathematician's Lament* (2009). 
 
-If I had to name *only two* issues affecting math, it'd be the following:
-1. Math perceived negatively is normalized, so being bad at math is "ok" and competency starts sliding down.
-2. How math is taught across *the entire learning sequence* and all related curricula is flawed.
+In this chapter I'm going to mostly cover what and how mathematics is utilized now. You might be thinking: "why is a STEM/science teacher talking about mathematics of all things?" The answer? We apply math to solve problems. There's a lot of creativity and exploration along the way, even if you need to know at least a few things to get there, but it's still a lot of application.
 
-I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take beyond my lifetime to fix up. I'm not here to write a full solution to that because I'm focusing primarily on the *importance* of math, which means more targeting issue 1 over issue 2.
+### **The "Problem" With Mathematics**
+
+If I had to name only two issues affecting math, it'd be the following:
+1. Math perceived negatively is normalized, so being bad at math is "ok," fewer people care about it, and competency starts sliding down.
+2. How math is taught across *the entire learning journey* and all related curricula is flawed in some way. 
+
+Both issues could be forever ongoing or take beyond my lifetime to fix.
 
 The main thing stopping people is math is "difficult," but not in ways you'd expect, and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. Due to this difficulty, it may be better to frame certain math topics as "it's easier/more difficult than it appears" rather than a flat easy/hard rating.
 
-Much like with a musical instrument, or learning to draw and finding out you're only good at stick figures (at first), there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
+Much like with a musical instrument, or learning to draw and finding out you're only good at stick figures (at first), there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for any math knowledge to set in.
 
-The other difficulty is mathematics is less knowing facts and more curiosity, or desire, to learn and figure things out. It also means processing logical arguments to explain and prove properties within mathematics. You want peers and other people around to discuss math with, because it's how you develop ideas and improve in it. There's plenty of connections between literature and mathematics as well, despite them being two different fields. Knowing math is similar to like knowing another language where ideas and concepts come from earlier ideas and concepts and build upon them.
+The other difficulty is mathematics is less knowing facts and more curiosity, or desire, to learn and figure things out. This may sound weird at first, but let me paint an example for you. Bob Ross, an American painter and art instructor, utilizes a limited set of 13 colors and tools to create his various artworks. Outside of that basic setup, all that was needed for viewers was time, practice, and passion towards fueling curiosity and trying out different ideas (or techniques) to come up with art they can call their own. The context is already established too; they're trying to make a painting. To bring it back to mathematics, **try to get people to *enjoy* math first before you throw all the technical details and possibilities at them.** It doesn't mean those technical details have no place, but people are more willing to learn about things they enjoy which makes teaching them about it easier later on.
 
-Math matters and it isn't only for smart people. There's no virtue in being bad at math, but there are certainly ways to make people hate math instead of respecting it. If you assume math is worthless and you may never use it in your life, you probably used math during the day before reading this.
+You also want peers and other people around to discuss mathematics with, because it's how you develop ideas, figure out new angles towards problems you didn't find out on your own, and improve in it. That development requires discovery, or a problem/goal to reach, but the problem has to be a *good* problem or the odyssey may not feel worth it.
 
-As a warning to readers: do not assume any sections in this chapter are a substitute for attending a class or formally learning the material. That's like opening up a winery and thinking the only job is selling wine (it's definitely not!).
+Funny enough, what makes a good problem is something you *don't* know the answer to. Many problems in education, even outside of math, are preceded by "here's how to solve it" or "this is the solution" which, while it may be necessary for *applications* of math and other fields, undermines the purity behind what makes a problem a problem in math; the lack of a solution. Instead, we should start by giving out a problem, leaving it to students to *struggle* with said problem, then after they made an attempt, or came to a potential conclusion, we can offer a crumb of technique or verification.
+
+Nevertheless, despite math's ability for an educator to simply get right into it and start doing mathematics with their students, they'll still need *some* sort of lesson plan and rules. Even creative work needs some level of planning and thought behind it, or at least an idea of what should be done when, and technical knowledge. While an unplanned lesson can work wonders, it also carries with it significant risk. That risk multiplies when you put that lesson in the hands of a teacher who isn't suited for it or lacks knowledge about the math they're trying to teach.
+- The same could be said about other fields as well.
+
+Before we continue, I'll issue a warning to readers: do not assume any sections in this chapter are a substitute for attending a class or formally learning the material involved in mathematics. That's like opening up a winery and thinking the only job is selling wine (it's definitely not!).
 
 ### **The Pedagogy of Math**
 
 In the United States, as of November 2025, math skills in students are [not at the level they should be](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf) (University of California San Diego, 2025).
 - Though it uses some different standards, the [NAEP (Nation's Report Card) in the United States](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/?grade=4) also maps out progress in math as well as reading (NAEP, 2024).
 
-Though my primary subject matter is Science (and Engineering), Math is still necessary to properly understand those subjects and I find myself teaching Math alongside Science quite often. Science deals with many of the same issues, but across different and/or applied contexts.
+Though my primary subject matter is science (and STEM/Engineering), mathematics is still necessary to properly understand those subjects and I find myself teaching math alongside science quite often. Science deals with many of the same issues, but across different and/or applied contexts.
 - Notice: I'm not saying other subjects are or are not suffering from similar issues.
 
 The foundation of math in general is based on understanding and intuition. 
@@ -80,7 +90,7 @@ It's like the chicken and egg problem. You need students to buy into what you're
 
 There's also an issue with subjects where students may not care for abstraction and care more about the tools needed to solve their problems. This isn't inherently bad, however, as every part of every subject cannot reasonably cater towards every student and their goals. Generally speaking, the wider the audience, the more a class may focus on application instead of theory/abstracts.
 
-As for ways to get people to hate math, I can easily name a few:
+As for ways to get people to hate math, I can easily name at least several ways:
 1. Doing math assignments as a punishment.
     - By extension, punishing a student every time they do it wrong.
 2. Student surrounded by a culture where being bad at math is cool.
@@ -102,9 +112,9 @@ Despite the potential desire to explain proofs and reasoning to students, some s
 
 In art, you may need to learn how to hold a brush before you can paint. The same concept applies to mathematics.
 
-Basics includes items like functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization;* there's no way around it for how you'll learn it and retain it throughout your life.
+Basics includes items like functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization* as well.
 
-It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (PEMDAS or GEMS) and what a percent actually means.
+It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (e.g. PEMDAS or GEMS) and what a percent actually means.
 
 It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition.
 
@@ -129,7 +139,7 @@ If I were to tell you what minimum level of mathematics a functional adult shoul
 
 If I were to tell you what minimum level of mathematics every student should leave an education system with, because they're likely to use it in "real life" and I'd want them prepared for when math is used against them, it's the following:
 - Arithmetic (Addition, Subtraction, Multiplication, Division)
-- Mental Math and Number Sense (e.g. 7x7 or 6x21 solved quickly without a calculator)
+- Mental math and Number Sense (e.g. 7x7 or 6x21 solved quickly without a calculator)
 - Logic Rules (True/False and If/Then/Else)
 - Fractions, Percentages, and Ratios 
     - e.g. a 1/3 pound hamburger has more meat than a 1/4 pound hamburger
@@ -264,7 +274,7 @@ Additionally, what you *could* say in ordinary language, like English, now gets 
 With just that small sample, you can make something like this:
 - ∀x ∈ ℕ, x ∈ {1,2,3} ⇒ x ≤ 3
 
-Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3." Funny how a bunch of symbols arranged that way on paper can mean that.
+Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3." What I just showed you is an example of using mathematics as a way of explanation. It's like art: its symbols, variables, and markings convey many words in a special way like how a picture might speak a thousand words. 
 
 At least half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
 

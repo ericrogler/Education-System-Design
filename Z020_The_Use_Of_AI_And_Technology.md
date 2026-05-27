@@ -325,7 +325,7 @@ As a stern reminder, anything listed under "Allowed AI Use" should require a hum
 
 ### **How effective is AI Really?**
 
-In my opinion, AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and be "effective enough" for many users. It can do things fast, but make mistakes just as fast. That's why I stress repeatedly you still need a human verifying AI outputs. You can make some parallels to how AI learns like how a human may learn though.
+In my opinion, AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and be "effective enough" for many users. It can do things fast, but make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without AI. That's why I stress repeatedly you still need a human verifying AI outputs.
 
 Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to reason through and sufficiently cover here in any short time.
 
