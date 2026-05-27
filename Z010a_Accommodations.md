@@ -39,31 +39,33 @@ Not all accommodations are feasible. Even if accommodations are feasible, if the
 
 ## **Long Answer**
 
-*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice within education. The tone may skew more negative as a result.
+*Disclaimer: This is not legal advice and also heavily opinionated.* Expect me to be intentionally skeptical of certain accommodations (but not ALL accommodations) based on what I've seen in practice within education. The tone may skew more negative as a result, but the message remains: accommodations are intended to support students, not replace participation and effort towards learning.
 
-As an aside, if another goal of yours is to find dedicated research behind interventions and accommodations, a resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there than here (2026).
+As an aside, if another goal of yours is to find more dedicated research behind interventions and accommodations, a dedicated resource [like "What Works Clearinghouse"](https://ies.ed.gov/ncee/WWC/) will suit your needs better there than here (2026).
 
 **Everything I'm writing in this chapter is based on the assumption every accommodation *must* be followed per law. I am *not* suggesting you can ignore accommodations, but I will critique specific implementations of certain accommodations.**
 - i.e. if I were a teacher and a student has one or more of these accommodations, it's a reflection of my views on it, how reasonable it may be, and/or how it might occur in practice if I'm required to satisfy that accommodation.
 
 **Accommodations provide opportunities for students to succeed like their peers. They also include opportunities to *fail* like their peers.** It's not a free pass to get out of learning. If they want to succeed, students (and parents by extension) must own responsibility and plans like IEPs, 504s, etc. outlining accommodations must explicitly call out and enforce student and parent responsibilities to not be abused.
 
-If a teaching framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire, original graduate thesis from 0 to 100 in under 2 weeks.
-
-Add on top of this that many accommodations are *legally required*, thanks to plans like IEPs and 504s, to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expected to adapt and adjust the education process with, or without, whatever supports you have.
-
-Therefore, **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, or prompted to do it, every time. A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by students, and/or third parties assisting students, to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they receive accommodations.
+Therefore, **I believe the ideal goal of a student going through any education system is functional independence.** Students should leave an education system able to do what they learned *without* being told how to do it, prompted to do it, and without major assistance (with some rare exceptions). A student unable to do this either did not learn the material properly, the system itself is poorly designed, or the system was exploited by students, and/or third parties assisting students, to get through without properly learning the intended content. This advice should hold true to *all* students, regardless of whether or not they received accommodations.
 - Put another way: they shouldn't move on when they aren't ready.
 - Additionally, accommodations can help those who can't, but not those who won't. Students with accommodations that genuinely want to learn will likely be fine.
 
-I'll also emphasize, once again: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.** At the same time, if a system lets you weaponize an accommodation like an IEP, 504, etc. meant to help students, *but you, the individual or group, actively exploit it or weaponize it*, you may need to revisit ethics and morality. The same could be said about using an accommodation as a shield to protect a student from any punishments. You can learn about an exploit or loophole and choose not to abuse it or take advantage of it, afterall.
+If an education framework is the backbone for how you deliver lesson content, conduct tests, and oversee activities/projects, then accommodations (and modifications/strategies/interventions by extension) test how flexible that framework is when it asks you to do an entire, original graduate thesis from 0 to 100 in under a week.
+
+Add on top of this many accommodations are *legally required* to fulfill and your framework is almost, if not absolutely, certain to not survive first contact. You're expected to adapt and adjust the education process with, or without, whatever supports you have available at the time. That is a greater issue for systems with fewer resources available compared to well-off systems.
+
+I'll also emphasize, once again: **Well-implemented accommodations improve outcomes, but poorly-implemented accommodations reduce outcomes.** At the same time, if a system has a loophole letting you weaponize an accommodation like an IEP, 504, etc. meant to help students, *but you, the individual or group, actively exploit it or weaponize it*, you may need to revisit ethics and morality. The same could be said about using an accommodation as a shield to protect a student from any punishments. You can learn about an exploit or loophole and choose not to abuse it or take advantage of it, afterall.
+
+Lastly, chronic absenteeism for students with accommodations means they cannot take full advantage of their accommodations and receive help from education systems. How meaningful interventions and supports are meant to help students if the student isn't around to utilize them in the first place is a question to also consider when designing accommodations.
 
 ### **The "Reasonable" Accommodation**
 
 > A reasonable accommodation enables a person with a disability to enjoy equal
 employment opportunities, benefits, and privileges.
 - [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024)
-- I'm using an employment definition instead of a student accommodation definition. Nevertheless, a goal of many education systems is preparing students for future lives as working, functional adults.
+- I'm using an employment definition instead of an education-centric definition. Nevertheless, a goal of many education systems is preparing students for future lives *outside of education systems* as working, functional adults.
 
 Accommodations should provide equity, not advantages, to students with physical, mental, or medical conditions at a disadvantage compared to peers. Some of these conditions cannot be fully cured (as of writing this), despite whatever therapy or practice is implemented for them. That means assisting people with diseases and conditions like dyslexia, dysgraphia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their peers. Accommodations are not just for one type of student; it's for many types of students. 
 
@@ -83,11 +85,11 @@ Many classrooms, whether in-person or online, offer accommodations towards stude
 In practice, some accommodations are either not practical or infeasible to reasonably implement due to various issues, like not enough resources, inadequate environment(s), and lack of personnel. These tend to be issues with *systems* rather than teachers/professors.
 - E.g. A teacher has 200 students with a significant portion with IEPs/504s/etc. One teacher cannot reasonably and fully meet all legally binding needs and any 1:1 support needs without sacrificing education for *all* students unless there's additional staff, smaller classes, and specialized support networks assisting them.
 
-Sometimes people drafting accommodations may have little to no experience with the student or the context from experience as a teacher to inform their decisions. There's also cases where even students do not know why they have accommodations or get a say in their accommodations; the very people we're designing accommodations for. All of these factors combined may lead to a disconnect and necessitate multiple meetings throughout the school period to review accommodations and plans periodically. 
+Sometimes people drafting accommodations may have little to no experience with the student or the context from experience as a teacher to inform their decisions. There's also cases where even students do not know why they have accommodations or get a say in their accommodations; the very people education systems are designing accommodations for! All of these factors combined may lead to a disconnect and necessitate multiple meetings throughout the schooling period to review and modify accommodations periodically. 
 
-There are also times unreasonable accommodations are in place, despite legitimate evidence from teachers and professors showing they are unreasonable. The teacher and professor may also be sued or under threat of litigation for not meeting *all* accommodations in the classroom.
+There are also times unreasonable accommodations are in place, despite legitimate evidence from teachers and professors showing they are unreasonable. The teacher and professor may also be under threat of litigation for not meeting *all* accommodations in the classroom.
 
-There's also other accommodations outside of learning, such as meal planning for celiac disease and lactose intolerance. If a party or event is hosted, those accommodations need to be accounted for as well.
+There's also other accommodations outside of learning, such as meal planning for celiac disease and lactose intolerance. If a party or event is hosted, those accommodations need to be accounted for as well by restricting options available to students and limiting the spread and distribution of said options within education systems in case of residual contact issues.
 
 ### **Types of Accommodations**
 
@@ -99,7 +101,7 @@ Several categories cover most accommodations you may see (Center for Accessible 
 
 These accommodations are commonly met through assignment modifications and curriculum modifications. Accommodations are quite different from modifications. Accommodations focus on *how* students learn, whereas modifications affect *what* students learn.
 
-You may see many accommodations and modifications in plans like IEPs and 504s mentioned earlier in the book. This chapter focuses on accommodations because modifications typically involve alternative assessments and work provided at lower difficulty and/or complexity. I want to focus on what levels the playing field over changing it.
+You may see many accommodations and modifications across plans like the IEPs and 504s mentioned earlier in the book. This chapter focuses on accommodations because modifications typically involve alternative assessments, work provided at lower difficulty, and/or complexity changes. I want to focus on what levels the playing field over changing it.
 
 To showcase their differences in examples:
 - Accommodation: highlighting text on assignments for a student
@@ -115,23 +117,19 @@ Some accommodations are beneficial, but some accommodations may hinder learning 
 
 At the end of the day, accommodations are still legally required to be provided and followed per various laws, like the Individuals with Disabilities Education Act (U.S. Department of Education, 2025).
 
-**The intent of accommodations is to provide supports to people and remove barriers to entry in a given environment.** They should elevate someone up to the level of their peers without accommodations. 
-
-It is *not* meant to reduce or replace rigor/requirements to perform the necessary work or bypass the effort required for learning. It is also not meant to abuse a system, commit fraud, or acquire unjust advantages over other students.
+I'll repeat this song quite often: **the intent of accommodations is to provide supports to people and remove barriers to entry in a given environment.** They should elevate someone up to the level of their peers without accommodations. It is *not* meant to reduce or replace rigor/requirements to perform the necessary work or bypass the effort required for learning. It is also not meant to abuse a system, commit fraud, or acquire unjust advantages over other students.
 
 Consider accommodations another way: Two students need to get 100 points.
 - Student A receives 100 points on their own.
 - Student B receives 80 points on their own, with support provided for the final 20.
 
-Both students are responsible for reaching 100 points. The accommodation for Student B provided opportunity to achieve that goal; not reduce it down to 80 points as their new goal.
+Both students are responsible for reaching 100 points for full marks. The accommodation for Student B provided opportunity to achieve that goal; not reduce it down to 80 points as their new goal.
 
-If accommodations reduce rigor, they may undermine appropriate mastery of skills. Though accommodations are made with good intentions, they may persist despite their harm due to administrative pressures or legal mandates.
+If accommodations reduce rigor and eliminate all effort towards learning, they may undermine appropriate mastery of skills. Though accommodations may be made with good intentions, they may persist despite their harm due to administrative pressures or legal mandates.
 
-Another factor often overlooked is the relationship between the student with accommodations, other students with accommodations, and students without accommodations all in the same classroom. If accommodations are given to students without considering this context, there is a unintentional and harmful strain on staff, resources, and students. This can undermine the learning experience for everyone and renders the accommodation(s) counterproductive.
+Another factor often overlooked is the relationship between the student with accommodations, other students with accommodations, and students without accommodations all in the same classroom. If accommodations are given to students without considering this context, there is a unintentional and harmful strain on staff, resources, and students. This can undermine the learning experience for everyone and renders the accommodation(s) counterproductive. Accommodations cannot be made in isolation; they must be made while considering the environment learning takes place in and available resources.
 
-Accommodations cannot be made in isolation. They must be made while considering the classroom and available resources.
-
-**Lastly, and this is especially important: a student is not required to use provided accommodations, but accommodations are legally required to be available to the student.** They are safety nets. You are free to interpret how this statement applies in practice.
+**Lastly, and this is especially important: a student is not required to use provided accommodations, but accommodations may be legally required to be available to the student.** They are safety nets. You are free to interpret how this statement applies in practice.
 
 ### **Non-specific vs Specific Accommodations**
 
@@ -139,7 +137,7 @@ Whenever possible, do NOT leave any accommodation open to interpretation or too 
 
 An example is the difference between allowing "extra time on *all* assignments" vs "extra time on *only* tests." You can further this specificity with something like "Extended time 100% on assignments" so a 2 day deadline on an assignment now has 4 days to complete, but no additional time beyond that before it takes normal penalities.
 
-It ensures the accommodation stays reasonable, maintains accountability for the student, and further assists with any issues down the line.
+It ensures the accommodation stays at least somewhat reasonable, maintains stricter accountability for the student, and further assists with any issues down the line.
 
 ### **Mid-way Advisory**
 
@@ -155,38 +153,38 @@ I've seen this typically applied to mathematics, and sometimes science/engineeri
 
 Be aware acceleration *can* mean skipping or summarizing content and courses to cover more ground in the same timeframe. This isn't always the case, but it is possible.
 
-It's reasonable, but depends on available resources and if the student is even willing and able to meet the heightened pace. I'd also caution against optimal progression and focus more on ensuring students like and develop passion for any accelerated subjects or they may fall off and lose dedication midway. Acceleration may also be bad if it's going to destroy any sense of humility or social/emotional intelligence in a student; no one likes a rude person, even if they're smart.
+The accommodation is generally reasonable, but depends on available resources and if the student is even willing and able to meet the heightened pace. I'd also caution against optimal progression and focus more on ensuring students like and develop passion for any accelerated subjects or they may fall off and lose dedication/grades midway. Acceleration may also be bad if it's going to destroy any sense of humility or social/emotional intelligence in a student; no one likes a rude person, even if they're smart.
 - If you have to tell someone you're smart, you're likely not smart.
-- Just because you're smart doesn't grant a license to be cruel and disruptive.
+- Just because you're smart doesn't grant license to be cruel and disruptive.
 
 I'd also avoid calling a student "gifted" in the first place. It places an unspoken expectation of perfection on the student and anything less puts them under more stress than necessary. If I emphasize talent over effort, I'm more likely to see students collapse under pressure and spiral into depression and learned helplessness when, *not if*, talent alone cannot succeed.
 - Sure, talent/affinity exists, but riding on that without effort is a recipe for disaster.
 - Two examples are from Aronson et al. (2002) and Dweck et al. (2014).
 
-To clarify an earlier point: a student needs to have an exceptionally strong understanding of basics first before entering a gifted program. Without a strong foundation, they risk stumbling quickly and falling behind other peers.
+To clarify an earlier point: a student needs to have an exceptionally strong understanding of basics first before entering a gifted program. Without a strong foundation, they risk stumbling quickly and falling behind other peers instead of accelerating as intended.
 
-Resources are another issue, but not in a way people may typically expect. If, for example, a student goes into a school system and they only offer up to X level of math, the "gifted" student may have completed X level of math far before they officially graduate. This leaves a deficiency to fill with other meaningful options, like appropriate electives, to cover that gap.
+Resources are another issue, but not in a way people may typically expect. If, for example, a student goes into an education system and they only offer up to X level of math, the "gifted" student may have completed X level of math far before they officially graduate. This leaves a deficiency to try and fill with other meaningful options, like appropriate electives, that may not be available to sufficiently cover that gap if resources are unavailable.
 
-You may not even need a school-provided accommodation either. In the Information Era, there's multiple resources online available for use. They may cover topics significantly more in-depth compared to physical schools.
-- Because external resources may offer more depth than typical coursework, I'd advise starting/reviewing content at least one level below student's target level first.
-- This helps catch gaps they might have missed on earlier concepts before going into advanced material.
-- If, with certainty, they're well-prepared, then raise difficulty up to accelerated goals.
+You may not even need a school-provided accommodation either for parents and students to accelerate their own learning. In the Information Era, there's multiple resources online, often free of charge, available for learning. They may cover topics significantly more in-depth compared to physical schools.
+- Because external resources outside dedicated education systems may offer more depth than typical coursework, I'd advise starting/reviewing content at least one level below student's target level first.
+    - This helps catch gaps they might have missed on earlier concepts before going into advanced material.
+    - If, with certainty, they're well-prepared, then raise difficulty up to accelerated goals.
 
 ### **Anxiety Accommodations**
 
 Depending on how the accommodation addresses student anxiety, it ranges from reasonable to unreasonable. Many accommodations here are based on anxiety too.
 - Think about it this way: your future work boss likely won't give you another day to do an urgent report because you were anxious.
 
-If a student is anxious, their accommodations should help them *overcome* the source of anxiety, not avoid it. Avoidance tends to reinforce it rather than reduce it. I'd also be wary about a student whose *only* accommodation is anxiety without any supporting documentation or professional involvement, or students requested accommodations only due to anxiety. I've seen cases of undocumented/unverified anxiety claims, which typically leads to administrative and legal headaches for everyone involved.
+If a student is anxious, hopefully their accommodations help them *overcome* the source of anxiety and not avoid it. Avoidance tends to reinforce it rather than reduce it. I'd also be wary about a student whose *only* accommodation is anxiety without any supporting documentation or professional involvement, or students requested accommodations only due to anxiety. I've seen cases of undocumented/unverified anxiety claims, which typically leads to administrative and legal headaches for everyone involved.
 
-Though there is general advice on how to handle it, a unique treatment plan on anxiety for each individual should be deferred to a licensed medical professional. Some examples of general advice, which do not act as diagnostic tools or formal assessments, include (APA, 2026): 
+Though there is general advice on how anyone can handle it, a unique treatment plan on anxiety for each individual should be deferred to a licensed medical professional. Some examples of general advice, which do not act as diagnostic tools or formal assessments, include (APA, 2026): 
 - Being patient with the student
 - Giving warning about what will happen and why
 - Normalizing uncertainty and mistakes
     - Because learning certain content actually *is* just hard.
 - Trusting the student actually is struggling.
 
-To emphasize once more, per what the American Psychological Association states, "Only a qualified mental health professional can determine whether the anxiety a student displays should be diagnosed as an anxiety disorder" (2026).
+To emphasize once more, per what the American Psychological Association (APA) states, "Only a qualified mental health professional can determine whether the anxiety a student displays should be diagnosed as an anxiety disorder" (2026).
 
 As for when it is unreasonable? I would say when the accommodation ignores the root problem. Additionally, if the accommodation is from someone who isn't medically licensed wants to formalize the disorder OR it drastically alters the curriculum/course in its current state. The former is based on an ethical standpoint and handling medical conditions, while the latter can be resolved through support staff (like a disability resources office) about the issue. 
 
@@ -197,10 +195,10 @@ Short answer: It's fine as long as it comes with strict conditions increasing/ma
 Long answer: Sometimes this is a general policy for all students at schools. Other times it's written as part of an accommodation. Is it reasonable? Depends.
 
 Overally, I'd say to avoid offering retakes unless any one of these following is true:
-1. You're willing to take on the additional workload.
-2. Administration, or the law, forces you to provide retakes.
+1. You, the educator, are willing to take on the additional workload.
+2. Administration, or legal, forces you to provide retakes.
 
-If a student asks for a retake on a test, I would say 4 options exist without compromising learning too much.
+If a student asks for a retake on a test, I would say at least 4 options exist without compromising learning too much.
 1. A test of similar difficulty, but with different, related questions
 2. A test of much higher difficulty compared to the original
 3. The retake is found in a remedial class
@@ -215,11 +213,11 @@ Option 1 is so students cannot simply memorize the answers from the first test a
 - If the grade on the retake is lower, that becomes the new test grade
 - Complete a separate assignment, like a study guide or essay, before a retake is permitted
 
-Option 2 is so students can realize if they don't prepare properly the first time around, the retake will punish them for not taking their school work seriously by providing them even more work; the thing they likely want to avoid.
+Option 2 is so students can realize if they don't prepare properly the first time around, the retake will punish them for not taking their school work seriously. They're given the thing they likely wanted to avoid as a result: more work.
 
 Option 3 is letting the students fail the test entirely. Rather than permit a retake, they need to make up their lack of preparation by taking away even *more* of the student's time as a consequence.
 
-Option 4 is something I've personally done and the idea is to make it inconvenient to raise the grade. If a student *really* cared about their learning, they'd deal with the inconveniences to get to their destination. If they didn't, they wouldn't bother and take the worse grade as is, even when an opportunity to raise it was available. 
+Option 4 is something I've personally done and the idea is to make it inconvenient to raise their grade. If a student *really* cared about their learning, they'd likely deal with the inconveniences to get to their destination. If they didn't, they wouldn't bother and take the worse grade as is, even when an opportunity to raise it was available to them. 
 - This feels like a parallel to the types of parents who show up to parent-teacher conferences, but I digress.
 
 A policy I had was a student could get an 80 percent on a test they did poorly on *provided* they met the following conditions:
@@ -241,7 +239,11 @@ This format means no extra paperwork, no extra assignments written out, and I ge
 
 ### **"Student not given assignments when [mentally] unavailable for learning"**
 
-Firstly, yes this is a real accommodation. Secondly, I'd almost immediately call it an unreasonable accommodation. Thirdly, if I ever see this again, you bet it is saved as documentation in case said student ever fails and people ask about it.
+Firstly, yes this is a real accommodation. 
+
+Secondly, I'd almost immediately call it an unreasonable accommodation. 
+
+Thirdly, if I ever see this again, you bet it is saved as documentation in case said student ever fails and people ask about it.
 
 I'm documenting when and how the student utilizes this accommodation and seeking an emergency meeting as soon as humanly possible to remove. This accommodation, if approved, effectively excuses the student from *all* work and will undermine their learning experience.
 
@@ -260,29 +262,30 @@ If anything, assigning a dedicated staff member (what the medical field may call
 
 ### **Notes Provided / Note Use on Tests**
 
-Depends on the *subject* covered and intensity you're aiming for. I can speak for science and STEM here.
+Depends on the *subject* covered and intensity you're aiming for. I can speak for science and STEM here directly at least.
 
-For science and STEM classes, I may provide them equations (without defining the variables) they can reference to answer questions on the test. They'll still have to know *how* to apply those equations to answer the problems, which is what I'm testing on anyway.
-- E.g. In an electronics problem, I may give them the equation "P=IV" without defining the variables.
+For science and STEM classes, I may provide them equations without defining the variables they can reference to answer questions on the test. They'll still have to know *how* to apply those equations to answer the problems, which is the understanding I'm testing on anyway.
+- E.g. In an electronics problem, I may give them the equation "P=IV" without defining what the variables are. Hopefully the students learned it's for power, current, and voltage or else they cannot utilize it properly!
 
-I may also consider giving them an open book test, with the goal of practicing their ability to search for information to solve a given problem.
+I may also consider giving them an open book test, with the goal of practicing their ability to search for information to solve a given problem. That still tests understanding of the material and knowing *what* to look for, so their challenge is now "what tools do I get to solve this problem?"
 
-If you permit typing or writing the notes themselves, they'll try to cram in as much information as possible on whatever medium you permit. They may also claim that because it wasn't in their notes, it shouldn't have been on the test. They may also claim that because notes were allowed they didn't need to study (and probably still flunk anyways).
+If you permit typing or writing the notes themselves, they'll try to cram in as much information as possible on whatever medium you permit. It doesn't matter if it's a flash card, piece of paper, billboard off an highway, or even a carrier pigeon. They may also claim that because it wasn't in their notes, it shouldn't have been on the test. They may also claim that because notes were allowed they didn't need to study (and probably still flunk anyways).
 
 ### **Phones (and Similar Technology) in General**
 
-Pretend I'm talking about cameras too. It's similar enough for this section's purposes.
+Pretend I'm talking about cameras, recording devices, etc. too. It's similar enough for this section's purposes.
 
-Doesn't matter if it counts as an emotional support device or anything similar. Personally, I'd ban them outright inside of a classroom or education setting. I'd even restrict them heavily in a medical setting, because they follow much the same rules education systems also must follow.
+Doesn't matter if it counts as an emotional support device or anything similar. Personally, I'd ban them outright inside of a classroom or education setting. I'd even restrict them heavily in a medical setting, because they follow much the same rules education systems also must follow to ensure personal information is not compromised.
 
-Firstly, they're increasingly illegal for students to use phones in classrooms anyways, as more and more states in the United States are banning cellphone use inside of classrooms (Amy, 2025).
+Firstly, they're increasingly illegal for students to use phones and like technology in classrooms anyways, as more and more states in the United States are banning cellphone use inside of classrooms (Amy, 2025).
 
 Even if it isn't illegal, it is highly likely to not be a reasonable accommodation outside of extreme medical conditions, such as using a device to "speak" for the student who cannot verbalize otherwise. Cell phones (and similar technology) also have cameras and audio capture, which means capacity to record the classroom and potentially violating laws like FERPA/HIPAA.
 
 Students themselves carrying around such devices may be recording all the time or even recording in "secure" locations like bathrooms, testing zones, and locker rooms. For K-12 and minors in particular, there's a growing trend of juveniles (i.e. minors themselves) producing and sharing CSAM (child sexual abuse material), which can lead to further pedophilic interests and behavior (U.S. Department of Justice, 2023).
 - This isn't including how technological advancements like Deepfake and AI (Artificial Intelligence) can exacerbate the problem further (Burgess, 2026).
+- Or how technology, now and in the future, you may not even expect at first, like an ordinary WiFi router, may act as invisible surveillance and can identify people with near perfect accuracy. (Todt et al., 2025).
 
-If cell phones (and similar technology, like wearable electronic glasses and lens) are still allowed, despite all the above, *observed*, issues with it, then I'd consider moving the student to a location where they cannot obscure what they're doing. This helps ensure the accommodation is not abused and hopefully satisfy the primary goal of learning.
+If cell phones (and similar technology, like wearable electronic glasses and lens) are still allowed, despite all the above, *observed*, issues with it, then I'd consider moving the student to a location where they cannot obscure, surveil, or record what they're doing. This helps ensure the accommodation is not abused and hopefully satisfy the primary goal of learning.
 
 ### **Alternative Test Location (and Similar Items)**
 
@@ -298,7 +301,7 @@ If there's a time and place this accommodation is most likely abused, it's durin
 
 Some activities may be accessible for able-bodied students and present issues for students with disabilities. These accommodations are reasonable or unreasonable depending on accessibility, resource availability, and if it affects the activity's intended purpose. 
 
-Even without the explicit accommodation, the facility may be designed to comply with laws like ADA (Americans with Disabilities Act) to ensure baseline accessibility Technology can also bridge the gap, but it still requires the resources available to properly implement.
+Even without the explicit accommodation, the facility may be designed to comply with laws like ADA (Americans with Disabilities Act) to ensure baseline accessibility. Technology can also bridge the gap, but it still requires the resources available to properly implement.
 
 There are various examples where this could apply. Sometimes it's as easy as providing a chair for someone to sit in. Sometimes it isn't easy and may not be feasible without fundamentally altering the activity.
 
@@ -306,15 +309,13 @@ There are various examples where this could apply. Sometimes it's as easy as pro
 
 You want *another student* who has no legal obligations to assist and ensure I, the teacher with the legal responsibility, am satisfying the accommodation? 
 
-That is a terrible idea.
-
-The student peer isn't a school or district employee; they're a *student.* They can do whatever they want and they don't have to follow the same rules as teachers and staff, but the blame ultimately falls back on the teacher at the end of the day.
+In my opinion, that is a terrible idea. The student peer isn't a professional like a school or district employee; they're a *student.* They don't have to follow all the same rules as teachers and staff, but the blame can ultimately fall back on the teacher at the end of the day.
 
 In the absolute, but improbable, best case, this works out fine without issues.
 
-In practice, however, this places undue stress and threatens the learning environment of the "peer" they sit next to. Essentially, the accommodation asks me to assign extra labor to a student with risk of educational harm. That harm affects *multiple* people now; the peer and the student requiring the accommodation.
+In practice, however, this places undue stress and threatens the learning environment of the "peer" they sit next to in addition to other students. Essentially, the accommodation asks me to assign extra labor to a student with risk of educational harm. That harm affects *multiple* people now: the peer and the student requiring the accommodation, with more students affected by proximity.
 
-Additionally, many classrooms aren't designed to support this accommodation well in the first place. You may be in a 30 foot by 30 foot (or 10 meter by 10 meter) square/rectangular room, alongside 30-40+ students, and moving people around wouldn't make a reasonable or measureable difference.
+Additionally, many classrooms aren't designed to support this accommodation well in the first place. For example, you may be in a 30 foot by 30 foot (or 10 meter by 10 meter) square/rectangular room, alongside 30-40+ students, where moving people around likely wouldn't make a reasonable or measureable difference.
 
 ### **Trigger Words**
 
@@ -338,21 +339,20 @@ I'd say to review which cues and reminders to use with the student(s) in a separ
 
 Depends on how many other students have this same requirement.
 
-This accommodation also could let teachers decide where to best put students to maximize their learning potential and limit distractions.
-- Even if that's stuck in a corner with a wall in front of them.
+This accommodation also could let teachers decide where to best put students to maximize their learning potential and limit distractions, even if that's stuck in a corner with a wall in front of them.
 
-Besides that: One to a few students? Totally reasonable. Several students? Less reasonable. Several students in a classroom environment that, by architecture and engineering constraints, prohibits certain seating arrangements? Unreasonable.
+Besides that: One to a few students? Totally reasonable. Several students? Less reasonable. Several students in a classroom environment that, by architecture and engineering constraints, prohibits certain seating arrangements? Now we're getting to unreasonable.
 
-There's only so much space to assign seats in a classroom. The difficulty and accommodation issues also spike if it's a case like "must sit next to the teacher" when there's only one reasonable spot next to the teacher in the first place.
+There's only so much space to assign where students go in a physical classroom. The difficulty and accommodation issues also spike if you combine specific cases too like "must sit next to the teacher" when there's only one reasonable spot next to the teacher in the first place.
 
 ### **Reduced Workload**
 
-Less practice leads to less mastery. Practice is often the *only* way to improve your skills in a particular field, subject, or topic. This accommodation potentially robs a student of that practice and directly harms the learning experience.
+Less practice leads to less mastery. Practice is often the *only* way to improve your skills in a particular field, subject, or topic. This accommodation potentially robs a student of that practice, which directly harms the learning experience.
 
 In many cases, I'd argue asking for extended time instead of reduced workload is a better accommodation. 
 
-Despite the drawbacks, it isn't wholly unreasonable. It's like a manager asking for an executive summary instead of the entire technical report, which means there's a few ways to approach this:
-1. Breaking information into smaller chunks (i.e. 1 big assignment -> 3 small assignments).
+Despite the drawbacks, it isn't wholly unreasonable but might have difficulties. It's like a manager asking for an 1-page executive summary instead of the entire technical report, which means there's at least a few ways to approach this:
+1. Breaking information and workloads into smaller chunks (i.e. 1 big assignment -> 3 small assignments).
 2. Testing/assigning a smaller set of problems covering vital information.
 3. Eliminating "filler" content when able to.
 
@@ -360,7 +360,7 @@ These modifications can fit this accommodation reasonably enough, as they'll red
 
 ### **Checks for Understanding**
 
-If it's not already done in a general education environment, you probably should be doing it anyways.
+If it's not already done in a general education environment, "good" educators probably should be doing this anyways.
 
 This isn't always tests or quizzes though. The intent of this is more like occasionally asking questions to students about the material as you go through it, as well as lower intensity checks like exit tickets they can do within the allotted class time.
 
@@ -374,31 +374,31 @@ Long answer:
 
 I gave 60% (a "D" or "D-") as an example, but this applies to any grade floor. I may also argue it's a symptom of grading system issues, since we're bucketing/categorizing percent values under letter grades, rather than sticking with one or the other consistently.
 
+The student could get a 0 on every single assignment, test, quiz, etc. and still receive a 60 in the class. You could argue that "Well, a D (60/100) is a bad grade," *but they're still passing the class without doing anything!*
+- If the floor was 50, they *could* fail, but that doesn't erase the issue where they're given half a grade regardless of the effort put in.
+
 Overall, if a student is able to, and aware of, the ability to fail assignments without a major penalty to their grade, they're likely to do just that and receive no penalty for it.
 - E.g. College students deciding how well they need to do on their final to keep or earn a grade in a class. 
     - Even I've done this when I was younger *without* the grade floor accommodation in engineering school. Path of least resistance still applies.
 - E.g. A student saying "just give me the 60" instead of ever attempting the assignment.
 
-This is an accommodation I'd tell you never to add, but more than likely is pushed forward by administration, parents, colleagues, and more despite its prominent issues. The motivation for this may include increasing the value of a metric, such as a passing rate.
+This is an accommodation I'd tell you never to add, but more than likely is pushed forward by administration, parents, colleagues, and more parties despite its prominent issues. The motivation for this may include increasing the value of a metric probably tied to funding, such as a graduation rate.
 - There's also the case where it's the "alternative" to countless meetings, paperwork, non-renewal ("laid off" for non-teachers) and potential litigation because a child failed of their own accord, even if the teacher or school isn't at fault.
 
 The counterpoint is a scenario like so: A student gets a 0 on an assignment. To get back up to a B, or an A, they have to score well on multiple other assignments just to dig themselves out of a deep hole. It sounds nice when there's a grade floor as a safety net, because that means there's less of a hole to dig out of and it's easier to recover from a single bad mistake.
 
-The biggest problem is, in practice, this is poorly implemented and there's rarely, if ever, other measures to bring back up student accountability to counterbalance this accommodation. The student is essentially given a free pass to disengage with the work and not need to learn because they don't *have* to learn or do much work for a passing grade. This is how you get students who are at a higher education level, or even adults, who are several levels behind and unable to perform basic functions as they're passed along.
+The biggest problem is, in practice, this is poorly implemented and there's rarely, if ever, other measures to bring back up student accountability to counterbalance this accommodation. The student is essentially given a free pass to disengage with the work and not need to learn because they don't *have* to learn or do much work to succeed and get a passing grade. This is how you get students who are at a higher education level, or even adults, who are several levels behind and unable to perform basic functions as they're "passed along" in education systems.
 
-If you were to try earning 60% of a paycheck for doing 0% of the work, the employer would probably just laugh at you and maybe fire you in the same breath.
-- That or you're an investor earning "passive income." I can't account for *all* edge cases here.
+Perhaps a real-world example may justify my stance on this accommodation: imagine you were to try earning 60% of a paycheck for doing 0% of the work. The employer would probably just laugh at you and maybe fire you in the same breath.
+- That or you're an investor earning "passive income." I cannot account for *all* edge cases here.
 
 There's also the ethical implications and potential academic fraud involved. You may also be lying to a student about the grade they *really* earned. By providing an advantage against other kids who also fail without this accommodation, it also undermines accountability and cheapens the effort of *other* students.
-
-The student could get a 0 on every single assignment, test, quiz, etc. and still receive a 60 in the class. You could argue that "Well, a D (60/100) is still a bad grade," *but they're still passing the class and not failing.*
-- If the floor was 50, they *could* fail, but that doesn't erase the issue where they're given half a grade regardless of effort put in.
 
 Now, you could track their *real* grade on a spreadsheet, or similar method, and keep their posted grade at a 60. That'd likely fit the letter of the accommodation. You could also make it so the lowest possible grade is 60 in the class, but a student's posted grade does not increase so long as the real grade you're tracking in the background is below 60. It may still "comply" with this accommodation, but it won't increase motivation lost because the accommodation is already granted.
 
 ### **No Deadlines / No Late Work Penalty**
 
-**Please never allow this in your education system(s).**
+**Never allow this in your education system(s).**
 
 This accommodation removes accountability on student work and leaves it entirely to the motivation of said student to do the work and keep up with the class. If you've ever tried to get someone to do work, when they don't want to *and don't have to*, you can imagine how well that'll go.
 
@@ -411,8 +411,9 @@ Again, this is a bad accommodation.
 
 ### **Extended ("Extra") Time and Deadlines**
 
-*It's complicated* who really needs this accommodation and where it applies. In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. 
-- I'd also say this accommodation is not a way for a student to play games, watch non-educational videos, or be on social media instead of using that time *for their coursework*.
+*It's complicated* who really needs this accommodation and where it applies. 
+
+In general, I'd avoid giving this accommodation (and its variant "open ended extra time") unless truly necessary. I'd also say this accommodation is not a pass for a student to play games, watch non-educational videos, or be on social media instead of using that time *for their coursework*.
 
 Extended deadlines, and extended time in general, is a slippery slope where the student risks falling behind and unable to keep up with classroom pacing and work. If that happens, the accommodation is harmful rather than beneficial. There's cases for it, but I'd say they're for exceptions for medical conditions significantly affecting learning abilities. 
 
@@ -433,46 +434,48 @@ Extended time also opens the door to a student asking for, and getting, and exte
 
 **A Case for Abusing Time Extensions**
 
-Some people may call this an "edge case," which is also appropriate. The accommodation deals with *equity* of time, not equality of time.
+This may be an "edge case," but still worth highlighting. The accommodation deals with *equity* of time, not equality of time.
 
 This accommodation is easy to abuse and has plenty of incentive behind it to abuse. For high-stakes testing and tests intentionally designed with time constraints, time extensions are a substantial advantage for anyone "gaming" the system. How well someone scores determines scholarship money, cost of tuition, opportunities for success, access to higher tier colleges, what programs you can pursue, and more.
 
-It's possible the system can be abused and it's possible diagnoses from medical professionals for conditions warranting extra time may not be accurate or precise. It's why there's restrictions and requirements in place before those accommodations are provided. It's also a reason why a request for an accommodation in one test may not guarantee those accommodations in another test.
+It's possible the system can be abused and it's possible diagnoses from medical professionals for conditions warranting extra time may not be accurate or precise. It's why there may be restrictions and requirements in place before those accommodations are provided. It's also a reason why a request for an accommodation in one test, class, etc. may not guarantee those accommodations elsewhere.
 
-I don't think the risk of abuse is enough to warrant banning or disregarding the extended time accommodation entirely. It is, however, a significant enough risk to address the possibility it can happen and muddy the efforts of people who truly *do* need the accommodation.
+I don't think the risk or danger of abuse is enough to warrant banning or disregarding the extended time accommodation entirely. It is, however, a significant enough risk to address the possibility it can happen and muddy the efforts of people who truly *do* need the accommodation.
 
 ### **Assistive Technology**
 
 This is a "it depends" scenario.
 
-In some cases, totally fine and encouraged. Student's blind and needs to use a screen reader or Braille? Go for it. Speech-to-text and text-to-speech with proven benefits for the student? Also good.
+In some cases, totally fine and encouraged. Student's blind and needs to use a screen reader or Braille? Go for it. 
 
-There's also a case where a student may use a computer (or similar technology) for handwritten assignments. That's generally OK, but then I'd probably have to monitor that student more strictly compared to other students to ensure they're on task.
+Speech-to-text and text-to-speech with proven benefits for the student? Might require some extra effort on educators to set up, but that's fine if resources are there.
+
+There's also a case where a student may use a computer (or similar technology) for handwritten assignments. That's generally OK, but then I'd probably have to monitor that student more strictly compared to other students to ensure they're doing what they're supposed to.
 
 In other cases, this is easy to abuse and misuse. As an example, assistive technology should not be used in scenarios where the task specifically practices a skill *without* the technology used.
 
 ### **Written (and Visual) Directions and Assignments**
 
-This is pretty reasonable to accommodate and teachers may already do it anyways for all students.
+This is pretty reasonable to accommodate and teachers may already do it anyways for all students. Visual could also mean written.
 
-Visual can also mean written.
-
-To give an example: Say you're giving a lab safety demonstration and going over the various tools and how to use them. Chances are, you probably prepared a script beforehand that is *written.* You could give said student with accommodations this so they can follow along.
+To give an example: Say you're giving a lab safety demonstration and going over the various tools and how to use them. Chances are, you probably prepared a script beforehand that is *written.* You could give said student with accommodations this script so they can follow along with your verbal explanation to the rest of the class.
 
 ### **Food/Drink Allergies**
 
-Pretty reasonable accommodation, but it adds a risk management and liability issue.
+Pretty reasonable accommodation, but it adds a risk management and liability issue towards *multiple* professionals in an education system, like administrators and support staff, not just teachers/educators.
 
 One student, or multiple students, with one allergy? Manageable. For example, staff can bring in an alternative item, like gluten free pizza, for the student(s) or restrict one type of item, like peanuts, from being brought into the classroom. 
 
 Multiple students with different allergies in the same classroom? Potentially unreasonable. If there's an event involving the class, or a group of students, it limits what anyone can bring into the classroom. If there's too many allergies to account for, it may actually reach the point where the only food/drink allowed is water.
-- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria), then that means no food/drink *period* (Dice & Gonzalez-Reyes, 2025).
+- If an edge case occurs where someone is allergic to water, [like aquagenic urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria), then that may mean no food/drink available to any students *period* (Dice & Gonzalez-Reyes, 2025).
 
 Keep in mind, even if the problematic food/drink wasn't distributed by the teacher, the teacher is *still* accountable for what happens to students in their classroom.
 
 ### **Treats as a Reward**
 
-This is less an accommodation for a particular student and more something planned for the whole class, but I'll include it in this chapter anyways.
+If your dog can read this book, they might've barked or smiled when they saw I bolded "treats" in a larger font. Might just be a coincidence too.
+
+This is less an accommodation for a particular student and more something planned for a whole class, but I'll include it in this chapter anyways.
 
 Treats can be used if reasonable for the class and as a reward for correct behaviors and completing the requested work. Nevertheless, I would avoid treats in general for two reasons:
 1. Issues with food/drink allergies
@@ -490,13 +493,13 @@ If a student does get denied treats, and a parent tries to ask why they didn't g
 
 ### **Teaching for an "Absent" Student**
 
-If a student is perpetually absent from class, they're functionally absent. You can't reasonably expect a teacher to help a student that is gone from class for a large part of the school year, semester, etc.
+If a student is chronically absent from class, they're functionally absent. You can't reasonably expect a teacher to help a student that is gone from class for a large part of the school year, semester, etc.
 
 This is especially true for classrooms where attendance is *required* as part of a grade.
 
 The only exception I can readily think of is posting the lectures, assignments, tests, etc. in an online format, but that has two potential drawbacks:
 1. You may enable the absentee, and possibly truant, behavior.
-2. You risk turning the physical classroom into a management environment (daycare/adult care) instead of a learning environment.
+2. You risk turning the physical classroom into a purely management environment instead of a learning environment.
 
 There are more reasonable asks, such as leaving the classroom for a short period of time to "cool down." In the same breath, however, if they're gone for more than a third to half the class, that's when I think it's an issue and becomes harmful to the student.
 
@@ -550,6 +553,8 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
 
 2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
     - Dialogue used written by Chris Avellone.
+
+2. Todt, J., Morsbach, F., & Strufe, T. (2025). *BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information.* Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security, 2399–2413. [https://doi.org/10.1145/3719027.3765062](https://doi.org/10.1145/3719027.3765062)
 
 1. U.S. Department of Education. (2024). *HANDBOOK FOR REASONABLE ACCOMODATIONS DEPARTMENTAL HANDBOOK ACSH-OFO-011.* [https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf)
     - "ACCOMODATIONS" is not a mispelling.

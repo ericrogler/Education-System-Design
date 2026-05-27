@@ -50,7 +50,6 @@ This splits the text by chapter across multiple pages.
 - Design Systems and EdTech
 - Engineering & Architecture
 - Action Plan For Educators
-- Case Study: Communication Lesson
 - Conclusion / Learnings
 
 ## Content License

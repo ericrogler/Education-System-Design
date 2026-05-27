@@ -22,17 +22,16 @@ Macro (Macromanagement): Strategy, such as resource allocation, system optimizat
 Micro (Micromanagement): Tactics, such as controlling and moving around people, assigning specific tasks to those under you, coaching, resolving bottlenecks, and feedback loops.
 
 Too much micro or macro negatively affects overall effectiveness and efficiency. The levels of hands-on control vs delegation should be balanced out to maximize effectiveness in environments. Management challenges scale as you go from oversight on one location vs multiple locations, which adds in more problems related to coordination, information flow, and strategic alignment.
-- The optimal ratio of micro vs macro depends on your environment, but it is rarely, if ever, one dominating the other entirely in practice.
-    - In real-world terms, a manager who micromanages (or even macromanages) excessively is, objectively, a bad manager.
-- If you're spending too much time doing the jobs of other people, you won't have enough time to do your own job and you suffer as a result.
+
+The optimal ratio of micro vs macro depends on your environment, but it is rarely, if ever, one dominating the other entirely in practice. In real-world terms, a manager who micromanages (or even macromanages) excessively is, objectively, a bad manager. If you're spending too much time doing the jobs of other people, you won't have enough time to do your own job and you, and perhaps even the organization, suffer as a result.
 
 ## **Long Answer**
 
-This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to connect with some concepts here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms.
+This chapter may seem foreign to readers unfamiliar with video games. For those familiar with video games, you're more likely to connect with some concepts here. Because of this imbalance, I'll avoid being overly technical, but except multiple new terms to show up.
 
 If you've ever played a RTS (real-time strategy) or city builder video game before, then many of the concepts there apply to management. If you've ever been a raid leader in a MMORPG, many of those concepts also apply to management. If you read the last chapter (Management Case B) on operations and milsims, any leadership position there also counts!
 
-For most of this chapter, I'll write primarily towards the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know strategies and tactics to meet their goals ("winning" the game). We want to minimize muddling around, ambiguity, and confusion as it causes issues every time it happens.
+For most of this chapter, I'll write from the viewpoint of a RTS/strategy game player. In this scenario, the ideal manager is someone who's decisive, blunt, explicit, and direct with what needs to be done. They know the capabilities of their team and know the strategies and tactics to meet their goals (i.e. "winning" the game). We want to minimize muddling around, ambiguity, and confusion as it causes issues frequently.
 
 ### **Real-World Applications**
 
@@ -42,14 +41,14 @@ Every employee is capable of doing work; you likely wouldn't bring them onboard 
 
 You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
 
-Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're now in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
-- Juniors/New hires: unable to find resources, figure out problems to look for, or what should be done.
-- Regulars/mid-levels: how to transition into higher work and level up in their role.
-- Veterans/seniors/principals: working in cross-team functions, perfecting their technical expertise, and/or working up to become managers like yourself.
+Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
+- Juniors/new hires: unable to find resources, figure out problems to look for, or what should be done.
+- Mid-levels: how to transition into higher work and level up in their role.
+- Seniors/staff/principals: working in cross-team functions, perfecting their technical expertise, and/or perhaps transitioning to become managers like yourself.
 
-The more senior someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not being hand-held. For more inexperienced people, you may do a quick fly-by every day, but older people may be a meeting once a week and masters of their craft meeting only as needed.
+The more senior someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not necessarily hand-hold them. For more inexperienced people, you might do a quick fly-by every day, but older people may be a meeting once a week and masters of their craft meeting only as needed.
 
-It is extremely tempting to go in and do the work for them, *especially* if you have requisite domain knowledge, but you shouldn't. That's micromanagement; you want to limit that. You have separate goals aside from employees and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of.
+It is extremely tempting to go in and do the work for your direct reports, *especially* if you have requisite domain knowledge, but you should avoid that as your first option. That's micromanagement; you want to limit that. You have separate goals and tasks from your subordinates and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of; that's why they're there.
 
 ### **Rock, Paper, Scissors**
 
@@ -57,11 +56,11 @@ Let's say you're one company competing against another company to achieve succes
 
 This principle applies beyond units and personnel to include tactics, resource management, and logistics behind the scenes.
 
-How to typically determine what strategy to employ is through scouting and maintaining vision of the playing field and your opponent. If you're aware of what the opponent(s) are doing, you can develop ways to beat them. At the same time, denying your opponent knowledge/vision over your activities reduces their effectiveness in countering strategies and tactics you deploy.
+How to typically determine what strategy to employ is through scouting and maintaining vision of the playing field and your opponent. It's the same thing as conducting reconnaissance, like in the previous chapter on milsims. If you're aware of what the opponent(s) are doing, you can develop ways to beat them. At the same time, denying your opponent knowledge/vision over your activities reduces their effectiveness in countering any strategies and tactics you deploy.
 
-Developing a sense for when to use what strategy/tactic at what time comes with experience, but is essential to dealing with many situations. If you're not used to how a match plays out, what your enemy can do, and what you can do with your resources, it's expected you're not going to perform as well as you should.
+Developing a sense for when to use what strategy/tactic at what time comes with experience, but is essential to dealing with many situations. If you're not used to how a match or scenario plays out, what your enemy can do, and what you can do with your resources, it's expected you're not going to perform as well as you should.
 
-One of the biggest mistakes you can make is establishing wrong, or no, expectations of what your opponent can do. For example, your might think your opponent will play rock, so you play paper, but they actually played scissors instead. You still need to learn to manage expectations and adapt to overcome issues they bring.
+One of the biggest mistakes you can make is establishing wrong, or no, expectations of what your opponent can do. For example, your might think your opponent will play rock, so you play paper, but they bluffed their tell and actually played scissors instead. You still need to learn to manage expectations and adapt to overcome issues they bring.
 
 If your "opponent" is the environment instead, like in some city builders, many concepts don't change that much. Instead of worrying about people disrupting you, you're worrying about the effects and variables the environment throws at you. This requires practice like before as well as appropriate pre-planning and safety net development to "weather the storm."
 - For example: If nature's hand is "rock" and it decides today is wildfire day, your "paper" strategy to counter it is a fire suppression system to control it.
@@ -80,9 +79,9 @@ Additionally, every action can snowball. What seems like a small cost or error a
 
 ### **Macro vs Micro**
 
-Macro is significantly more important than micro. It's an area many people make mistakes on as they prioritize insignificant contributions or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
+Macro is significantly more important than micro for a manager, commander, etc. It's an area many people make mistakes on as they prioritize insignificant contributions or fine-tuning too much. From my own assessment, about 80-90% of time should be on macro and managing resources, orders, strategies, economies, and monitoring the area for what opponents do. Micro should only be a fraction of time spent as units can perform most functions without your direct intervention or continuous oversight.
 
-Doing more than one task at a time hampers productivity (APA, 2006). Even if you could multitask, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, which is what a methodology like Critical Path Analysis helps to solve and optimize.
+Doing more than one task at a time hampers productivity (APA, 2006). Even if you could multitask, the level of precision and finesse drastically decreases for all things done simultaneously. You can have multiple tasks going all at the same time though, in parallel, which is what a methodology like Critical Path Analysis helps to solve and optimize.
 
 It's why distracting opponents works as a defensive technique and a set-up for an offensive technique. If the opponent falls for the distraction, it's what they focus on instead of their original goal, which gives you more time to focus on your priorities to achieve victory.
 
@@ -90,7 +89,7 @@ It's why distracting opponents works as a defensive technique and a set-up for a
 
 This is your backbone, your strategy, or your core build order. Whatever you wish to call it. 
 
-It's the primary guide and routine you follow along, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
+It's the primary guide and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
 
 Never forget this core routine *must* be adaptable. It has to account for emergencies, deviations from the norm, and more. A rigid macro strategy, even if it's a seemingly perfect strategy, can crumble if it cannot adapt to changing environments and unexpected scenarios.
 
@@ -107,11 +106,11 @@ Knowledge of the environment and knowledge of technical skills and details is im
 
 ### **The Micro(management)**
 
-This is the part where you're maximizing unit value per second (or other unit of time).
+This is where you're maximizing unit value per second (or other, similar unit of time).
 
 To put it another way: Say you tell someone they need to clean the dishes. Your macro is issuing the order here. The tasks involved (scrubbing, cleaning, putting the dishes away, etc.), are the micro accomplished by the person working without any further intervention on your part.
 
-Your micro load increases when going beyond the initial request and overseeing each step the person makes. While you could ensure everything is done exactly as intended, this is often wasted effort and rarely ever needed beyond the initial training a unit gets in the task. Excessive direct intervention wastes productivity of all parties involved, not just one or the other.
+Your micro load increases when going beyond the initial request and overseeing, or taking over, each step the person makes. While you could ensure everything is done exactly as intended, this is often wasted effort and rarely ever needed beyond the initial training a unit gets in the task. Excessive direct intervention wastes productivity of all parties involved, not just one or the other.
 
 There *are* cases where extensive micro is useful, but it is rare and carries great risks when done incorrectly. Generally speaking, a manager, commander, or leader should only be issuing orders, and information relevant to complete the order, to units without further intervention. They should let the units accomplish the "task" to the best of their ability.
 
@@ -125,13 +124,13 @@ There's also a term called "trading" where you're balancing the supply costs of 
 
 *Alternatively: Hiring or Firing.*
 
-Resources and tools may become obsolete. It may always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
+Resources and tools may become obsolete. It may not always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
 
 The costs to bring in, and get of, assets is typically really high so you want to be careful when doing so. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
 
-If this applies to real people, i.e. human beings, you're better off consulting with HR, or a legal expert to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to. You want to avoid stepping on the legal trouble minefield.
+If this applies to real people, i.e. human beings, you're better off consulting with HR, or perhaps a legal expert, to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to. You want to avoid stepping on the legal trouble minefield.
 
-In our simulation case, though, asset management happens as more resources, such as revenue, affect your strategies, tactics, and management priorities. You're evaluating based on performance, actions, and capabilities of assets rather than the assets itself. Mismanagement can cause issues and affect the productivity of the entire organization later. It may be tough to get rid of something, but sometimes eliminating something is the best course of action.
+In our simulation case, though, asset management happens as more resources, such as money, affect your strategies, tactics, and management priorities. You're evaluating based on performance, actions, and capabilities of assets rather than the assets itself. Mismanagement can cause issues and affect the productivity of the entire organization later. It may be tough to get rid of something, but sometimes eliminating something is the best course of action.
 
 This also means you're raising the bar constantly. It might be small increments or big increments, but the bar is rising over time. Early on, when resources are scarce and systems are not fully in place, you may be ok with weaker options to suit your goals. Later on, when resources and systems are set up, you're less likely to use the "old" option and go for the better options you can now afford.
 
@@ -157,7 +156,7 @@ To "map" out a strategy, steps include the following (Paraphrasing from Kenton, 
 5. Identify the critical path
 6. Monitor progress and edit
 
-Step #5 requires further elaboration. A critical path is the *longest* path through all your *dependent* activities from start to finish without making the project even longer. You can affect how long a task may take through resource/technical allocation, like adding more workers to a job or bringing in a specialist instead of a generalist. Though you can affect timelines, you're still at the mercy of benefit vs cost analysis and weighing if dedicating more resources to shorten timelines results in higher monetary/resource savings in the project.
+Step #5 requires more elaboration compared to the other steps. A critical path is the *longest* path through all your *dependent* activities from start to finish without making the project take more time. You can affect how long a task may take through resource/technical allocation, like adding more workers to a job or bringing in a specialist instead of a generalist. Though you can affect timelines, you're still at the mercy of benefit vs cost analysis and weighing if dedicating more resources to shorten timelines results in higher monetary/resource savings in the project.
 
 Any project can have several parallel or pseudo-critical paths embedded inside of it depending on its complexity. Some activities may be non-critical and eliminated at little to no cost as well, which some activities can start if a preceding task has partial completion instead of full completion. Activities are considered dependent if they require one or more previous steps/activities to be done beforehand before starting, such as preparing ingredients before putting them into a pan to cook. You can classify dependencies in four ways:
 - Start to Start (SS): Task A starts before Task B starts.
@@ -195,11 +194,11 @@ Some downsides to this method are its usefulness decreases as operations scale u
 
 Scale is information and resource flow under changing constraints.
 
-When you're starting out, you're managing a small amount of resources. As you scale, you're managing more and more resources at a time.
+When you're starting out, you're managing a small amount of resources. As you scale up, you're managing more and more resources at once.
 
 What was once hundreds becomes thousands. What was thousands becomes millions. At larger scales, small scale activities lose significance or worth.
 
-This may be seen with management as well or even with data pipelines for engineers. You're dealing with where transformations happen, tracking where loss, if any, occurs, and building logs and observation points across the pipeline to preserve what information travels across layers.
+This may be seen with management and also data pipelines for engineers. You're dealing with where transformations happen, tracking where loss, if any, occurs, and building logs and observation points across the pipeline to preserve what information travels across layers.
 
 Every layer in an organization operates with different contexts. Each layer has its own priorities, incentives, and translations to consider. The higher up in layers you go, the less granular and more summarized the information. Going down from the top layer, the intent is filtered and reshaped locally at each layer it passes through.
 
@@ -229,28 +228,28 @@ Many failures at scale are silent killers that degrade a system over time before
 
 *Alternatively: Punishment for Performance*
 
-Now that you know what to account for when scaling up, now we talk about an unspoken reality of efficiency at scale. It's something observed since at least the early 20th century and called underworking, or "soldiering," as Frederick Winslow Taylor may call it (1911).
+Now that you know what to account for when scaling up, we talk about an unspoken reality of efficiency at scale. It's something observed since at least the early 20th century and called underworking, or "soldiering," as Frederick Winslow Taylor may call it (1911).
 
 For video games and simulations, where you're a manager, commander, etc. you may not encounter this issue. In these environments, your "units" hold little or no agency and have set parameters determining their capabilities. You can "tech" (i.e. upgrade) these units, with minimal resistance to change, over time to be more efficient and effective and push their limits to meet your goals.
 
-In the real world, and certain games where real humans cooperate/compete together, people have agency in addition to goals that may not fully align with an organization's goals. For example, an employee may avoid productivity or only meet the expected and required output/threshold and not go beyond it. This will occur even if your solution is to set a quota to encourage efficiency. The primary reason is working fast is often rewarded with a bigger shovel. Once someone knows something can be done faster, they may expect it to keep being done faster in the future.
+In the real world, and certain games where real humans cooperate/compete together, people have their own agency in addition to goals that may not fully align with an organization's goals. For example, an employee may avoid productivity or only meet the expected and required output/threshold and not go beyond it. This will occur even if your solution is to set a quota to encourage efficiency. The primary reason is working fast is often rewarded with a bigger shovel. Once someone knows something can be done faster, they may expect it to keep being done faster in the future.
 - E.g. You dug a 5 meter hole faster than predicted, so now you get to dig a 10 meter hole in that same timeframe instead.
 
-You, a potential manager, leader, or founder, may be perfectly fine going above and beyond on effort and working hours for *your* business. The average employee under you, however, is not dedicating time to their own business, but yours instead. It's sensible and reasonable for you to recognize this disconnect and give your team(s) explicit and strict instructions to not overwork themselves because they may not be rewarded for it!
+You may be perfectly fine going above and beyond on effort and working hours for *your* business. The average employee under you, however, is not dedicating time to their own business, but yours instead. It's sensible and reasonable for you to recognize this disconnect and give your team(s) explicit and strict instructions to not overwork themselves because they may not be rewarded for it!
 - If however, despite said employees *knowing* this disconnect still want to go above and beyond, then find ways to scale their compensation with their extra effort put in.
 
 Many human beings do *not* want to be straddled by work. If they're being productive and efficient in their work, they're typically seeking more *freedom*, not more work. To this end, deliverables may be turned in right before the deadline or due date, people may take more time doing their job, and workers may intentionally appear slightly overworked and overwhelmed to deter additional work being sent their way. The bare minimum to not get into trouble is now the new goal and purpose at a job instead of promoting efficiency in that same job.
 
 ### **Relating Back to Instruction**
 
-Now, let's tie strategy and macro/micro to teaching/instruction.
+Let's tie strategy and macro/micro to teaching/instruction.
 
-Macro is like establishing a curriculum and lesson plan from where you teach material to students. It's also developing a classroom management plan you can reference for yourself and students so you have ways to deal with contingencies and other emergencies (more on classroom management in another chapter!).
+Macro is like establishing a curriculum to determine what material you teach to students. It's also developing a classroom management plan you can reference for yourself and students so you have ways to deal with contingencies and other emergencies (more on classroom management in another chapter!).
 
 Your focus *should* be on macromanagement most of the time as your primary goal is instruction! If you're not spending the majority of time in instruction, then something is very likely wrong.
 - An exception to the above would be activities, where instead of instructing you're letting students do activities or labs on their own with some guidance. 
 - In that case, the ~90% goes towards putting out fires and ensuring the class is focused on the activity.
-- If this were a manager outside of education, that same portion of time should be getting rid of blockers and setting up systems for employees to do tasks effectively.
+- If this were a manager outside of education, that same portion of time should be used getting rid of blockers and setting up systems for employees to do tasks effectively.
 
 Micro is when you're discipling particular students, answering questions in the middle of instruction, or stopping instruction or other tasks to help students inside of a classroom. Assuming classroom management and appropriate systems are in place, this should ideally take no more than 10% of your time in a classroom session. While some micro may be necessary, too much focus negatively affects your goal of guiding and instruction the class *as a whole.*
 

@@ -29,7 +29,7 @@ Not necessarily.
 
 **Legal Eligibility and Background Checks**
 
-Some laws restrict people with certain crimes around campuses. Ensure guests are allowed on campus and cleared before they visit. This may typically be handled by administration rather than educators and teachers.
+Some laws may restrict people with certain backgrounds around educational campuses. Ensure guests are allowed on a campus and cleared before they visit. This may typically be handled by administration rather than educators and teachers.
 - One such law is the Adam Walsh Child Protection and Safety Act at the federal level (2006).
 
 Additionally, extensive background checks aren't something you normally verify and conduct yourself. Federal authorities, principals, and other support staff do this for personnel in workplace settings. Some schools may have a verified adult list to allow select individuals to do extracurricular activities and/or a list to ban select individuals as well.
@@ -40,7 +40,7 @@ Your principal or dean must approve the visit. If it's off-campus, it typically 
 
 **Written Agreements**
 
-To mitigate ambiguity, create a written record of the session(s), and deal with any liabilities, you'll want a written contract and/or form with some of the following:
+To mitigate ambiguity, create a written record of the session(s), and to deal with any liabilities, you'll want a written contract and/or form with including, but not limited to, some of the following:
 - Role(s)
 - Duration
 - Equipment needed
@@ -70,24 +70,24 @@ The guest teacher is also bound by any rules they agreed to as well. If they do 
 
 ### **Substitute Teachers**
 
-Substitute teachers are teachers with either a teaching license or a substitute teaching license in your applicable state. In emergencies, those requirements could be waived or lowered, but also vary by state (Learning Policy Institute, 2025). For private schools, they could be vetted adults by administrative staff too (since private schools can be classified as private businesses in many jurisdictions). 
+Substitute teachers are teachers with either a teaching license or a substitute teaching license in an applicable state. In emergencies, those requirements could be waived or lowered, but also vary by state (Learning Policy Institute, 2025). For private schools, they could be vetted adults by administrative staff too (since private schools can be classified as private businesses in many jurisdictions). 
 
 Unlike other guest teachers, substitute teachers presumably have formal job contracts with educational agencies or school districts, completed multiple background checks at state/federal level, and the blockers above are already taken care for you. Substitute teachers can replace you, at least temporarily, as a primary teacher/teacher of record depending on what the license and state allows. In most cases, they are called upon a day before/morning of a given day, rather than planned far in advance, but some substitute teachers may take on long-term coverage.
 
 With a substitute teacher, you may safely assume some things until proven otherwise:
-1. They very likely do not know the same material as you.
+1. They likely do not know the same material as you.
 2. They will not have full access to the same software you do (e.g. classroom management and monitoring software)
     - Sometimes it is the facility's rules and administration blocking access instead of any teacher(s).
 3. They may handle classroom management differently from you.
 4. They may not have the appropriate training to handle certain situations like the primary teacher can.
 5. They are on the educational staff's side, *not* the student's side.
 6. They won't have physical access to education facilities like other staff, such as room keys, unless it is explicitly provided for them during their session(s).
-    - This one is especially important and a common pain point I've seen; trusting them with hundreds of students but not a single key.
+    - This one is especially important and a common pain point I've seen; trusting them with hundreds of students but not a single classroom key.
 
 If your education system and policies aren't carefully designed, you may be setting substitute teachers up for failure instead of success. A substitute teacher doesn't have much power, so most managerial and authority is delegated to others to follow up on. They could issue some punishments on an educator's behalf, provided they are permitted to do so by their contract's terms and administration's rules. However, how they can issue those punishments may be restricted. Some examples of what substitutes may be cleared to do regarding discipline:
 - Minor and moderate infractions: documenting issues in substitute-to-teacher notes to be handled at a later time
 - Physical issues: calling security
-- Major infractions: calling office / administration
+- Major infractions: calling office and/or administration
 
 Other times, a substitute teacher may record events as they occur and detail what happened, then defer it to the teacher of record or administration to handle further punishment from there. Coincidentally, and from personal experience, this lines up with days where students tend to act at their worst behavior around a person where if they say students were bad, those students were very likely *actually* bad. **Just because a substitute teacher is there does NOT give permission to students to act up and assume there will be no consequences for their actions.**
 - Probably the worst day(s) for younger students were days *after* students treated the subtitute teacher poorly. If students want to fool around, then they find out what happens soon after.

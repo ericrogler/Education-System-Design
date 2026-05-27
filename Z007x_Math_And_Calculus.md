@@ -17,6 +17,8 @@ nav_order: 14
 
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional. The next few chapters are separated to avoid spilling over material and causing undue confusion.*
 
+For an alternative view of this chapter, and as a critique of mathematics education, you may consider reading *A Mathematician's Lament* by Paul Lockhart (2009).
+
 **If there's one thing you at least need to take away from this chapter, it's people should memorize their times tables.**
 
 The average adult (and people becoming adults) should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
@@ -36,15 +38,13 @@ Lastly, you'll want advanced knowledge precisely to know when an advanced method
 
 ## **Long Answer**
 
-Math is about theory and proofs.
+Math is about theory and proofs. Science is application of math to solve real problems. Applying math is what makes money, which affords goods and services to keep you alive.
 
-Science is application of math to solve real problems.
+Does that mean you need to be a genius at math to survive? No. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
 
-Applying math is what makes money.
+Regardless of money, doing cool things with math, even if you cannot directly apply it or it has no direct relevance to daily life, *is still pretty cool and essentially an art.* The field is so incredibly diverse that no one single person will likely ever learn *all* of it in their lifetimes, but everyone can certainly show appreciation for the field at large. That appreciation could be showcased by students taking the initiative to try and solve problems themselves and flex their creativity instead of only being told how to solve it.
 
-Money (and currency) affords goods and services to keep you alive.
-
-Money or no money, doing cool things with math, even if you cannot directly apply it, *is still pretty cool.* The less cool part, though, is the field is so incredibly diverse that no one single person will likely ever learn *all* of it. Another less cool part is the lack of pop-science appeal and how prevelant applications of math are versus the theory of math. Your average person may know about Albert Einstein and the Theory of Relativity, but not necessarily know anything about Leonhard Euler and all of his various works.
+A less cool part is the lack of pop-science appeal and how prevalent applications of math are versus the theory of math. Your average person may know about Albert Einstein and the Theory of Relativity, but not necessarily know anything about Leonhard Euler and all of his various works.
 
 The average person may not get much mileage out of math, but the smarter person may. Not every person is expected to become an engineer (or even complete an engineering degree) or suddenly be good at math just because they took a course in it. There's also adjacent roles using math like physicists and analysts, and countless roles using math in some way, shape, or form.
 
@@ -52,11 +52,11 @@ If I had to name *only two* issues affecting math, it'd be the following:
 1. Math perceived negatively is normalized, so being bad at math is "ok" and competency starts sliding down.
 2. How math is taught across *the entire learning sequence* and all related curricula is flawed.
 
-I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take beyond my lifetime to fix up. I'm not here to write a full solution to that because I'm focusing on the *importance* of math, which means more targeting issue 1 over issue 2.
+I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take beyond my lifetime to fix up. I'm not here to write a full solution to that because I'm focusing primarily on the *importance* of math, which means more targeting issue 1 over issue 2.
 
 The main thing stopping people is math is "difficult," but not in ways you'd expect, and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. Due to this difficulty, it may be better to frame certain math topics as "it's easier/more difficult than it appears" rather than a flat easy/hard rating.
 
-Much like with a musical instrument, there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
+Much like with a musical instrument, or learning to draw and finding out you're only good at stick figures (at first), there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
 
 The other difficulty is mathematics is less knowing facts and more curiosity, or desire, to learn and figure things out. It also means processing logical arguments to explain and prove properties within mathematics. You want peers and other people around to discuss math with, because it's how you develop ideas and improve in it. There's plenty of connections between literature and mathematics as well, despite them being two different fields. Knowing math is similar to like knowing another language where ideas and concepts come from earlier ideas and concepts and build upon them.
 
@@ -74,7 +74,7 @@ Though my primary subject matter is Science (and Engineering), Math is still nec
 
 The foundation of math in general is based on understanding and intuition. 
 
-Say for example I want to introduce you to a new proof. It requires abstraction, which means confusion and difficulty when you first see it; that's normal. It also requires a foundation to work upon, because it may seem boring and useless at first and doesn't get "fun" until you reach the later stages. Short-term memorization only takes you so far; you *have* to actually learn math to advance in it and do well.
+Say for example I want to introduce you to a new proof. It requires abstraction, which means confusion and difficulty when you first see it; that's normal. It also requires a foundation and prior understanding to work upon, because it may seem boring and useless at first and doesn't get "fun" until you reach the later stages. Short-term memorization only takes you so far; you *have* to actually learn math and care about it to advance in it and do well. Essentially, you learn by doing and remember what you care about.
 
 It's like the chicken and egg problem. You need students to buy into what you're learning, which means showing math (and science) is useful and interesting. Those same students, however, may not see it that way until they're actually good at it though! This is why practice (and homework, by extension) is *still* essential.
 
@@ -86,33 +86,36 @@ As for ways to get people to hate math, I can easily name a few:
 2. Student surrounded by a culture where being bad at math is cool.
 3. Students not accepting they'll be bad at math at first before they get good.
 4. Students refusing to practice the math to establish a proper foundation.
+5. Students forced to learn math without developing some sort of appreciation or care for it; the necessary ingredient for innovation, so to speak.
 
 Sometimes the explanation from a teacher is also part of the problem with math education. Say for example I present to you a proof. While explaining that proof, I also jump several levels of abstractions at a time or perform steps you may not rationalize yourself at that moment of time. The material I'm teaching may also not consider specific motivations or assume intuitions properly as well. It may also not include concrete examples with said abstractions to better connect the dots on how it works and why it works.
 
 Clarity is important. For math, it is especially important, because a culture or group of people may not be interested in math, so it'll be harder for them to learn as a result. You don't need to, or should, sacrifice rigor to achieve clarity either; high rigor can complement high clarity. Definitions and formulae can be unambiguous and have strict justifications, as well as motivating examples.
 
-You also should not completely sacrifice memorization for abstraction and conceptual thinking. Memorization is important for doing things quickly and accurately, like mental math, and ensuring it doesn't take someone 1-2 minutes to solve 6x7 without a calculator or equivalent tool. It's best for rules and axioms and memorization is on the level of memorizing the alphabet. You should know the alphabet, but you need further abstraction, concepts, and practice to interpret what each letter means, string together letters into words, then to put words into sentences to accomplish something.
+You also should not completely sacrifice memorization for abstraction and conceptual thinking. Memorization is important for doing things quickly and accurately, like mental math, and ensuring it doesn't take someone 1-2 minutes to solve 6x7 without a calculator or equivalent tool. It's best for rules and axioms and memorization is on the level of memorizing the alphabet. You should know the alphabet, but you need further abstraction, concepts, and practice to interpret what each letter means, string together letters into words, then to put words into sentences to accomplish something. That abstraction comes from students having the chance, and capitalizing on that chance, to discover it themselves how it works.
 - To put it another way: you "memorize" systems, stories, and processes to solve problems.
 - Memorization is also a way to avoid looking up something every time you need it.
 
-Despite the potential desire to explain proofs and reasoning to students, some students may not care and instead want the shortest sequence of steps. They're mostly in it for a grade, rather than learning. If it's a couple students out of a large classroom it's not a major issue. If it's most students though, you may be sacrificing productivity and deep learning to stick with high-level concepts instead.
+Despite the potential desire to explain proofs and reasoning to students, some students may not care and instead want the shortest sequence of steps. They're mostly in it for a grade, rather than learning. If it's a couple students out of a large classroom it's likely not a major issue. If it's most students though, you may be sacrificing productivity and deep learning to stick with high-level concepts instead and "churn" out students.
 
 ### **Back to the Basics**
 
-Basics as in functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization;* there's no way around it for how you'll learn it and retain it throughout your life.
+In art, you may need to learn how to hold a brush before you can paint. The same concept applies to mathematics.
+
+Basics includes items like functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization;* there's no way around it for how you'll learn it and retain it throughout your life.
 
 It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (PEMDAS or GEMS) and what a percent actually means.
 
-It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition. 
+It's also a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition.
 
-Cognitive outsourcing shouldn't ever become a default state for students when it comes to even the basics. To give more examples of cases I've seen which result in blank stares, wildly incorrect answers, or resorting to a calculator:
+Cognitive outsourcing shouldn't ever become a default state for students when it comes to the basics. To give more examples of cases I've seen which result in blank stares, wildly incorrect answers, or resorting to a calculator:
 - What is the same number as three?
 - What is one half of ten?
 - What happens when two letters (i.e. variables) are next to each other?
 - What is two squared?
 - What is eight times one?
 
-Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations or apply the math you learn effectively. The same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important.  You cannot escape language arts that easily!
+Reading is important because... well, if you cannot read, then you'll be unable to interpret even the symbology behind equations or apply the math you learn effectively. The same symbol can mean two different things across two different types of math, science, etc. Its why knowing and understanding context is *extremely* important. Knowing how to read also gives you the means to express information in a simplified form for better understanding later on. You cannot escape language arts that easily, dear readers!
 - Students can solve many of their frustrations by simply reading the problem(s) too.
 
 Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
@@ -162,6 +165,8 @@ These are important because they're used practically in many ways seen and unsee
 
 Algebra also puts into writing many concepts you may intuitively do already, such as figuring out how much more money you need to afford X. You *can* do things without Algebra, but knowing it enables complexity, grants knowledge for practical tools, and grows thinking in abstracts.
 
+Do you *need* to memorize every complicated formulae to do Algebra? Not necessarily. It may be counterintuitive too, because you may know what a theorem is by heart but never internalize the spirit of it and be left mumbling a shell of what it's supposed to do.
+
 Even "2+2=4" (or "a+b=c") is technically Algebra when you introduce variables instead of numbers. There are many concepts and properties requiring learning Algebra as the basis to comprehend their existence. It generalizes mathematics and shows how numbers can transform through various operations.
 
 It also introduces you to many other concepts you'll see in advanced math, such as polynomials, simplification, and inequalities. Many people will stick with classical Algebra and not get into Abstract (or Modern) algebra, as the former suits many use cases in practice.
@@ -172,14 +177,17 @@ For many people outside of math-heavy fields, like design or art, you're missing
 
 ### **Calculus: Why it's Important**
 
-Why Calculus? A lot of applied math *loves* using it.
+Why Calculus? A lot of applied math *loves* using it. 
 
-One of the few times I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying heavily on a single source.
-- These were available when I was in college going through the levels of Calculus back in early 2010's.
+Sadly it contains a large amount of unnecessary and overly formalized information, which means for the average person in practice, they may rarely, if ever, use Calculus. If that's the case, perhaps approach it like a particular art style you can say you know how to do and show off regardless.
+- For example, have you ever seen an elegantly written proof? It's a thing of beauty with its own unique charm. Truly an art.
+
+I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying so heavily on a single source here.
+- These were available when I went through Calculus back in early 2010's.
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
-    - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll fail it without solid foundations in those areas.
+    - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll fail it without solid foundations and understanding in those areas. 
 
- I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it.
+ I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it. At this level, and before it hopefully, understanding is essential to mathematics and science. Trying to rote memorize your way through it all is an exercise in frustration, easy way to forget what you learned in the first place, and may potentially lead you on the highway to failure here.
 
 **Calculus is a gateway to modern/advanced math and science, but is mainly important for two reasons:** 
 
@@ -217,7 +225,7 @@ To more practically explain one form of derivative and integral relationships, I
 
 In oversimplified terms, derivatives are like the slopes of a function and integrals are like the area under the curve on a graph.
 
-Its applications are in areas you may expect, like engineering, physics, and architecture, and areas you would not expect, like retail. Here's some further examples of Calculus applications below:
+Its applications are in areas you may expect, like engineering, physics, and architecture, and areas you would not expect, like retail stores. Here's some further examples of Calculus applications below:
 - In physics: solve for velocity and acceleration, like in the example above, but also determine work and energy. 
 - In engineering: optimize systems, calculate material stress, fluid dynamics, and simplifying complex systems into algebraic equations for applied engineering problems.
 - In finance and data science: costs, profits, trends, seasonality, and rate of production.
@@ -232,15 +240,15 @@ This also isn't a call to ignore math as a discipline or disrespect math either.
 
 ### **Beyond Calculus**
 
-I'll admit: many people don't *need* to go beyond basic Calculus. If we're going off purely benefits vs time investment, you're typically better off solidifying foundations and basics ten times over instead of building up a (potentially) precarious foundation.
+I'll admit: many people don't *need* to go beyond basic Calculus. If we're going off purely benefits vs time investment, you're typically better off solidifying foundations and basics ten times over instead of building up a (potentially) precarious foundation. Don't compromise creativity and ability to problem solve here if it's not necessary.
 
 It's like how you can recall a topic and the general direction of what you need, then use a search engine like Google to find the details. The average person can stand upon the shoulders of giants and benefit from the collective knowledge of humanity throughout time.
 
-In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent; just more abstract and dependent on your notion of numbers.
+In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent; just more abstract and dependent on your notion of numbers. It's not quite like throwing an empty canvas at your face and telling you to paint whatever you want and disregard any rules you know of, but it certainly eliminates some guardrails you might've been comfortable with.
 
 That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder.
 
-When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* You have to argue *why* an equation, formulae, or theorem works the way it does. These proofs are not necessarily exclusive to higher math, and could be learned at an early age, but are definitely more abundant in higher math. Depending on how math was taught, someone may've experienced proofs far earlier in their learning journey.
+When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* You have to argue *why* an equation, formulae, or theorem works the way it does. These proofs are not necessarily exclusive to higher math, and could be learned at an early age, but are definitely more abundant in higher math. Depending on how math was taught to them, someone may've experienced proofs far earlier in their learning journey.
 
 Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it followed the rules.
 - In other words, you're learning more how you can solve things without numbers readily available and deterministic models unavailable.
@@ -256,27 +264,32 @@ Additionally, what you *could* say in ordinary language, like English, now gets 
 With just that small sample, you can make something like this:
 - ∀x ∈ ℕ, x ∈ {1,2,3} ⇒ x ≤ 3
 
-Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3."
+Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3." Funny how a bunch of symbols arranged that way on paper can mean that.
 
-Half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
+At least half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
 
 As a reminder, I'm not expecting the average reader to go above and beyond to the level where they, for example, [seamlessly interpret the entirely of Kimi Linear](https://arxiv.org/abs/2510.26692). Knowing the high-level concepts will suffice for most cases.
 
 ### **What about Machine Learning?**
 
-Normally I'd place this under beyond Calculus, but it's its own section due to popularity of AI in 2026.
+Normally I'd place this under beyond Calculus, but it's its own section due to popularity of AI at the time of writing.
 
 You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about supervised vs unsupervised learning, structured vs unstructed data, streaming vs batching, and what even is machine learning without too much difficulty. The basics are doable.
 
 The next stage is going into the high-level overview of concepts, like linear regression, gradient descent, hyperparameters, learning rate, and so on. I could give you a less technical explanation of these and you might go away with understanding it just fine.
 
-The issue is when you need to go *beyond* high-level overviews and working with them in practice. At that point, the math provided in courses like Calculus, Linear Algebra, Optimization, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
+The issue is when you need to go *beyond* high-level overviews and working with them in practice. For example, while you could do most problems with a small amount of theory on methods like logistic regression, random forests, and transformers as well as tools like Docker and SQL, that still leaves a small, but significant, set of problems. 
+
+At that point, the math provided in high-level math courses like Calculus, Linear Algebra, Optimization, Game Theory, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
 
 If your goal is to get into and/or work with machine learning, you'd best learn math.
 
 ## **Bibliography**
 
 1. Dawkins, P. (2023, October 9). Pauls Online Math Notes. Tutorial.math.lamar.edu. [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
+
+2. Lockhart, P. (2009). *A Mathematician’s Lament.* Bellevue Literary Press.
+    - Alternative Source: [A 25-page article written by the author as well](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 
 2. *Senate-Administration Workgroup on Admissions Final Report.* (2025). University of California San Diego. [https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf)
 

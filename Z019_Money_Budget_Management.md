@@ -16,7 +16,7 @@ nav_order: 28
 
 ---
 
-**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling. The closer you are to truly being wealthy, the more you realize everything effectively becomes free and failure doesn't (really) exist.
+**Money affords mistakes.** The kind of mistakes that'd make even a loan shark give you money advice, like slowing down on gambling. The closer you are to truly being wealthy, the more you value what opportunities wealth provides you instead of the wealth itself.
 
 **If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam.** Remember, the goal of a business (and financial operations) is *making* money, not saving money.
 - Alternatively, think about how you might sell shovels when people say there's a gold rush.
@@ -27,11 +27,11 @@ If you're deciding between two or more options to spend money on, the following 
 - Performance (how well does it work and handle failure/delays)
 - Cost (is it affordable in the short/long term)
 
-The typical goal of an organization is to improve performance (effectiveness) and/or cut costs (efficiency). Money is a large motivator behind decision making. 
+The typical goal of an organization is to improve performance (effectiveness) and/or cut costs (efficiency). Money/wealth is a large motivator behind that decision making. 
 
 If selling products or services, it's typically better to offer incentives towards customers to buy something rather than force customers to buy something.
 
-One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management and you making a stupid decision, on accident or on purpose, is *a very real risk.*
+One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management and you making a stupid decision, on accident or on purpose, is *a very real and dangerous risk.*
 
 If you're trying to teach a student about wealth, go over the following:
 - How to be humble and gracious.
@@ -42,42 +42,43 @@ If you're trying to teach a student about wealth, go over the following:
 
 ## **Long Answer**
 
-Many questions have a simple answer: money.
+*Notice: There is no financial advice offered to the reader. Assume everything is informational.*
 
-**A lot of things happen due to money. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing money itself.** 
+Many questions have a simple answer or at least one common symptom behind an answer.
 
-When working with people, you can do anything they want. The only question is how much more money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology.
+That's wealth/money. 
 
-You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
+**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing money itself.**
 
-Are these meant to be jokes? Perhaps. 
+For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
 
-Anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means to afford said success.
+Are the above examples meant to be jokes? I can neither confirm nor deny. 
 
-In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked.
+Nevertheless, anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means (i.e. wealth) to afford said success.
 
-This chapter is *also* where we acknowledge that socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service; if anything, it's closer to how healthcare systems may operate.
-- *Yes, this paragraph is intentionally replicated to emphasize the point.*
+In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over only 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked.
 
-While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. How much you're paid is also affected by money available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
+This chapter is *also* where we acknowledge that socioeconomics is indeed important and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. *Yes, this paragraph is intentionally replicated to emphasize the point.*
 
-Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a student has available typically correlates positively with their quality of education (Diemer et al., 2019). 
+While I did talk about monetary blockers briefly before, I'm creating a separate chapter on it because money permeates almost every facet of education, either directly or indirectly. How much you're paid for your work is also affected by money and resources available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
 
-Because money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
+Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a student has available typically correlates positively with their quality of education (Diemer et al., 2019). While that may seem "obvious" to some keen readers, I do need to plainly state that fact still.
+
+Though money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
 - Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
 - It also generates a lot of *new* problems.
     - Instead of not dealing with issues due to lack of resources, people may throw money at issues to try and make them go away.
     - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
     - More aptly put: making decisions based on convenience rather than monetary cost.
 
-**If teachers are managers, then each class they're teaching is like a project they're overseeing.**
+**If teachers are "managers," then each class they're teaching is like a project, campaign, or initiative they're overseeing.**
 
 - Students are employees doing the tasks by learning and showing proof they learned properly.
-- You have an assigned budget for supplies, equipment, and materials–mainly provided by the school, PTO/PTA, or investments.
-- You're organizing the workload distribution and backlog (units and topics in your subjects taught) through a set period with strict deadlines.
+- You have an assigned budget for supplies, equipment, and materials mainly provided by the school, PTO/PTA, investments, etc.
+- You're organizing the workload distribution and backlog (e.g. units and topics in your subjects taught) through a set period with strict deadlines.
 - You have to make sure students are doing the work and not causing excessive issues amongst each other. There is behavior management involved.
 
-Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the principal(s) at your institution.
+Teachers function like managers, even if it's not outwardly stated. Another role you have is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike typical managers, though, you may not deal with all the nuances of budgets and money; that may be up to the administrators in education systems.
 
 ### **The Cost of Doing Things**
 
@@ -95,7 +96,11 @@ Indirect costs, or overhead, are not tied to specific works but still utilized b
 
 Capital expenses (CapEx) are generally upfront, long-term purchases dealing with assets, such as hardware, software, and property. Operational expenses (OpEx), meanwhile, are ongoing, short-term costs like subscriptions, pay-as-you-go models, and recurring services.
 
+While I don't expect every reader to become an expert in financial documents overnight, you may consider getting familiar with at least income statements, balance sheets, and cash flow statements. Those 3 documents alone can provide significant insight into the "health" of a system, business, etc. Going into detail on said documents would be its own chapter, if not its own book(s), so I'm only mentioning their names and what they could do for you here.
+
 ### **How to Make Money**
+
+Businesses generate wealth/money as a means to (usually) generate revenue/profits, cover expenses, and maintain operations. It's in your best interest to figure out how the business operates, what aspects and work(s) they care about, and why businesses may heavily prioritize anything that increases performance (effectiveness) and efficiency even at the cost of other things. This may include areas like procurement, manufacturing and cost of goods sold (COGS), distribution and logistics, end users, and more. There may be a lot of gatekeeping behind this knowledge, but that's precisely what makes that knowledge valuable.
 
 Many businesses operate on a simple, but important, core loop for customers:
 1. Attract Customers
@@ -114,25 +119,23 @@ Delivering value is where you walk the walk from the talk you talk. This is wher
 
 Retaining customers is when you *sustain* incoming revenue streams. A dollar today sounds nice, but what about a dollar *every* day? You've delivered once, but now it's consistent value delivery, relationship management, loyalty, and communication. Keeping existing customers is far less costly than onboarding new customers, much like how bringing on new employees can be far more costly than keeping current employees happy. If you mess up here, your customers may not be completely let down, but left with only fonder memories of a better time and an indication you messed up your value delivery.
 
-Growing revenue is scaling upwards. Instead of earning only 1 dollar, you try and earn 2 dollars. You'll likely go through upselling, cross-sells, expanding contracts, buying and selling more frequently, increasing the scale of logistics and operations (and its costs!) and plenty more examples. Assuming your customers are retained at this point and you've kept them quite happy, they may feed back into step 1 and attract even more customers for you.
+Growing revenue is scaling upwards. For example, instead of earning only 1 dollar, you try and earn 2 dollars instead. You'll likely go through upselling, cross-sells, expanding contracts, buying and selling more frequently, increasing the scale of logistics and operations (and its costs!), and plenty more examples. Assuming your customers are retained at this point and you've kept them quite happy, they may feed back into step 1 and attract even more customers for you.
 
-If we take this same loop and apply it to education systems, they're still like a business. You're trying to bring in new students and keep them around, because each new student usually means more money for budget, salaries, and more. The curricula and environment you provide is the value you deliver to these students. If they feel like the education they receive is valuable and the learning environment is pleasant, they'll want to stay around and perhaps bring in other people. To keep funds and the education system(s) afloat, you'll have to find ways to bring in new students as older, or disgruntled, students depart.
+If we take this same loop and apply it to education systems, they may still function like a business. You're trying to bring in new students and keep them around, because each new student usually means more money for budget, salaries, and more. The curricula and environment you provide is the value you deliver to these students. To keep funds and the education system(s) afloat, you'll have to find ways to bring in new students as older, or disgruntled, students depart. If students feel like the education they receive is valuable and the learning environment is pleasant, they'll want to stay around at least a little longer and perhaps bring in other people (i.e. students). 
 
 ### **The Morality of Wealth**
 
 Before continuing, I want to talk about consequences. 
 
-Not just for students, or only people involved in education systems. For everyone. 
+Not just for students or only people involved in education systems. For everyone. 
 
-What happens when you make a bad decision? You'd likely feel the consequences of it. 
+What happens when you make a bad decision? You'd normally feel the consequences of it, right? 
 
 What if, instead, you didn't feel any consequences? Would you still retain your senses of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? And, out of my own curiosity, what would you do with all the newfound opportunities now open to you?
 
-Much like a successful person may be shaped by the environment they're raised in, a person lacking morality may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are often shaped by the environments they're in and they can change *as people* when their environments change too.
+Much like a successful person may be shaped by the environment they're raised in, a person lacking morality may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are shaped by the environments they're in and they can change *as people* when their environments change too.
 
-You can do many things with enough time and resources. 
-
-You can do countless things when you're also free from consequences.
+The lesson is you can do many things with enough time and resources. You can do countless other things when you're also free from consequences.
 
 ### **Wealth Dynamics (for Education)**
 
@@ -142,13 +145,13 @@ How much wealth a school has, or the students and parents attending a school has
 - Put another way: a student could be a big fish in a little pond with, or without, even knowing about it.
 
 Despite this optimism, socioeconomic status (SES) of a child and their parents is statistically significant as a prediction of mobility and success in said child's future (CEW Georgetown, 2019).
-- For a visual representation, consider looking at the [Opportunity Atlas from Opportunity Insights](https://www.opportunityatlas.org/) (Opportunity Insights, 2024).
+- For a visual representation, consider looking at resources like the [Opportunity Atlas from Opportunity Insights](https://www.opportunityatlas.org/) (Opportunity Insights, 2024).
 
-Understand that teaching is difficult no matter the type of school and how much funding it has. Problems don't disappear; they change. While I do have mixed opinions on it, I believe higher wealth may have students exhibit more open defiance and entitlement while lower wealth may have more chaos and immature behaviors.
+Understand that teaching (and education) is difficult no matter the type of school, institution, etc. and how much funding it has. Problems don't disappear with wealth; they change. While I do have mixed opinions on it, I believe higher wealth may have students exhibit more open defiance and entitlement while lower wealth may have more chaos and immature behaviors.
 
-Teachers still teach based on the abilities and motivations of students with available resources. Additionally, at every level of school, you may still face bad parents, staff, students, etc.
+Teachers still teach based on their own abilities and available resources as well as the abilities and motivations of students. Additionally, at every level of wealth, you may still face bad parents, staff, students, etc.
 - I'm mainly focusing on what may occur from X amount of wealth.
-- Some readers may correlate problems with wealth listed here to levels in [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html) (McLeod, 2025).
+- Some readers may correlate problems with wealth listed here to the needs/tiers in [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html) (McLeod, 2025).
 
 Generally speaking, as a school goes from lower wealth to higher wealth, the following may occur (*this is a lot of things!*):
 - The amount teachers pay out-of-pocket decreases
@@ -175,7 +178,7 @@ While those are benefits, there's also problems occurring as wealth goes from lo
 
 1. Wealth inequality is, ironically, higher at high-income schools compared to low-income schools.
     - You could have a low-income and high-income student both at the same school, but the average is "high" so it's considered an affluent school still.
-    - It's simple math: there's a higher range difference between 100,000 and 1,000,000 versus 10,000 and 100,000. It's a difference in one or more orders of magnitude.
+        - It's simple math: there's a higher range difference between 100,000 and 1,000,000 versus 10,000 and 100,000. It's a difference in orders of magnitude.
     - [Metrics like Gini Coefficient](https://apps.bea.gov/scb/issues/2025/08-august/0825-gini-primer.htm) showcase inequality in general across populations, but those formulae aren't needed to showcase an example here (Hood, 2025).
 2. Purchasing educational achievement instead of earning educational achievement.
     - This provides access to resources typically reserved for the privileged, such as private tutors, test preparations, extracurriculars, admission boosts, and more.
@@ -199,7 +202,7 @@ While those are benefits, there's also problems occurring as wealth goes from lo
         - What is 0.003% cost for the millionaire is 0.03% cost for the first person
     - A billionaire (1,000,000,000 USD) can get 10,000 sandwiches (30,000 dollars) for the same relative cost.
         - What is a 0.003% cost for the billionaire is a 30% cost for the first person
-    - Wealth scales linearly, but the relative cost of goods and services don't scale as well. This creates a cognitive dissonance and cultural divide in lifestyle on what someone considers "normal." Shown with only math, the millionaire is closer to the 100,000 USD person than the billionaire.
+    - Wealth scales linearly, but the relative cost of goods and services don't scale similarly. This creates a cognitive dissonance and cultural divide in lifestyle on what someone considers "normal." Shown with only math, the millionaire is closer to the 100,000 USD person than the billionaire.
 
 To end this section: while wealth is an indicator, it does not always paint the whole story. Staff, students, parents, organizations, and general environment from one school to another school, even across schools with the same socioeconomic background, can have a night and day difference in how teachers are treated, education is provided, and discipline is enforced.
 
@@ -214,7 +217,7 @@ Assuming one public school teacher and one private school teacher enroll the sam
 
 Outside of that, public and private schools each have their advantages and their own numerous problems attached with them. Wealth (and resources), like the last section mentioned earlier, likely affects school performance far more than whether a school is private or public.
 
-Even if public schools and private schools perform similarly in controlled environments, there's plenty of differences in environments and programs that may swing your decision one way or another in practice. As an example: though both schools achieve the same educational results, you may prefer method Y for teaching over method Z. There may be other factors outside your control and/or outside the school's control as well, such as city/county rezoning developments.
+Even if public schools and private schools perform similarly in controlled environments, there's plenty of differences in environments and programs that may swing your decision one way or another in practice. As an example: though both schools achieve the same educational results, you may prefer method Y for a student's education over method Z. There may be other factors outside your control and/or outside the education system's control as well, such as city/county rezoning developments.
 
 Both private schools and public schools can perform well. The focus should be more on the environments these schools have and whether or not the school has specific resources to suit your educational needs.
 
@@ -230,51 +233,51 @@ Fortunately, the benefits of these models are scalability on demand. If you need
 
 ### **Where's the Money?**
 
-Money for schools typically comes from three public funding sources:
+Let's say money for schools typically comes from three public funding sources:
 - Local government
 - State government
 - Federal government
 
-Private schools can access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3)) too, though some private schools may be for-profit.
-
 Public schools receive public funding. Across the states in general, about 40-50% of funds come from the local government, 40-50% come from the state government, and the remainder (10-20%) is from the federal government, based on my extrapolation from research (Cornman et al., 2024).
 - For the U.S., The Institute of Education Sciences (i.e. NCES) also provides [a way to look up public school funding online](https://nces.ed.gov/edfin/search/search_intro.asp) at the district level (2019).
 
+Private schools can also access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3)) too, though some private schools may be for-profit.
+
 Charter schools also receive funding like public schools. In the case of Colorado, they receive "Per Pupil Revenues" (PPR) or money given by the state for expenses and insurance (Colorado Department of Education, 2025).
 
-Each of these funding sources is significant and use various formulae and metrics to determine which school districts receive necessary funding. If even one of these sources are affected, that could hamstring the entire educational system unless other resources compensate for the funding loss.
+Each of these funding sources is significant and use various formulae and metrics to determine which school districts receive the necessary funding. If even one of these sources are affected, that could hamstring the entire educational system unless other resources compensate for the funding loss.
 
-To illustrate how losing a single source of funding affects the educational system, I'll describe a situation in the United States. As occurred on October 2025, "nearly 90% of the Education Department is furloughed" including "nearly everyone in the Office of Special Education and Rehabilitative Services" (OSERS) due to effects from the ongoing government shutdown at the time (Schermele, 2025). This halted many administrative functions and the ability to distribute funding and enforce compliance is hampered due to lower personnel counts. By affecting head count, federal money for education is unlikely to get distributed as intended, done in a timely fashion, meet compliance, or get regulated as effectively.
+To illustrate how losing a single source of funding affects the educational system, let's describe a situation in the United States. On October 2025, "nearly 90% of the Education Department is furloughed" including "nearly everyone in the Office of Special Education and Rehabilitative Services" (OSERS) due to effects from the ongoing government shutdown at the time (Schermele, 2025). This halted many administrative functions and the ability to distribute funding and enforce compliance is hampered due to lower personnel counts. By affecting head count, federal money for education is unlikely to get distributed as intended, done in a timely fashion, meet compliance, or get regulated as effectively.
 
-Since the federal level is effectively shutdown, the next organizational tier, the state, absorbs the impact now (~10% funding allocation). The state may have to eat up costs to maintain any existing federal programs if that funding was cut. If there were any programs entirely, or primarily, reliant on federal funding, they may have to pause or be shut down too.
+Since the federal government, a primary source of funding, is effectively shutdown or greatly delayed in the above scenario, the next organizational tiers, the state and local governments, absorb the impact now (~10-20% funding allocation). The state may have to eat up costs to maintain any existing federal programs if that funding was cut. If there were any programs entirely, or primarily, reliant on federal funding, they may have to pause or be shut down too.
 
 The irony is shutting down a federal education department does not exempt following federal education laws. Statutes like IDEA and FAPE still expect compliance, even with diminished oversight or limited resources available to properly enforce them. Because there's a lack of resources, the expected output and anyone benefiting from these systems are likely to suffer.
-- This also includes complying with IEPs and related plans.
+- This also includes education systems complying with IEPs and related plans students may have, despite any loss of resources.
 
-To put this into perspective for many readers, it's like being told to complete a project with only a fraction of your original team and without many necessary tools. You're still expected to complete everything in the project scope by the deadline, but your ability to do so is crippled.
+To put this into perspective for many readers, it's like being told to complete a crucial business project with only a fraction of your original team and without many necessary tools and resources to do so. You're still expected to complete everything in the project scope by the deadline, but your ability to do so is greatly crippled and you may get punished despite anything positive you do on your own end.
 
 ### **What About Enrollment Formulae?**
 
-Systems for education, such as schools, may utilize enrollment formulae. By extension, attendance may be included here too.
+Education systems may also utilize enrollment formulae. By extension, attendance may be included here too.
 
-If enrollment increases, funding increases. If enrollment decreases, funding *also* decreases. There can be a sigificant difference in budget from a system with 30 students per teacher compared to 29 or 31 students per teacher, despite a small, visible change.
+If enrollment increases, funding increases. If enrollment decreases, funding *also* decreases. There can be a sigificant difference in budget from a system with an average of 30 students per teacher compared to an average of 29 or 31 students per teacher, despite a small, visible change in enrollment in the observed environment.
 
-It is entirely possible to decrease funding faster than decreasing expenses, which may lead to a financial downspiral. This remains true for educational facilities surrounding by an low-changing, or unchanging, city population as well. One such example is with the number of students to teachers like mentioned before: a very small decrease may greatly impact available funding.
+It is entirely possible to decrease funding faster than decreasing expenses, which may lead to a financial downspiral. This remains true for educational facilities surrounding by a low-changing, or unchanging, city population as well.
 
 This is separate from any overhead or other costs and expenses. Regardless of how many students are enrolled, systems still need to pay for maintenance, transportation, administration, utilities, contracts, employees, taxes, and so on. They don't scale up and down like enrollment does here and includes many fixed costs. There may be limits to classroom sizes and number of students per teacher, in addition to paying for an entire facility and all its associated costs.
 
-While some solutions are straightforward, like consolidating classrooms, focusing on retention, and cutting unnecessary costs, they might have terrible optics and further accelerate the downspiral.
+While some solutions are straightforward, like consolidating classrooms, focusing on retention, and cutting unnecessary costs, they might have terrible optics, affect the quality of education, and further accelerate the financial downspiral.
 
-Regardless of the situation leading into it, getting out of that downspiral from budget cuts means trimming the fat. Contracts may need to be cut, consultants and professional development pulled back, administrators and high-level director salaries reduced, staff redundancy eliminated, name-brand soda switched to off-brand soda, no new technology purchased when current technology is perfectly fine and still working, and so on. Even if fat is trimmed and education systems do everything right to bolster enrollment, it is still possible to fail and be forced to close down. 
+Regardless of the situation leading into it, getting out of that downspiral from budget cuts means trimming the fat and potentially desperate measures. Contracts may need to be cut, consultants and professional development pulled back, administrators and high-level director salaries reduced, staff redundancy eliminated, name-brand soda switched to off-brand soda, no new technology purchased when current technology is perfectly fine and still working, and so on. Even if fat is trimmed and education systems do everything right to bolster enrollment, it is still possible to fail and be forced to close down. 
 
 ### **The Learning Budget**
 
-Your "budget" allotted to you as a teacher comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
+A "budget" allotted to educators comes in different names, such as allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. 
 
-Unless you're teaching outside of a normal educational institution, your spending limit is typically defined by someone else, like your principal, and not you. Items covered by that learning budget are also not always up to you; instead, this may be defined by principals, districts, states, organizations providing funds, U.S. Department of Education, and the IRS (Internal Revenue Service, 2025b)(U.S. Department of Education, 2025). 
+Unless you're teaching outside of a normal educational institution, your spending limit is typically defined by someone else, like your administrators, and not you. Items covered by that learning budget are also not always up to you; instead, this may be defined by principals, districts, states, organizations providing funds, U.S. Department of Education, and the IRS (Internal Revenue Service, 2025b)(U.S. Department of Education, 2025). 
 - Even if you're not subject to principal control, you may be subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general* (Internal Revenue Service, 2025a, 2025d).
 
-In educational systems, just about every single dollar is allocated for a specific purpose. Learning budgets provided for teachers are about 200 USD, but those same teachers could also spend 800+ USD out-of-pocket for other classroom supplies too (Tarawally, 2025). Money may also come from a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you hopefully won't be in a bad spot.
+In educational systems, learning budgets provided for teachers may be about 200 USD, but those same teachers could also spend 800+ USD out-of-pocket for other classroom supplies too (Tarawally, 2025). Money may also come from a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you *hopefully* won't be in a bad spot.
 
 Suppose you're still low on budgetary needs PTA and PTO cannot cover. In that case, you may also look into third-party organizations, fundraisers, charity events, donation drives, and more. I won't discuss those in-depth because of their varied nature.
 
@@ -286,7 +289,7 @@ Typically, where a teacher puts the learning budget and funds into are some of t
 - Teaching aids, like books, online materials, software, and multimedia equipment
 - Extras, like classroom decorations and furniture
 
-As long as you don't carelessly spend money and realize the budget needs to last for the entire teaching period, you should be OK. Generally speaking, when buying things, you want to look for the following:
+As long as you don't carelessly spend money and realize the budget needs to last for the entire teaching period, hopefully you should be OK. Generally speaking, when buying things, you want to look for the following:
 
 - Any deals or significant savings
 - Items that you don't immediately need, you can get in a timely fashion
@@ -296,7 +299,7 @@ As long as you don't carelessly spend money and realize the budget needs to last
 
 ### **Practical Application of a Budget**
 
-**If you're not sure how much you should spend, forget about whatever learning budget you have and pretend you have only 100 USD (United States dollars) coming out of your own assets.** It's probable you can get at least the essentials and basic supplies you need for a classroom with that much money, as of the year 2026. 
+**If you're not sure how much you should spend as an educator, forget about whatever learning budget you have and let's pretend, as an example, you have only 100 USD (United States dollars) coming out of your own assets.** It's probable you can get at least some essentials and basic supplies you need for a classroom with that much money, as of the year 2026. 
 
 Could you expect other people within an education system, like administrators, donors, and parents to chip in money to help you? Sure, but let's assume there isn't and you're chipping away at whatever's left in your budget.
 
@@ -323,11 +326,9 @@ If it's near the end of the year and you need to reach net zero–where you spen
 
 ### **What About NO Money At All?**
 
-Here's to hoping you're not picking up parental responsibilties for students too.
+You'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these.
 
-On a serious note, you'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). There's no sense listing them all because I'd use up at least a chapter's worth of text on that alone.
-
-Instead, let's go over some methods. Keep in mind you may need to provide an ID or verification to access some of these.
+Some methods include, but are not limited to:
 - Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data.
 - Free resources offered through physical and online services. Like mentioned earlier, think areas like [Adopt a Classroom](https://www.adoptaclassroom.org/).
 - For those with at least *some* money, some stores and merchants may offer discounts on items and purchases for applicable educational needs.
@@ -338,7 +339,7 @@ Whether you're an educator looking for ways to reduce financial burdens in teach
 The other thing you can do is set up a rules system (that you can actually enforce) about how products should be procured and what happens if someone breaks it or loses it. For example, what happens if you give a student something essential, like a pencil for writing, then they lose it in the same day and come demanding a replacement the next day.
 - Especially with more exaggerated cases where they're missing a 10 cent pencil despite wearing 1000+ dollars worth of designer brand clothes.
 
- What do you in this case? Do you punish them? Do you try to teach them a lesson about careful handling of supplies and preparation for the future? Can you even do anything in the first place if other people in the education system won't support you punishing them, like administrators and parents?
+What do you in this case? Do you punish them? Do you try to teach them a lesson about careful handling of supplies and preparation for the future? Can you even do anything in the first place if other people in the education system won't support you punishing them, like administrators and parents?
 
 There's a lot of factors that can stress and tear away at even the most resilient people, especially when you're about out of resources to spare.
 

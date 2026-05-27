@@ -35,8 +35,6 @@ For simplicity's sake, I'll sort blockers into four categories.
 
 Some education systems are made in a garage. Other education systems are given a sizeable grant to conduct research on (and possibly make a business out of teaching said system). Then there's systems with more barriers to success compared to other schools, whether it'd be from the students, staff, or resources available.
 
-Before I proceed, I'll make one assurance: 
-
 **"Old school" style teaching, or teaching without fancy tech, gadgets, widgets, etc. is perfectly fine (and sometimes encouraged!). If this is the case for you, you may have fewer technical blockers.**
 - This also includes fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students in your educational system.
 - Personally speaking, I'd use pencil and paper when I could, but technology, like computers, for things I cannot reasonably do with low tech solutions.
@@ -53,9 +51,9 @@ In one sentence: is there a device that cannot operate the software and/or perfo
 
 For example, a Chromebook might not run Windows or Mac games, but it may be able to run Linux games, Android games, and cloud gaming. This is an example of a substitute to demonstrate a similar point.
 
-Another example: you want students to run a flight simulator on school computers, but “dxdiag” on a Windows computer shows the computer specs are far too low. That's OK, though, because there are less resource-intensive browser alternatives available for use instead.
+Another example: you want students to run a flight simulator on school computers, but “dxdiag” command on a Windows computer shows the computer specs are far too low. That's OK, though, because there may be less resource-intensive browser alternatives available for use instead.
 
-**Be warned, though:** using alternative software may not meet all of your needs or accurately do what is needed to meet your objectives. As lfong as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
+**Be warned, though:** using alternative software may not meet all of your needs and standards, or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
 
 The only time you are *stuck* with a given software/tool is if you're trying to get students to earn a certification or licensure with it. You definitely cannot use alternatives with those; you must use the required software or they cannot get the certification or license. Some software may require the teacher to also hold a license to teach or administer tests related to the software, so double-check first.
 
@@ -65,7 +63,7 @@ Not necessarily. Even if technology is available, whether gifted, bought, or con
 
 What technology you permit and use depends on the needs of your class(es). Do not, however, discount any existing research on when informing your decision.
 
-Additionally, with any new technology, there's also a learning curve. Some tech you'll have to know about, like emails (or a CMS like Google Classroom). Other tech, you may not have to know much about. There's also tech where it's nice to know about, and can enhance learning, but requires some level of learning investment before it provides a return.
+Additionally, with any new technology, there's also a learning curve. Some tech you'll have to know about, like emails or a CMS (content management system) like Google Classroom. Other tech you may not have to know much about. There's also tech where it's nice to know about, and can enhance learning, but requires some level of learning investment before it provides a return.
 
 **The Typical Solution to Tech Problems**
 
@@ -92,8 +90,8 @@ For online teaching, you'll still need guardrails to keep students focused on yo
 
 You can accomplish a lot with sufficient funding. More often than not, you don't have enough funds.
 
-When funding is limited, be ready to resort to low-cost or free alternatives or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, QGIS, GRASS, SAGA, Postgres, PostGIS, and Visual Studio. Some teacher planning and scheduling tools are also low-cost or free.
-- Past a low to moderate amount of data, scale, etc. however, even free options may cost monetary resources.
+When funding is limited, be ready to resort to low-cost or free alternatives or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, QGIS, GRASS, SAGA, Postgres, PostGIS, and Visual Studio. Some education planning and scheduling tools are also low-cost or free.
+- Past a low to moderate amount of data, usage, scale, etc. however, even free options may cost monetary resources.
 
 There are multiple types of websites–government, commercial, non-profit, and personal–with free simulations and interactive software available for student and public use, such as [NASA's Eyes](https://science.nasa.gov/eyes/) for solar systems and [USGS TopoView](https://ngmdb.usgs.gov/topoview/) for topographic map viewing and manipulation.
 

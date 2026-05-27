@@ -20,30 +20,31 @@ nav_order: 13
 
 Being the "best" is simply a title based on a specific situation and circumstances. What is the best one day could no longer be the best the next day.
 
-Being "good" is, pragmatically speaking, simply being better than others. It could also mean someone that doesn't cause issues or a person pointed at something and called it "good" one day, so that's the standard.
-- An example of the former is a staff engineer asking a lower level engineer about their opinion on what to do
+Being "good" is, pragmatically speaking, simply being better than others. It could also mean someone that doesn't cause issues or a person pointed at something and called it "good" one day, so that's the standard. Perhaps it simply means if someone recognizes your efforts, then that's good enough.
 
 Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
 - The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
 
-When academics are a primary measure of a student's worth, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
+When academics are a primary measure of a student's worth, especially when tied to funding, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
 
 When money is tied to metrics of success, people do things they normally wouldn't do to positively affect, or even inflate, those metrics. For example, a lot of people care about money. If they don't have money, they care about getting more money. If they have already have money, they still care about getting money but also want to keep their money.
 
 **Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** Metrics should inform decisions humans make, not replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric.
 - **Metrics are *diagnostic*, not prescriptive.**
 - **Correlation does not imply causation.**
-- **Making decisions on bad data is worse than decisions with no data**
+- **Making decisions on bad data is worse than decisions with no data.**
 
-As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but force *every* student there to go into it, you're just replicating General Education again with additional steps and lost funds.
+As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but *every* student there can go into it, you're just replicating General Education again with additional steps and potentially lost funds.
 - In general, a program that sells itself as a good fit "for everyone" is a program you should be skeptical of.
-- Regardless of benefits or drawbacks, you should be wary of educational programs and what their goals are (hint: it's almost always money).
+- Regardless of benefits or drawbacks, you should be wary of educational programs and what their goals are (hint: financial operations want to *make* money).
 
 ## **Long Answer**
 
 There's a joke where, in education, we traded stamina for engagement.
 
-Sadly, it isn't a joke. This chapter help explains why that joke is now reality.
+Sadly, it isn't a joke. 
+
+This chapter help explains why that joke is now reality.
 
 One part of that reality is **most data and information you work with and see is affected by bias.** It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
 
@@ -51,9 +52,9 @@ One part of that reality is **most data and information you work with and see is
 
 If you're dealing with other professionals, they may care about how you save them time and make them money. Metrics of success help you there.
 
-Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
+Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended and/or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
-You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces (*not* eliminates) that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of these or just simply making it to the next day.
+You want to choose the right metrics to gauge success. A single metric risks becoming a target to aim for. Using multiple metrics reduces (*not* eliminates) that risk while simultaneously monitoring many areas. What those metrics are depends on the goals of the individual and/or organization using them. Goals may include maximizing outcomes (scores and pass rates), cultivating qualitative aspects (engagement or relationships), or encouraging growth (attitudes, perspectives, or character). It could also be a mix of any of these or just simply "did I make it to the next day" from an overworked professional.
 
 There are two types of data associated with metrics: quantitative and qualitative. Quantitative data is a specific and objective measure capturing numbers, quantities, and ranges. Qualitative data is based on subject and explanatory measures of qualities, traits, and characteristics. In short, quantitative is numbers and qualitative is words and images. Quantitative data may work alongside qualitative data, or separate from quantitative data, depending on your needs.
 
@@ -61,7 +62,7 @@ It is possible to convert qualitative data into quantitative data through method
 
 Details of these techniques are beyond this guide, but awareness helps if you decide to pursue deeper analysis later.
 
-Measuring data may allow bias to creep in through various means like sampling choices and demographics. Interpretations and student factors may also introduce bias. Several examples of bias include, but are not limited to, the following (Rogers, Jonker, 2024):
+Measuring data may allow bias to creep in through various means like sampling choices and demographics. Interpretations and student factors may also introduce bias. Several examples of bias include, but are not limited to, the following (Rogers & Jonker, 2024):
 
 - Confirmation bias
 - Observer bias
@@ -73,11 +74,11 @@ Measuring data may allow bias to creep in through various means like sampling ch
 - Measurement bias
 - Social bias
 
-Measures are intended to be objective; not influenced by bias or prejudice. The problem is **bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias will lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. You can reduce bias with strict verifications, transparency, and representative sampling over selective subsets.
+Measures are intended to be objective and not influenced by bias or prejudice. The problem is **some bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias will lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. Some ways to reduce bias include strict verifications, transparency, and representative sampling over selective subsets.
 
-You may see two terms associated with metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs track progress and direction toward specific goals while KPIs monitor performance and outcomes over time. KPIs are better for recurring tasks while OKRs are better for one-off tasks. OKRs often use qualitative data while KPIs use quantitative data.
+You may see two terms associated with metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs track progress and direction toward specific goals while KPIs monitor performance and outcomes over time. KPIs are better for recurring tasks while OKRs are better for one-off tasks. OKRs often use qualitative data while KPIs often use quantitative data.
 
-Any metric can be "gamed" or optimized. Despite this, the teacher/instructor goal of ensuring students learn what you teach remains. 
+Any metric can be "gamed" or optimized. Despite this, the goal of successful student learning remains in education systems. Wealth may be one such way to track how successful a system is. 
 
 ### **Metrics (In General)**
 
@@ -92,10 +93,10 @@ One area of quantitative data comes from metrics for student success. Some quant
 - Test Scores (State, ACT, SAT, IB, AP, etc.)
 - Attendance & Participation
 
-Generally speaking, a metric deals with performance, growth, and/or development. You may also track metrics like GPA and test scores through other, related metrics such as proficiency rates. This is when students are bucketed based on performance and you want to showcase a high  percentage scoring at or above, for example, a "proficient" level.
+Generally speaking, a metric deals with some type of performance, growth/decline, and/or development. You may also track metrics like GPA and test scores through other, related metrics such as proficiency rates. This is often when students are bucketed based on performance and you want to showcase a high percentage scoring at or above, for example, a "proficient" level.
 
-Most analysis of results should be treated as a snapshot rather than a valid performance evaluation. This may be because only a single metric is focused at a time, there are insufficient growth models, or multiple metrics aren't used in conjunction for analysis. For example, if using gap analysis, or even analysis in general, to analyze education results, it may have critical flaws for three reasons:
-1. Typical experiments test the same group, or same subject, before and after an experiment to isolate effects and ensure only one variable is changed at a time. School environments rarely, if ever, allow for this controlled testing.
+Most analysis of results should be treated as a snapshot at a given time rather than a valid performance evaluation across all time. This may be because only a single metric is focused at a time, there are insufficient growth models, or multiple metrics aren't used in conjunction for analysis. For example, if using gap analysis, or even analysis in general, to analyze education results, it may have critical flaws for three reasons:
+1. Typical experiments test the same group, or same subject, before and after an experiment to isolate effects and ensure only one variable is changed at a time. Many school environments rarely allow for this controlled testing in a way conducive to research.
 2. A given grade level educates different groups of students each new academic period.
 3. A bad score given one year may improve the next year, despite no changes implemented by a school/teacher, due to the *students* changing.
 
@@ -109,11 +110,11 @@ There's also metrics not related just to students, but also staff members (and s
 - Teacher-to-Student Ratio
 - Counselor-to-Student Ratio
 
-There are a whole host of metrics, but there's a few I want to call out because I usually see them as "objectives" rather than performance indicators.
+There are a whole host of metrics, but there's some I'll call out because I have usually seen them as "objectives" rather than performance indicators.
 
 ### **What If Metrics Mean Different Things?**
 
-If a metric means something different for multiple people, you'll eventually, but certainly, get groups making conflicting decisions using the same information. *Every* metric requires a business owner who defines the metric and a technical owner who implements the metric. If there's no owner, the metric(s) should not affect decision-making.
+If a metric means something different for multiple people, you'll eventually, but certainly, get people making conflicting decisions using the same information. *Every* metric requires a business owner who defines the metric and a technical owner who implements the metric. If there's no owner, the metric(s) should not affect decision-making.
 
 If you're in a position to do it *and maintain it* (because things always change over time), start with a single document outlining definitions on what the metrics are, what each metric means, and how each metric is measured. Once this document is created, include the date it was created *and finalized* on, as it'll serve as evidence and a reference for when questions arise regarding any metrics. You may also need to include the people who agreed on what the metric(s) mean as insurance, in case someone claims they never agreed to it.
 
@@ -125,47 +126,47 @@ This method may receive pushback or disagreement, because many people means many
 
 You could also implement a ticket system, which forces people to write down what they actually want or need before requesting or implementing a change for it. It's like doing a double take to confirm "do I actually need to change" before you go in and change it guns blazing. The ticket system needs clear intake standards, like mandatory fields to fill out and write text in, to mitigate communication issues. You want to ensure it's lightweight enough it's actually used, rather than circumvented, and forces clarity instead of bureaucracy so you can eliminate vague, redundant, and unnecessary requests.
 
-You may encounter issues during this alignment phase. Sometimes you may not need to standardize *everything*, as there may be granular scale issues like team-specific metrics. A document or wiki may not fully cover all your needs either; you may need dashboards, code implementations, and centralized transformations towards databases so every new dashboard isn't a fork away from the truth. 
+You may encounter issues during this alignment phase. Sometimes you may not need to standardize *everything*, as there may be granular scale issues like team-specific metrics. A document or wiki may not fully cover all your needs either; you may need dashboards, code implementations, and centralized transformations towards databases so every new dashboard isn't another fork away from the plate of truth. 
 
-Metric definitions are also not static. Much like how a system may grow and change over time, metrics may also change over time. If you don't track what changes, as well as when and why, you risk unreliable data and people losing trust in your metrics.
+Metric definitions are also not static and may affected by what you might see called "slowly changing dimensions" (SCD) or "rapidly changing dimensions" (RCD). Much like how a system may grow and change over time, metrics may also change over time. If you don't track what changes, as well as when and why, you risk unreliable (and likely bad!) data and people losing trust in any established metrics.
 
 ### **Diagnostics with Metrics**
 
-Let's say you're tracking a particular metric, or a group of metrics, and you notice values that don't look good or "don't seem right."
+Let's say you're tracking a particular metric, or a group of metrics, and you notice values that don't look good or "ain't right."
 
-Before you jump to conclusions and implement new changes, realize one fact: quantitative data (and qualitative to some degree) is good at revealing *what* is happening, but not *why* something is happening, how something is happening, or if the metric is even valid to continue measuring in the first place. In this case, you may need to directly ask the users/students what is happening and get qualitative data, like what they think about the material, what helped them learn or achieve a result, and most importantly track what they do.
+Before you jump to conclusions and implement new changes, realize one fact: quantitative data (and qualitative to some degree) is good at revealing *what* is happening, but not always *why* something is happening, how something is happening, or if the metric is even valid to continue measuring in the first place. In this case, you may need to directly ask the users/students what is happening and investigate the education system further. This may mean getting qualitative data, like what students think about the material, what helped them learn or achieve a result, and most importantly track what they do.
 - It's possible to mitigate the *why* issue through additional metrics, but it may not fully solve the problem of why.
 - **A healthy skepticism is critical to limit improperly diagnosing what the real issues are.**
 
 To dive into one metric example: tracking attendance.
 
 Attendance is low this year. It could be from one student chronically absent, absences from multiple students, or another factor or a combination of factors. 
-- From this information alone so far, you can reasonably assume students are not going to school. 
+- From this information alone so far, you could reasonably assume students are not going to school. 
 - This is your *what;* the problem.
-- You don't have a *why* yet.
+- You don't have a *why* yet, which means doing something now puts you in "risky" solution territory.
 
 Do not draw any conclusions from the above; you're only identifying problems so far.
 
-As for why it's happening, you'll need to investigate, collect evidence, and look into other underlying issues. These issues may conflict with each other, seem unrelated to a problem, or not be identified with data alone. Some examples of investigation points may include:
+As for why it's happening, you'll need to investigate, collect evidence, and look into other underlying issues. These issues may conflict with each other, seem unrelated to a problem, or not be identified with data/metrics alone. Some examples of investigation points may include:
 - Are there bullying problems or social conflicts?
 - Is there an issue outside of school, at home, or in the environment?
 - Were new, external policies implemented affecting attendance?
 - Does the student not perceive value in the class or material?
 - Are there resources lacking to help with attendance?
-- What other metrics might indicate an issue alongside low attendance?
+- What other metrics might help pinpoint the cause behind low attendance?
 - Is there an issue with the management of a class?
 - Do underlying needs indicate a symptom of another problem (e.g. bad behavior as a symptom of boredom)?
 - Are there other logistical barriers present with parents, staff, and other peers?
 - Is there a change in demographics?
 
-Once you start identifying which issues exist, and if they're *valid* issues (veracity) that exist, then you can gather data for them, then disaggregate the data to determine how universal or specific a problem is.
+Once you start identifying which issues exist, and if they're *valid* issues (i.e. veracity) that exist, you can gather data for them then disaggregate the data to determine how universal or specific a problem is.
 
-After data is collected and processed, then you can effective design whatever solution is needed to solve the problem(s). Keep in mind three things, however:
+After data is collected and processed, you can more effectively design whatever solution is needed to solve the problem(s). Keep in mind three things though:
 - A seemingly good solution may actually generate more problems than before. 
 - Even the perfect solution can still fail due to factors outside of your control.
-- Designing solutions for problems and issues which don't exist is a waste of time, a waste of resources, and a detriment to every involved.
+- Designing solutions for problems and issues which don't exist is a waste of time, a waste of resources, and a detriment to everyone involved.
 
-Additionally, there is a hidden danger with quantitative metrics in particular: **quantitative metrics create an illusion of objectivity.** Say, for example, you're performing studies to figure out a System Usability Score (SUS) and surveying participants on how they feel about a system they tested. Though this is a quantitative measure, it is also entirely *subjective* since that score is based on a person's feelings or thoughts instead of hard data. That metric may be OK for diagnosing one product, but it should *never* be used to compare the effectiveness of one product against another product.
+Additionally, there is a hidden danger with quantitative metrics in particular: **quantitative metrics may create an illusion of objectivity.** Say, for example, you're performing studies to figure out a System Usability Score (SUS) and surveying participants on how they feel about a system they tested. Though this is a quantitative measure, it is also entirely *subjective* since that score is based on a person's feelings or thoughts instead of hard data. That metric may be OK for diagnosing one product, but it should *never* be used to compare the effectiveness of one product against another product.
 - As further examples, this may include metrics with similar, subjective reporting methods from users like Net Promoter Score, customer satisfaction, Likert scales, pain scales, surveys, etc.
 
 ### **Pre-Analysis Considerations**
@@ -179,7 +180,7 @@ Before you start an analysis, there's several things to consider:
 3. What decisions does it support/oppose?
 4. What actions will it affect? If it doesn't change anything, why do it?
 
-If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers that are pretty to look at.
+If you go with these considerations, you'll think about data as evidence to support/oppose decisions someone, or something, should make instead of merely numbers and charts that are only pretty to look at.
 
 Basically, figure out the context, the expected questions, and the worth of an analysis before you get too deep into it or you risk wasting time and effort.
 
@@ -192,11 +193,11 @@ The problem arises in three ways:
 2. The data collected is messy and not cleaned properly.
 3. The collected data isn't even useful.
 
-#1 is an issue related to your system's capabilities, rather than any process being wrong, and delves into the cost of collection and analysis. Nevertheless, if you have too much data and aren't sure what to do with it, the question is *why* are you collecting so much data in the first place?
+#1 is an issue related to your system's capabilities, rather than any process being wrong, and delves into the cost of collection and analysis. Nevertheless, if you have too much data and aren't sure what to do with it, the problem to solve is *why* are you collecting so much data in the first place? For example, while regulations may require storage of certain data for extended timeframes, that may not fully justify storing data *not* falling under those regulations.
 
-#2 is a process issue concerning hygiene. Data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
+#2 is a process issue concerning hygiene. The correct data is collected, but it may be in an unrefined state you cannot do anything with. This may be remedied with data professionals and the appropriate tools to extract, transform, and load messy data into "cleaned" data to conduct analysis on. Even if data is cleaned, you still need people to interpret said data and know what metrics they're measuring (and *why* they're measuring it), or you land on a half-baked solution at best.
 
-#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, there's also certain data you have to collect, secure, and hold onto. This issue may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
+#3 is a process issue concerning intent. Collecting data for the sake of collecting data is a fool's errand and a drain on financial, human, and technological resources. At the same time, there's also certain data you have to collect, secure, and hold onto. Like with the first issue, this may be unavoidable due to legal issues like compliance laws and technological issues like vendor defaults you cannot modify. The solution is simple: refine what data you *actually* need to collect and distribute, be intentional with what you need vs don't need, and re-evaluate the scope of any data operations.
 
 Overall, there's a lot of issues with data even if you do everything right on your end. Of particular note:
 1. Data (and processes for data) are NOT static, change over time, and may not work in the future.
@@ -206,7 +207,8 @@ Overall, there's a lot of issues with data even if you do everything right on yo
 
 If you combine the first two points above, you get two new problems: the data "being wrong" and getting multiple reports with multiple numbers. The first problem means there's no clear definition of what is right or "normal" in the data context. The second problem means multiple people are operating with vague (and often different) requirements, rigor, and contexts, possibly even different data sources, so each creates their own version of what is "right" and scramble to find a resolution when things go wrong.
 
-The third problem is something to expect in any business across any context. What sounds like a fun idea in the moment risks scope creep and derailing a project if you try to implement it, so getting people to figure out what they actually want is almost its own skill entirely.
+The third problem is something to expect in any business across any context. What sounds like a fun idea in the moment risks scope creep and derailing a project if you try to implement it. Getting people to figure out what they actually want is almost its own skill entirely and a near-impossible feat to get consistently correct every time.
+- It's also one reason why AI (artificial intelligence) may not fully take over human decision-making, but that is for a later chapter.
 
 Data and technology access restrictions can distort what the analyst, or even end user, can interpret with the data. Say, for example, you submit students to a standardized test and their results are submitted into the testing system. That system intakes the data and (hopefully) cleans it up, but the data made available to educators is heavily limited. This is a classic black box problem within a data pipeline. It's not necessarily *bad,* but it can hamper what you can do with it and make of it. You've likely no way of really knowing what's happening, which may lead you to questioning the data's importance altogether. Sometimes you can negotiate what's included in these reports, while other times you're stuck.
 
@@ -220,7 +222,7 @@ What if, instead of replication, you differentiated?
 
 It may not make sense at first. You're going against proven and effective practices with the metrics and data supporting that success. Instead of focusing on their strengths, you focus on blind spots and where perceptions and psychology determine success. The question becomes what things you should do to make it *worse*, rather than better, and provide something competitors don't. 
 
-One example of such an approach comes from Will Guidara, author of *Unreasonable Hospitality*, and their journey to create the world's #1 restaurant at the time (2022). It's a risk to do your own thing and go against the norm, but that risk has high returns if done well. Innovation has, at its core, some risk involved, but it can turn the ordinary into extraordinary and create experiences humans will cherish.
+One example of this approach comes from Will Guidara, author of *Unreasonable Hospitality*, and their journey to create the world's #1 restaurant at the time (2022). It's a risk to do your own thing and go against the norm, but that risk has high returns if done well. Innovation has, at its core, some risk involved, but it can turn the ordinary into extraordinary and create experiences humans will cherish.
 
 All it takes is giving people more than what they expect. Pleasant surprises and the human element.
 
@@ -228,13 +230,13 @@ All it takes is giving people more than what they expect. Pleasant surprises and
 
 Sometimes there's not a standard available for what you need to measure. Maybe it is available, but it's a real-time situation where you cannot effectively a standard method and devise an alternative. There could also be a low amount of historical data to reference.
 
-This situation may show up in research cases and fields, such as user experience (UX). For example, UX may have standardized scales like SUS (System Usability Scale) and SUPR-Q (Standardized User Experience Percentile Rank Questionnaire) which you may convert ad hoc data into (Lewis & Sauro, 2026). While you can covert these scores, you shouldn't compare these types of scores against each other despite them being quantitative metrics, as they're heavily subjective measurements derived from qualitative data.
+This situation may show up in research cases and fields, such as user experience (UX). For example, UX has many standardized scales like SUS (System Usability Scale) and SUPR-Q (Standardized User Experience Percentile Rank Questionnaire) which you may convert ad hoc data into (Lewis & Sauro, 2026). While you can covert these scores, you shouldn't compare these types of scores against each other despite them being quantitative metrics, as they're heavily subjective measurements derived from qualitative data.
 
 When converting, you need to consider the aspects of the data too, such as if there's a positively (a tail to the right) or negatively (a tail to the left) skewed distribution. This information can affect the median and percentile scores, such as how a 50th percently on a scale of 1-100 may be 68 on a negatively skewed dataset instead of 50 on a normally distributed dataset. These also determine where you should determine cutoff points and where a particular score may be "good" or "bad." Despite whatever cutpoints you set, remember to document it down so its meaning does not drift and cause issues in the future.
 
 ### **Evaluating Education (with Examples)**
 
-In the United States, as of March 2026, there's multiple ways to evaluate learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine this three in particular to give readers an idea what they aim to accomplish.
+In the United States, as of March 2026, there's multiple ways to evaluate learning and education systems compared to other nations in the world. These include, but are not limited to, TIMSS (Trends in International Mathematics and Science Study), PISA (Programme for International Student Assessment), and NAEP (National Assessment of Educational Progress). I'll examine these three in particular to give readers an idea what they aim to accomplish.
 - These particular examples deal with K-12 education instead of tertiary/university education.
 
 TIMSS is an ongoing assessment handling mathematics and science; I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years with some variation, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
@@ -259,24 +261,24 @@ There's other forms of testing conducted by organizations aside from these. The 
 
 ### **100% Graduation Rate**
 
-This is a funny metric to use for success and the same applies for job placement rate outside education systems. It's also a case of why you need *multiple* metrics of success instead of one for data veracity and why making a metric a target proves Goodhart's Law.
+In my opinion, this is a funny metric to use for success. The same applies for job placement rate outside education systems. It's also a case of why you need *multiple* metrics of success instead of one for better data veracity and why making a metric a target further proves Goodhart's Law.
 
 100% graduation rate means you're telling me *every* student in the history of the school (or specific year, class, etc.) got passing grades on every subject they went through.
 
-If you see a high value on this metric, be at least a little skeptical. Be extra skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it.
-- I'd also be skeptical of >= 95% as well, but that's my personal opinion.
+If you see a high value on this metric, be skeptical. Be extra skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it.
+- I'd also be at least a little skeptical of >= 95% as well, but that's my personal opinion.
 - You'd also want to reference standardized scores the school achieves for testing it cannot easily manipulate, like SAT and ACT scores.
-- One example of verifying skepticism is a school has high graduation rates, but students currently there have low reading rates or there's a low number of students at grade level for particular subjects.
+- One example of verifying skepticism is discovering a school has high graduation rates, but students currently there have low proficiency rates or there's a low number of students at grade level for particular subjects.
 
-There's two immediate ways that came to my mind to manipulate this.
+There's two immediate ways that come to my mind to manipulate this metric
 1. Lower the standards for what is considered "graduation"
 2. Pad grades and/or implement a minimum grade policy across the board
 
 *Which of these can you implement right now at zero to low cost?*
 
-If you guessed #1 *and* #2, you are correct. It is disturbingly easy to accomplish these methods as well, even if they're legally and ethically questionable. 
+If you guessed #1 *and* #2, you are correct. It is disturbingly easy to accomplish these methods as well, even if they're legally and ethically questionable and churn out "educated" students as a result. 
 
-A school system, across its entire journey, should function as a increasingly more difficult filter and impose more responsibilities and accountability as students age. When this metric, and related success metrics, are manipulated to display good results, it undermines the entire intellectual journey and affects the education system *as a whole* at the expense of every student. If you manipulate what counts as success and lower the standards to meet success, or also remove accountability for students not meeting educational expectations, it removes legitimate standards to prepare students for what comes next in their lives.
+A school system, across its entire journey, should function as a increasingly more difficult filter and impose more responsibilities and accountability as students age and go through the learning journey. When this metric, and related success metrics, are manipulated to display good results, it undermines the entire intellectual journey and affects the education system *as a whole* at the expense of students. If you manipulate what counts as success and lower the standards to meet success, or also remove accountability for students not meeting educational expectations, it removes legitimate standards to prepare students for what comes next in their lives.
 
 ### **Average Daily Attendance (ADA)**
 
@@ -286,16 +288,15 @@ Generally speaking, you *want* students to attend class. Despite good intentions
 - There's a strong association between socioeconomic status of students (and their parents) and school attendance (Klein et al., 2020).
     - i.e. Lower resources = more absences
 
-Everyone cares about money. If they have enough money, then they care about not losing money. A school (and by extension a business) is no different as they want funding to continue operations. If a school cannot perform well, they may receive reduced funding from various sources (federal, state, and local). This reduced funding may occur even when it is objectively impossible to meet attendance goals set by entities outside facilities as well. A slash in funding may also lead to a downward spiral in performance as well, which is difficult to recover from.
+Just about everyone cares about money. If they have enough money, then they care about not losing money. A school (and by extension a business) is no different as they want funding to continue operations. If a school cannot perform well, they may receive reduced funding from various sources (e.g. federal, state, and local governments). This reduced funding may occur even when it is objectively impossible to meet goals set by outside entities. A slash in funding may also lead to a downward spiral in performance as well, which is difficult to recover from.
 
-If this is a success metric, it has real world value often tied to wealth, budgets, and income, so policies may change to try and improve it because money is important. Some policy change examples, which may be good or bad depending on your perspective, include:
+If this is a success metric, it has real world value often tied to wealth, budgets, and income, so policies may change to try and improve it because money is important for continued operations. Some policy change examples, which may be good or bad depending on your perspective, include:
 - Heavily enforcing truancy laws
 - Redefining policies to keep students *in* classrooms
     - This may mean not enforcing consequences which take students out of classrooms as it may affect attendance metrics
 - Raising awareness of the effects of excessive absences
 - Investing in resources, like improvement plans, to mitigate absences
 - Linking number of absences to reduced benefits and privileges available to students
-- Potentially faking attendance records
 - Altering what counts as excused vs unexcused absences, and what is an "absence" in general
 
 On the other side of the coin, you may focus on chronic absentee rate (or, from a business perspective, "churn rate"). This typically means students with 10% or more school days missed for any reason in a given period of time. That metric may employ similar strategies and tactics like the examples above to make it look good to "investors" and other onlookers.
@@ -304,21 +305,22 @@ On the other side of the coin, you may focus on chronic absentee rate (or, from 
 
 Enrollment is another metric I've seen used to boast how effective a class, school, or otherwise is. However, it suffers a potential problem as a vanity metric vs a meaningful metric and this problem is more pronounced when it's measured in isolation.
 
-For anyone familiar with MMORPGS, video games, or other forms of media, you may have seen terms like the following before similar to enrollment as a metric:
+For anyone familiar with MMORPGS, video games, or other forms of media, you may have seen terms like the following before which are similar to enrollment as a metric:
 - Subscriber Counts
 - Total Number of Players/Subscribers
 - Concurrent Players (or "Current")
 - Most Played Game
 
-If this is a success metric, you may perform mass adoption strategies, or reaching the maximum audience available to you, to showcase improvement and success. Enrollment, as a metric, generally only cares about number of students *in* a given class/school. It does not care about the performance of those students or what those students do while inside of the school.
-- Video game example: A game can sell 5 million copies, but if 4 million players quit before completing the game, it may indicate only financial success and not overall success.
+If this is a success metric, you may perform mass adoption strategies, or reaching the maximum audience available to you, to showcase improvement and success. Enrollment, as a metric, generally only cares about number of students *in* a given class/school/system/etc. It does not care about the performance of those students or what those students do while inside of the school.
+- Video game example: A game can sell 5 million copies, but if 4 million players quit before completing the game, it may indicate financial success by *selling* 5 million copies, but not quality success as all 5 million players did not fully *enjoy* the game.
 
 Though generally you want high enrollment, you may risk pursuing high enrollment at the cost of other metrics such as:
 - Engagement
 - Performance
 - Retention
+- Behavior
 
-It's not to say enrollment is entirely a bad metric. For example, let's say you track enrollment numbers and there's a sudden drop in students from one year to the next year. This is indicative of a problem warranting investigation and figuring out what the cause is.
+It's not to say enrollment is entirely a bad metric. For example, let's say you track enrollment numbers and there's a sudden drop in students from one year to the next year. This is indicative of a problem warranting investigation and figuring out what the cause is, which you're alerted and can act upon because you're tracking enrollment.
 
 ### **Test Scores**
 
@@ -329,13 +331,13 @@ It's also possible to "game" this metric by managing the test-taking population 
 - Getting low-scoring students to not appear on test days
 
 State tests and standardized tests are usually the subjects of these metrics. If, however, these metrics are defined as success criteria, especially with money attached, some things may happen at a school:
-- The curriculum shifts to focus on tested subjects.
-- Subjects not covered on these tests may be neglected.
+- Curricula shifts to focus heavily on tested subjects.
+- Subjects not covered on these tests may be outright neglected or glossed over.
 - Skills not tested or harder to assess on tests may be sidelined in favor of easily defineable skills.
-- The classroom goes from a place of genuine learning and discovery to a place specifically designed to get high test scores.
+- Education goes from genuine learning, understanding, and discovery to a factory churning out high test scores.
 - Accountability may be sacrificed if it means increasing the metric.
 
-To maximize this metric, you may risk the well-being of both high-performing and low-performing students, which means a failure in equitable education for all students.
+To maximize this metric, you may risk the well-being of both high-performing and low-performing students, which indicates failure in equitable education for all students.
 
 You may also see more instances of cheating, higher pressures on students to do well, and educators altering test scores to showcase higher results than actually earned. Many of these actions have real incentives promoting more desperate behaviors, such as college admissions, scholarships, company and job placements, and more based on test scores and performance.
 
@@ -362,9 +364,9 @@ International Baccalaureate (IB) is the example I'll use here. This isn't a posi
 
 Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing education specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
 
-The metrics that administration, or other people responsible for implementing programs like IB into an institution, may care about grades, graduation rates, student retention rates, and test scores.
+The metrics that administration, or other people responsible for implementing programs like IB into an institution, may instead care about grades, graduation rates, student retention rates, and test scores.
 
-This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Each party utilizes the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here; performing well on these metrics may equal job security, so there is incentive to align with metrics.
+This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Each party utilizes the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here. Performing well on these metrics may equal job security, so there is incentive for individuals and organizations to align with metrics.
 
 One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
 
@@ -377,27 +379,27 @@ The easiest to state, but hardest to do, solution is simple: You need full buy-i
 
 Before continuing, consider the following context: generally speaking, a parent wants what is best for their children.
 
-Let's say you're looking around various options. You want the best option you're able to get, even if it means going to desperate lengths or alternative funding to acquire it. There's even reviews for all options confirming their value, often through metrics including, but not limited to, the ones discussed here already.
+Let's say you're a parent looking around various options for schools to send your children to. You want the best option you're able to get, even if it means going to desperate lengths or alternative funding, like taking on debt, to acquire it. There's even reviews for all options confirming their value like metrics including, but not limited to, the ones discussed here already.
 
-Adding in the context from earlier, there's no logical leap to make and it makes perfect sense that students will go to the "best" school they can get into.
+Adding in the context from earlier, there's no logical leap to make and it makes perfect sense that students will try and go to the "best" school they can get into. That's the human element at work again.
 
-Open enrollment doesn't generate bad schools; it merely exposes what school is considered "bad" based on several metrics, then offers options to go into other schools which may perform better. If poor performance schools lose enough students to better schools, then they may close down. That action, however, lowers the amount of schools in the pool students *can* go to, which increases the risk of overcrowding and negates whatever benefits open enrollment wanted to achieve.
+Open enrollment doesn't generate bad schools. It merely exposes what school is considered "bad" based on several metrics, then offers options to go into other schools which may perform better. If poor performance schools lose enough students to better schools, then they may close down. That action, however, lowers the amount of schools in the pool students *can* go to, which increases the risk of overcrowding and negates whatever benefits open enrollment wanted to achieve.
 - Though not directly related, an article from Josh Bivens talks more about economic inequality through "secular stagnation" (2017) and may establish more parallels.
 
-Though open enrollment permits mobility for many groups, system-wide issues affecting that same policy stop it from generating any real gains.
+Though open enrollment permits mobility for many demographics, system-wide issues affecting that same policy may also stop it from generating any real gains.
 - For video-game savvy readers, it's like developers opening access to a popular MMORPG server without adding hardware or capacity to support the sudden influx of players and creating "dead" servers as a byproduct.
 
 ### **Rate My Educator/Professor/Teacher Scores**
 
 This metric typically uses a 5 star rating scheme, but could be evaluated differently (e.g. a percent value out of 100%) based on its design. As a comparison, you could relate this metric to product reviews.
 
-**My general advice to you is to always take reviews with a grain of salt. There's plenty of bias embedded into them and it's up to the viewer to interpret the results.** It's possible a highly rated educator is actually a bad one, with the inverse being true, and it's possible to "game" the review system to pad a rating. At the same time, having any reviews to reference is generally better than no reviews at all because it may provide information you may not get otherwise. It's similar to how you might consider a job candidate who has a referral vs no referral, as an example.
+**My general advice to you is to always take reviews with a grain of salt. There's plenty of bias embedded into them and it's up to the viewer to interpret the results.** It's possible a highly rated educator is actually a bad one, with the inverse also being true, and it's possible to "game" the review system to pad a rating. At the same time, having any reviews to reference is generally better than no reviews at all because it may provide information you may not get otherwise. It's similar to how you might more seriously consider a job candidate with a referral vs no referral, as an example.
 
-For example, teachers may be rated highly by students purely because they can easily get a high grade without doing much work, but a teacher who's merciless with grading may receive a poor score despite the high quality curricula. I've also witnessed lazier students rate educators poorly out of spite, they couldn't coast through without working, or as denial for failing the course due to their own shortcomings.
+For example, teachers may be rated highly by students purely because they can easily get a high grade without doing much work. Meanwhile, a teacher who's merciless with grading may receive a poor score despite their delivery of high quality curricula. I've also witnessed lazier students rate educators poorly out of spite because they couldn't coast through without working or as denial for failing the course due to their own shortcomings.
 
 Significantly more effort is required to create a genuine review instead of only giving a score or a visual indicator like an emoji or reaction. People will take time to review something if they either like it or hate it enough. The more "honest" reviews typically have positive and negative aspects towards the educators and courses rather than neutral opinions.
 
-So how can we make this metric less biased/more objective? Several ways.
+How can we make this metric less biased/more objective? Several ways:
 1. Veracity
     - If the review isn't real, doesn't exist, or doesn't map to a course taught by said educator, you should void it from consideration.
     - Platforms may have minimal verification measures, so the burden of truth is left to the interpreter/reader.
@@ -410,7 +412,7 @@ So how can we make this metric less biased/more objective? Several ways.
 4. Quality of Review
     - A well-written review is *generally* more serious and thought out compared to reviews with poor grammar, wording, tone, and focus.
     - Specific issues are more actionable and require more thought to articulate properly over general or broad issues.
-    - One notable exception, if you're English speaking for example, is for ESL and non-native English reviewers.
+    - One notable exception, as an example, is for ESL and non-native English reviewers reviewing in English.
 5. Recency
     - A review from 5 years ago may not hold up to a review from 5 days ago. A lot of things can change in that timeframe, whether it's the educator's aptitude, the content provided, or another related item!
 6. Course Level Context (i.e. Lower vs Upper Division)
@@ -447,7 +449,7 @@ Let me present a hypothetical.
 
 Teacher A gets a general classroom of ill-mannered students with personalities that constantly disrupt the learning process and continually incur disciplinary issues.
 
-Teacher B gets a second classroom of well-behaved students who have a vested interest into the education they're receiving.
+Teacher B gets a second classroom of well-behaved students who have a vested interest into the education they're receiving and avoid causing issues.
 
 Assume both teachers follow the same curriculum and (reasonably) same teaching methods and management styles. Teacher A receives a poor score upon observation while Teacher B receives a good score.
 
@@ -488,7 +490,7 @@ This exception is here to remind you of two things:
 
 **In short: context validates metrics.**
 
-Here's an example I want to cover quickly. A metric I've seen mentioned here and there in 2022-2025 is "lines of code."
+A metric I've seen mentioned here and there across many years is "lines of code."
 
 People phrase it like [number of] lines of code is better if it's a big number and worse if it's a low number. For someone unaware, it *sounds* like it makes sense, but we're actually dealing with perverse incentives here.
 
@@ -506,7 +508,7 @@ I could go on and on about other examples. Number of pages, word count, step cou
 
 This is another example, outside of education systems, that a modern audience may be familiar with and primarily concerns video games. The lesson is context inform decisions and what users will prioritize.
 
-DPS (Damage per Second) is the value of a character's, item's, or other system's output. TTK (Time to Kill) is how long it takes to complete a task (eliminating an opponent) 100% from start to finish. In a TTRPG (table-top roleplaying game) or similar context, such as from Pathfinder or Dungeons & Dragons, you may see DPR (damage per round) and TAE (total action efficiency) in addition to DPS and TTK, with DPR replacing DPS as only the time unit changes between them. 
+DPS (Damage per Second) is the value of a character's, item's, or other system's output. TTK (Time to Kill) is how long it takes to complete a task (eliminating an opponent) 100% from start to finish. In a TTRPG (table-top roleplaying game) or similar context, such as from Pathfinder 2e or Dungeons & Dragons, you may see DPR (damage per round) and TAE (total action efficiency) in addition to DPS and TTK, with DPR sometimes replacing DPS as only the time unit changes between them. 
 
 We're introducing two separate pairs of metrics and showing how they apply to different contexts here.
 

@@ -15,7 +15,7 @@ nav_order: 23
 
 ---
 
-Co-teaching and assistant teaching doesn't typically work as well as people think it does, as it's highly variable on implementation. It's like when you do a group project: one person inevitably does all the work anyways while the other members coast along for credit.
+Co-teaching and assistant teaching may not work as well as people think it does as it's highly variable on implementation. It's like when you do a group project: one person might inevitably do all the work anyways while the other members coast along for credit.
 - There *are* exceptions, but they're not the norm.
 
 Assistant teachers support you as if they were a second teacher in the area. They do not replace you, the primary teacher. 
@@ -29,9 +29,9 @@ Initially plan as if any assistant teachers may be absent or unable to assist ef
 
 *Notice: For any "laws" I reference, assume I'm referencing the state of Colorado. Requirements may vary by state elsewhere.*
 
-As I have not explicitly worked in one of these roles (at least long-term), I'll focus on interactions between these roles and a teacher/professor and observations I made throughout multiple schools when substitute teaching (Colorado Department of Education, 2019).
+As I have not explicitly worked in one of these roles in any long-term capacity, I'll focus on interactions between these roles and a teacher/professor with observations I made throughout multiple schools when substitute teaching (Colorado Department of Education, 2019).
 
-Recall how I mentioned the principal has a significant number of tasks and, when the workload is sufficiently large, they bring on people to offset that workload. These are the assistant principals, who have tasks delegated to them or specialize in a particular task that a principal typically focuses on.
+Recall how administration has a significant number of tasks and, when the workload is sufficiently large, they bring on people to offset that workload. These may be the assistant principals, who have tasks delegated to them or specialize in a particular task that a principal typically focuses on.
 
 There is a similar relationship between teachers and assistant teachers, like "SPED" (Special Education), "Paras" (Paraeducators), TAs (Teaching Assistants), and co-teachers. Though there may be one to many assistant teachers, there is still one primary teacher. 
 
@@ -63,7 +63,7 @@ Assuming you are a current educator reading this, it is safe to assume student t
 
 ### **Handling Assistant Teachers**
 
-The first problem is figuring out if the assistant teacher(s), or co-teacher(s), even want to be in an assistant teacher position. If they do, that makes things easier. If they don't, you're trying to make a horse drink water. You'll need to consider client relations and negotiation in addition to why/how people find joy in the work they do. (Hint: complexity, autonomy, and effort vs reward).
+The first problem is figuring out if the assistant teacher(s), or co-teacher(s), even want to be in an assistant teacher position. If they do, that makes things easier. If they don't, it's not an impossible situation but you're trying to make a horse drink water. You'll need to consider client relations and negotiation in addition to why/how people find joy in the work they do. (Hint: complexity, autonomy, and effort vs reward).
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're the primary teacher, don't expect your assistant teachers to know what to do if you don't define what they *should* do. 
 

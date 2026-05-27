@@ -7,6 +7,8 @@ nav_order: 32
 
 ### [Previous Chapter](Z021a_Engineering_Architecture.html)
 
+This section intentionally does not have a short answer/long answer format like other chapters. It is a "guide" for educators setting up classes for the first time, taking into consideration all the other information from previous chapters.
+
 ## **By Week 1**
 
 *This period starts between before day 1 to end of week 1.*
@@ -28,12 +30,10 @@ You're starting with little experience and think you have more knowledge than yo
 
 **If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.** If you're a first year educator, employee, etc. you may also be subject to more observations and sometimes pushed to do things to avoid termination, rather than an educator with many years of experience.
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
-- *This is why I made several chapters dedicated to management alone in a teaching/instructional book!*
+- *This is why I made several chapters dedicated to management alone in a book centered on education!*
 - Do not be everything to everyone; focus on teaching and managing students.
 
-Additionally, if you're new to education, I'm afraid there's *some* bad news. It's part of the reality of starting out. 
-
-You may enter into an education system with a "less than ideal" scenario. This could be a school with high turnover rates and teachers leaving mid-year (likely breaking contracts too!), a classroom with many problem students, or you're pushed into teaching remedial and low level classes over classes *you* desire to teach. It could also be you're in an environment dealing with blockers entirely out of your control, such as ever-changing policies from above, weird and unusual standards and rules to follow, and more.
+You may also enter into an education system with a "less than ideal" scenario. This could be a school with high turnover rates and teachers leaving mid-year (likely breaking contracts too!), a classroom with many problem students, or you're pushed into teaching remedial and low level classes over classes *you* desire to teach. It could also be you're in an environment dealing with blockers entirely out of your control, such as ever-changing policies from above, weird and unusual standards and rules to follow, and more.
 
 More experienced teachers have more choices available for them, while means less experienced teachers are more limited, picking up scraps, or forced into the toughest schools first. Low rewards (i.e. money and benefits), lack of support, and poor working conditions can accelerate burnout and affect retention of educators (James & DeMio, 2025).
 
@@ -52,8 +52,8 @@ Lastly, teaching, and by extension education, *isn't* just teaching. It's also m
 ### **Day 0 & Day 1**
 
 ***I'll start with two assumptions in place:***
-1. *Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
-2. *You have at least a few days to 1 week BEFORE class starts for preparation.*
+1. Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.
+2. You have at least a few days to 1 week BEFORE class starts for preparation.
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is one day long, what you need prepared may change.
 
@@ -97,7 +97,7 @@ Think of it like climbing a plateau. It is steep initially, but once you reach t
 
 There's a chance you find out, probably the hard way, you'll need to do things differently to meet student needs and accommodations.
 
-Firstly, don't panic yet. That's normal to not have *everything* line up with expectations.
+Firstly, don't panic yet. That's normal to not have *everything* line up with expectations starting out.
 
 Now that you've avoided panic (hopefully), it's not the end of the world. The first week is used for sorting out the classroom environment and starting up curricula, so sorting out feasible adjustments *now* works in your favor. 
 
@@ -111,7 +111,7 @@ Here's a quick deduction process you can do:
 For those in the designer workspace, this may look familar to the Double Diamond framework popularized by the Design Council (2005). That's intentional, as you're also exploring what the problems are and potential solutions to those problems here too.
 
 ### **Syllabus**
-A syllabus is essential information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
+A syllabus is essential information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design. The syllabus should be accessible and clear to students taking your course(s) as well.
 
 This may include, but is not limited to:
 - Learning objectives and goals
@@ -125,8 +125,6 @@ This may include, but is not limited to:
   - For physical textbooks, online programs, etc.
 - Payment methods, payment plans, and monetary costs (if applicable)
 - Overview of classroom procedures and rules
-
-The syllabus isn't a legal document, but it must be accessible and clear to students taking your course(s).
 
 ### **Lesson Plan**
 
@@ -157,25 +155,25 @@ If, by your choice or not by your choice, you *have* to start on material day 1 
 
 *Disclaimer: Not medical advice. Consult professionals for medical guidance.*
 
-I've been pleasantly surprised how often a FAK was necessary, even for minor injuries and the occasional request for a bandage. Most information for a FAK can be found online across multiple, credible sources like MedlinePlus and American Red Cross.
+I've been pleasantly surprised how often a FAK was necessary, even for minor injuries and the occasional request for a bandage. Most information for a FAK can be found across multiple sources like MedlinePlus and American Red Cross.
 
 You may also see different types of medical kits, such as bleeding control or trauma kits, in addition to first aid kits. I'm focusing on first aid kits here because each type of medical kit, while essential and helpful, serves different functions and are not necessarily interchangeable.
 
-For legal reasons, teachers may not administer drugs to students, except under rare, narrowly defined, and explict scenarios. These restricted drugs include, but are not limited to:
+For many legal reasons, teachers may not normally administer drugs to students, except under rare, narrowly defined, and explict scenarios and permissions. These restricted drugs include, but are not limited to:
 - Ointments (Vaseline and Neosporin)
 - Pain Medicine (Tylenol, Advil, Ibuprofen, etc.)
-  - Hospitals and medical facilities track their use through acetaminophen ("Tylenol") levels
+  - Hospitals and medical facilities may track their use by checking acetaminophen ("Tylenol") levels
   - It can be difficult to find how much acetaminophen you did take and overdosing can cause liver damage or death (MedlinePlus, 2023)
-  - You're very unlikely to have medicine, such as acetylcysteine, as antidotes for any issues like overdosing.
+  - You're very unlikely to have antidotes, such as acetylcysteine, for any issues like overdosing.
 - Creams, lotions, and medicated wipes
 
-**An overdose, even accidental, is a medical emergency that you do not want to cause, or be responsible for, and can lead to death.**
+**Additionally, an overdose or improper administration of drugs, even accidental, may become a medical emergency you do not want to cause or be responsible for as an educator.**
 
 Some items are in a grey area, such as disinfectants and antiseptic wipes. For those, confirm with a principal, administrator, and/or nursing staff first before using, and also confirm the cases where it can be used.
 
 You may also consider a bottle of peppermint concentrate/oil/extract. You can safely avoid that because the likelihood you deal with a foul smell on the level of putrescine or cadaverine in your work setting is extremely low.
 
-**Non-drug items I find typically safe for classroom First Aid Kits (FAKs) (MedlinePlus, 2025):**
+Some non-drug items I find typically safe for classroom First Aid Kits (FAKs) include (MedlinePlus, 2025):
 - Bandages
 - Sharpie markers
 - Scissors/Shears (blunt or rounded tip preferred)
@@ -189,7 +187,7 @@ You may also consider a bottle of peppermint concentrate/oil/extract. You can sa
 These are items I would expect many people, including students, to utilize with manageable risk. Adapt the list as needed.
 
 Other medical items, like tourniquets and chest seals, don't administer drugs but require training to avoid life-threatening misuse. Though more workplaces in 2025 have better medical training for staff, high stress situations can still impair judgment and increase accidental risk.
-- You can safely include more items, provided you're trained and understand how to use them.
+- You can safely include more items, provided you're trained and understand how to use them, but that also means more items other untrained people could take and misuse too.
 - As an example of training, the [U.S. Department of Defense has a nationwide "STOP THE BLEED" program](https://www.dodstopthebleed.org/) for bleeding control.
 
 There's also two other rules of thumb for FAKs I prefer to follow:
@@ -198,7 +196,7 @@ There's also two other rules of thumb for FAKs I prefer to follow:
 
 ### **Designing Classrooms**
 
-If you've ever hosted a dinner party for important guests, you may've taken extra care for how you set it up. For example, the area is presentable towards guests, the table(s) you're seated at is prepared with cutlery, napkins, and perhaps some condiments, and people are ready accommodate you with food and drink options, like a glass of water, while you wait for food to be fully served.
+If you've ever hosted a dinner party for important guests, you may've taken extra care for how you set up the environment for guests and presentation of meals. For example, the area is presentable towards guests, the table(s) you're seated at is prepared with cutlery, napkins, and perhaps some condiments, and people are ready accommodate you with food and drink options, like a glass of water, while you wait for food to be fully served.
 
 Taking a similar approach to a classroom, this is like setting up desks for students to sit down at, preparing materials for your lectures, activities, and projects in advance, and the educator themselves is prepared to instruct at the designated classroom time.
 
@@ -209,36 +207,25 @@ Taking a similar approach to a classroom, this is like setting up desks for stud
 - Ensure the area is safe, secure, and functional.
 - Design the classroom to best respond to emergencies as necessary.
 
-If it's the first week of instruction, I'd say to keep desks facing towards where the instructor is at so students can put a name to a face rather than disassociate instructor and material. After this first week, feel free to change things up.
+If it's the first week of instruction, I'd say to keep desks facing towards where the instructor is at so students can put a name to a face rather than disassociate instructor and material. After this first week, it's likely safe to change things up.
 
-You'll also want to design the classroom in such a way to not make students think. That isn't to say they cannot pay attention, but instead to limit cognitive load when reasonable. For example:
-- Listing the agenda and/or procedures on a whiteboard or projector screen
-- Rules displayed and visible from any part of the area
-- Simple decorations to enhance the visual appeal of the room without risking distractions
-- Setting up furniture to not obscure vision and force students to move around often just to see
+You'll also want to design the classroom in such a way to not make students think *too* much. That isn't to say they cannot pay attention, but instead to limit cognitive load when reasonable. More attention towards potential distractions is less attention towards potential learning afterall. For example:
+- Simple decorations to enhance the visual appeal of the room and make it more comfortable to reside in.
+- Placing furniture in such a way to not obscure vision and force students to move around often just to receive proper education.
 - Preparing pre-made guides, like list of materials for a classroom, you may hand to students so they have a copy handy.
   - You may also post them online or via email in case they're absent for this artifact.
 
 ### **What About Labs?**
 
-*This is mainly for science teachers.*
-
-For labs, your room likely has a lot of equipment you don't want mishandled.
+For labs, the classroom likely has a lot of equipment you don't want mishandled or equipment brought in you'd prefer to keep in good condition.
 
 A good way to mitigate mishandling is organization stations to retrieve and return items to. On the day of labs, you'll want to make your way over to those stations and ensure the process runs smoothly.
 
 You'll also want to maintain the condition of equipment in these stations. A 5 minute cleaning is far better time spent than 1 hour looking up purchase orders to replace a slightly dirty object. You may also need computers for simulations, online labs, and more. Similar process: have stations to retrieve and store them at and ensuring they're properly handled. Not every "lab" needs extensive equipment either; some labs are doable entirely on computers in modern times.
 
-As for the lab *material,* most experiments are:
-1. Setting up equipment 
-2. Measuring X
-3. Determining Y 
+For classes utilizing labs, I'd aim for at least one lab per unit of material to model/simulate what is taught and done in real-world environments. Don't do labs in isolation though; science concepts still require breaking them down into simpler ideas and explaining the processes through lectures and other activities. Without appropriate background knowledge, orchestrating the lab and following along with instructions may become significantly more difficult.
 
-That's the basic premise. Design a clearly defined procedure with this in mind and you're most of the way there already. This applies neatly at the high school level (sometimes college level) and below. It's not likely you'll get a lab activity *every* week. 
-
-I'd aim for at least one lab per unit of material to model what you teach in real-world environments. Don't do labs in isolation though; science concepts still require breaking them down into simpler ideas and explaining the processes through lectures and other activities. Without appropriate background knowledge, orchestrating the lab is significantly more difficult.
-
-You *can* make students do labs individually, but expect to do groups for labs and similar high-impact activities. This is to save costs on materials, but also to get students to work together. If you're fearful of the "group project" effect, you may assign tasks to individuals so they maintain some accountability to lab success.
+You *can* make students do labs individually, but expect to do groups for labs and similar high-impact activities. This is primarily to save costs on materials and other resources, but also to get students to work together. If you're fearful of the "group project" effect, you may still assign tasks to individuals so they maintain some personal accountability.
 
 ## **By Month 1**
 
@@ -262,7 +249,7 @@ This timeframe is difficult precisely because everything is still "new." Expect 
 - Outstanding payments from students collected (if applicable).
   - If still outstanding, send gentle reminders via email or other contact methods.
 
-Month 1 is storing and organizing your "teaching database" to quickly access and retrieve information from. Cleaning and organizing takes up the bulk of setup time before its usable, but it's worth taking extra time to get your ducks in a row.
+Month 1 is storing and organizing your "teaching database" to quickly access and retrieve information from. Cleaning and organizing takes up the bulk of setup time before its usable, but it's worth taking extra time to get your ducks in a row so you save significant time in the future.
 
 ### **Lesson Plans (Post Week 1)**
 
@@ -311,7 +298,7 @@ For first-year teachers, your main goal is survival. After the first year, you h
 
 ### **A Note on Effectiveness vs Efficiency**
 
-You may think about effectiveness and efficiency during reflection. These are two terms used in similar contexts and fields, but they are not interchangeable. It doesn't take a Master's degree in Industrial Engineering or a Six Sigma black belt to tell you that. I'll spare you a thesis and describe it in a few different ways:
+You may think about effectiveness and efficiency during reflection periods. These are two terms used in similar contexts and fields, but they are not interchangeable. It doesn't take a Master's degree in Industrial Engineering or a Six Sigma black belt to tell you that. I'll spare you a thesis and describe it in a few different ways:
 
 1. An effective but inefficient solution solves a problem, whereas an ineffective but efficient solution does not solve a problem.
 2. Once you learn that everything is a system, it gets easier to spot inefficiencies you missed before.
@@ -347,4 +334,4 @@ You may think about effectiveness and efficiency during reflection. These are tw
 
 6. Wong, H. K., & Wong, R. T. (2018). *The First Days of School: How to Be an Effective Teacher.* Harry K. Wong Publications.
 
-## **[Next Chapter](Z023_Case_Study_Communication_Lesson_Example.html)**
+## **[Next Chapter](Z024_Conclusion_Learnings.html)**

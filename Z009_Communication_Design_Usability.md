@@ -33,8 +33,8 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 ## **Long Answer**
 
 **Before continuing, recognize that:**
-1. Someone probably did what you want to do.
-2. Someone probably did it better.
+1. Someone else probably did what you want to do before.
+2. Someone else probably did it better.
 
 *Reread those two things, then continue.*
 
@@ -68,7 +68,7 @@ You'll find students go in with a goal in mind. That goal may be getting through
 A misaligned goal is something you can mitigate to an extent. Any form of thinking takes up energy; if you can spend less energy thinking about something, then you'll likely do that. Your material could be the best and most fun in the world, but viewed as nothing more than work, which takes up time and energy that students would rather spend elsewhere. Put another way, imagine a student has a fuel tank where every thought, action, etc. uses up fuel and they have a limited supply for the day.
 - This is formally called cognitive load theory, as coined by Sweller (1988).
 
-When in doubt, design materials to minimize unnecessary effort. Conventional templates, multiple choice questions, and familiar formats may not look the best design-wise, but require less mental effort to meet their goal and give back more time to do what you want. By extension, this means you get more time to have them focus on what you want them to learn; all by making it easier to meet their goal(s).
+When in doubt, design materials to minimize unnecessary effort, but not *all* effort. Conventional templates, multiple choice questions, and familiar formats may not look the best design-wise, but require less mental effort to meet their goal and give back more time to do what you want. By extension, this means you get more time to have them focus on what you want them to learn; all by making it easier to meet their goal(s).
 
 You can also teach new conventions and methods, but it may take students several iterations and exposures before they require less mental effort to think about how to do it correctly.
 
@@ -85,7 +85,7 @@ If you don't know where to start identifying serious problems:
 Solutions don't have to be perfect; just good enough to effectively solve the problem.
 
 ### **Accessibility**
-Outside of legal requirements like IEPs and 504s, you want to make sure your teaching material is accessible. Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort.
+Outside of legal requirements from items like accommodations, you want to make sure your teaching material is accessible. Does this mean more work? Yes, but it also means potentially great improvements with relatively little effort.
 
 If you want two examples, think about blind and deaf people. As an example, you can use Braille to accommodate learning for blind people or with vision loss (U.S. Department of Justice Civil Rights Division, 2020). Because these demographics have these methods to communicate and learn, they're now on a similar stage of learning compared to peers without those disabilities.
 
@@ -111,7 +111,7 @@ There's also real incentives to adopt this type of pedagogy. For example, at the
 To succinctly summarize, CR-S education aims for quality, rigorous learning and high expectations for students while maintaining a welcoming and inclusive environment. Culture, in this equation, is a core component rather than a feature and also strives to incorporate the community surrounding the education system.
 
 Culturally responsive pedagogy and CR-S can be associated with differentiation, but is not the same as differentiation. The difference is CR-S affects how the environment learning takes place and incorporating current events broadly into the curriculum versus differentiation tailoring curriculums and materials towards a student's specific learning needs.
-- i.e. CR-S is implemented into curriculums *before* differentiation affects it.
+- i.e. CR-S is implemented into curricula *before* differentiation affects it.
 
 ### **The "Science of Reading"**
 
@@ -129,7 +129,7 @@ Despite what vendors may claim, it is still up to institutions, and by extension
 
 ### **The Trust Thermocline**
 
-While this could be a management or even an engineering problem too, I'm going to classify it as a user experience problem in this book. 
+While this could be a management, or even an engineering, problem too, I'm going to classify it as a user experience problem in this book. 
 
 You may have seen the word thermocline by itself in oceanography to describe the transition zone between warmer water and cooler water (i.e. going from the epipelagic zone to the mesopelagic zone) (NOAA, 2024). When you reach this thermocline, you'll easily know it and feel it by the sudden change in temperature.
 

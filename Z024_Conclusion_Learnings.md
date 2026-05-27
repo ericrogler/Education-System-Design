@@ -1,11 +1,11 @@
 ---
-title: 32. Conclusion / Learnings
+title: 31. Conclusion / Learnings
 layout: default
-nav_order: 34
+nav_order: 33
 ---
 # Conclusion / Learnings
 
-### [Previous Chapter](Z023_Case_Study_Communication_Lesson_Example.html)
+### [Previous Chapter](Z022_Action_Plan.html)
 
 Teaching is a combination of many different fields in a single profession.
 

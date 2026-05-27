@@ -19,13 +19,13 @@ nav_order: 11
 
 Standards for learning depend on what, where, and how you teach. There may be many standards or few standards to follow, so decide where to be flexible on topics to enhance learning. You may also need to make concessions on content and time due to unexpected events or to stay within deadlines.
 
-**Your main goal here is to meet all standards and go into the appropriate depth on each relevant topic.**
-- Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the curriculum.
+**Your main goal with standards is to sufficiently meet them and go into the appropriate depth on each relevant topic.**
+- Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the material in the curriculum.
 
-Another lesser known reality, which should be common knowledge in my opinion, is teachers have a widely varying range of autonomy when deciding standards and their curriculum. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies established standards. Teacher autonomy goes anywhere from nonexistent to constant.
+Another lesser known reality, which should be common knowledge in my opinion, is teachers have a widely varying range of autonomy when deciding standards and their curriculum. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards. Teacher autonomy goes anywhere from nonexistent to ever present.
 - This isn't to say all standardization is *bad*, but it does trade off differentiation.
 
-If you're transitioning or changing into new standards or curriculums, be aware you typically can't solve every problem. Any change, however, should solve at least *some* of your major pain points.
+If you're transitioning or changing into new standards or curricula, be aware you typically cannot solve every problem by doing so. Any change, however, should solve at least *some* of your major pain points.
 - i.e. Achieve a "net benefit."
 - This also applies to many things in life where you need to weigh the benefits vs costs.
 - In practice, sometimes the "best method" to teach something may not be a method supported by standards.
@@ -40,13 +40,13 @@ Regardless, **do not cut corners with standards and objectives for any education
 
 There are several reasons why:
 
-- It's hard to build a good curriculum, or learning experience in general, without them
+- It's hard to build a good curriculum, or learning experience in general, without standards
 - Some educational materials may not align with standards, which adds noise when you need signals
 - Not adequately covering standards may risk trouble like non-renewal and potential legal and ethical issues
 
 **Once you firmly establish standards and objectives, *then* you can be creative in your methodology.** Think of these as guardrails for your curriculum preventing overemphasis in one area, defining scope, and ensuring all checks are met. They don't provide specific teaching methods or materials, but instead explicit goals for students to meet and master.
 
-While standards can limit what is done, strong standards elevate education, provide direction, and include clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's what ensures you are effective *and* efficient with instruction.
+While standards may limit what can done, strong standards elevate education, provide direction, and establish clear metrics to evaluate classroom performance. This isn't part of any legal requirement or political agenda either; it's simply what ensures you are effective *and* efficient with instruction.
 
 Depending on where and what you're teaching, you might skip most of the curriculum setup and have it dictated by your State and/or District. Other times, you may receive a list of standards to meet and simply create your curriculum. It's a *guide*, rather than a script, defining the scope, sequence, and hoops to jump through to get through it.
 
@@ -76,7 +76,7 @@ You may come across other sets of standards (not to be confused with curricula!)
 
 - States and districts, in the United States, "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
 - A good set of standards can still make a poor curriculum.
-- The same set of standards and how they're implemented can vary widely from school to school, district to district, and state to state.
+- The same set of standards and how they're implemented can vary widely from system to system, school to school, district to district, and state to state.
 - Sometimes standards are not solely based on what is best for learning, but as a response to the cultural and political environments they're developed in.
     - See Gamage et al. (2021) for one research example on this particular point.
 
@@ -85,7 +85,7 @@ Though you may have a good curriculum or set of standards to work with, the othe
 
 ### **How Do I Design Something?**
 
-You can make this as complicated or as simple as you want. I'll opt for a simple process here.
+You can make this as complicated or as simple as you want. I'll try and opt for a simple process here.
 
 As a caution: if your goal is to make something *original* and showcase competency, avoid anything AI (or existing automation technology) can easily replicate, because it won't showcase as well what *you*, the human, can do.
 - You could still argue utilizing AI is OK, but let's pretend you're not allowed to use it.
@@ -107,18 +107,19 @@ The process stays *mostly* consistent outside education systems too, but may dif
 
 ### **What About Standardized Tests?**
 
-*They're a necessary evil.* 
+*They're a necessary evil.*
 
 This is especially true on standardized tests hosted by third parties or enforced within your own education system. A test like this loses its importance if students can differentiate, opt out of it, and have no stakes if they fail.
 - Yes, not having any stakes counts as cutting corners.
 
-To give an example that applies, but isn't related to education for neutral context: Medical tests. 
+To give an example that applies, but isn't related to education for neutral context: Medical checkups.
 
-Imagine you go to the doctor's office for a checkup, and they need to prescribe you a blood test. There might not be anything *wrong* with you, but they're making sure and ruling out possibilities. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medicall professionals generally know what these metrics mean and how they're measured. They *could* be subjective on how they interpret results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified baseline they can reference and confirm results.
+Imagine you go to the doctor's office for a checkup, and they need to prescribe you a blood test. There might not be anything *wrong* with you, but they're making sure and ruling out possibilities. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medical professionals generally know what the values on these metrics mean and how they're measured. They *could* be subjective on how they interpret results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified baseline they can reference and confirm results from.
 
 Scores and metrics are a thing in about every field, major, study, or area of expertise; a baseline level to determine good vs bad, big vs small, etc. If that isn't there, or cannot be agreed upon, you get multiple competing standards and increase confusion on which standard(s) actually are valuable.
+- Or you might see there's 6 different standards, want to make your own, and now people have 7 different standards competing against each other.
 
-Put another way, you *need* a consistent way *people can agree on* to measure things. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). 
+Put another way, you need a consistent way *people can agree on* to measure things. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). 
 - E.g. standardized test scores considered alongside school context for university admissions.
 
 The ideal system would prioritize evaluating many different traits from someone, but that may not be feasible due to the testing organization's own bias, resources, or political/social pressures. It may also not be prioritized simply because society, as a whole, doesn't value a particular skill or trait, so sees no need to evaluate based on it.
@@ -132,7 +133,7 @@ Additionally, standardized tests counters multiple issues with adhering to metri
 
 You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
 
-Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
+Though standardized tests may force curricula to be more 'rigid', I also find they're less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
 
 ### **Grades & Grading System**
 
@@ -159,7 +160,7 @@ Transparency matters as criteria should be communicated and understood by the st
 
 Proportionality is how grades are divided amongst work for students. For example, you may see this as weights on how much quizzes, tests, homework, etc. affect the final grade. As a general advice for systems utilizing weights: the weight of an assessment should scale with the significance towards a particular goal.
 
-With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figured out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieve, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
+With those parts stated earlier, let's order them. Validity issues should be solved first, followed by proportionality issues second. Consistency should be figured out after those two, followed by transparency. You get the right standard, the right ways to weigh how learning is achieved, how to consistently and fairly grade students, and finally the way to communicate it all towards those same students. 
 
 Feedback and objectivity are ongoing measures running parallel to the other aspects. You'll figure these out near the beginning, but monitor and maintain throughout the entire learning journey. It's how you figure out if things are going right and wrong from start to finish and what avoids rose-tinted glasses when reviewing all the data and metrics you're tracking along the way.
 
@@ -188,7 +189,7 @@ These assessments are not things to be completely avoided. It's expected to find
 
 ### **Is Funding Tied to Standards?**
 
-**Yes.**
+Generally speaking, **yes.**
 
 For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the company needs to meet these standards and figure out ways to either recoup losses, cut costs, or risk going bankrupt and out of business.
 

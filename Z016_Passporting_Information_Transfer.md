@@ -18,7 +18,7 @@ nav_order: 25
 
 Sometimes you need to help get a fellow teacher, or substitute teacher, set up in a classroom. You may not have to do it often, but it's better to know how because you may have to do it.
 
-Just because your passporting and information transfer procedures, especially with lesson plans, are long doesn't necessarily mean they're good. Quantity =/= quality and clear details/procedures are the winners.
+Just because your passporting and information transfer procedures, especially with lesson plans, are long doesn't necessarily mean they'll be good. Quantity =/= quality and clear details/procedures are the winners.
 
 ## **Long Answer**
 
@@ -27,18 +27,16 @@ Teachers, and generally everyone else in an education system, can be extremely c
 Don't be cliquey. A mentor today means a better educator (and education) tomorrow.
 
 In a position (teaching/instructing) where you need all the help you can get, it's surprisingly hard to get that help. It may be for a multitude of reasons, such as:
-- It took someone else a lot of effort to set up everything they use, so are reluctant to pass it off
+- It took someone else a lot of effort to set up and create everything they use for education, so may be reluctant to pass it off
 - Someone wants to sell their curriculum or teaching materials
 - They're not willing to work with other people out of habit, pride, or similar disposition
     - By extension, they may make it *more difficult* for you as well
 - They may not be well prepared, like yourself, so cannot assist you meaningfully even if they want to
-- They are unable or unwilling to serve as a mentor role
+- They are unable or unwilling to serve in a mentor role
 
-The first several items in the list above are straightforward. As for mentorship, many people in general are not cut out to be mentors even if they're in education.
+The first several items in the list above are straightforward. As for mentorship, many people in general are not cut out to be mentors for a variety of reasons.
 
-If you get into teaching or instructing, or are currently one, your experiences may vastly differ depending on the environment you operate in. 
-
-I'll split this up into two sections: teacher-to-teacher and teacher-to-substitute.
+If you get into teaching or instructing, or are currently a teacher, educator, or instructor, your experiences may vastly differ depending on the environment you operate in. 
 
 ### **Teacher-to-Administrator**
 
@@ -92,14 +90,14 @@ The best part? You could include almost all of this on a single Google Document.
 
 ### **Teacher-to-Substitute/Guest Teacher**
 
-If there's one thing you *have* to take away from here, it's to tell guest/substitute teachers to ignore a student saying "Our teacher lets us do ___" or something similar. It *could* be true, but it could also not be true and cause issues.
+If there's one thing you should take away from here, it's to tell guest/substitute teachers to ignore a student saying "Our teacher lets us do ___" or something similar. It *could* be true, but it could also not be true and cause issues.
 
 Before continuing, I must emphasize some extremely important points with substitute teachers. 
 1. Your classroom management plan could be perfect, but it will not stop students from testing boundaries and seeing what they can get away with.
-    - Substitute teachers rarely, if ever, have access to the same tools to monitor and control behavior like other teachers.
+    - Substitute teachers may rarely, if ever, have access to the same tools to monitor and control behavior like other teachers.
     - Even if they do have access, using the tools effectively takes a moderate amount of training time not typically available or provided to them.
     - A substitute teacher is typically going into the classroom with diminished authority from the start. They do not have rapport already established.
-2. A poorly written substitute plan can still get you reported and in trouble with administration.
+2. A poorly written substitute plan can still get you in trouble with administration.
     - You could also be reported for aggressive and demeaning writing in the plan(s) as well.
     - You could also lose substitutes willing to cover for you, which means fewer opportunities to have time off.
 3. Students can lie with a straight face to the substitute teacher about what you, the teacher, allow in the classroom.
@@ -117,7 +115,7 @@ Some passporting and information transfer, which normally may violate FERPA/HIPA
 Despite these legal restrictions and allowances, the primary teacher and the school are still responsible for informing the substitute teacher about specific student requirements and what should be done in the classes covered. Failure to do so may provide the substitute teacher reasonable defense for not meeting these requirements.
 
 You'll want a separate substitute plan template for planned days off and an emergency substitute teacher plan. Emergency plans ensure you don't get in trouble when you can't create plans for a particular time frame. For both plan types, put down information relevant for a substitute teacher–or another teacher in general–to know about when you're gone.
-- Don't do these plans in any non-standard fonts. Older, reliable fonts are Times New Roman, Arial, or Calibri at 12pt size. Just use one of those if you're unsure.
+- Don't do these plans in any non-standard fonts. Older, reliable fonts that are "readable" are ones like Times New Roman, Arial, or Calibri at 12pt size. Just use one of those if you're unsure.
 
 You'll also want to share emergency procedures, schedules, and contact information like in teacher-to-teacher passporting. Add in any device/software logins or passwords needed to operate programs if substitute teachers need to use those as part of your plans. You don't *need* to give a cell phone number, but you should provide your *professional* email address for contacting.
 
@@ -135,7 +133,7 @@ In short, *everyone* follows the same rules or they don't play with each other.
 
 ### **Substitute "Binder"**
 
-This is the one-stop-shop for everything a substitute needs. Some items are review and you likely know about already and other items I'll cover more in-depth later. **Your goal is assembling a binder that, ideally, takes no more than 5-10 minutes to scan through in its entirety.**
+This is the one-stop-shop for everything a substitute teacher needs. Some items are review and you likely know about already while other items I'll cover more in-depth later. **Your goal is assembling a binder that, ideally, takes no more than 5-10 minutes to scan through in its entirety.**
 - When in doubt, and within reason, provide details about anything that may not be easily understood.
 - Administration may alter or request additional items outside of this list, so be open to those as well.
 
@@ -289,7 +287,7 @@ The beauty about a well-designed regular substitute plan is it can take one of t
 - Short, but written in paragraph style text for quick reading
 - Long, but with multiple, concise lists for easy scanning
 
-### **How to keep Substitute Teachers**
+### **How to Keep Substitute Teachers**
 
 If you want substitute teachers to actually cover for you now and in the future, here are some examples (not covering *all* of them) of things to do:
 - Don't bait and switch substitutes.

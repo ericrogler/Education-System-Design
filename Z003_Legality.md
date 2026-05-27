@@ -38,7 +38,7 @@ It doesn't matter if you're a teacher, an administrator, or a non-education role
 
 First, the obvious. What is a law is still a law you follow in education. There's a lot of laws, but limited resources to comply with said laws, which means education systems will contend with legal mandates vs practical implementations at least once during their lifetime.
 - E.g. SPED teachers with caseloads over legal maximums for students with IEPs or too many students with accommodations for educators to reasonably meet *all* accommodations.
-- For a non-education example, one parallel is nurses in medicine who are "over matrix" on patients for their particular ward based on available staff and resources.
+- One parallel outside education is nurses in medicine who are "over matrix" on patients for their particular ward based on available staff and resources.
 
 As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so many examples are from there and I will use Colorado as my primary reference for this chapter. Other states may have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
@@ -292,17 +292,17 @@ There's also evidence of *both* negative and positive results from redshirting (
 
 ### **Attendance**
 
-One may think attendance in education systems is not a legal issue. I'm here to say it is.
+One may think attendance in education systems is not a big legal issue. I'm here to say it is.
 
-In short, *don't knowingly misreport attendance* because that's falsifying a legal document. It's an alibi for everyone involved and ensures they're where they're supposed to be. It's a matter of safety.
+In short, *don't knowingly misreport attendance* because that may be falsifying a legal document and carries consequences. It's an alibi for every party involved and ensures they're where they're supposed to be. It's a matter of safety.
 
 I'll reframe it with a general analogy.
 
-You are responsible for knowing where someone is. If they are in a classroom, you need to report they are "present" in a certain classroom. If they are not in a classrom, you need to report they are "absent" from a certain classroom. If their status suddenly changes from present to absent, or absent to present, you also need to note that down with a timestamp. If any emergency or issue comes along, but they're marked "present" when they're actually absent (or the inverse!), you may be held responsible because you neglected your duties.
+You are responsible for knowing where someone is during a given timeframe on X number of days. If they are in a classroom, you need to report they are "present" in a certain classroom. If they are not in a classrom, you need to report they are "absent" from a certain classroom. If their status suddenly changes from present to absent, or absent to present, you also need to note that down with a timestamp. If any emergency or issue comes along, but the person is marked "present" when they're actually absent (or the inverse!), you may be held responsible because *you* neglected your duties.
 
-Nevertheless, with attendance in education, it's typically a teacher making a reasonable effort to confirm whether or not students are here. This can be doing a roll-call and audibly calling out each students name and marking absent whoever doesn't respond, a teacher confirming visually a student is physically there in a classroom, or a similar method. What matters is any positive response, confirmation, or identification of a student in that particular area at that particular timeframe in case of any particular emergencies they need to be contacted for.
+With attendance in education, it's typically a teacher making a reasonable, best effort to confirm whether or not students are there in their classroom. This can be doing a roll-call and audibly calling out each students name then marking absent whomever doesn't respond, a teacher confirming visually a student is physically there in a classroom, or a similar method. What matters is any positive response, confirmation, or identification of a student in that particular area at that particular timeframe in case of any particular emergencies they need to be contacted. Attendance sheets could also be used to identify witnesses who can report what may've happened in a given classroom.
 
-In the case of "errors" with attendance, an education system may have other staff members, such as an attendance secretary or administrator, around to double-check and confirm whether or not that is the case. That safety net changes a knowing misrepresentation (and legal issues) back into honest errors (and not legal issues), which can be rectified. This correction process still has to act in good faith, however.
+In the case of "errors" with attendance, an education system may have other staff members, such as an attendance secretary or administrator, around to double-check veracity and confirm whether or not the attendance is validly handled. That safety net changes a knowing misrepresentation (and legal issues) back into honest errors (and *potentially* not legal issues), which can then be rectified. This correction process still has to act in good faith, however.
 
 ### **Teaching/Instructional Contracts**
 

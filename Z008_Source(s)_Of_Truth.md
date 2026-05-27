@@ -27,7 +27,7 @@ Despite this being a book on education systems (and education in general) and an
 
 Funny how that works.
 
-I'd also reasonably assume education will move away from hard copy (i.e. "physical") textbooks and other sources of information. This is due to increasingly digitalizing and storing information online and through databases instead mainly for benefits like lower costs and practical reasons. This has already happened at large by the time of this writing, with expectations it'll be more prevalant in the future despite any resistance or reasonable wariness towards it.
+I'd also reasonably assume education will gradually try to move away from hard copy (i.e. "physical") textbooks and other sources of information. This is due to increasingly digitalizing and storing information online and through databases instead mainly for benefits like lower costs and other practical reasons. This has already happened at large by the time of this writing, with expectations it'll be more prevalant in the future despite any resistance or reasonable wariness towards it.
 
 You'll also find many rules don't apply universally for determining a standard of quality. For example, academia follows the rules of academia and internally conducts peer reviews, citation standards, accreditations, and holds authority in its own jurisdiction. Many of these rules exist to protect the people inside of them. It cannot, however, readily enforce products and services outside of that academia jurisdiction; those products and services are subject to different rules in the environments they're active in.
 - That'd be like the United States using its federal laws to enforce what happens in the European Union.
@@ -57,7 +57,7 @@ There are three explicit categories stated here: known knowns, known unknowns, a
 ### **Exploring Outside Your Field**
 Though Rumsfeld mentions unknown unknowns as difficult, I'd also categorize unknown knowns as equally challenging. Beliefs, suppositions, and practices we do not know of may form the values we know of, follow, and practice.
 
-For your curriculum and meeting standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching. For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. 
+For curricula and meeting standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching. For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. 
 
 In the process of researching, you'll eventually come upon information that you may or may not use in teaching, but didn't know about before, existed, or initially thought relevant to your subject(s) (unknown unknowns). Funny how intelligence work is helpful in teaching, too.
 
@@ -85,11 +85,11 @@ If a textbook is published in the United States, and is catered towards American
 
 A textbook designed at a national level and not at the state level is one reason why supplementary material may be required to meet the standards and additional requirements imposed by states, districts, or even counties and cities where instruction takes place. It also helps explain why teachers and instructors may use and create specially designed materials for teaching, rather than textbooks, for their classroom.
 
-Though the textbook may not provide all necessary information (or even too much information), they're still a valid source of truth to satisfy the standards and objectives teachers and instructors need to cover. Because they do provide information to satisfy multiple standards, it's not always necessary for a teacher to fully cover every detail inside of one textbook for a given class; especially if some parts don't align with your standards.
+Though a textbook may not provide all necessary information (or even too much information), they're still a "source of truth" to satisfy the standards and objectives teachers and instructors need to cover. Because they do provide information to satisfy multiple standards, it's not always necessary for a teacher to fully cover every detail inside of one textbook for a given class; especially if some parts don't align with your standards.
 - For 1:1 instruction, specialized groups, and private tutoring, the entire textbook *may* be covered instead, but that's more doable for that specific environment compared to typical classrooms.
 
 As an aside, also be careful when textbooks come with new "editions." These can range from changing a couple things in errata to complete rewrites. Sometimes this means staying up to date means repurchasing textbooks (which the companies writing and publishing likely want because what business doesn't want money, right?). This could also mean an old textbook from 10+ years ago still meets standards with a bit of scaffolding and supplements, many of them potentially free, added in here and there.
-- To give a "fun" example of when you should upgrade editions: a tabletop RPG with Pathfinder 1e vs Pathfinder 2e.
+- To give a "fun" example of when you may upgrade editions: a tabletop RPG with Pathfinder 1e vs Pathfinder 2e.
     - Multiple, significant changes exist between the two editions, so you should get a copy of the new edition to stay updated and accommodate players who need/want to use the new rules and systems.
 
 ### **The "PDF" of a Book (and its Citations)**
@@ -157,7 +157,7 @@ As for how *old* research can be while remaining relevant, it's a somewhat compl
 
 Because the conditions are controlled, however, this may lead to "Luxury Beliefs" which is ideas suitable for people with resources vs people without enough resources, or upper class vs lower class (Henderson, 2022). Research is always at risk of being divorced from reality and this extends *beyond* education across multiple fields. The same policies and ideas may have positive effects in one environment, but drastically negative effects in another environment, which runs counter against providing consistent equity for education in the first place!
 
-With research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias (to name just a few) inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
+Within research, there may also be issues with p-hacking, replication failures, variable control, correlation, and bias (to name just a few) inserted into the research (Ulrich & Miller, 2020). There may also be business incentives and programs affecting the research to showcase "the next best thing" and create evidence for it to generate a profit on. This can also mean "hunting" for studies supporting existing opinions and bias to push forward a policy or method.
 
 Additionally, some people conducting the research on education and classrooms may have never *taught* in a classroom before, which may remove vital context and domain knowledge to inform their findings and draw conclusions. This lack of context may or may not be their fault either; acquiring data on students in education has many barriers and ethical concerns attached which may dilute the research. What that means is they may acquire samples either too small for statistical significance or unrepresentative of populations to reproduce and verify research methods.
 

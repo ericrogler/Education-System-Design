@@ -15,7 +15,7 @@ nav_order: 15
 
 ---
 
-*Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
+*Notice: This entire chapter is, at best, a surface level view of each topic covered here.*
 
 The average person will probably not go beyond basic concepts for Probability and Statistics unless they seek it out themselves, is required for a job, are or going through a math-heavy field of study.
 - E.g. you may not use statistical *calculations*, but you may utilize statistical *reasoning.*
@@ -30,11 +30,11 @@ Most analysis will employ tools, such as software like Excel or a coding languag
 
 Sometimes analysis and modeling doesn't require advanced math. In fact, it may be counterintuitive to write an entire, custom solution when an existing model you can import solves the problem far faster and more accurately.
 
-Statistical Significance does not imply Practical Significance.
+Statistical significance does not imply practical significance.
 
 ## **Long Answer**
 
-Statistics and Probability are where you realize a 50% success rate sounds bad at first, until you remember the last 50 times it happened came out just fine. It's learning a matter of perspective, in a way.
+Statistics and Probability are where you realize a 50% success rate sounds bad at first, until you remember the last 50 times it happened came out just fine. It's learning a matter of perspective.
 
 Learning Statistics and Probability typically requires an advanced mathematical foundation before beginning. This is usually 1-2 years of Calculus, with all of its prerequisites, and/or Linear Algebra; often accomplished around late high school/early college age for students (17-21 years old) as of 2025.
 
@@ -42,7 +42,7 @@ Do Statistics and Probability *require* Calculus? For their applied versions, no
 
 Should you still learn them? Personally, yes.
 
-When I did Statistics courses (yes, not just one) as an undergraduate, they shied away from Calculus and in-depth theorems and focused more on Algebra. That isn't necessarily *bad* as you can still do multiple things, like z-scores, ANOVA, t-tests, hypothesis testing, linear regression, and normal distributions. You will eventually hit a limit without knowledge of higher math though. 
+When I did Statistics courses (yes, not just one) as an undergraduate, they shied away from Calculus and in-depth theorems and focused more on Algebra. That isn't necessarily *bad* as you can still do multiple practical things, like z-scores, ANOVA, t-tests, hypothesis testing, linear regression, and normal distributions. You will eventually hit a limit without knowledge of higher math though. 
 
 Intuitive understanding is possible without formal training and one can learn the tricks to implement algorithms and procedures without insight in how they work. Older elementary school students or middle school students (ages 9-10+) could learn about parts of probability before knowing all the math behind it just fine. 
 
@@ -70,7 +70,7 @@ For a quick answer: they are *both* important.
 
 **If you ever need mathematical explanations for problems with uncertainty and random phenomenon, probability and statistics are some of the best tools for the job.**
 
-There's at least a few ways people learn Statistics and Probability. One option is a formal course, such as one offered by a university in a classroom setting. Another option is buying guided/targeted materials for specific audiences like Sauro and Lewis' *Quantifying The User Experience* (2016) or using an alternative/online resource, free or paid, to get Statistics knowledge for certain job duties. A third option is self-studying the topics in general from independent sources like [3Blue1Brown](https://www.3blue1brown.com/) (2026) and [StatQuest](https://www.youtube.com/c/joshstarmer) (2025) to discover these topics on their own.
+There's at least a few ways people learn Statistics and Probability. One option is a formal course, such as one offered by a university in a classroom setting. Another option is buying guided/targeted materials for specific audiences like Sauro and Lewis' *Quantifying The User Experience* (2016) or using an alternative/online resource, free or paid, to get Statistics knowledge for certain job duties. A third option is self-studying the topics in general from independent sources like [3Blue1Brown](https://www.3blue1brown.com/) (2026) and [StatQuest](https://www.youtube.com/c/joshstarmer) (2025).
 - Aside: I've been through all three options.
 
 I'm sure there's other ways besides these three, but these are the most common ways I've seen. For the scope of this book, we'll approach Statistics and Probability as an introductory topic.
@@ -105,11 +105,11 @@ The relationship between correlation and causation is pretty straightforward. Fi
 
 ### **Set Operations and You**
 
-I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis as well as *Statistical Inference* by Casella and Berger (2021).
-- Aside: These two specific books *do* assume basic training in Calculus.
+I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis (2008) as well as *Statistical Inference* by Casella and Berger (2021).
+- Aside: These two specific books *do* assume students have Calculus knowledge.
 
-There are comprehensive (even if informal/secondary sources) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to read the chapter.
-- If those resources are down in the future, doing a search on the Internet should uncover updated sources.
+There are comprehensive (even if informal/secondary sources) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to interpret this chapter.
+- If those resources are down in the future, doing a search on the Internet (or similar technology) should uncover updated sources.
 
 Why am I calling out set operations in particular? It's because not knowing set operations is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
 
@@ -123,23 +123,23 @@ Quality could be a metric on its own, but is also made up of dimensions, like pe
 
 This topic also introduces processes and applications like DMAIC (Define, Measure, Analyze, Improve, and Control), control charts, status charts, and adjustments. Since it's still statistics, you can also expect to use existing statistics methodology like ANOVA, t-tests, and so on.
 
-Like Statistics and Probability, SQC will assume you can navigate Algebra, but also discuss parts where an understanding of Calculus immensely helps you out.
+Like Statistics and Probability, SQC will assume you can at least navigate Algebra, but also discuss parts where an understanding of Calculus immensely helps you out.
 
 ### **Why Cover Analysis?**
 
 You may be wondering why a book on education dedicated so much real estate to math.
 
-Outside of author bias, the actual reason is simple: you need to know math to understand research which influences the field of education and, well, just about *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
+Outside of author bias, the actual reason is simple: you need to know math to understand the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
 
 Now we go onto analysis; an application of all that math with some science and social skills.
 
-The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though, which is why domain knowledge is important.
+The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind any charts and numbers though, which is why still learning math and acquiring domain knowledge is important.
 
-The bad news about data analysis is you need math skills to get the most out of data and generate effective results. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
+The bad news about data analysis is you need math skills to get the most out of data and generate effective results of your own. Thankfully, you don't need a lot of hard data for every problem; that's costly and unrealistic for many cases.
 
 ### **Data Analysis Primer**
 
-**There's three "laws" of data:**
+**There's three "laws" of data analysis:**
 1. Data are objective. Interpretation is subjective.
 2. You can tell whatever story you want with data, if you know how to, for both good and evil.
 3. Numbers/data without context are virtually useless.
@@ -154,21 +154,21 @@ All of the earlier math concepts are still important because they open up furthe
 
 A database is a repository of data and it's structured in some way, shape, or form. Data consists of facts, figures, quantities, and details collected about the environment. The data itself can be structured, semi-structured, or unstructured. You could also set up a clean, isolated environment through containerization with software like Docker.
 
-Imagine now that you work in a warehouse. There are specialized machines handling logistics inside the warehouse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehouse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
+Imagine now you work in a warehouse. There are specialized machines handling logistics inside the warehouse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehouse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
 - To any data specialists reading this: "SQL inside the database; Python outside the database" is a decent, albeit debated, rule of thumb that hopefully doesn't age poorly.
     - Alternatively, Python is transportation and SQL is transformation in this case.
 
-The average reader today in 2026 is likely familiar with spreadsheets through software like Google Sheets or Excel. That's structured data and organized into tables, worksheets, and cells. While spreadsheets *can* act as databases, it's not well-equipped to do so.
+Readers in 2026 may be familiar with spreadsheets through software like Google Sheets or Excel. That's structured data and organized into tables, worksheets, and cells. While spreadsheets *can* act as databases, it's not well-equipped to do so.
 
 Depending on what type of analysis you're doing, spreadsheets alone may not suffice and you'll need to delve into data warehouses and coding languages. This may be due to capacity restrictions, inability to perform desired functions, data restrictions, or lack of raw processing power. This is where people typically go from spreadsheets to the realm of Python, SQL, and similar programming languages.
 
 ### **Cleaning Data**
 
-Let's say you're a teacher or instructor and I give you information on the students you're teaching next year. It may contain what you'd expect to see, like names, grades in subjects, behavioral notes, emails, GPA, and so on.
+Let's say you're a teacher or instructor and I give you information on the students you're teaching next year. It may contain what you'd expect to see, like names, grades in subjects, behavioral notes, emails, and so on.
 
 That same information may also contain multiple formatting issues, missing values, consistency with capitalization errors, spacing problems, and a slew of countless other formatting issues. If you want to work with the information in the future without questioning your sanity, you'll have to *clean* it.
 
-You may not ever work with a coding language in your life or very seldomly do. You may work with coding languages extensively. In either case, the majority of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and most of the work needed.
+You may not ever work with a coding language in your life or very seldomly do. You may also work with coding languages extensively. In either case, the majority of all analysis work is cleaning data; the process of fixing or removing data. Much data and information you deal with isn't going to be neatly packaged for you. You'll have to mess with it and package it up yourself to do anything meaningful with it. This process is also extremely time consuming and cleaning is most of the work needed.
 - In practice, this is often done by specialists, such as data scientists, data engineers, and software architects, rather than the general populace because of data cleaning's perception as "menial work."
 
 Cleaning data typically involves one, or more, of steps like these:
@@ -201,7 +201,7 @@ If you know your ingredients (data) are clean and your process transforms ingred
 
 Rather than regale you with details worthy of an entirely new chapter, I'll keep this section short and link out to other resources explaining this better than myself. **I will say, however, you should have at least a basic understanding of Statistics and Probability *before* delving into scientific (and by extension education) research.**
 
-The biggest requirement is you need to be able to interpret figures, tables, charts, and graphs, but also understand any underlying formulae and algorithms you come across and *why* they're set up that way. After that, looking up specific words as they appear will help you cover some knowledge gaps.
+The biggest requirement is you need to be able to interpret figures, tables, charts, and graphs, but also understand any underlying formulae and algorithms you come across and *why* they're set up that way. Metrics in research have definitions you may need to look up and may embed said formulae inside them. After that, looking up specific words as they appear will help you cover some knowledge gaps.
 
 You may also notice some terminology crop up more often, or less often, depending on the field. "Noninferior" is one example you'll find common in medical research vs other fields.
 
@@ -220,19 +220,19 @@ For readers newer to scientific literature, Carey et al developed [ten simple ru
 9. Talk about it
 10. Build on it
 
-For seasoned and newer readers, there's also terminology to cover. For terminology and specific algorithms, look up the term or symbol as they appear. Depending on the field and context, symbols may hold different meanings so don't immediately assume one symbol means something for every article. 
+For seasoned and newer readers, there's also terminology to cover. For terminology and specific algorithms, consider looking up any unfamiliar term or symbol as they appear. Depending on the field and context, symbols may hold different meanings so don't immediately assume one symbol means something for every article. 
 
 As for statistics, it's tough to answer this without knowing a specific background, purpose, context, and so on related to the research you're reviewing/conducting. The two primary categories are descriptive statistics, which summarizes the data acquired, and inferential statistics, which makes predictions and draws conclusions about the population in the data. You should expect to see techniques like correlation, regression, confidence intervals, p-values, and ANOVA used quite often.
 - For specific tests, like t-tests and z-tests, you're unaware of, treat it like how you would terminology you do not understand and look it up as you reach it.
-- Much research uses different methods for different types of data and questions. While some formulae and algorithms itself may stay consistent, expect context to change.
+- Much research uses different methods for different types of data and questions. While some formulae and algorithms may stay consistent, expect context to change.
 
 Finally, a lot of research doesn't actually make it to publication. There could be errors made in the process, the committee reviewing the paper decided not to approve it for publication, funding was cut, it wasn't ideal for science, it is (or became) classified, and so on are some of many reasons why it's not published in a peer-reviewed journal. Not being published isn't always an indicator of quality.
 - Just because it's not *published* doesn't mean it might not show up in talks, posters, videos, online forums/sites, and so on.
 
-### **Example: Reading Rates**
+### **Example Case: Reading Rates**
 
-While reading rates is used as the example here, information here could apply to other subjects like math, science, and so on. Accessing these rates may be found publicly through primary and government sources, like the Nation's Report Card, or given directly to professionals in education systems.
-- For example, The Nation's Report Card with 2024 results published (NAEP, 2025)
+While reading rates is used as the example here, information here could apply to rates in other subjects like math, science, and so on. Accessing these rates may be found publicly through primary and government sources, like the Nation's Report Card, given directly to professionals in education systems, or perhaps even granted on request.
+- For example, The Nation's Report Card with 2024 results published for the general public (NAEP, 2025)
 
 Someone reporting a perfect reading rate (i.e. 100%) is rare, but possible. It requires bias, however, in what people you measure and how large of a group you measure. In other cases, medical conditions may impair cognitive functions to make it impossible to be up to par by no choice of their own, which means a ceiling of <=99.9%. Generally speaking, the higher these rates are, the more a population, or at least the measured sample(s), meets a baseline level.
 

@@ -39,7 +39,7 @@ Depending on your assignment, you may have work outside of teaching your assigne
 
 Not every teacher has to do ALL of these, but there's a high chance you'll do at least 1 of these, if not several, during your tenure.
 
-Most of these are self-explanatory (e.g., lunch duty = duties you have to follow during lunch time, etc.), while others aren't as obvious. I'm also writing primarily from my own experience, so I fully expect differences between states, districts, and even school to school.
+Most of these are self-explanatory (e.g., lunch duty = duties during lunch time, etc.), while others aren't as obvious. I'm also writing primarily from my own experience, so I fully expect differences between states, districts, and even school to school.
 
 **Homeroom teachers** are the primary teachers for specific grade levels–or groups of students–and differ from general subject teachers. The exact duties of a homeroom teacher vary from school to school. It's where many administrative tasks may be handled related to students.
 - Of particular note: Some schools may treat this as a brief, administrative period instead of a designated role for an educator, and can vary widely.

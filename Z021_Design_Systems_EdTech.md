@@ -18,12 +18,12 @@ nav_order: 30
 
 Everyone is a designer. Not everyone is a *good* designer.
 
-Even if you can design well, you'll still deal with *business problems* (not just design problems!), people management issues like managing upwards, and communication. These problems, and requirements to meet, may also come from non-technical people.
-- If people cared about only two things on design, it'd probably be if it makes money and is the interface intuitive. 
+Even if you can design well, you'll still need the wisdom and knowledge to deal with *business problems*, not just design problems, as well as people management issues, like managing upwards and downwards, and communication. These problems, and requirements to meet, may also come from non-technical people.
+- If people cared about only two things on designs, at least for tools and software, it'd probably be if it makes money and is the interface intuitive. 
 - If you cannot figure out what business question your solution answers and the value it provides, you're likely designing without intent.
-- Sometimes a problem has a really simple solution.
+- Sometimes a problem has a *really* simple solution.
 
-Most solutions and traditional projects may be abandoned because shipping/making a product is fun, but *selling* a product is not fun. Even a single "general-use" solution is unlikely to *efficiently* address every circumstance/problem. What one person considers pointless, another person deems essential.
+Most solutions and traditional projects may be abandoned because shipping/making a product is fun, but *selling* a product is not fun. Even a single "general-use" solution is unlikely to *effectively* address every circumstance/problem. What one person considers pointless, another person may deem essential.
 
 If you're not sure where to find problems to solve, think of something that already exists and see if you can improve it in one of these three areas:
 1. Reliability: Ability to continue working despite issues; resilience
@@ -33,7 +33,7 @@ If you're not sure where to find problems to solve, think of something that alre
 A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are, due to the nature of complexity, more prone to failure compared to simple designs. 
 - Use the simplest solution that meets your requirements. E.g. If you only need a hammer and nails, only use a hammer and nails.
 - [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple, diverse industries (2000).
-- Creating your own systems, setups, etc. makes sense when it provides a competitive advantage, otherwise it is a waste of time.
+- Creating your own systems, setups, etc. makes sense when it provides a competitive advantage, otherwise it risks being a waste of time.
 
 **Your most important question is "Why?"** You don't jump straight into things or overengineer solutions when it's not necessary, especially if you'll never see the problems requiring advanced solutions. Acquire information and clarify requirements/context, when able, *before* working or you risk wasting time, money, and sanity.
 - What people actually do is worth more than what people say they do.
@@ -47,12 +47,12 @@ A complex design is always worse than a simple design if they perform at the sam
 
 People eat with their eyes too. It's likely you've experienced a cue when seeing visually appealing food. Presentation is powerful and plenty of research delves into how food's appearance affects human's brains (Spence et al., 2016).
 
-Beyond food, "design" is present in many fields. You could design a house, an application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
+Beyond food, "design" is present in many fields. You could design a house, a software application, a piece of art, and plenty more. Many concepts rooted in, or brought over to, design are cross-disciplinary, though certain design concepts work better in some fields over others.
 
 It's also easier to build things that you can verify, usually with hard data, solves problems people have. If you start designing with that information already, you could skip a lot of busy work and take less time going from idea to concept to reality on your design(s). This isn't a new concept and is done more often than you may realize.
 - Even this book is made partly due to that concept.
 
-And if there's any one mistake you should avoid, it's doing any work without understanding what will happen with it and when. 
+And if there's any one mistake you should hopefully avoid, it's doing any work without understanding what will happen with it and when. 
 - If this seems exaggerated, think about the times someone said it was "urgent" when it wasn't.
 
 Now then, there are several things to cover in this chapter, but I'll start with three: design patterns, design systems, and system design. The latter two are explained more in-depth whereas the former can be summarized succinctly.
@@ -65,7 +65,7 @@ To illustrate it with a deliciously, non-technical example: You want to make a c
 
 Your problem is you need to make a cake. 
 
-You have a recipe that *could* solve this problem; a general guideline on how to make a cake and many more cakes like it, with algorithms (i.e. step-by-step instructions) to perform specific tasks as required in the recipe. You recognize that recipe can make this cake, or solve the problem, then recall and reason through the steps to get from problem to solution.
+You have a recipe that *could* solve this problem: a general guideline on how to make a cake and many more cakes like it, with algorithms (i.e. step-by-step instructions) to perform specific tasks as required in the recipe. You recognize that recipe can make this cake, or solve the problem, then recall and reason through the steps to get from problem to solution.
 
 The recipe, or design pattern alone, will get you most of the way through. 
 
@@ -87,7 +87,7 @@ Per Chad Bergman on Figma’s blog about design systems (2024) ([Further Reading
 
 > ...A set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
-The key part here is "*the look and feel*." For educators, this is akin to how students interact with your content, not necessarily the underlying systems. Many new technologies are also intentionally designed to seem familiar to past products for ease of use and adoption.
+The key part here is "*the look and feel*." For educators, this is akin to how students interact with your content, not necessarily the underlying systems. Many new technologies are also intentionally designed to seem familiar to past products for ease of use and adoption for their intended audience.
 
 For those with less artistic backgrounds or lacking design skills, don't worry. You don't need to become a design expert to handle education systems, but still look into what a design system is and what it tries to accomplish.
 
@@ -105,14 +105,14 @@ You could utilize design systems in at least three ways: adopting, adapting, and
 - Example: You copy and follow a cake recipe as is, step-by-step, exactly as written.
 
 **Adapting** takes a design system and changes parts and pieces to fit it into existing system(s).
-- Example: You follow the cake recipe, but have to substitute in gluten-free flour, vanilla for chocolate, or use a pan instead of a Dutch oven for part of the recipe..
+- Example: You follow the cake recipe, but have to substitute in gluten-free flour, vanilla for chocolate, or use a pan instead of a Dutch oven for part of the recipe.
 
 **Creating** borrows from no design system and makes a new system from scratch.
 - Example: You don't like the current cake recipe(s), so you made your own cake recipe.
 
 Each option has benefits and drawbacks. Adoption is typically the cheapest, but least flexible and hardest to change. Creation is typically the most expensive, but most customizable. Adaption sits in between Adoption and Creation in cost and customization to suit your needs.
 
-If you're unsure whether to adopt, adapt, or create, consider whether or not creating (or adapting) provides a larger competitive advantage over simply adopting. If creating your own design system provides no meaningful value, you should adopt an existing design system instead. This logic applies universally across many tools, software, and so on outside of design systems.
+If you're unsure whether to adopt, adapt, or create, consider whether or not creating (or adapting) provides a larger competitive advantage over simply adopting. If creating your own design system provides no meaningful value, or not enough value to justify its costs, you should adopt an existing design system instead. This logic applies universally across many tools, software, and so on outside of design systems and education systems.
 
 ### **How Design Systems Relate to Teaching**
 
@@ -176,15 +176,13 @@ System design shares aspects of management, leadership, and how teachers/instruc
 
 To put it another way: it's like giving you a coloring book, but you also have to draw all the lines you color inside of as well. That is the complexity, and beauty, of system design. Two people can make two designs with multiple ways to reach the correct answer (with the caveat they can validly justify their answers).
 
-Systems design and design systems don't work in isolation either. They're *both* tackling *design* problems, but different parts of these problems. Both are necessary for a product to function well and look well for its intended audience. Lacking one or the other risks the decline of the intended service/product you wish to create, refine, and present. 
+Systems design and design systems don't work in isolation either. They're *both* tackling *design* problems, but different parts of these problems. Both are necessary for a product to function well and look well for its intended audience. If you need to make something look good and feel good to use, you employ design system solutions. If you need to adjust how everything ties in together and functions behind the scenes, you employ system design solutions. Lacking one or the other risks the decline of the intended service/product you wish to create, refine, and present. 
 - E.g. Something could look beautiful, but function poorly, and vice versa.
 - [The Aesthetic-Usability Effect](https://www.nngroup.com/articles/aesthetic-usability-effect/) is one way to make products "work" better by looking better (Moran, 2024).
 
-If you need to make something look good and feel good to use, you employ design system solutions. If you need to adjust how everything ties in together and functions behind the scenes, you employ system design solutions.
-
 In both cases, you don't decide the tools before how you'll design the architecture. If you curious why, think about building a house without a blueprint. It's generally a bad idea to go in without a proper plan. Even when you decide on tools, you want to reevaluate those tools regularly on a yearly, or even bi-yearly, basis.
 
-Many details behind system design assume technical knowledge existing outside the scope of this book and are often catered towards backgrounds like engineers. Two extensive resources, albeit more advanced readings, covering system design I've seen are:
+Many details behind system design assume technical knowledge existing outside the scope of this book and are often catered towards backgrounds like engineers. Two extensive resources, albeit more advanced readings, covering system design and data engineering I've seen are:
 - *Fundamentals of Data Engineering* by Reis & Housley (2022)
 - *Designing Data-Intensive Applications* by Kleppmann (2018)
 
@@ -205,18 +203,18 @@ Many people develop their design skills, and develop design systems, as they gai
 4. Designing Solution(s)
 5. Testing Solutions(s)
 6. Implementing Solution(s)
-7. Iterating Solution(s) (Continuous Improvement)
+7. Iterating Solution(s) (i.e. "continuous improvement")
 
 Much like the Scientific Method, you're not required to go through all steps above in order every time. You can, and sometimes have to, jump around if there's issues or something isn't working out. Approaching design problems in practice may mean starting with small, simple steps and evolving solutions across multiple steps.
 
 Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things. 
 
-You're usually better off quickly pushing designs, testing (one at a time to save sanity), and iterating than remaining stuck on one perfect design. This means, when in doubt, stop overthinking and design something that just works. Don't touch it again unless absolutely necessary as your attempt to make it better actually makes it worse. Sometimes a new piece of technology isn't the correct answer nor is overengineering for a solution tomorrow you need today. 
+You're usually better off quickly pushing designs, testing (probably only one at a time to save sanity), and iterating on it than remaining stuck working towards one perfect design. This means, when in doubt, stop overthinking and design something that just works. Don't touch it again unless absolutely necessary as your attempt to make it better actually makes it worse. Sometimes a new piece of technology isn't the correct answer nor is overengineering for a solution tomorrow you need today. 
 
 For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software). Most spreadsheet software is flexible, has a lower barrier to entry due to its "simplicity," and comes with powerful capabilities for analysis, solving business problems, and developing proof of concepts. It may save you time and find early on if something is compatible across system(s).
 - Though Excel is the example used here, that advice applies when making access to information compatible with tools non-technical peers utilize.
 
-Spreadsheets are versatile and reliable, but are *not* good at everything. Their biggest weakness is a specific tool can do a specific task better compared to spreadsheets. Using them for databases and emailing is also ill-advised because it does not scale well.
+Continuing from the example before, spreadsheets are versatile and reliable, but are *not* good at everything. Their biggest weakness is a specific tool can do a specific task better compared to spreadsheets. Using them for databases and emailing is also ill-advised because it does not scale well.
 
 No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
 
@@ -224,13 +222,13 @@ Lastly, despite how well something is designed, human error and accidents will o
 
 ### **A Note on Non-Technical Crowds**
 
-I'll paint a scenario here: Imagine you're in a conversation with someone and you're trying to explain how a product works. You know all the technical details, inside and out, and could go on for days about this product. You're not necessarily trying to *sell* something; just inform.
+I'll paint a scenario here: Imagine you're in a conversation with someone and you're trying to explain how a product works. You know all the technical details, inside and out, and could go on for days talking about this product. You're not necessarily trying to *sell* something; just inform.
 
 The other person has no expertise or technical knowledge in this product like you do. You *could* try and cover some gaps here and there, but they'll lack an intuition or may diverge in goals compared to you due to this lack of background knowledge. If you don't frame it in a way they'll understand, or even care about or appreciate, they won't ever be as excited about the product as you.
 
 This is common in workplaces and why there's advice for technical roles to care about *business* goals and objectives rather than technical objectives. Many people don't care much about the underlying methods or processes. They have a problem, they need a solution, and you need to convey how your product is a solution in a way they understand.
 
-Users (mostly) just want it to work. That's it.
+Users (mostly) just want it to work and have it do what they need to do. That's it.
 
 To convey it in a way they understand, you have to understand the person using the product. A designer may call this empathy or putting yourself in another's shoes. That's not to say learn *everything* about the person; that's impractical and a waste of time. Only enough to be able to reframe it from the other person's perspective and think about what impact the product has for the person, business, organization, etc.
 
@@ -243,7 +241,7 @@ It's entirely possible for something to be good for someone or something, but th
 
 ### **The Dashboard Problem**
 
-Dashboards are an end product; the thing consumers/users see and interface with. They provide a high level overview of relevant information and (typically) consist of a collection of visuals like graphs, charts, maps, and so on. As previously discussed in the Metrics chapter, it's a collection of diagnostics to help inform decisions and answers to problems, not directly provide an answer.
+Dashboards are the end product; the thing consumers/users see and interface with. They provide a high level overview of relevant information and (typically) consist of a collection of visuals like graphs, charts, maps, and so on. As previously discussed in the Metrics chapter, it's a collection of diagnostics to help inform decisions and answers to problems, not directly provide an answer.
 
 There's also multiple types of dashboards, such as:
 - Operation
@@ -261,7 +259,7 @@ Evaluating dashboards by how often they're used is often a misnomer. You'd be mo
 
 If you were to ask me which of the two is better, I would say Dashboard B. If you're still unsure why, I'll use two, less technical examples: driving cars and flying planes.
 
-When operating these vehicles, your attention should be focused on driving/flying. For cars, that's paying attention to the road, other cars, your own speed, weather, and so on. For flying planes, that's maintaining speed and altitude (amongst *many* other things) and ensuring you don't hit the ATC tower or another plane. It is legitimately dangerous to you and others to take your attention away from these tasks. 
+When operating these vehicles, your attention should be focused on driving/flying. For cars, that's paying attention to the road, other cars, your own speed, weather, and so on. For flying planes, that's maintaining speed and altitude (amongst *many* other things) and ensuring you don't hit the ATC tower or another plane. It is legitimately dangerous to you and others to take your attention away from these tasks and information should probably take less than 0.5 seconds to look at, quickly process, and act upon.
 
 There are HUDs (heads-up displays) with information, gauges, and other ways to monitor the status of the vehicle. They are intentionally designed to fit legal compliance as well, otherwise they're not cleared for use (for aircraft, [one example of guidelines is AC 25-11B](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_25-11b.pdf) from the FAA to meet Title 14 (2014)). The questions they help answer are numerous, such as failure conditions, speed, direction, altitude, display systems, and many more. Without these systems in place, you'd be operating a vehicle that both leaves you unaware to what's happening "under the hood" and unable to make adjustments in time when emergencies arise.
 
@@ -287,7 +285,7 @@ A company can do a lot of things to get you to buy their products, such as:
 A "suite" in this context typically refers to software and items 2 and 3 in the list above. It's a set of software where each "software" in the set forms a "suite." You could purchase parts of a suite or the full suite, but you could be forced to buy the whole suite.
 - One example is Adobe Creative Cloud; a single service provides multiple applications like Photoshop, Illustrator, and Premiere all in one toolkit (the "suite") for a subscription fee.
 
-At the end of the day, a suite is an anchor to get you to use and purchase the companies products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing part of a suite.
+At the end of the day, a suite is an anchor to get you to use and purchase the company's products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing all parts of a suite.
 
 It's like a penthouse suite in real life. It comes with a lot of features you may or may not use during your stay. That's ok though; you pay the price for the *opportunity* to have all these features bundled up nicely for you in case you *do* want to use them.
 
@@ -300,7 +298,7 @@ Tests are pretty important. Testing mitigates hidden costs and problems resultin
 
 In education, they check for understanding of material presented by a teacher/instructor. In programming, they check to make sure everything is working and (hopefully) not wake you up at 02:00 to an angry phone call to fix it. Regardless of industry, eliminating or not allocating time to testing things before putting them into practice is, put lightly, a terrible idea.
 
-There are multiple types of tests. Integration tests, as called in the section title, are to ensure something *else* unwarranted/unexpected isn't causing a problem that affects software (i.e. affects the program's integrity). In education, this may be factors found in the students themselves, or the processes surrounding the test, you may've not accounted for but are external factors affecting how they're ran.
+There are multiple types of tests, but we'll discuss some of the ones you may see in software you use. Integration tests, as called in the section title, are to ensure something *else* unwarranted/unexpected isn't causing a problem that affects software (i.e. affects the program's integrity). In education, this may be factors found in the students themselves, or the processes surrounding the test, you may've not accounted for but are external factors affecting how they're ran.
 
 Other types of tests (validation methods), to borrowing from programming linguistics, include but are not limited to:
 - Unit (checking individual parts for expected performance)
@@ -309,9 +307,9 @@ Other types of tests (validation methods), to borrowing from programming linguis
 - End-to-End (validating entire systems/workflows)
 - Smoke ("see if it catches on fire")
 
-Despite the names and applications of these tests in programming, they're not too far removed from what teachers may do for their classes in education. Quizzes and pop quizzes serve as quick checks or verifying students understand functions or concepts. Exams may validate learning across whole units, the entire course, or multiple units at once. Homework may check for learning issues before the exam and whether or not there's underlying issues with teaching methodology in the course. You may also run multiple "tests" on a single unit/concept, such as homework for practicing and catching issues early, then quizzes/tests later to check understanding.
+Despite the names and applications of these tests in programming, they're not too far removed from what teachers may do for their classes in education. Quizzes and pop quizzes serve as quick checks or verifying students understand new functions or concepts when introduced. Exams may validate learning across whole units, the entire course, or multiple units at once. Homework may check for learning issues before the exam and whether or not there's underlying issues with teaching methodology in the course. You may also run multiple "tests" on a single unit/concept, such as homework for practicing and catching issues early, then quizzes/tests later to check understanding.
 
-The concepts of these tests applies to the design chapter because they apply to and beyond curricula in education. Perhaps you're hosting educational material on a third-party platform. Perhaps there's material you're designing for that goes beyond the classroom. Without testing and ensuring functionality, the student learning experience is bound to suffer as a result.
+The concepts of these tests applies to the design chapter because they apply to and beyond education. Perhaps you're hosting educational material on a third-party platform. Perhaps there's material you're designing for that goes beyond the classroom. Without testing and ensuring functionality, the student learning experience is bound to suffer as a result.
 
 As for people who question why their superiors, peers, etc. may neglect testing in many forms, I can give you at least a few reasons:
 - Path of least resistance.
@@ -324,27 +322,27 @@ As for people who question why their superiors, peers, etc. may neglect testing 
 
 *Alternatively: Planned Obsolescence*
 
-Getting customers is easy with a good product. They buy something they want, which you provide, and you both benefit from it.
+Getting customers is easy with a good product. They buy something they want, you get money from that which you provide, and you both benefit from it.
 
 Getting *repeat* customers and maintaining sales is much harder. This is where planned obsolescence, or intentionally designing failures, is prominent. You design a product with an artificially limited life and either:
 1. Provide replacement parts customers buy to extend the life
 2. Create new products to replace old products, which means another purchase
 
-There's also methods like "power creep" in many types of games. That is *not* planned obsolescence, but an evolutionary change and a consequence of shifting directions. An initial product can last for a long time, but adding newer products to bring back new and old customers may overshadow existing products. It's part of being a business and the need to continue selling content to consumers, adapt to an ever-changing environment, and avoid going stale.
+There's also issues like "power creep" in many types of games. That is *not* planned obsolescence, but an evolutionary change and a consequence of shifting directions. An initial product can last for a long time, but newer and better products to bring in both new and old customers may overshadow existing products. It's part of being a business and the need to continue selling content to consumers, adapt to an ever-changing environment, and avoid going stale and out of business.
 
-I'm not going into detail on this topic, but I do want you at least aware the concept exists.
+I'm not going into detail on this concept, but I do want you at least aware it exists.
 
 ### **Good. Fast. Cheap.**
 
-Readers may be familiar with the project management triangle or the triple constraint (Wyngaard, 2012), or may've heard about its axioms when creating quality products for customers. This is where tradeoffs come in.
+Readers may already be familiar with the project management triangle or the triple constraint (Wyngaard, 2012). You may've heard about its axioms when creating quality products for customers. If you haven't heard of it before, then know this is where tradeoffs come in.
 
 You can build simple products by yourself in a reasonable timeframe, but complex projects are rarely ever done by yourself without dedicating significant time and effort. That could mean one person may not achieve the desired results in their lifetime.
 
-Generally speaking, a project seeks to produce a quality output governed by constraints, such as scope, time, and cost. If you want to change one of these constraints, the other constraints "trade" effects between each other to balance out. While that's the ideal scenario, reality may not translate nicely. For example, throwing more money at a project may not necessarily speed up a project or expand its capabilities; it may even slow it down. A poorly run project can still lack quality outputs even if you improve all constraints.
+Generally speaking, a project, initiative, operation, etc. seeks to produce a quality output governed by constraints, such as scope, time, and cost. If you want to change one of these constraints, the other constraints "trade" effects between each other to balance out. While that's the ideal scenario, reality may not translate nicely. For example, throwing more money at a project may not necessarily speed up a project or expand its capabilities; it may even slow it down. A poorly run project can still lack quality outputs even if you improve all constraints.
 
-When designing many things, in and outside of education, you may find yourself constrained by labor (a cost). For example, while you may want to create a great system, perfect curriculum, or an ideal improvement plan to help even the most disadvantaged students, your capabilities are limited. You could have a lot of money, but lack time or personnel. You could also have all the time in the world, but not the means to access resources to improve your work.
+When designing many things, in and outside of education, you may find yourself constrained by labor and time. For example, while you may want to create a great system, perfect curriculum, or an ideal improvement plan to help even the most disadvantaged students, your capabilities as a single person are limited. You could have a lot of money, but lack time or personnel. You could also have all the time in the world, but not the means to access resources to improve your work.
 
-For a more practical example, someone may explain how the entire architecture of a particular software, tech stack, or organizational process works. While it's entirely possible they alone did it, any highly complex work more than likely originated from a *group* rather than an individual. An individual can own parts of that system, however, such as one person setting up a broker or proxy or managing the migration of resources.
+For a more practical example, someone may explain how the entire architecture of a particular software, tech stack, or organizational process works. While it's entirely possible they alone did it, any sufficiently complex work more than likely originated from a *group* of people rather than a single individual. An individual can at least own parts of that system, however, such as one person setting up a broker or proxy or managing the migration of resources.
 
 ### **What About EdTech?**
 

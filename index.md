@@ -56,7 +56,6 @@ Table of contents for each chapter written below:
 - [Design Systems and EdTech](Z021_Design_Systems_EdTech.html)
 - [Engineering & Architecture](Z021a_Engineering_Architecture.html)
 - [Action Plan For Educators](Z022_Action_Plan.html)
-- [Case Study: Communication Lesson](Z023_Case_Study_Communication_Lesson_Example.html)
 - [Conclusion / Learnings](Z024_Conclusion_Learnings.html)
 
 ## **Content License**
