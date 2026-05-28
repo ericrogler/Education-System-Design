@@ -15,7 +15,7 @@ nav_order: 14
 
 ---
 
-*Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional. The next few chapters are separated to avoid spilling over material and causing undue confusion.*
+*Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
 For an alternative view of this chapter, and as a critique of mathematics education, you may consider reading *A Mathematician's Lament* by Paul Lockhart (2009).
 
