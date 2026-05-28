@@ -39,7 +39,7 @@ Lastly, you'll want advanced knowledge precisely to know when an advanced method
 
 ## **Long Answer**
 
-Math is about theory and proofs. science is application of math to solve real problems. Applying math is what makes money, which affords goods and services to keep you alive.
+Math is about theory and proofs. Science is application of math to solve problems. Applying math is what makes money and affords goods and services to keep you alive.
 
 If you need to know "why is math important," then there's your answer: you need math to apply it to problems you need to solve.
 
