@@ -45,7 +45,7 @@ In general:
 
 ## **Long Answer**
 
-**Apathy is the death of many things, including education.**
+**Apathy is the death of many things. Education included.**
 
 One other opinion I'll separate out from the rest is, for any students that I have, they start with a 0% in the class and work up to the grade they deserve based on the effort, time, and results they display. They don't start with a perfect grade; they start with *no* grade and can go only up from there. If they choose to mess around and not do any work towards learning despite knowing this, then they get the 0% they deserved in the first place.
 

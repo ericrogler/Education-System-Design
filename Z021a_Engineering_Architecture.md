@@ -191,21 +191,23 @@ These topics, and related topics, altogether provide processes to assist with pl
 
 ### **Programming**
 
-Yes, programming is a thing for both engineers and architects, and includes languages like SQL, Python, R, Java, COBOL, Rust, and so on.
+Yes, programming is a thing for both engineers and architects and includes languages like SQL, Python, R, Java, COBOL, Rust, and so on. Generally speaking, when dealing with programming languages, you're usually better off prioritizing readability (and therefore maintainability) over performance *unless* you need to meet a minimum performance threshold.
 
-Architects may utilize software and combine architecture with programming, because it's what design software does. They might not design the software itself, but they can utilize programming languages to build plugins and create custom solutions as tools to enhance their work processes and outputs. It's in service of something else, like geometry or workflow automation, and the programming stays close to the design artifact/software.
+Architects may utilize software and programming for architectural designs. They can manipulate code through programming languages to build plugins and create custom solutions as tools to enhance their work processes and outputs. In this case, it's in service of something else, like geometry or workflow automation, and the programming stays close to the design artifact/software.
 
-Engineer, and by extension developer, programming is more technical in nature, as it provides the means to service other fields and accomplish many things. For example, Python with processing algorithms and data science, SQL with transforming and cleaning up data, VBA to automate tasks inside of existing software solutions, Matlab for analysis, and so on. The code itself is a deliverable, or part of a deliverable, to enhance current solutions and/or create new solutions.
+Programming also provides the means to service other fields outside of engineering and architecture to accomplish many things. For example, Python with processing algorithms and data science, SQL with transforming and cleaning up data, VBA to automate tasks inside of existing software solutions, Matlab for analysis, and so on. The code itself is a deliverable, or part of a deliverable, to enhance current solutions and/or create new solutions.
 
 While it has countless applications, programming is often used to conduct calculations, speed up processes, automate tasks, or do things that a human cannot do within their own limitations. Modern technology also enables more standalone solutions and scripting for wider audiences, like PowerBI or Excel bringing traditionally engineering work and data to non-engineer professionals.
 
-At the end of the day, programming is simply a means to an end. A tool in a toolkit. Many professionals utilizing programming may not be engineers or architects, but simply people using it to figure out how to solve a problem they're working on.
+At the end of the day, programming is simply a means to an end. A tool in a toolkit. Many professionals utilizing programming may not be engineers or architects, but simply people using it to solve a problem they're working on.
 
 ### **Economic Analysis**
 
+Most information from this field is found scattered across existing textbooks, such as *Engineering Economic Analysis* by Newnan et al. (2012).
+
 Professionals need to know how money works and get some understanding of the business they're in. It's what affects decisions in the short-term and the long-term, helps determine if a project is even worth putting money into, and determine which options are the best amongst multiple alternatives/options.
 
-Normally this topic is in the realm of finance and business, but engineering and architecture also utilize it alongside many other professionals. While you could get by with many pre-defined formulae and plugging in values for each variable in equations, engineering economic analysis may expect you to know at least multivariate calculus and beyond to fully understand it and bring it to its full potential.
+Normally this topic is in the realm of finance and business, but engineering and architecture also utilize it alongside many other professionals. While you could get by with many pre-defined formulae and plugging in values for each variable in equations, "engineering-level" economic analysis may expect you to know at least multivariate calculus and beyond to fully understand it and bring it to its full potential.
 
 This topic is important for another reason: it gives you the tools to assign monetary values to just about everything you may do within any given business. From the Metrics chapter, recall that metrics are measures to reveal whether your current system performs as intended or requires changes. That also includes different metrics for economic analysis, such as payback time, return on investment, and net present value, in addition to new tools and formulae to define said metrics.
 
@@ -297,6 +299,8 @@ Six Sigma is one way these systems are utilized for process improvement in appli
 2. Morse, P. M., & Kimball, G. E. (1951). *Methods of Operations Research.* MIT Press. ISBN: 9780262130059
 
 2. *NCS Content - United States National CAD Standard - V7.* (2025). Nationalcadstandard.org. [https://www.nationalcadstandard.org/ncs7/content.php](https://www.nationalcadstandard.org/ncs7/content.php)
+
+2. Newnan, D. G., Eschenbach, T. G., & Lavelle, J. P. (2012). *Engineering Economic Analysis.* ISBN-10: 0199778043.
 
 2. Norman, D. (2013). *The Design of Everyday Things.* MIT Press. (Original work published 1988)
 

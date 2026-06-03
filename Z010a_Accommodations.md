@@ -113,6 +113,8 @@ There's also strategies and interventions, such as mnemonic devices (e.g. apple 
 
 ### **Are Accommodations Harmful or Beneficial?**
 
+Teachers usually *want* students to receive a proper education, but also not enable students to get by without putting in any effort towards their own learning. It's a delicate balance to strive for.
+
 Some accommodations are beneficial, but some accommodations may hinder learning and development. A lot of what I'll say is based more on personal experiences, which may correlate with findings from others in more formal research settings such as Kulow and Missirian (2019).
 
 At the end of the day, accommodations are still legally required to be provided and followed per various laws, like the Individuals with Disabilities Education Act (U.S. Department of Education, 2025).

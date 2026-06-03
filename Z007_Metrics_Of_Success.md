@@ -22,7 +22,7 @@ Being the "best" is simply a title based on a specific situation and circumstanc
 
 Being "good" is, pragmatically speaking, simply being better than others. It could also mean someone that doesn't cause issues or a person pointed at something and called it "good" one day, so that's the standard. Perhaps it simply means if someone recognizes your efforts, then that's good enough.
 
-Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
+Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to evaluate performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see "Cobra Effect" below). If a metric has no influence on answering someone's question or drives a real decision, it's probably a useless metric.
 - The Cobra Effect: A solution unintentionally makes a problem worse (Siebert, 2001).
 
 When academics are a primary measure of a student's worth, especially when tied to funding, a system may treat that student like a commodity. If grades are also a metric of success, a teacher/instructor, given their current position and power, can only reasonably grade work they receive. Interpret that as you will.
@@ -46,7 +46,9 @@ Sadly, it isn't a joke.
 
 This chapter help explains why that joke is now reality.
 
-One part of that reality is **most data and information you work with and see is affected by bias.** It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
+One part of that reality is **almost all data and information you work with and see is affected by bias.** Metrics are largely made up by humans for humans. I sincerely doubt your Shiba Inu dog is concerned by the unending march and concept of time humans often use for measurements, for example.
+
+It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
 
 ### **Why Metrics of Success?**
 
@@ -104,9 +106,9 @@ There's also metrics not related just to students, but also staff members (and s
 - Parent Engagement
 - Teacher Retention
 - Morale and Satisfaction
-- School Quality (physical conditions primarily)
+- School Quality
 - Per-Pupil Expenditure
-- Teacher Qualifications
+- Placement Rate (and Graduation Rate)
 - Teacher-to-Student Ratio
 - Counselor-to-Student Ratio
 
@@ -118,9 +120,10 @@ If a metric means something different for multiple people, you'll eventually, bu
 
 If you're in a position to do it *and maintain it* (because things always change over time), start with a single document outlining definitions on what the metrics are, what each metric means, and how each metric is measured. Once this document is created, include the date it was created *and finalized* on, as it'll serve as evidence and a reference for when questions arise regarding any metrics. You may also need to include the people who agreed on what the metric(s) mean as insurance, in case someone claims they never agreed to it.
 
-Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Humans tend to follow the path of least resistance, so your new standardized metrics shouldn't be harder to use or they may not be followed and your work becomes wasted effort.
+Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. The primary reason to model dimensions and facts *before* building anything comprehensive is for usability and flexibility, which makes reporting and utilizing these metrics far easier down the line. Humans tend to follow the path of least resistance, so your new "standardized" metrics shouldn't be harder to use or they may not be followed and any work becomes wasted effort.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
 - If you're the one asking for this "single source of truth" and get someone/something else to make it, please do not ignore the stuff that is pulled together.
+- Basically: don't neglect modeling first; it may save a future headache or two.
 
 This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It may also kill you spiritually and mentally on the inside depending on how complex/large the organization utilizing it is. It does, however, help mitigate the decision-making issue where two or more teams use the same metric, but interpret it differently.
 

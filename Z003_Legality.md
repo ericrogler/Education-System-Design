@@ -312,7 +312,9 @@ If you're a teacher or instructor, it's likely you also signed a contract. The p
 - Contracts may specify who owns what you create.
 - You may be allowed to ask the administration drafting the contract about specific clauses, but do it with grace.
 
-**The point is always read contracts carefully.** If there's something in a contract you don't know about, fix that ASAP.
+For example, with intellectual property, a contract may make a distinction about material you made using an education system's resources retain ownership of *your* work. It may also mean it doesn't restrict you from using it outside an education system, but they're allowed to copy it and keep, access, or use what you've made for their own purposes as well.
+
+**The point is always read contracts carefully.** If there's something in a contract you don't know about or have concerns over, fix that *as soon as possible.*
 
 ## **Bibliography**
 

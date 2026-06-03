@@ -64,11 +64,11 @@ For more experienced teachers, the amount of time outside of work you get back g
 
 ### **The Environment Itself**
 
-Being in a stressful and chaotic environment isn't good for you. For children and younger students especially, adversity, unpredictability, and household chaos are associated with poorer adolescent health (Pu et al., 2025).
+Being in a stressful and chaotic environment isn't good for you. For children and younger students especially, adversity, unpredictability, and household chaos are associated with poorer adolescent health (Pu et al., 2025). Generally speaking, education systems and their facilities, when done correctly, should be safe places where students can experience a "sense of normalcy" and better focus towards their studies, activities, and so on.
 
 As a hypothetical: if an educational facility has fights every day, furniture getting broken, and injuries often sustained on both students and staff, then a student's concerns may shift from education to safety. If they're overly focused on their own safety and well-being, that leaves little room for them to focus on education. If an education system does not ensure safety needs are met, you risk creating an unsafe environment unfit for any proper education.
 
-This is also *not* purely one part of an education system. While a school or education system should strive for a safe and secure environment, the environment, such as a student's household *outside of that education system*, must also be safe and secure.
+This is also *not* purely one part of an education system. Counselors are one such method to help students solve problems in their life other professionals may not be equipped to handle, but are primarily limited to *within the confines of an education system.* While a school or education system should strive for a safe and secure environment, the outside environment, such as a student's household *outside of an education system*, must also be safe and secure or else proper learning for them is at risk.
 
 Though there are ways to alleviate and accommodate for these concerns, many factors are frankly outside the control of any educators, administrators, or staff members in education. Parents and students have issues they must resolve on their end too. Overcorrecting by being either too strict through harsh discipline or too lenient with only a slap on the wrist as punishment may also compromise education for *every* student involved; not just the students with issues. 
 

@@ -23,7 +23,7 @@ nav_order: 29
 > 
 > Therefore a computer must never make a management decision."
 
-- IBM Training Manual, 1979 (Attribution; internal IBM training)
+- IBM Training Manual, 1979 (Attribution: internal IBM training)
 
 ---
 
@@ -32,7 +32,7 @@ Views on technology introduced less than 5 years ago may have exaggerated views.
 - Maybe the timeline for full implementation is not 5 years, but 10+ years.
 - Many assumptions about how it could affect roles and positions in society.
 
-For example, I may say AGI (Artificial general intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though. That's one assumption that may change quickly or slowly over time.
+For example, I may say AGI (Artificial General Intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though. That's one assumption that may change quickly or slowly over time.
 
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
@@ -63,11 +63,17 @@ Now then, let's talk about technology.
 
 ### **A Technology Overview**
 
+Technology can do many amazing things.
+
+HOWEVER.
+
+**Technology is dangerous. Technology is *still* dangerous even when handled and regulated properly. The same goes for just about every technology in general, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
+
 Many people use computers, phones, etc. all day, every day, and still not know how the technology works. Even at the smallest issue and roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
 
 Is this an exaggeration? *No.*
 
-Many systems are also held together through duct tape and temporary fixes, which can ironically become permanent fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional at the end of their 12-hour shift either. Nevertheless, there's many things the public may not be comfortable knowing about and technology is *full* of those things.
+Many systems are also held together through duct tape and temporary fixes, which can ironically become permanent fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. Nevertheless, there's many things the public may not be comfortable knowing about and technology is *full* of those things.
 
 In education, technology should *support* learning, not hinder it, and only works well when people know how to use the technology provided. This is why skills like critical thinking, reading literacy, and computer literacy are essential for all parties, students and professionals, in education systems. Don't blindly replace existing methods, like physical books and writing by hand, or give it out to everyone because a new piece of technology seems like the next best thing since sliced bread.
 
@@ -197,7 +203,7 @@ While technology is a good thing, there can certainly be too much of a good thin
 
 ### **AI in General**
 
-If you use chatbots, AI, technology in general, etc. you should also be held accountable for its outputs. Were you in a corporate setting, you could also say that anyone, including managers and non-technical personnel, that handles or modifies code is now on-call and owns incident remediation and responsibility for anything they ship out. 
+If you use technology in general, etc. you should also be held accountable for its outputs. That includes AI (artificial intelligence) where you deploy it and let it makes its own choices. Were you in a corporate setting, you could also say that anyone, including managers and non-technical personnel, that handles or modifies code is now on-call and owns incident remediation and responsibility for anything they ship out. 
 
 I'll illustrate a potentially funny scenario of AI usage as well. Say you're working with a client. They will say what they want and expect you to do it. Perhaps that's a list of requirements, a description of their current pain points, or even something they built, with more than a few problems, and want you to make it "production ready" (i.e. ready to sell to users). Even if clients accurately describe what they want, which is already unlikely at least the first few times around, they may go through various change orders before submitting to cognitive surrender and asking *the AI* to tell them (the client) what they want and have AI also implement it. 
 
@@ -245,7 +251,7 @@ To show a glimpse of AI's evolving capabilities: according to Simon Willison on 
 
 ### **The Hidden Complexity of AI**
 
-This is where problems are far more noticeable, but not necessarily where problems start. It's also not just a case of "trash in, trash out" either. 
+This is where problems are far more noticeable, but not necessarily where problems start. It's also not just a case of "trash in, trash out" either. You should also never automate a bad process and create backups in case of emergencies, like a bad process doing something *really bad.*
 
 Let's pretend I'm a human acting as AI for an example. Say you ask me, a human, to cook eggs for breakfast. I interpret the task as is and try to complete it. When you receive the eggs though, they aren't what you were hoping they'd be.
 
@@ -325,9 +331,15 @@ As a stern reminder, anything listed under "Allowed AI Use" should require a hum
 
 ### **How effective is AI Really?**
 
-In my opinion, AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and be "effective enough" for many users. It can do things fast, but make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without AI. That's why I stress repeatedly you still need a human verifying AI outputs.
+I want you to imagine the dumbest person you've ever known being told what they want to do is actually a great idea. Now imagine that for an entire human population given the tools to go through with their "great ideas," often without even knowing what those tools can really do.
 
-Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to reason through and sufficiently cover here in any short time.
+Remember how I said technology is dangerous? I'll leave your imagination to work on that example.
+
+If we leave skepticism at the door, then my opinion is AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and can hold sway over many users. It can do things fast, but also make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without AI and advanced technology.
+
+Basically: **simple automation beats complex automation that's never used every time.**
+
+Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to sufficiently cover here in this book in any short time.
 
 What it can do *really* well is pattern based work. Even then, it's still unintelligent and requires a significant amount of time and data training to reach competency. This encompasses many types of specifically trained repetitions of tasks like speech-to-text, image generation, moderation, and embedding.
 - E.g. It may know tomato is a fruit, but may not know not to put it in fruit salad.
@@ -336,15 +348,15 @@ AI also cannot understand like a human can. Overdependence on AI by humans breed
 - AI models often give *an* answer, even under uncertainty, rather than say they don't know. They don't know what they don't know, or the unknown unknowns.
 - Cleaning up messes is generally harder than preventing messes in the first place.
 
-Another problem I see with AI is when people want to automate large projects or work at larger scales. It is a resource sink in every way possible, whether through time, cost, staff, and management. The more things you try to automate, the amount of resources required to create *and maintain* that automation exponentially increase as well. If you really need to automate something, then I'd say four things before attempting to do so:
+Another problem I see with AI is when people want to automate large projects or work at larger scales. It is a resource sink in just about every way possible, whether through time, cost, labor, and logistical management. The more things you try to automate, the amount of resources required to create *and maintain* that automation exponentially increase as well. If you really need to automate something, then I'd say four things before attempting to do so:
 1. Start small. Extremely small. Start with one tiny problem.
 2. Assume whatever solution you make *will* cause problems and you need to maintain it for a long time.
 3. Your operating costs may drastically increase using AI vs not using AI.
 4. Automation doesn't *have* to utilize AI.
 
-I would say AI is at least better for people with prior domain expertise as they can differentiate right and wrong and boost their own productivity with it. AI, however, is detrimental to those with lower domain knowledge as it's more likely to create outputs those users cannot distinguish between good or bad.
+I would say AI is at least better for people with prior domain expertise as they can differentiate right and wrong from its outputs and boost their own productivity with it. AI, however, is detrimental to those with lower domain knowledge as it's more likely to create outputs those users cannot distinguish between good or bad.
 - This aligns with views I've seen from other professionals in the technology sector and their perspectives, such as [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
-- Excessive technical debt can be avoided by not over-engineering something that doesn't matter in the next 6-12 months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future.
+- Excessive technical debt can be avoided by not over-engineering something that doesn't matter in the next 6-12 months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future, as one example.
 
 Despite that viewpoint, people can get *addicted* to AI, what it provides, and its capabilities the same as other technology. It enables the average user to interact with data and models with plain languages like English rather than coding languages like Python and R. It can solve problems in seconds what used to take some people days or longer to achieve. It can create life-saving medicines and discover methods humans may not normally achieve in their lifetimes. Overall, it allows someone unable to do something before, or lacked the will to learn about it, the ability to now do it and skip a *lot* of steps in the process.
 
@@ -360,23 +372,27 @@ Views towards AI may also be distorted by administrators, managers, and director
 AI can also use survivorship bias to its advantage through selection pressure; a force causing a particular trait/attribute to more likely survive in certain conditions. For example, say you publicly transmit the outputs of AI into a wider audience. That same audience can report whether it's made by AI or a human. Most AI content would get correctly flagged this way, but some AI-written content still makes it through. People reporting content may also state *why* it appears AI-written as data to utilize. You can train a model on which content was flagged vs which content was not flagged, and even *why* it was flagged, to increases the chances of creating unflagged content. The implications for this are scary; as more AI content passes as human-made, it becomes harder to detect what is developed by AI and what is developed by humans.
 - A commonly cited survivorship bias example is from [Abraham Wald on plane vulnerability](https://web.archive.org/web/20190713234909/https://apps.dtic.mil/docs/citations/ADA091073) (1943). 
 
-Lastly, AI is an umbrella term for many types of automation and large language models (LLMs) are but one item under that umbrella. While general AI may not be performing all that well, highly specialized machine learning tools dedicated to fields like astronomy, law, production, translation, and even medicine can perform a select set of tasks and pattern recognition *exceedingly* well. Machine learning, while often lumped together with LLMs (large language models) and General AI (AGI), is extremely useful with real potential for improvements, but I'd caution against overexaggerating its capabilities.
+Lastly, AI is an umbrella term and large language models (LLMs) are but one item under that umbrella. While general AI may not be performing all that well, highly specialized machine learning tools dedicated to fields like astronomy, law, production, translation, and even medicine can perform a select set of tasks and pattern recognition *exceedingly* well. Machine learning, while often lumped together with LLMs (large language models) and General AI (AGI), is extremely useful with real potential for improvements, but I'd caution against overexaggerating its capabilities.
 
 ### **Cost of AI Implementation?**
 
-In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. 
+In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. Automation is pretty expensive. AI is extremely expensive. Automation differs from AI because automation is programmed to operate on set rules and procedures whereas AI is programmed to make its own choices from the data it's provided. Though automation isn't AI, it still suffers from similar issues.  
 
-The most straightforward cost is the sheer quantity of data required to train AI (i.e. to become "artificial intelligence"). It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into a *single* model for training. The necessary amount increases with the more tasks you want AI to do and decreases with fewer tasks. Additionally, the more data to process, the more time it takes to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
+Using either to do everything (or at least a lot of things) is certainly prohibitively expensive. 
 
-AI and related systems, like LLMs, have many of the following traits:
+Therefore, if you ever implement automation, AI, LLMs, etc. they should be used only for operations where its benefit outruns any present and potential future cost. If not, you risk spiraling into a financial deficit by reckless use of technology.
+
+Even if costs aren't an issue, we still have a knowledge problem. Overusing technology to replace human skills results in atrophy of those skills. For example, overusing AI to make decisions for us robs us of the ability of critical thinking and how to make decisions for ourselves.
+
+Drilling down further, the most straightforward cost is the sheer quantity of data required to train AI (i.e. to become "artificial intelligence"). It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into models for training. The necessary amount increases with the more tasks you want AI to do and decreases with fewer tasks. As you add more data for AI to process, it also takes more time to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
+
+AI and related systems have many of the following traits:
 - AI frequency/usage can multiply costs like complexity does and accrue *for each user request* in addition to any initial setup costs.
 - Expanding depth or breadth alone is costly, even with simple or complex problems.
 - Investing into *both* depth and breadth, or the ability to handle multiple areas well, is exponentially costly.
 - Data complexity for training AI exponentially increases with more depth or breadth.
 - The costs exist in both free and paid AI products consumers access.
-- Despite any potential benefits, AI, LLMs, and automation in general can quickly force its designers/hosts into negative ROI (return on investment) and operate at a loss.
-
-Automation differs from AI because automation is programmed to operate on set rules whereas AI is programmed to make its own choices. Though automation isn't AI, it still suffers from similar issues. 
+- Despite any potential benefits, AI, LLMs, automation without AI, etc. can quickly force its designers/hosts into negative ROI (return on investment) and operate at a loss.
 
 As for who pays, or has ownership of, the *cost* of AI/automation, that's probably one of three situations:
 1. The user/employee directly incurs a monetary cost.

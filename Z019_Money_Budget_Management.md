@@ -50,7 +50,7 @@ That's wealth/money.
 
 **A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing money itself.**
 
-For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. 
+For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you enforce consequences instead.
 
 Are the above examples meant to be jokes? I can neither confirm nor deny. 
 
@@ -325,6 +325,8 @@ If it's near the end of the year and you need to reach net zero–where you spen
 **Remember: Never pay out-of-pocket unless necessary, and don't go above your allotted learning budget whenever possible.** You don't have to spend much money for a good teaching experience; only as much as you need.
 
 ### **What About NO Money At All?**
+
+Money (and wealth) is a necessary, but not sufficient, condition for creating a proper education. For example, a life-changing invention could be made by three random blokes in a shed with logistic issues galore, a megalomaniac billionaire who pushed forth a crazy idea with the resources to brute force it to life, or someone whose lifelong profession is overshadowed by the fame of an invention *not* part of their profession.
 
 You'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these.
 

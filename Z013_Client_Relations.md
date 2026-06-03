@@ -88,8 +88,8 @@ You might also hear this mentioned as stereotypes and this applies to many thing
 
 I'll go over one example here: gender.
 
-Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. Male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Female teachers may provide more support networks and have lower fears of retaliation, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
-- I've seen multiple times male students treat female teachers worse, but male teachers better, despite both sets of teachers sharing the same roles, responsibilities, and skills.
+Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. In our teacher example, male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Conversely, female teachers may have more support networks and lower fears of retaliation for what they say and do, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
+- I've seen multiple times male students treat female teachers worse, but male teachers better, despite both sets of teachers sharing the exact same roles, responsibilities, and skills.
 - Small aside: these same dynamics may occur to non-teachers and professionals across multiple fields too.
 
 With gender, teachers and professors are not classified as a "bona fide occupational qualification" (BFOQ), so you may not legally discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982).
@@ -231,6 +231,14 @@ The great teachers I've seen are what I'm going to call "middle" teachers; fair 
 You'll almost certainly work with other teachers if you're also a teacher in education systems. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
 In any of these cases, you'll find yourself working with teachers of varying skill levels, experience, and backgrounds. Other teachers are your allies, resources, and sounding boards to check your sanity. You can share ideas about how to operate classrooms, but respect their downtime.
+
+At the same time, other teachers can also undermine education by choosing what rules to follow and not follow within education systems. There's rules you may not like, but still need to enforce or else chaos ensues and education is harder to deliver to students as a result.
+
+For example, let's say 10 teachers need to follow the rules set forth by one administrator. One of those teachers looks at these rules and decides not to enforce them as intended. Students may therefore think that, since this teacher said it was OK here, that gives them leave to do it for the 9 other teachers here who explicitly, and validly, are *not* allowing it. Friction comes as a result of this discrepancy, time is lost, and education is hampered as a result. 
+
+Another example may be you're a teacher who doesn't want the last week of school to go to waste, but the teacher next door is having a movie party that same week and your students focus on why they don't have *that* instead of *you*. That invalidates the effort you put into your own work and also affects your student's education for factors primarily out of your control.
+
+The above examples are cases where you're working with difficult individuals who toe the line with rules to be the "cool" teacher and try to be "friends" instead of friendly with students. Sure, teachers in these cases may have policies that go around "dumb" rules every silently agrees are dumb. Still consider, however, that many dumb rules are in place precisely because those rules are written in blood as an "incident" occurred to necessitate their creation and subsequent regulation. 
 
 Avoid talking about sensitive topics like religion and politics unless you're sure the other teachers you're around are OK with civil discussion on those topics.
 - Even then, be wary of talking about these topics in public and private spaces with other people in general. Who knows who might be listening in.
