@@ -118,10 +118,10 @@ Specialty training is typically reserved for detachments with stricter requireme
 
 Setting a detachment up and its training requires different clearances, permissions, and oversights approved first compared to Basic/MOS training.
 
-Let's pretend I'm creating a Force Reconnaissance detachment and I'm doing this for a Company Leader. There's several things to establish and approve outside of training, with the Company Leader, including but not limited to:
+Let's pretend I'm creating a Force Reconnaissance detachment and I'm doing this for a Company Leader. There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
 - What extra equipment the detachment is permitted and what additional rules do they follow
-- How will this detachment operate alongside other elements in the milsim group
-- What tasks they can and cannot do
+- How will this detachment operate alongside other elements in the organization
+- What tasking they can and cannot do
 - What additional requirements for applications and membership into the detachment
 
 After approval is received comes designing the training further. Let's say I want the detachment to scout objectives and do reconnaissance. This means creating standards and a training over things like:
@@ -228,7 +228,7 @@ Communication of information is done through various methods, such as:
 - Face-to-face
 - Over radio networks
 
-Reconnaissance is pretty important. You're gathering information that must be accurate, precise, and communicated properly, or you risk failure and unnecessary costs. The task required translating information into symbols and written words humans could quickly read and understand. To give a small overview of what to communicate:
+Reconnaissance is pretty important and what I'll single out from the other examples. You're gathering information that must be accurate, precise, and communicated properly or you risk failure and unnecessary costs for part of, if not the entire, organization. The tasks often required translating information into symbols and written words humans could quickly read and understand. To give a small overview of what to communicate:
 - Personnel types, numbers, and locations in the AO
 - Patrol routes
 - HQ/HVTs/Intel positions
@@ -236,26 +236,24 @@ Reconnaissance is pretty important. You're gathering information that must be ac
 - Points of Interest (POIs)
 - Infil/Exfil (Infiltration/Exfiltration) route(s)
 
-It's common to use acronyms, abbreviations, markings, and symbols to communicate to other people.
+It's also common to use acronyms, abbreviations, markings, and symbols to communicate to other people even outside your specific team or organization.
 - For example, using terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
 
-Whenever I participated in milsim scenarios, I usually did reconnaissance. Why was I assigned that? I was good at math and doing it quickly, but more importantly I could interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Working at long ranges also means dealing with issues like drops, Coriolis effect, wind, and far more variables short range interactions get to ignore entirely.
+Whenever I participated in milsim scenarios, I usually joined the reconnaissance units/elements. As for why I was usually allowed into those groups, it was because I was good at math, precise with spotting, knew how to stay silent and undetected, and accurate across extreme distances. More importantly, I could work within a specialized team and interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Land navigation was a surprisingly neglected skill in practice, despite technologies like a GPS handling the heavy lifting for most people. Working at long ranges also means dealing with the armanents to cover those ranges and handling issues like projectile drops, transonic effects, Coriolis effect, wind, and far more variables many short range interactions get to "ignore" entirely.
 
-I made three rules for *all* communications in these specialist groups:
+If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications in these specialist groups where every conservation over radio nets needs to be:
 1. Concise
 2. Clear
 3. Descriptive
 
 2 and 3 may sound conflicting, but they aren't. To give an example of all three in action, you could say: "I'm a VP of Technology at Big Wigs Inc. in Seattle." From that alone, you get:
 - Concise: a single sentence said in a few seconds.
-- Clear: You know exactly what their function is and remove ambiguity (a VP who manages the organization)
-- Descriptive: You have appropriate context of their ability, status, etc. (upper-level manager *professional* player based in Seattle).
+- Clear: You know exactly what their function/status is and remove ambiguity (a VP who manages the organization)
+- Descriptive: You have appropriate context of their ability, status, etc. (upper-level manager based in Seattle).
 
-As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, just in a different context.
+As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, but in a modified context.
 
-Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never), you don't ever want to talk or ramble a lot.
-
-You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on and do other equally, if not more, important tasks.
+Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never in practice), you don't ever want to talk or ramble a lot on them. You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on and do other equally, if not more, important tasks.
 
 It's why 5-10 seconds was set as the limit for each communication, order, etc. sent out. If it's longer than that, minds drift and information complexity increases. The simpler it is, the easier it is.
 

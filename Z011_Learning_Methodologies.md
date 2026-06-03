@@ -66,7 +66,7 @@ Lastly, I'd also say to focus on the knowledge and not on the job. If you learn 
 *All that said, let's approach this subject carefully.*
 
 Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other parallels:
-- It is far easier (and lower cost) to handle the logistics for 1 type of hamburger vs 30 types of hamburgers.
+- It is far easier (and usually lower cost) to handle the logistics for 1 type of hamburger vs 30+ types of hamburgers.
 - Logistics are typically easier transporting 60 people to one location vs 60 people to multiple locations.
 - It's less taxing on employees to maintain one version of an application rather than developing backwards compatibility and/or cross-functionality on multiple, different operating systems.
 - Assembly lines are easily configured to optimize production on one product compared to setting up multiple production lines for multiple products.
@@ -75,12 +75,19 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state my opinion, there's a lot of risk associated with its payout. The biggest deterrant to homeschooling is if it goes badly, it can go very badly. You also cannot replace a bad parent/guardian in a home setting as easily as you can a bad teacher in any education system. A student can perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility.
+To state *my* opinion, there's a lot of risk associated with homeschooling's "reward," if not too much risk involved. The biggest deterrant to homeschooling is if it goes badly, it can go very badly. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems. 
 
-*Will* it perform better than private/public schools though? It depends. There's evidence showing it's possible well-structured homeschooling does better than institutional (public/private) schooling, but unstructured homeschooling does significantly worse (Martin-Chang et al., 2011).
+*Will* it perform better than private/public schools though? It depends, but there's evidence present showing it's possible well-structured homeschooling does better than institutional (i.e. public/private) schooling, but unstructured homeschooling does significantly worse (Martin-Chang et al., 2011). Well-structured homeschooling, in this case, heavily implies sufficient parent involvement is present. A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility.
 
-One major problem to address is when you take a student away from a facility, organization, etc. that utilizes *the system's* resources to educate them. There's multiple sources of funding going into established schools and education systems; not just income from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden is more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your location (e.g. Colorado in the United States).
-- I won't go into details on homeschooling laws here because there's a lot of them. For the United States, they're typically found online by searching for "homeschool" + name of state + "Department of Education."
+One major problem to address is when you take students away from a facility, organization, etc. that utilizes *the education system's* resources to educate them. There's multiple sources of funding and pre-vetted educational materials going into established schools and education systems; not just from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden leans more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your state of residence.
+- For the United States specifically, these laws may be found on the Internet by searching for "homeschool" + name of state + "Department of Education" or other, similar search results.
+
+As for how other countries handled homeschooling outside the United States, where I expect my primary audience to be located at geographically, Finland and Germany (as of 2026) serve as two examples. If you want an education system to emulate these examples, you have to also adopt similar laws, regulations, resources, supports, and educational standards. You cannot randomly cherry pick only the parts and pieces you like.
+
+Finland has *education* as compulsory, but not *schooling*. While there is freedom in teaching methods, students are still required to following the National Core Curriculum (SuKo, n.d.). Though responsibility falls on the guardian, the municipality places students under strict monitoring, per Section 26 of the Basic Education Act, to supervise progress of compulsory school subjects (Finnish National Agency for Education (EDUFI), 2026). Nevertheless, child protective services may get involved and force the student back into regular schools if there's any issues from homeschooling.
+
+Germany has *Schulpflicht*, which is compulsory *attendance* at a state-approved or state-governed school with the very rare, case-specific arrangement allowing otherwise for extreme situations like certain medical reasons. There are mandates at both the national level with Grundgesetz (e.g. Art 7 (Federal Ministry of Justice, 2022)) and at the state level with Bundesländer (e.g. Hessian School Law (HSchG) Section 58 (Citizen Service Hessenrecht, 2023)).
+- Greatly simplifying from personal observation as well: Germany treats homeschooling *in general* quite negatively, if not outlawing homeschooling entirely.
 
 **I'd say if a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
 - Parents/guardians not being abusive or neglectful of their children nor wanting to indoctrinate them.
@@ -89,10 +96,12 @@ One major problem to address is when you take a student away from a facility, or
 - A sufficient education to differentiate between good and bad learning materials across *ALL* required subjects at *ALL* grade levels the student does homeschooling for.
 - The means to get a student proficient in *every* core subject, not just 1.
 - Developed an environment learning can safely and effectively happen in.
+- Enforcing consequences for actions.
 - Opportunities for social interactions among the *student's* peers.
 - Providing ways to incorporate extracurricular activities.
 - The backbone to enforce regulations and standards in behavior, education, and conduct.
 - The ability to accommodate any disabilities, special needs, etc. if applicable.
+- Access to the appropriate groups, organizations, communities, co-ops, etc. to outsource any parts of learning parents/guardians cannot reasonably, and sufficiently, cover on their own.
 
 Dedicated school environments have the means and resources to at least meet expectations on every item in this list. Parents/guardians, more often than not, do not have those means and resources as readily available. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
 
@@ -484,12 +493,19 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 
 2. CAST. (2024). *Universal Design for Learning.* CAST. [https://www.cast.org/what-we-do/universal-design-for-learning/](https://www.cast.org/what-we-do/universal-design-for-learning/)
 
+3. Citizen Service Hessenrecht. (2023, March 31). *§ 58 - Start of full-time compulsory schooling.* [https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-SchulGHE2022pP58](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-SchulGHE2022pP58)
+
 3. Clements, R., & Musker, J. (1997). *Hercules.* Buena Vista Pictures.
 
 4. The Cognition and Technology Group at Vanderbilt. (1990). *Anchored Instruction and Its Relationship to Situated Cognition*. pp. 2–10. American Educational Research Association.
 
 3. Ebbinghaus, H. (1885/1913). *Memory: A contribution to experimental psychology.* New York: Teachers College, Columbia University.
     - (For Future Reading) Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+
+3. Federal Ministry of Justice. (2022, December 19). *Basic Law for the Federal Republic of Germany.* Gesetze-Im-Internet.de. [https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html)
+
+3. Finnish National Agency for Education (EDUFI). (2026, April 14). *Homeschooling*. [https://www.oph.fi/fi/koulutus-ja-tutkinnot/kotiopetus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/kotiopetus)
+    - The original text is in the Finnish language, so what is cited is an attempted translation.
 
 3. Kapur, M. (2016). *Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning.* Educational Psychologist, 51(2), 289–299. [https://doi.org/10.1080/00461520.2016.1155457](https://doi.org/10.1080/00461520.2016.1155457)
 
@@ -511,6 +527,9 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
 
 8. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. [https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
+
+1. SuKo. (n.d.). *HOMESCHOOLING REGULATIONS IN FINLAND | Suomen Kotikouluyhdistys ry.* [https://www.suomenkotikouluyhdistys.fi/homeschooling-regulations-in-finland/](https://www.suomenkotikouluyhdistys.fi/homeschooling-regulations-in-finland/)
+    - "SuKo" is an abbreviation I'll use as an author placeholder.
 
 1. Walker, M. P. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams.* Scribner, An Imprint Of Simon & Schuster, Inc.
 

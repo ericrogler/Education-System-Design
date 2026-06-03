@@ -52,7 +52,7 @@ If you told a typical manager they had 40 direct reports, they'd probably think 
 
 What seems normal and reasonable everywhere else for management is not the case in an education system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person.
 
-Across many of these policies, however, is the need for structure. Having no structure is writing a recipe for disaster.
+Across many of these policies, however, is the need for structure. Having no structure is writing a recipe for disaster. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals.
 
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
