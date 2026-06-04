@@ -11,50 +11,48 @@ nav_order: 4
 
 Imagine I want to get a new teacher, instructor, presenter, etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also see what they're going into. 
 
-I'll pretend a reader is in a situation where they start from, well, basically nothing.
-
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
 Will it go against some conventional wisdom on education and teaching? Yes. 
 
-Will it also support some existing, tried-and-true, educational practices? Also yes.
+Will it also support some existing, tried-and-true, education practices? Also yes.
 
 ***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to be like IKEA and cater what products and services I provide, i.e. information and opinions on topics presented to you.
     - At the very least, I'll be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have.
     - It also means you should still read the contents of this book with a grain of salt, even with any good advice. Your current situation may require modifications of what's suggested here.
 
-An educator exists in many different forms. There's the formal teacher many students are familiar with, but there are also teachers in unexpected places. Perhaps you've shown someone how to ride a bicycle, operate a piece of software, or help interpret a book passage. All those, and countless other examples, are taught by you as you assume the role of a teacher.
+Because a educator exists in many different forms, they can come from many backgrounds and cover a vast array of topics. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall instead of a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
 
-Because a educator exists in many different forms, they can come from many backgrounds. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall over a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
+While everyone can teach, people should be trained, or at least spend time figuring out, how to actually teach or else you'll get a blind leading the blind situation. That's not a fun situation to be in. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey.
 
-While everyone can teach, people should be trained, or at least spend time figuring out, how to actually teach or else you get a blind leading the blind situation. That's not a fun situation to be in. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey.
-
-That may mean failing students and holding them back if they're not ready.
+That may mean removing a problematic student to save the education of every other student, as well as failing students and holding them back if they're not ready.
 
 ### **What's The Goal?**
 
 1. To increase the probability of success for professionals navigating a new or existing education system.
-2. To explain some of the nuances and practicalities other materials may skip over or not address plainly.
+2. To explain some of the nuances and practicalities present in education systems.
 3. To help others design their own education systems.
 
 ### **What The Book Isn't**
 
-To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is to be as tool-agnostic as possible, yet ironically I need to talk about tools to get across my point sufficiently.
+To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. If anything, technology is actually quite dangerous and depends heavily on how its utilized.
 
-Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in the data field and the use of pencils and papers for education, but they're exceptions and not the norm. Due to this propensity for change, some information may not map 1:1 on relevance in the future, but hopefully any concepts maintain a sense of timelessness.
+I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is to be as tool-agnostic as possible, yet ironically I need to talk about tools to get across my point sufficiently.
 
-**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read [said 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming and the use of pencils and papers for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
 
-This book also uses what I'll call a "ground up" approach. I find this approach is the most accessible for a general audience, which is why I take it. It will examine from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down, because the majority of learning students undergo takes place around a "classroom" granularity or at the frontlines of education.
+**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read works like [the 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+
+This book also uses what I'll call a "ground up" approach. I find this approach is the most accessible for a general audience, which is why I take it. It will examine education from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down, because most interactions people have (i.e. students, administrators, educators, parents, etc.) are around a "classroom" granularity or near the frontlines of education.
 
 ### **Who Should Read This Book**
 
-I designed this book primarily for educators and professionals already in education systems as well as designers and engineers working within or wanting to better understand education systems. It reflects the perspective of someone who taught across multiple educational contexts, including public and private schools serving affluent and poorer communities.
+I designed this book primarily for educators, professionals already involved in education systems, as well as designers and engineers working within or wanting to better understand education systems. It reflects the perspective of someone who's experienced multiple educational contexts, including public and private schools serving affluent and poorer communities.
 
 While many methods may apply beyond education, the focus is firmly on applications, potential and real, within educational systems. When examples from other fields, or even lengthy descriptions about non-education fields appear, my intention is telling you how I can see these outside perspectives, practices, and ideas may improve education.
 
-Overall, the goal is to be at least *somewhat* useful to anyone involved or curious about education and delivering education, regardless of format or setting. As with any work focused on a specific domain, some concepts may translate more directly than others based on the specific situation and content.
+Overall, the goal is to be at least *somewhat* useful to anyone involved or curious about education and delivering education, regardless of context. As with any work focused on a specific domain, some concepts may translate more directly than others based on where they're applied to.
 
 ### **Prerequisites**
 
@@ -66,7 +64,7 @@ If you have no familiarity at all with education systems, my suggestion to you i
 
 ### **What You'll Learn**
 
-You may learn a lot of things, both expected and unexpected, but I'd say most of the following are the biggest takeaways:
+You may learn a lot of things, both expected and unexpected, but I'd say most of the following are part of the biggest takeaways:
 
 - A high-level overview of various parts involved in creating, operating, and maintaining any education systems and curricula
 - Management techniques to handle subordinates, employees, students, and clients inside and outside of education systems
@@ -82,15 +80,15 @@ You may learn a lot of things, both expected and unexpected, but I'd say most of
 
 ### **Conventions and Assumptions**
 
-**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and how they might apply to you if you were an educator. Under NO circumstances should you assume I am telling you legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may view and approach them. THIS IS YOUR FIRST, MAJOR WARNING.**
-- When in doubt, if it sounds like I contradict this at any time in my writing, *refer back to this.*
+**This book is intended for educational and informational purposes. I will periodically explore legal, medical, and financial topics and how they might apply in education. Under NO circumstances should you assume I am giving you legal, medical, and/or financial advice to act upon; it's a *discussion* of these topics and how I may view and approach them. THIS IS YOUR FIRST MAJOR WARNING!**
+- When in doubt, if it sounds like I contradict this at any time in my writing, *refer back to this clause.*
 
 Chapters are split apart by "general domain" and where I feel the information best fits. For example, Gestalt Principles would fit into a design chapter while extensive details about HIPAA better fits into a legality chapter.
 
-Some statements and information may not be independently verifiable because they rely on internal evidence like grades, timelines, surveys, and more. Please understand there's a significant amount of information related to education I cannot openly share legally and perform methods such as omitting personal identifying information for compliance. Many "results" are based on direct observation and estimations rather than controlled observations. From personal experience, it's hard to do data collection and the work of a scientist/researcher while teaching simultaneously.
+Some statements and information may not be independently verifiable because they rely on internal evidence like grades, timelines, surveys, and more. Please understand there's a significant amount of information related to education I cannot openly share and perform methods such as omitting personal identifying information. Many "results" I present here are based on direct observation and estimations rather than controlled observations. From personal experience, it's hard to do data collection and the work of a scientist/researcher while teaching simultaneously.
     - Additionally, student data may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 
-If you're in education or an educator, I'll assume you're at least dealing with reasonable students capable of completing assigned work. While disabilities are considered, only up to minor to moderate disabilities and accommodations will be covered. Any frameworks and systems written here are primarily designed for technical subjects (math, engineering, science, etc.), but can apply elsewhere with only minor adjustments.
+If you're in education or an educator, I'll assume you're at least dealing with reasonable students capable of completing assigned work. While disabilities and adverse students are considered, only up to minor to moderate disabilities and accommodations will be covered. Any frameworks and systems written here are primarily designed for technical subjects (math, engineering, science, etc.), but can apply elsewhere with only minor adjustments.
 
 Sources used are listed and divided into each chapter's respective bibliography. Sources are directly cited if I'm quoting challengeable text, numbers, figures, etc. or linking directly to text to explain a point. There may be indirect citations if I can cite, in-text, a link directly to the source(s) for reference or further reading. (e.g. "Here's a [blank hyperlink]() showcasing X idea(s)." and "Here's an idea ([Further Reading]())")
 
@@ -100,7 +98,7 @@ In the event of references to any products or tools, they are included because I
 
 If you've ever been in education and had to pay out-of-pocket, with your own money, for education supplies, *you'll understand why.*
 
-If you haven't, think about it this way. I don't want to deny you access to information purely due to financial blockers. As long as you have a means to connect to the Internet and read web pages, you can read this.
+If you haven't, think about it this way. I don't want to deny you access to information purely due to financial blockers. As long as you have a means to connect to the Internet and sufficient reading comprehension, you can read this.
 
 Though I list this book under a CC-BY license, due to certain content I reference for topics here, I hope you don't try and make a profit off any material presented or referenced here. I won't be angry if you do; just disappointed.
 

@@ -67,7 +67,7 @@ Technology can do many amazing things.
 
 HOWEVER.
 
-**Technology is dangerous. Technology is *still* dangerous even when handled and regulated properly. The same goes for just about every technology in general, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
+**Technology is dangerous. Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
 
 Many people use computers, phones, etc. all day, every day, and still not know how the technology works. Even at the smallest issue and roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
 
