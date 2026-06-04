@@ -71,6 +71,8 @@ This may mean your tolerances are outside the scope of verification or measureme
 From a management perspective, think of tolerances as the allowable margin of error you'll tolerate for your employees and their performance, work, behavior, etc. against established standards. You don't want to be *too* tolerant of issues, but also not have so little tolerance you force nothing less than absolute perfection from imperfect human beings and methods.
 - For example, what you tolerate in an education system may be *far* more lenient than in the aerospace or military industry/system. The requirements demanded by the environment and risk involved are vastly different, so what is "tolerated" is different.
 
+Tolerances are further enhanced when you combine them with methodologies like Six Sigma. Instead of only "this product isn't done right," you can now track how much waste is occurred across X number of products and track how effective and efficient a given process is. It also helps when scaling upwards; if there's very clear indicators you have too much waste and issues at making 100 parts, you're almost certainly going to see issues when you scale up to making 10,000 parts and now know you need to fix things at this stage.
+
 ### **Interoperability**
 
 Interoperability defines a product's, or system's, ability to communicate with other products and systems (Slater, 2012). It's why standardization is *usually* a good thing because it can enhance interoperability.
