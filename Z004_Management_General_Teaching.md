@@ -294,11 +294,13 @@ To remove idle work, you remove bottlenecks or things preventing work from getti
 
 ### **The Art of Meet[ings]**
 
-A lot of people hate meetings. Bad meetings are lost opportunities and real costs to everyone involved (Bernstein and Ringel, 2018). People hate meetings so much we develop ways to mathematically show the cost of meetings.
+A lot of people hate meetings. Bad meetings are lost opportunities and real costs to everyone involved (Bernstein and Ringel, 2018). People hate meetings so much we apply mathematics to showcase the cost of meetings.
 
-**The lesson is simple: if you don't generate value greater than the cost of a meeting, do not host a meeting.**
+Psychology plays its role in meetings too. You may desire to know how long you have to *stay* in meetings, much like cars waiting on red lights at a traffic stop, so you don't feel stuck and become excessively frustrated. That's how we get inventions like putting mirrors on elevator doors to solve complaints about long wait times.
 
-The typical formula goes like this:
+**The lesson is simple: if you don't generate value greater than the cost of a meeting, do not host a meeting for it.**
+
+The typical formula goes something like this:
 
 Meeting Cost = [Average Salary (currency/hour) x Employee Count (people) x (Duration (in hours) + Setup time (in hours)) + Additional Costs] x Occurrences (per unit of time)
 
