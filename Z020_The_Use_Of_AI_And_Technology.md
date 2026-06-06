@@ -100,6 +100,8 @@ A student device above can cover almost all use cases in an education system and
 
 Not *all* technology is great or necessary as preferences exist. People may vastly prefer a physical medium to doing work on vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
 
+Lastly, the main goal of advancements in technology is to improve quality of life. For example, a method that used to take you 8 hours now takes you 8 minutes instead. Sometimes those productivity gains mean people can make others do *more* in that same amount of time. For example, as illustrated like Jevons Paradox, efficiency gains of resource use ironically lead to increased consumption of that resource (Jevons, 1866).
+
 ### **[Cyber]Security in Technology**
 
 Technology, like computers and cell phones, can also be misused by students *and* staff as well, including jailbreaking, installing unauthorized software, and damaging hardware. The human element is almost always the easiest way to bypass any technology's security system to cripple it. To illustrate my point:
@@ -445,6 +447,8 @@ If you want to try a different twist: you could create an assignment requiring A
 2. Flynn, A. N., Takahashi, T., Sim, A., & Brunstrom, J. M. (2025). *Dish swap across a weekly menu can deliver health and sustainability gains.* Nat Food 6, 843–847. [https://doi.org/10.1038/s43016-025-01218-8](https://doi.org/10.1038/s43016-025-01218-8)
 
 3. Herbert, F. (1965, October 1). *Dune.* Chilton Books.
+
+2. Jevons, W. S. (1866). *The Coal Question: An Inquiry Concerning the Progress of the National and the Probable Exhaustion of Our Coal-mines.* (2. ed. revised).
 
 2. Law, R., Guan, X. (2026, February 4). *Update: AI Overviews Reduce Clicks by 58%. SEO Blog by Ahrefs.* [https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)
 

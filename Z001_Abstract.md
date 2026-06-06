@@ -44,7 +44,7 @@ For those who are OK with 99% of solutions, rather than 99.9% or 99.99%+ of solu
     1. **Everyone** in an education system enforcing consequences for actions and behaviors (i.e. administrators, parents, educators, staff, students, etc.). 
     2. Limiting classroom sizes.
     3. Allowing students to fail.
-- Perfect is the enemy of good.
+- Perfect is the enemy of good. Sometimes good enough is *good enough* and you need to accept that.
 - If suddenly thrusted into managing a classroom with little to no preparation (and perhaps against your will, who knows), focus first on setting up classroom management and procedures, followed by a syllabus and lesson plans. A safe, secure, and orderly environment is needed *before* students may receive a proper education.
 - The first year for just about every professional role people go into, especially for educators, will be hard. That is normal.
 - Leadership starts from the top. A failure from above quite often leads into failures below.

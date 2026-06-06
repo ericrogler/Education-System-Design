@@ -101,15 +101,15 @@ Should this happen in a teaching setting, everyone included, then keep the follo
 
 ### **A Non-Education Analogy**
 
-Teachers and instructors in the education system are quite likely to receive complaints from students, parents, and other "downstream" stakeholders.
+Teachers and instructors in an education system are quite likely to receive complaints directly from students, parents, and other "downstream" stakeholders.
 
 For some readers, it may make more sense to compare it to complaining about a piece of technology or application you use daily. I'll use video games as an example.
 
 You may enjoy playing a video game, but you encounter multiple issues within the game that, fairly or not, drive you to complain about it. Who do you complain to? The developers. 
 
-These employees are accessible targets for feedback and represent the front-facing, interface layer users engage with. Developers and instructors/teachers are in the same position here. Both help create the content you interact with, but neither holds full control of the education process and final product students interface with. Developers implement design within technical constraints whereas teachers implement curricula within institutional and policy constraints.
+These employees are accessible targets for feedback and represent the front-facing, interface layer users engage with. Developers and instructors/teachers are in the same position here. Both help create the content you interact with, but neither likely holds full control of the education process and final product students interface with.
 
-There's usually less consideration given for other stakeholders influencing the product. This includes publishers, stakeholders (external and internal), QA, Legal, Marketing and Sales, and executives. Some users may investigate further and figure out upstream issues, but that usually requires deeper knowledge of how the system(s) functions.
+There's usually less consideration or grief directed at others influencing the product(s). This includes publishers, stakeholders (external and internal), QA, Legal, Marketing and Sales, and executives. Some users may investigate further and figure out upstream issues, but that usually requires deeper knowledge of how the system(s) functions.
 
 Within both simple and complex systems, complaints flow downstream to the most visible participant in a system even if they're not responsible. This isn't limited to only instructors and developers either; any front-facing role may face these same issues.
 
@@ -127,11 +127,11 @@ Say, for example, you're trying to secure funds for an education system. Investo
 - Storytelling. For example, a skyscraper sounds normal, but *the world's tallest skyscraper?* Now you may've grabbed their attention.
 - What the funds will do. You can't expect everyone to give resources openly. If you clearly show them where their money goes, how it'll be spent, and what it may produce, that could be what seals the deal and their trust. 
     - This also includes showing a history of spending through financial statements, both recent and dated, to further your case.
-- Maintaining a working (i.e. "business") relationship. If the investment goes through, you'll then want ways to keep that revenue stream going or even increase in the future or else the quality of education your system provides may drop.
+- How to maintain a working (i.e. "business") relationship. If the "investment" goes through, you'll want ways to keep that revenue stream going or even increase in the future or else the quality of education your system provides may drop.
 
 ### **Administrators**
 
-Administrators manage educators and staff directly, but students indirectly. That's a roundabout way to say they handle certain problems educators cannot, and should not, handle and get rid of blockers towards student education. This may include verifying students meeting the proper prerequisites before going into a particular class, meeting and vetting "clients" (i.e. students and parents), handling security issues, overseeing the health and repairs of a facility, and more. They also handle things teachers may not want to deal with, like most complaints from "clients" as mentioned before, threats of litigation, and multiple meetings. 
+Administrators manage educators and staff directly, but students indirectly. That's a roundabout way to say they handle certain problems educators cannot, and should not, handle and get rid of blockers towards student education. This may include verifying students meeting the proper prerequisites before going into a particular class, meeting and vetting "clients" (i.e. students and parents), handling security issues, overseeing the health and repairs of a facility, stamping out student discipline problems, and more. They also handle things teachers may not want to deal with as well, like most complaints from "clients" as mentioned before, threats of litigation, and multiple meetings. 
 
 There may be some overlap between administrators and traditional educators, but administrators lean far more into being *managers* rather than educators. They also may have never taught, or at least taught recently enough for updated context, in a classroom/educational setting, which can categorize them as non-technical managers. Despite any lack of classroom management skills, if that's a concern, administrators need to focus on managing many other parts of education systems. A byproduct of this focus is they may cause friction with any professionals reporting to them if they cannot support and maintain conditions favorable for education systems to thrive. It doesn't render their decisions and perspectives completely invalid though, as each party in an education system focuses on different aspects of that system educators may not see or know of.
 - E.g. Administration should focus on solving "What do you need to do your job well?" and eliminating blockers while avoiding "Here's how to do your job" outside specific circumstances.

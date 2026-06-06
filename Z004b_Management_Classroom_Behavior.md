@@ -18,10 +18,12 @@ nav_order: 10
 **The more people you have to manage, the more likely something can go wrong.**
 - i.e. Anything that can go wrong *will* go wrong.
 
-**In my experience, you can fix most (80-90%) classroom management issues with three actions: consistently (and actually) enforcing discipline and consequences for actions, allowing students to fail, and limiting the size of classrooms/number of students instructors manage.**
-- Though a solution, it may demand more resources like real estate, staff, and money which may not be readily available.
+**In my experience, you can fix most (80-90%) classroom management issues with three actions:** 
+1. Consistently (and actually) enforcing discipline and consequences for actions
+2. Allowing students to fail
+3. Limiting the size of classrooms/number of students instructors manage
 
-A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality your plan may experience failure due to factors outside your control.
+A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality whatever plan you establish may experience failure due to factors outside your control.
 
 Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
 - It's so significant I'd recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
@@ -54,11 +56,13 @@ What seems normal and reasonable everywhere else for management is not the case 
 
 Across many of these policies, however, is the need for structure. Having no structure is writing a recipe for disaster. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals.
 
+**"Strong classroom management" requires enforcing rules and consequences instead of elimiating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through.
+
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
 Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot reasonably overlook how that same disruptive student is denying 30+ (or however many) other students an education. 
-- If I didn't explicitly write it down here, someone will call it out.
+- If I didn't explicitly write that down here, someone will call it out I'm sure.
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
 - Procedures and management strategies must scale up as more students are under your supervision
@@ -68,7 +72,7 @@ If you skipped the other management chapters and went straight to here, I'll rec
 - Time is your most valuable resource
 - Success is determined by the environment and resources available, your ability, and how well students perform
 - Learning proper classroom management requires experience and application
-  - A book, guide, etc. alone will NOT be enough to get you experience, *but it is better than nothing*
+  - A book, guide, etc. alone will NOT be enough to get you experience, *but knowing the theory is at least better than nothing*
 
 Lastly, there's also many different types of schools even within the public and private school umbrellas. They can vary in size, policy, student demographics, the reason students are there, the wealth available in the school, and many more factors. 
 
