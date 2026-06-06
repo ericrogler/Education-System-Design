@@ -100,7 +100,7 @@ A student device above can cover almost all use cases in an education system and
 
 Not *all* technology is great or necessary as preferences exist. People may vastly prefer a physical medium to doing work on vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
 
-Lastly, the main goal of advancements in technology is to improve quality of life. For example, a method that used to take you 8 hours now takes you 8 minutes instead. Sometimes those productivity gains mean people can make others do *more* in that same amount of time. For example, as illustrated like Jevons Paradox, efficiency gains of resource use ironically lead to increased consumption of that resource (Jevons, 1866).
+Lastly, the main goal of advancements in technology is to improve quality of life. For example, a method that used to take you 8 hours now takes you 8 minutes instead. Sometimes those productivity gains mean people can make others do *more* work in that same amount of time. In cases illustrating Jevons Paradox, for example, efficiency gains of resource use lead to increased consumption of that resource (Jevons, 1866).
 
 ### **[Cyber]Security in Technology**
 
