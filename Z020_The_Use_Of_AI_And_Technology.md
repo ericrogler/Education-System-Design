@@ -65,15 +65,17 @@ Now then, let's talk about technology.
 
 Technology can do many amazing things.
 
-HOWEVER.
+HOWEVER. 
 
-**Technology is dangerous. Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
+While technology is generally a good thing, there can also be too much of a good thing. **Technology is dangerous. Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
 
 Many people use computers, phones, etc. all day, every day, and still not know how the technology works. Even at the smallest issue and roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
 
 Is this an exaggeration? *No.*
 
 Many systems are also held together through duct tape and temporary fixes, which can ironically become permanent fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. Nevertheless, there's many things the public may not be comfortable knowing about and technology is *full* of those things.
+
+One major goal of technology is to improve quality of life. For example, a device does a task in 8 minutes that used to take you 8 hours to do. Sometimes those productivity gains mean people now get to do *more* work in that same amount of time. In cases illustrating Jevons Paradox, for example, efficiency gains of resource use lead to increased consumption of that resource (Jevons, 1866).
 
 In education, technology should *support* learning, not hinder it, and only works well when people know how to use the technology provided. This is why skills like critical thinking, reading literacy, and computer literacy are essential for all parties, students and professionals, in education systems. Don't blindly replace existing methods, like physical books and writing by hand, or give it out to everyone because a new piece of technology seems like the next best thing since sliced bread.
 
@@ -98,9 +100,11 @@ To give an example of this permeation: a school may provide every student with t
 
 A student device above can cover almost all use cases in an education system and simplify the logistics of resource management. It's also a trade-off on resources and reduction in capacity/lot-sizing; though you can now manage fewer physical resources, providing technology may require additional overhead and other direct/indirect costs like licensing, device management systems, connectivity, internet providers, and equity concerns.
 
-Not *all* technology is great or necessary as preferences exist. People may vastly prefer a physical medium to doing work on vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
+With relation to student-issued devices, as well as organization-issued devices, you should be vigilant of doing "non-approved" or unsanctioned activities. It is entirely possible, if not probable, the organization issuing you the device, or piece of technology, to use added mechanisms and installed software to track *everything* that happens on that particular device. The same could be said of connecting to networks; if you take a device and connect it to a secure network, that network can track your activity during the period you're accessing it.
+- Basically: keep work stuff to work devices and personal stuff to personal devices.
+- While someone may not be always looking at what you do 24/7, they could still take a closer look at what you have done with their resources if they have reason to.
 
-Lastly, the main goal of advancements in technology is to improve quality of life. For example, a method that used to take you 8 hours now takes you 8 minutes instead. Sometimes those productivity gains mean people can make others do *more* work in that same amount of time. In cases illustrating Jevons Paradox, for example, efficiency gains of resource use lead to increased consumption of that resource (Jevons, 1866).
+Not *all* technology is perceived as great or necessary as preferences exist. People may vastly prefer a physical medium to doing work on vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
 
 ### **[Cyber]Security in Technology**
 
@@ -201,23 +205,23 @@ I would say technology goes too far though when it displaces *people* from the c
 
 In particular, screen time is one such issue where people have uncontrollable desires to use screens and, as a result, may impair other areas of life (Sampasa-Kanyinga et al., 2022). Additionally, from researchers like Sampasa-Kanyinga et al., there's strong evidence suggesting excessive technology is associated with lower academic performance.
 
-While technology is a good thing, there can certainly be too much of a good thing.
-
 ### **AI in General**
 
-If you use technology in general, etc. you should also be held accountable for its outputs. That includes AI (artificial intelligence) where you deploy it and let it makes its own choices. Were you in a corporate setting, you could also say that anyone, including managers and non-technical personnel, that handles or modifies code is now on-call and owns incident remediation and responsibility for anything they ship out. 
+**If you use technology, you should be held accountable for its outputs.** 
+
+That includes AI (artificial intelligence) you deploy and allow to make its own choices. Were you in a professional setting, you could also say that anyone, including managers and non-technical personnel, that handles or modifies deliverables (including "code" for software) is now on-call and owns incident remediation and responsibility for anything they ship out. 
 
 I'll illustrate a potentially funny scenario of AI usage as well. Say you're working with a client. They will say what they want and expect you to do it. Perhaps that's a list of requirements, a description of their current pain points, or even something they built, with more than a few problems, and want you to make it "production ready" (i.e. ready to sell to users). Even if clients accurately describe what they want, which is already unlikely at least the first few times around, they may go through various change orders before submitting to cognitive surrender and asking *the AI* to tell them (the client) what they want and have AI also implement it. 
 
-All of this roundabout effort to do what they want and not actually what they need because of communication issues, only to risk getting something they didn't even want in the first place. Like I said: potentially funny.
+All of this roundabout effort to do what clients want and not actually what they need because of communication issues, only to risk getting something they didn't even want in the first place. 
+
+Like I said: potentially funny.
 
 Getting AI to do something also isn't the same as you doing something yourself. It's like a client from earlier describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer in this case. Intent is not authorship.
 
-Most AI use is *doing some form of work for someone else* and should not to be confused with someone getting the work done. In education, if a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
-- For example: the text you're reading now. AI could generate an answer for everything here, and perhaps state it more eloquently, but I know the material here because I did the human element; putting in the work *and writing the thing in the first place.* The act of going through the work reinforced my knowledge, which is part of learning.
-- AI used in this way also fuels a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand, that just happens to work, and claiming you know what RegEx is all about.
+Most AI use cases, at least with what I'm familiar with, involve *doing some form of work for someone else* and should not to be confused with someone getting the work done. In education, for example, if a student actually understands the content we're teaching them, they should not *need* AI to explain, defend, or interpret the content for them. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
 
-If you combine a substitute of mastery with a society diminishing the value of intelligence, honesty, integrity, and personal responsibility, humanity's educational level and ability to accomplish tasks is likely, if not certainly, liable to diminish over time.
+AI usage also risks fueling a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand, that just happens to work, and claiming you know what RegEx is all about. If you combine a substitute of mastery with a society diminishing the value of intelligence, honesty, integrity, and personal responsibility, humanity's educational level and ability to accomplish tasks is likely, if not certainly, liable to diminish over time.
 
 Now then, I have some questions for my readers:
 
@@ -225,22 +229,22 @@ Now then, I have some questions for my readers:
 - "When should you NOT use AI?"
 - "How do you know what AI generates is true and correct?"
 - "When can you use a simpler method instead of an advanced AI tool to solve your problem?"
-- "At what point will AI fail to solve your problem(s)?"
+- "At what point(s) will AI fail to solve your problem(s)?"
 
 **If you cannot confidently answer these questions, that's OK, but I will say you shouldn't incorporate AI yet. If you do have solid answers, that's good.**
 
-For non-technical readers, here's AI in plainer terms: Artificial Intelligence (AI) takes data and information, tries to find patterns and relationships within it based on prior knowledge (i.e., what it's trained on), and generates results from its findings.
+For non-technical readers, here's how I thought of AI in plainer terms: Artificial Intelligence (AI) takes data and information, tries to find patterns and relationships within it based on prior knowledge (i.e. what it's trained on), and generates results from its findings.
 
 Before continuing, I'll emphasize important points about AI that mirror my views on it (Cybersecurity and Infrastructure Security Agency [CISA], 2024).
 
 - No matter how AI is used, you're responsible for the outcome. Always verify outputs.
 - Don't feed it sensitive data, like medical records, legal documents, credit card statements, and/or confidential information in general. It can use, log, and transmit that data into a public space, and put you at risk of fraud, theft, and more.
-- Even with its advantages, AI can remove learning opportunities and retention of information.
-- Your students WILL use AI and other technology if allowed to. Make plans for its use and/or restriction.
-- You don't always have to incorporate AI into a classroom. It's a tool, like any other.
+- Despite any advantages it provides, AI can remove learning opportunities and retention of information.
 - AI can hallucinate wrong answers with confidence.
 
-That said, AI is a complicated topic. The velocity, volume, value, variety, and veracity of AI development increase year after year, month after month, and much of what I say could be invalidated within less than a year, if not 5 years, after initially writing this. 
+Your students WILL use AI and technology if allowed to. Even if not allowed to, they may figure out ways to sneakily take advantage of it under your nose. Make plans for its use and/or restriction. You don't always have to incorporate AI or certain technologies into a classroom, as it's a tool like any other.
+
+AI, when you go behind the curtains, is a vast and complicated topic. The velocity, volume, value, variety, and veracity of AI development increases year after year, month after month, and perhaps even day by day. Much of what I say about AI could be invalidated within less than a year, if not 5 years, after initially writing this. 
 - For another nuanced take on AI, you can [refer to this blog post by Thomas Ptacek](https://fly.io/blog/youre-all-nuts/), but mind the language (Ptacek, 2025).
 
 To show a glimpse of AI's evolving capabilities: according to Simon Willison on June 2025, in December 2024 to June 2025 *alone* there were multiple advancements in AI, including but not limited to (Willison, 2025):
@@ -250,6 +254,8 @@ To show a glimpse of AI's evolving capabilities: according to Simon Willison on 
 - Meta's Llama 3 Series
 - Mistral Small 3
 - Many, *many* more
+
+Despite its rapid growth, there's also tangible risks. Like mentioned earlier, technology is dangerous and AI is *especially* dangerous because it falls under the category of "applications that aim to believably mimic humans [which] bring risk of extreme harms" (Bender et al., 2021). Even if the risks never affect *you* personally, there's still environmental and financial costs to consider affecting everything and everyone else in a given system.
 
 ### **The Hidden Complexity of AI**
 
@@ -435,6 +441,8 @@ If you want to try a different twist: you could create an assignment requiring A
 - You could probably defend it by saying "the assignment asked for a specific software to complete it, but the student didn't use that software so they failed."
 
 ## **Bibliography**
+
+1. Bender, E., McMillan-Major, A., Shmitchell, S., & Gebru, T. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT ’21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
 
 1. Brooks, Frederick P. (1986). ["No Silver Bullet—Essence and Accident in Software Engineering"](https://www.cs.unc.edu/techreports/86-020.pdf) (PDF). Proceedings of the IFIP Tenth World Computing Conference: 1069–1076.
 

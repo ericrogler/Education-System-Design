@@ -141,11 +141,11 @@ Venting and decompressing methods vary among individuals. It can be done through
 Be mindful that your decompression method(s) doesn't negatively harm or abuse other human beings, their property, and yourself. Also ensure it doesn't reach the point where it involves rashly handling drugs, especially unmarked pills/drugs. If it *does* reach that point or feels it's reaching that point, seek professional help (e.g., therapists, doctors, etc.).
 - Even if you're currently one of these professionals, a "physician-patient" still needs appropriate help (Rosvold (MD), 2004).
 
-### **What about Prescriptions/Drugs?**
+### **What about Prescriptions/Drugs/Medications?**
 
 ***Notice: the information provided is hypothetical and subject to change.***
 
-If you're a professional in an education system, you may not deal with medications, prescriptions, and other drugs for students, yourself, and other people in general. All of that's typically under the purview of health professionals.
+If you're a professional in an education system, you may not deal with medications, prescriptions, and other drugs for students, yourself, and other people in general. All of that's usually under the purview of health professionals.
 
 Nevertheless, that doesn't mean neglecting knowledge of common medications, diseases and their symptoms, and so on. Having that knowledge could mean the difference between life and death and whether or not you can get someone (or yourself) the help you need.
 
@@ -153,6 +153,7 @@ If you're primarily dealing with medications, despite not being a health profess
 - Generic Name (or "slang" name, like "Tylenol" vs acetaminophen)
 - Treatment Purpose
 - Common Dosage Amount & Dosage Limit
+- Storage / How to Store
 - Administration Method(s)
 - Side Effects
 - Onset Time (how long it takes before someone "feels" the effects)
@@ -163,7 +164,7 @@ If you're primarily dealing with medications, despite not being a health profess
 
 Take for example acetaminophen (e.g. Tylenol), as mentioned above. 
 
-It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet every 4-6 hours, taken orally, with a limit to not exceed 4000mg (4g) per day.  Side effects include Hepatotoxicity, which is liver damage, from an overdose or chronic use. After taking it, it typically has an onset period of around 30-45 minutes, a peak time at 1-2 hours, and an overall duration of 4-6 hours. You should note the date and time each dose is taken as well, in case of emergencies. Its antidote is acetylcysteine, but the risk and danger of overdosing is surprisingly high as said antidote is usually unavailable outside of specific, controlled settings.
+It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet every 4-6 hours, taken orally, with a limit to not exceed 4000mg (4g) per day. For storage, keep bottle/container tightly sealed and store inside a cool, dry place (about room temperate @ 20C to 25C). Side effects include hepatotoxicity, which is liver damage, from an overdose or chronic use as well as  diarrhea, nausea, and loss of appetite. After taking acetaminophen, it typically has an onset period of around 30-45 minutes, a peak time at 1-2 hours, and an overall duration of 4-6 hours. You should note the date and time each dose is taken as well, in case of emergencies. Its antidote is acetylcysteine, but the risk and danger of overdosing is surprisingly high as said antidote is usually unavailable outside of specific, controlled settings.
 
 ## **Bibliography**
 

@@ -223,27 +223,27 @@ Both private schools and public schools can perform well. The focus should be mo
 
 ### **Pay-As-You-Go Models**
 
-You may have used these models before in your life. For example, if you use more power for utilities than usual in a dwelling or home, you may be charged for that excess. Alternatively, if you use more compute or resources to operate a server or database, the costs associated with that server also increase.
+You may have used these models before in your life. For example, if you use more power for utilities than usual in a dwelling or home, you may be charged for that excess. Alternatively, if you use more compute or resources to operate a server or database, the costs associated with that server or database also increase.
 
-Spending is dynamic in these models, which means education systems utilizing services with these models face a major challenge: managing efficiency through budgets and priorities.
+Spending is dynamic here, which means education systems utilizing services with these models face a major challenge: managing efficiency through budgets and priorities. The problem to solve isn't how much money you can save, but how much money you should spend.
 
-You may also suffer from cost attacks, where an actor, intentionally or not, can ramp up costs through inefficient or even malicious methods. One example is a distributed denial-of-service (DDoS) attack, which slurps up available resources, increases the costs to the service provider, and may even temporarily shut down the service.
+You may also suffer from financial attacks, such as any person, intentionally or not, ramping up costs due to inefficient or even malicious methods. One example is a distributed denial-of-service (DDoS) attack, which slurps up available resources, increases the costs to the service provider, and may even temporarily shut down the service.
 
-Fortunately, the benefits of these models are scalability on demand. If you need more resources, you can scale up quickly. If it's a period of low activity or minimal resource consumption, you cut down the scale to save money.
+Fortunately, the greatest benefit of these models is scalability on demand. If you need more resources, you can scale up quickly. If it's a period of low activity or minimal resource consumption, you cut down the scale to save money. Though you can scale easily here, you may need to pay money to perform the act of scaling and require vigilant monitoring and logging of these services to ensure you use only as much as you need at any given time.
 
 ### **Where's the Money?**
 
-Let's say money for schools typically comes from three public funding sources:
+Money for education systems, at least in our example of the United States, typically comes from three "public funding" sources:
 - Local government
 - State government
 - Federal government
 
-Public schools receive public funding. Across the states in general, about 40-50% of funds come from the local government, 40-50% come from the state government, and the remainder (10-20%) is from the federal government, based on my extrapolation from research (Cornman et al., 2024).
-- For the U.S., The Institute of Education Sciences (i.e. NCES) also provides [a way to look up public school funding online](https://nces.ed.gov/edfin/search/search_intro.asp) at the district level (2019).
+Public schools receive public funding, as their name suggests. Across individual states in general, it's safe to assume about 40-50% of funds come from the local government, 40-50% come from the state government, and the remainder (10-20%) is from the federal government. (Cornman et al., 2024).
+- For the U.S., The Institute of Education Sciences (NCES) also provides [a way to look up public school funding online](https://nces.ed.gov/edfin/search/search_intro.asp) at the district level (2019).
 
-Private schools can also access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3)) too, though some private schools may be for-profit.
+Private schools can also access public funds, but it's limited through options like waivers, vouchers, scholarships, and tax benefits. Many also operate as nonprofits (i.e. a 501(c)(3) in the United States per IRS designation) too, though some private schools may be for-profit.
 
-Charter schools also receive funding like public schools. In the case of Colorado, they receive "Per Pupil Revenues" (PPR) or money given by the state for expenses and insurance (Colorado Department of Education, 2025).
+Charter schools also receive funding like public schools. In the case of Colorado specifically, they may receive "Per Pupil Revenues" (PPR) or money given by the state for expenses and insurance (Colorado Department of Education, 2025).
 
 Each of these funding sources is significant and use various formulae and metrics to determine which school districts receive the necessary funding. If even one of these sources are affected, that could hamstring the entire educational system unless other resources compensate for the funding loss.
 
@@ -301,34 +301,34 @@ As long as you don't carelessly spend money and realize the budget needs to last
 
 **If you're not sure how much you should spend as an educator, forget about whatever learning budget you have and let's pretend, as an example, you have only 100 USD (United States dollars) coming out of your own assets.** It's probable you can get at least some essentials and basic supplies you need for a classroom with that much money, as of the year 2026. 
 
-Could you expect other people within an education system, like administrators, donors, and parents to chip in money to help you? Sure, but let's assume there isn't and you're chipping away at whatever's left in your budget.
+Could you expect other people within an education system, like administrators, donors, and parents to chip in money to help you? Sure, but let's assume there isn't and you're chipping away at whatever's left in your budget. 
 
-**Remember: this is a 100 USD *spending* limit. You can get items for free, or paid for by another source, if that's an option!**
+Rarely is there ever *not* a capital cost, or initial investment, you need to make to get set up beforehand either. To account for this, you could create two separate lists: one for items to purchase at the start of the year and another list for items to replenish as needed, get later on, or buy extra copies of over time.
+- I'd set aside up to 50% of my budget *initially* for "emergency" funds and to cover costs through the rest of the school year, period, etc.
+
+**As a reminder, this is a 100 USD *spending* limit allocated by the education system for you. You can get items for free, or paid for by another source, if that's an option, but don't spend out of YOUR own pocket here!**
 
 - The only exception to this 100 USD limit right now is for any ONE necessity that is >=100 USD.
 - Keep in mind any items you buy can also be just for you, the teacher, and not for student use.
-- If the school/facility provides something you need in general, you could get away with not buying your version and save money.
+- If the school/facility/etc. already provides something you need to buy, you could get away with not buying your own version and save money.
   - E.g., don't get a laminator machine or a printer if your facility already has a working one. 
 - You also don't need to spend all 100 USD. If you get everything you need with less money spent, that's fine and saves you more money for the future.
 
 If you can use credit cards responsibly, I'd say do so over a debit card. Protections and benefits are generally worth it ([Further reading example from Michigan's Consumer Protection Team](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)).
 
-*Once the 100 USD is spent, stop and ask yourself: do I still lack any essentials?* If there's still funds available, then use those funds to get the essentials.
+*Once the 100 USD is spent, stop and ask yourself: do I still lack any essentials right now?* If there's still funds available, then use those funds to get the essentials now.
 
-Set aside some money to replenish essential goods throughout the year. Then, you can use the rest of your budget for other items and goods you may need, as well as lower-priority items. 
-- I'd set aside up to 50% of my budget, if you asked me, as "emergency" funds.
+If it's near the end of the year and you need to reach net zero, where you spend up your entire budget on purpose, then you can tap more into savings any remaining budget to purchase teaching and classroom supplies for both this teaching period and *future* teaching periods. Spending for future needs is a way to reduce spending later on, though the tradeoff is you risk not having enough funds in the present and also not utilizing purchases for future needs if things change later.
 
-If it's near the end of the year and you need to reach net zero–where you spend up your entire budget on purpose–then you can tap more into your savings to purchase teaching and classroom supplies for both this teaching period and future teaching periods.
+**Your learning budget is supposed to last the entire teaching period, whether that is a year, semester, or otherwise.** If you spend it all at once, then you're in for a bad time. If the budget is too low, then you may need to compromise in certain areas (or request an increased budget). Remember to keep receipts and ensure items in your budget are reimbursed, so you don't pay too much out-of-pocket. You could get your school, sponsors, and grants to get you funds if you can show it's necessary for teaching and the funds are available.
 
-**Your learning budget is supposed to last the entire teaching period, whether that is a year, semester, or otherwise.** If you spend it all at once, then you're in for a bad time. Remember to keep receipts and ensure items in your budget are reimbursed, so you don't pay too much out-of-pocket. You could get your school, sponsors, and grants to get you funds if you can show it's necessary for teaching and the funds are available.
-
-**Remember: Never pay out-of-pocket unless necessary, and don't go above your allotted learning budget whenever possible.** You don't have to spend much money for a good teaching experience; only as much as you need.
+**Remember: Never pay out-of-pocket unless absolutely necessary and don't go above your allotted learning budget whenever possible.** You don't have to spend much money for a good teaching experience; only as much as you need.
 
 ### **What About NO Money At All?**
 
 Money (and wealth) is a necessary, but not sufficient, condition for creating a proper education. For example, a life-changing invention could be made by three random blokes in a shed with logistic issues galore, a megalomaniac billionaire who pushed forth a crazy idea with the resources to brute force it to life, or someone whose lifelong profession is overshadowed by the fame of an invention *not* part of their profession.
 
-You'll need to get savvy and creative in sourcing materials. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these.
+You'll need to get savvy and creative in sourcing materials. You may even need to *talk* to people to see if they have resources they can donate or provide free of charge. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these.
 
 Some methods include, but are not limited to:
 - Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data.
@@ -338,12 +338,13 @@ Some methods include, but are not limited to:
 
 Whether you're an educator looking for ways to reduce financial burdens in teaching or someone inside education systems looking for low-cost solutions, there are many options. All it takes is the ability to find them.
 
-The other thing you can do is set up a rules system (that you can actually enforce) about how products should be procured and what happens if someone breaks it or loses it. For example, what happens if you give a student something essential, like a pencil for writing, then they lose it in the same day and come demanding a replacement the next day.
-- Especially with more exaggerated cases where they're missing a 10 cent pencil despite wearing 1000+ dollars worth of designer brand clothes.
+The other thing you can do is set up a rules system (that you can actually enforce) about how products should be procured and what happens if someone breaks it or loses it. While it's certainly doable to strictly limit which, and how much, of a given item someone may purchase, it's generally more acceptable to let them get items as they see fit within their budget until proven otherwise.
 
-What do you in this case? Do you punish them? Do you try to teach them a lesson about careful handling of supplies and preparation for the future? Can you even do anything in the first place if other people in the education system won't support you punishing them, like administrators and parents?
+As one example, what happens if you give a student something essential, like a pencil for hand written work, then they lose it in the same day and come demanding a replacement the next day. What do you in this case? Do you punish them? Do you try to teach them a lesson about careful handling of supplies and preparation for the future? Can you even do anything in the first place if other people in the education system won't support you punishing them, like administrators and parents? There are situations you may receive the appropriate support for and other situations where you're left stranded. All of that can stress out and tear away at even the most resilient people.
 
-There's a lot of factors that can stress and tear away at even the most resilient people, especially when you're about out of resources to spare.
+Variables and perceptions can affect decision-making too here, such as a student missing a 10 cent pencil despite wearing 1000+ dollars worth of designer brand clothes. When you're limited on resources, it goes back to what was mentioned in a previous chapter: everyone is going to be hungry on a diet.
+
+Lastly, if another person, entity, organization, etc. asks about why you don't have or do I, J, and/or K, you can make it clear to them it's because there's no additional funding available for those things. That may make what was previously *not* a problem in people's eyes now a problem visible and unmasked right in front of them. As a result, those people could do nothing about it still, but they may also take it upon themselves to remedy the issue(s), act upon it, or even provide resources free of charge. It also risks those same people heavily scrutinizing how you're currently spending, and have spent, your money too.
 
 ## **Bibliography**
 
