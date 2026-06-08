@@ -18,7 +18,7 @@ nav_order: 31
 
 There's a lot of things to consider when designing educational systems.
 
-Two of these things are engineering and architecture. You may deal with physical buildings with physical humans, but also see concepts from these fields useful to improving processes inside these systems.
+Many things have solutions you can find in the fields engineering and architecture. You may deal with physical buildings with physical humans, but also see concepts from these fields useful to improving processes inside these systems.
 
 As a more "personal" note, or you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. That means you cannot shirk off any of the creativity, critical thinking, problem solving, and ingenuity required to succeed.
 
@@ -27,8 +27,10 @@ As a more "personal" note, or you happen to be a student reading this right now.
 Remember: It's not stupid if it works. Even if it is stupid.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts, because I have education and experience with these kinds of things. For readers, think of this chapter as some topics from these fields you can use to better design education systems.
-- No I'm not saying anything here as professional engineering or architecture advice. That requires someone with a "stamp" and a legally protected title, like Professional Engineer or Professional Architect.
-- Expect me to highlight certain Industrial Engineering concepts in particular.
+- Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile and applies across virtually every industry.
+
+I'm not saying anything here in this chapter, and book, as engineering or architectural advice, even if I do have an engineering degree as veracity to what I talk about. That requires someone with a legally protected title, like "Engineer" or "Architect," and perhaps a "stamp" too depending on jurisdiction.
+- I say this even when considering any "industrial exemption" laws that shall permit it anyways.
 
 The main difficulty in engineering and architecture isn't the content, but more the dedication and perseverance to get through it all and devote the time and effort to figure out how *and why* things work. Engineering and architecture are also not strictly limited to engineering and architecture.
 

@@ -194,9 +194,7 @@ Some downsides to this method are its usefulness decreases as operations scale u
 
 Scale is information and resource flow under changing constraints.
 
-When you're starting out, you're managing a small amount of resources. As you scale up, you're managing more and more resources at once.
-
-What was once hundreds becomes thousands. What was thousands becomes millions. At larger scales, small scale activities lose significance or worth.
+When you're starting out, you're managing a small amount of resources. As you scale up, you're managing more and more resources at once. What was once hundreds becomes thousands. What was thousands becomes millions. At larger scales, small scale activities may lose some significance or worth.
 
 This may be seen with management and also data pipelines for engineers. You're dealing with where transformations happen, tracking where loss, if any, occurs, and building logs and observation points across the pipeline to preserve what information travels across layers.
 
