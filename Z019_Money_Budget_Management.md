@@ -33,24 +33,24 @@ If selling products or services, it's typically better to offer incentives towar
 
 One of the biggest risks to your own wealth is you, the reader. I often joke about hiring an attorney if I won the lottery or got a large inheritance because of this, but it's risk management and you making a stupid decision, on accident or on purpose, is *a very real and dangerous risk.*
 
-If you're trying to teach a student about wealth, go over the following:
+If you're trying to teach a student about wealth, consider going over the following:
 - How to be humble and gracious.
-- How *not* to be an asshole.
-- Instilling self-awareness about their own wealth and privilege/opportunities they're given due to it.
+- How *not* to be an asshole (except maybe just say "bad actor" to avoid cussing, yea?)
+- Instilling self-awareness about their own wealth and any privilege/opportunities they're given due to it.
     - If they grew up wealthy, they need to face that fact and admit it.
     - They also cannot admit it with shame or defensiveness; they have to acknowledge it and the responsibility with it.
 
 ## **Long Answer**
 
-*Notice: There is no financial advice offered to the reader. Assume everything is informational.*
+*Notice: There is no financial advice offered to the reader in this chapter. Assume everything here is informational.*
 
 Many questions have a simple answer or at least one common symptom behind an answer.
 
 That's wealth/money. 
 
-**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing money itself.**
+**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.**
 
-For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for redundant equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you enforce consequences instead.
+For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy intangible assets like silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you go through with them and/or enforce consequences instead.
 
 Are the above examples meant to be jokes? I can neither confirm nor deny. 
 
@@ -328,10 +328,13 @@ If it's near the end of the year and you need to reach net zero, where you spend
 
 Money (and wealth) is a necessary, but not sufficient, condition for creating a proper education. For example, a life-changing invention could be made by three random blokes in a shed with logistic issues galore, a megalomaniac billionaire who pushed forth a crazy idea with the resources to brute force it to life, or someone whose lifelong profession is overshadowed by the fame of an invention *not* part of their profession.
 
-You'll need to get savvy and creative in sourcing materials. You may even need to *talk* to people to see if they have resources they can donate or provide free of charge. Fortunately, there are countless ways, tools, and implementations available for free (or free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these.
+To start, I'll ask one question: have you ever been to a public/local library? It's a genuine question. Libraries, much like some museums, public land for recreation, parks, and many organizations offer plenty of free, or at least extremely low-cost, goods and services that are surprisingly overlooked and frequently underestimated.
+
+You'll need to get savvy and creative in sourcing materials, as well as dedicate some time for "shopping" around. You may even need to *talk* to people to see if they have resources they can donate or provide free of charge. Fortunately, there are countless ways, tools, and implementations available for free (or at least free for a sufficient amount of time). Keep in mind you may need to provide an ID or verification to access some of these or may be limited on how much of a free good or service you can receive.
 
 Some methods include, but are not limited to:
-- Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data.
+- Your local library! At least in the United States at the time of this writing. Seriously, they do *a lot*.
+- Free Internet and Wifi. This may be available at public facilities, like a public library. Be aware, however, free Internet isn't necessarily *secure* Internet, so don't carelessly handle sensitive data when utilizing it.
 - Free resources offered through physical and online services. Like mentioned earlier, think areas like [Adopt a Classroom](https://www.adoptaclassroom.org/).
 - For those with at least *some* money, some stores and merchants may offer discounts on items and purchases for applicable educational needs.
 - For designing education, there are multiple tools online free by default or free for educators. This includes free software like [Google Docs](https://docs.google.com/) and [Canva](https://www.canva.com/education/back-to-school/).

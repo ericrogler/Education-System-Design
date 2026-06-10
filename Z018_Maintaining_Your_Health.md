@@ -17,9 +17,9 @@ nav_order: 27
 
 ***Disclaimer: All items in this chapter are not medical advice nor should be interpreted as such.*** Whether or not you take any of it into consideration is entirely up to you. This isn't like health insurance being a doctor for patients and determining what kind of care is suitable vs not suitable for their health.
 
-If possible, have a nice day. Enjoy your life when you can. Even if you don't know what you're doing, try to act like you do, walk like you know where you're going, and get things done at a primary location instead of going to a secondary location.
+If possible, have a nice day. Enjoy your life when you can. Many things in life you shouldn't take personally either, as knowing when to *not* care makes dealing with those things a lot easier. Even if you don't know what you're doing, try to act like you do, walk like you know where you're going, and get things done at a primary location instead of going to a secondary location. It may just save your life.
 
-Avoid a culture emphasizing 24/7 work over an appropriate work life balance. If the system you work with cannot survive without you, the system has a problem to address.
+Avoid a culture emphasizing 24/7 work over an appropriate work life balance. If the system you work with cannot survive without you, the individual, the system has a problem to address due to its single point of failure.
 
 You are allowed to quit/walk away and not have an opinion on everything. You can deviate from the "plan."
 - What consequences follow is still your responsibility, but you can and may stop.
@@ -143,28 +143,29 @@ Be mindful that your decompression method(s) doesn't negatively harm or abuse ot
 
 ### **What about Prescriptions/Drugs/Medications?**
 
-***Notice: the information provided is hypothetical and subject to change.***
+***Notice: the information provided is hypothetical, presented only as an example, and subject to change.***
 
 If you're a professional in an education system, you may not deal with medications, prescriptions, and other drugs for students, yourself, and other people in general. All of that's usually under the purview of health professionals.
 
 Nevertheless, that doesn't mean neglecting knowledge of common medications, diseases and their symptoms, and so on. Having that knowledge could mean the difference between life and death and whether or not you can get someone (or yourself) the help you need.
 
 If you're primarily dealing with medications, despite not being a health professional yourself, then you'll need to reference a heavily vetted source by verified health professionals and perhaps figure out the following *for each prescription, drug, etc.*:
-- Generic Name (or "slang" name, like "Tylenol" vs acetaminophen)
-- Treatment Purpose
-- Common Dosage Amount & Dosage Limit
-- Storage / How to Store
-- Administration Method(s)
-- Side Effects
-- Onset Time (how long it takes before someone "feels" the effects)
-- Peak Time (i.e. "peak effect")
+- Generic name (or "slang" name, like "Tylenol" vs acetaminophen)
+- Treatment purpose
+- Common dosage amount & dosage limit
+- Storage & how to store
+- Administration method(s)
+- Side effects
+- Onset time (how long it takes before someone "feels" the effects)
+- Peak time (i.e. "peak effect")
 - Duration (how long the medication stays active in a body)
 - Antidote, if any (in case of exposure or overdose)
-- Risk & Danger of Overdose
+- Risk & danger of overdose
+- Who may/may not administer this drug, medication, etc. to another person
 
 Take for example acetaminophen (e.g. Tylenol), as mentioned above. 
 
-It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet every 4-6 hours, taken orally, with a limit to not exceed 4000mg (4g) per day. For storage, keep bottle/container tightly sealed and store inside a cool, dry place (about room temperate @ 20C to 25C). Side effects include hepatotoxicity, which is liver damage, from an overdose or chronic use as well as  diarrhea, nausea, and loss of appetite. After taking acetaminophen, it typically has an onset period of around 30-45 minutes, a peak time at 1-2 hours, and an overall duration of 4-6 hours. You should note the date and time each dose is taken as well, in case of emergencies. Its antidote is acetylcysteine, but the risk and danger of overdosing is surprisingly high as said antidote is usually unavailable outside of specific, controlled settings.
+It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet every 4-6 hours, taken orally, with a limit to not exceed 4000mg (4g) per day. For storage, keep bottle/container tightly sealed and store inside a cool, dry place (about room temperate @ 20C to 25C). Side effects include hepatotoxicity, which is liver damage, from an overdose or chronic use as well as  diarrhea, nausea, and loss of appetite. After taking acetaminophen, it typically has an onset period of around 30-45 minutes, a peak time at 1-2 hours, and an overall duration of 4-6 hours. You should note the date and time each dose is taken as well, in case of emergencies. Its antidote is acetylcysteine, but the risk and danger of overdosing is surprisingly high as said antidote is usually unavailable outside of specific, controlled settings. Professionals in education systems may be allowed to administer acetaminophen to students if explicitly granted permission by a medical professional *and* passed the appropriate trainings and checks, but also required to document when, where, and how said medicine was administered.
 
 ## **Bibliography**
 

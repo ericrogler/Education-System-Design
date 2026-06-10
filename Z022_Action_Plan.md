@@ -188,7 +188,7 @@ These are items I would expect many people, including students, to utilize with 
 
 Other medical items, like tourniquets and chest seals, don't administer drugs but require training to avoid life-threatening misuse. Though more workplaces in 2025 have better medical training for staff, high stress situations can still impair judgment and increase accidental risk.
 - You can safely include more items, provided you're trained and understand how to use them, but that also means more items other untrained people could take and misuse too.
-- As an example of training, the [U.S. Department of Defense has a nationwide "STOP THE BLEED" program](https://www.dodstopthebleed.org/) for bleeding control.
+- As an example of medical training available to the general public, the [U.S. Department of Defense has a nationwide "STOP THE BLEED" program](https://www.dodstopthebleed.org/) for bleeding control.
 
 There's also two other rules of thumb for FAKs I prefer to follow:
 1. Review FAKs each year and discard any expired items; many medical items have shelf lives of only 1 to 5+ years (American Red Cross, 2024).

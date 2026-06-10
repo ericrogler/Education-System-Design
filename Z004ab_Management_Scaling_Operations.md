@@ -259,35 +259,38 @@ It's why 5-10 seconds was set as the limit for each communication, order, etc. s
 
 ### **Clarifying Radio Networks**
 
-Radios are a part of all infantry kits and generally split into SR (short-range) and LR (long-range) communications. Every MOS might use SR radios, but not LR radios, and using a radio properly is one skill present at all organizational levels.
+Radios are a part of all infantry kits and generally split into SR (short-range) and LR (long-range) communications. Every MOS might use SR radios, but not LR radios, and using a radio properly is one skill present at all organizational levels. Communications on both SR and LR radios generally permit people at the same organizational layer as the person with the highest authority on the net, plus leadership/managers from one layer below, to speak on it. Rarely do you ever communicate more than one layer up or down at a time.
 
-SR radios are for squad and team communications, in addition to limited cross-functional communications. Range and capability is limited, but it's lightweight and compact. 
+SR radios are for squad and team communications, in addition to limited cross-functional communications across command teams, specialized elements, and detachments. Range and capability is limited, but it's lightweight, compact, and easy to setup compared to other communication types. For example, a squad leader may have a squad SR radio net and use it to speak to their team leaders who are 2IC, 3IC, etc. and hold similar authorities when it comes to commanding.
 
-LR radios are for platoon and higher communications when reaching out to other elements. Range and capabilities are higher, but LR radios are heavier and less compact--sometimes replacing a backpack.
+LR radios are for platoon and higher communications when reaching out to other elements. Range and capabilities are higher, but LR radios are heavier and less compact--sometimes replacing a backpack. For example, the squad leader from before may also be on a platoon LR radio net speaking to other squad leaders, the platoon leader, the platoon 2IC, and detachment leaders.
 
-Transmissions on all networks are kept under 4-6 seconds. Each net is limited, by doctrine and technical limitations, for how many personnel can transmit at a time. A SR radio can access a LR radio network in emergencies, like stepping up into leadership roles mid-operation. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
+Transmissions on all networks are kept under a somewhat strict time limit, like <8 seconds per communication per person. Each net is limited, by doctrine and technical limitations, for how many personnel can transmit at a time to intentionally reduce each person's load to process while doing everything else their role requires. A SR radio could connect to a LR radio network in emergencies, like stepping up into leadership roles mid-operation if someone goes unavailable suddenly. Both LR and SR radios can also set additional nets, enabling you to listen into 2 nets at the same time and reduce time spent manually switching through channels.
+- For those with both a LR and SR radio, it's possible, and sometimes required, to listen to up to 4 radio nets at the same time: 2 transmitting from SR and 2 transmitting from LR.
 
-If I mention "nets" moving forward, that refers to a communication channel accessible to (SR) radio or long-range (LR) radio. Nets are divided into whole and decimals, where the decimal numbers are subdivided tactical nets or "TAC" (e.g. 244 TAC 1 = 244.1). 
+If I mention "nets" moving forward, that refers to a communication channel accessible to short-range (SR) radio or long-range (LR) radio. Nets are divided into whole and decimals, where the decimal numbers are subdivided tactical nets or "TAC" (e.g. 244 TAC 1 = 244.1). TACs permit a wider range of available frequencies to handle communications and reduces unnecessary clogging and overlap of networks here.
 
-As an example of squad net and corresponding team net structure:
+As an example of a squad net and its corresponding team net structure utilizing TACs:
 - 244: Squad Net
     - 244.1: Alpha Team
     - 244.2: Bravo Team
     - 244.3: Charlie Team
 
-As milsim groups occasionally allow international people to join, communication should accommodate ESL (English as a Second Language) speakers by default. The ICAO phonetic alphabet was implemented and is accessible for, at a minimum, English, French, and Spanish speakers (Geneva, 1959). For speakers of languages beyond those three, they still followed ICAO while in the milsim organization.
+As milsim groups occasionally allow international people to join, communication should accommodate ESL (English as a Second Language) speakers by default. The ICAO phonetic alphabet was implemented and is accessible for, at a minimum, English, French, and Spanish speakers (Geneva, 1959). For speakers of languages beyond those three, they still followed ICAO, or something similar, while in the milsim organization.
 
 ### **Milsim Breakpoint 1: Squad**
 
-Here is one example of a role organization in squads:
+Let's assume you are a squad leader in this case, and you are communicating with a "command" element above you.
+
+Here is one example of role organization at squad level:
 - Command/HQ
 - Squad Leader
-    - Team Leader (2-3 Teams)
+    - Team Leader (2-3, 1 for each team)
         - Infantry
         - Medic
     - RTO
 
-As for the number of radio networks each role may be responsible for:
+As for the number of radio networks each role may be responsible for, where every "net" may have around 4-7 people on it:
 - Command/HQ: 1-2+ nets
 - Squad Leader: 2-3 nets
 - Team Leader: 2-3 nets
@@ -311,10 +314,10 @@ Each squad may have its own culture developed by the squad leader and the member
 
 **How to apply to instruction**
 
-This is the scale of one teacher to many students. That teacher may assign group leaders (team leaders), note "good" students (medics) to help in class. Teachers design lesson plans (tactics) for students to navigate the curriculum (strategy) defined by higher authorities (company+ or platoon+) and managed by principals (e.g. a platoon leader).
+This is the scale of one teacher to many students. That teacher may assign group leaders from their students (team leaders), note "good" students (medics) to help in class, and perhaps have a student to send out of the room in certain situations (RTO). Teachers design lesson plans (tactics) for students to navigate the curriculum (strategy) defined by higher authorities (company+ or platoon+) and managed by principals (e.g. a platoon leader).
 
 Translating a squad into a classroom generally involves these things:
-- Distributed leadership, like group leads, tends to work well and has students try to figure things out amongst themselves first *before* asking the teacher.
+- Distributed leadership, like group leaders, tends to work well and has students try to figure things out amongst themselves first *before* asking the teacher to step in. This has *some* parallel with student-centric learning, as the teacher is still the standing authority and guide on what they should focus on.
 - Communication management to take multiple voices at once and allocate responses through defined groups or a single channel like email.
 - Scalability, where a group of 16 is manageable, but any larger and you'll need to form subgroups to maintain structure.
 - Reflections, similar to after-action reviews, allow students to identify what worked, what didn't, and how to improve.
@@ -326,15 +329,15 @@ For this section, let's assume you, the reader, are the platoon leader.
 Your organization then might look like this:
 - Command/HQ
 - Platoon Leader
-    - Detachment Leaders (1-2 detachments)
-    - Squad Leaders (2-4 squads)
+    - Detachment Leaders (1-2+, one for each detachment)
+    - Squad Leaders (2-4+, one for each squad)
     - Platoon Staff
         - 2IC (second-in-command)
         - Platoon RTO
         - Platoon Medic
         - Designated Specialists
 
-And these are number of radio networks each role may be responsible for:
+These are the number of radio networks each role may be responsible for as well, where every "net" may have around 4-7 people on it:
 - Command/HQ: 1-3 nets
 - Platoon Leader: 3-4 nets
 - Detachment Leaders: 2-4 nets
@@ -404,22 +407,25 @@ At this scale, your organizational structure may look like the following:
     - External Organization Representatives
     - Other Individual Contributors
 
+Radio networks follow the same principle as before, where each radio network may have 4-7 people actively speaking on it (but perhaps even more simply "listening" in or as standbys in case of emergencies)
+
 **How it works in milsims**
 
 The communication structure is like platoons, but Company is a layer between platoon leader and Command/HQ. Company leaders, and company staff, may operate on 2-4 nets at any given time. At this breakpoint and beyond, additional layers are added between the previous highest leadership and a Command/HQ element. 
 
-The Command/HQ element may not always be the highest-ranking element, but they are the element responsible for bringing in information relevant to complete objectives and typically respond to only the two highest management layers present in a given operation.
+The Command/HQ element may not always be the highest-ranking element during operations, but they are the element responsible for bringing in information relevant to complete objectives. They typically respond to only the two highest management layers present in a given operation, which is their own layer and one layer below them, on radio networks.
 
 When transitioning from a platoon to a company, you'll undergo a similar process to how new squads form within a platoon. You may also establish dedicated company staff to assist you, like in platoons. 
 
 Companies will eventually need more dedicated detachments within the organization to assist the platoons under their command. These detachments may follow the same leadership structure or have variations.
-- Example 1: Air detachments may follow Air Force organizational guidelines/ranks and form sections/flights instead of teams/squads.
+- Example 1: Air detachments may follow Air Force organizational guidelines/ranks and form sections/flights instead of teams/squads, but they may maintain similar standings amongst existing organizational layers.
 - Example 2: Special mission units may allocate resources and equipment meant for squads (and even platoons) to each team in the detachment to accomplish higher difficulty tasks and objectives compared to general infantry.
+    - The "This group has 20 dollars to outfit 5 guys while this other group has 20 dollars to outfit 20 guys" scenario, where the former is a special mission unit or detachment.
 - Example 3: Warrant officers do specialized tasks outside of operations, like maintain and update the functionality of the milsim's systems and equipment. This usually means backend personnel, such as developers, technicians, analysts, and more.
 
-Detachments may give rise to "elitism" (i.e. a superiority complex) where people in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the organization's culture and well-being, which leads to stagnation and decline.
+Detachments may give rise to "elitism" (i.e. a superiority complex) where people in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to stagnation and decline.
 
-Forming another platoon typically involves adding new squads in existing platoon(s) first (up to 5 squads). Once platoon at capacity, you split out squads and take in willing reservists to fill billets in the new platoon. This may involve multiple tiers of personnel to check on and meet with: infantry, team leaders, squad leaders, platoon leaders, and more.
+Forming another platoon typically involves adding new squads in existing platoon(s) first (up to 5 squads). Once platoon at capacity, you split out squads and take in willing reservists (i.e. recruits and applicants) to fill billets in the new platoon. This may involve multiple tiers of personnel to check on and meet with: standard infantry, team leaders, squad leaders, platoon leaders, and more.
 
 The company leader is ultimately responsible for signing off on platoons actions, creating platoons, and more managerial duties compared to leaders from earlier stages. Even the actions of a lowest ranking member may go upstream to affect you. You also need to consider, especially if you're the one shifting people around in existing platoons, that some of your actions may cause division and tension amongst members. This typically means a reinforcement of culture fit, ensuring the people transitioning into the new roles are adequately supported, and explicitly defining acceptable reasons why things are being done a certain way.
 

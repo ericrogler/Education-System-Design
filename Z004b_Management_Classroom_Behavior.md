@@ -360,8 +360,8 @@ Let's say there's people who go into a classrom who might be students, but not t
 
 In other cases, such as students going into another classroom during their study hall period monitored by a teacher *that isn't their educator*, that may open up some issues. An educator is usually responsible only for the students on their roster. If an unauthorized student arrives and something happens to said student, that's an investigation waiting to happen.
 
-How to control this? Treat it as if you're running a club or security firm with strict entry control. For example:
-1. Take attendance by name of student. If a name isn't on the list, the student doesn't get in.
+How to control this? Treat access here as if you're running a club or security firm with strict entry protocols. For example:
+1. Take attendance by name of student. If a name isn't on the list, the student doesn't get in (or stay in if already there outside extreme circumstances).
 2. Keep all doorways and methods acting as entries and exits closed, with only necessary entry/exit points unlocked.
 3. Do not let anyone else, other than authorized individuals (e.g. teachers, administrators, etc.) into the classroom.
 4. If an unauthorized student gets in, then issue a warning to the student. If said student does not leave despite the warning, then eject said student from the "restricted" area as soon as possible.
