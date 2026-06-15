@@ -68,13 +68,14 @@ You may learn a lot of things, both expected and unexpected, but I'd say most of
 
 - A high-level overview of various parts involved in creating, operating, and maintaining any education systems and curricula
 - Management techniques to handle subordinates, employees, students, and clients inside and outside of education systems
-- Basic data analysis (catered towards education-specific cases) and the type of math you may need to fully interpret research affecting education practices
+    - i.e. How to lead and manage people
+- Basic data analysis, science, *and* engineering and the level of mathematics you may need to fully interpret research affecting education practices
 - How to communicate with people and relationships between them (from a educator's perspective)
 - An adaptable framework to design learning for virtually any type of content
 - What other tasks may be involved in maintaining education systems
-- How you might keep yourself healthy and manage the chaos of an education system as a professional
+- How you might keep yourself healthy and manage chaos and stress as a professional
 - A high-level overview of finances and how they may affect educational processes and outcomes
-- The implementation of technology, automation, and artificial intelligence as it relates to learning, education, and designing education systems
+- The implementation of technology as it relates to learning, education, and designing education systems
 - How aspects and information from other fields relates to and may enhance education
 - Surviving the first year as an educator with an action plan to assist setup
 

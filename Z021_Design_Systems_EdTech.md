@@ -99,12 +99,12 @@ Done correctly, **a design system accomplishes several goals**:
 - Reduced redundancy
 - Increased accessibility
 
-You could utilize design systems in at least three ways: adopting, adapting, and creating (Fessenden, 2021).
+You could utilize design systems in at least three ways: adopting, adapting, and creating (Fessenden, 2021). These three ways could apply to many other things as well, such as adopting ideas from someone else to put into your own system or creating your own classroom procedures.
 
 **Adopting** takes a design system and adds it into your current system(s) without changes.
 - Example: You copy and follow a cake recipe as is, step-by-step, exactly as written.
 
-**Adapting** takes a design system and changes parts and pieces to fit it into existing system(s).
+**Adapting** takes a design system and changes parts and pieces to fit it into existing system(s). In a way, it's taking what you like and discarding (or at least adjusting) the rest.
 - Example: You follow the cake recipe, but have to substitute in gluten-free flour, vanilla for chocolate, or use a pan instead of a Dutch oven for part of the recipe.
 
 **Creating** borrows from no design system and makes a new system from scratch.

@@ -255,7 +255,7 @@ The amount of time a student can focus depends on many factors, such as age, dis
 
 Generally speaking, the younger students are, the less time they can maintain focus before needing a break. One rule of thumb example is a student's *maximum* attention span is 2 to 3 times their age (e.g., 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) (Cirillo, n.d.) is one example of a management method capitalizing on attention spans.
 
-Consider short-form content like TikTok videos and YouTube shorts. They implement highly optimized psychological techniques to get your time and attention, which are also found in similar apps and software (Qin et al., 2022). Basically, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but you're starting at a hefty disadvantage. In worse cases, allowing access to these applications in a school environment has a direct and significant effect on lowering grades and performance (Rozati, 2025). 
+Consider short-form content like TikTok videos and YouTube shorts. They implement highly optimized psychological techniques to get your time and attention, which are also found in similar apps and software (Qin et al., 2022). Basically, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but you're starting at a hefty disadvantage.
 
 If a student wants to learn something, they'll at least try to learn something... which may not be what you're teaching at the same time. It's not always the case of the student intentionally and/or maliciously doing something bad. Something else caught their attention more at the time or they got confused and are now acting out.
 
@@ -491,18 +491,14 @@ The third part concerns not what is said, but *how* it is said. Some emergencies
 
 2. “Futurama” Godfellas (TV Episode 2002) - Quotes - IMDb. (2025). IMDb. [https://www.imdb.com/title/tt0756880/quotes/](https://www.imdb.com/title/tt0756880/quotes/)
 
-3. Marshall, T. F. (1998). *Restorative Justice: An Overview - Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
+3. Marshall, T. F. (1999). *Restorative Justice: An Overview - Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
 
 3. Qin, Y., Omar, B., & Musetti, A. (2022). *The addiction behavior of short-form video app TikTok: The information quality and system quality perspective.* Frontiers in Psychology, 13. [https://doi.org/10.3389/fpsyg.2022.932805](https://doi.org/10.3389/fpsyg.2022.932805)
-
-4. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. [https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463)
 
 5. School Pulse Panel - Interactive Results. (2025). Nces.ed.gov. [https://nces.ed.gov/surveys/spp/results.asp](https://nces.ed.gov/surveys/spp/results.asp)
 
 6. Stern, B.S. (2004). *A Comparison of Online and Face-To-Face Instruction in an Undergraduate Foundations of American Education Course*. Contemporary Issues in Technology and Teacher Education, 4(2), 196-213. [https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course)
 
 7. Voss, C., & Raz, T. (2016). *Never split the difference: Negotiating as if your life depended on it*. Harper Business. [https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews)  
-
-8. Wagner III, J.A., & Hollenbeck, J.R. (2009). *Organizational Behavior: Securing Competitive Advantage* (1st ed.). Routledge. [https://doi.org/10.4324/9780203873533](https://doi.org/10.4324/9780203873533)
 
 ## **[Next Chapter](Z004a_Management_Scaling_Growth.html)**

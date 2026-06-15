@@ -27,14 +27,14 @@ nav_order: 29
 
 ---
 
-Views on technology introduced less than 5 years ago may have exaggerated views. For example:
+Views on technology introduced less than 5 years ago may have been exaggerated. For example:
 - Something drastic may change within 1-2 years, like growth, stalling, or decline.
 - Maybe the timeline for full implementation is not 5 years, but 10+ years.
 - Many assumptions about how it could affect roles and positions in society.
 
-For example, I may say AGI (Artificial General Intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though. That's one assumption that may change quickly or slowly over time.
+For example, I may say AGI (Artificial General Intelligence) is possible and AI may even replicate human intelligence and behaviors. It may take a while to get there *and* not be feasible with current technology though. That's one assumption that may change quickly or slowly over time. Another assumption is we may be 10 years away before technology is sufficiently advanced enough to erode any trust in anything you see or hear on the Internet (or at least not see/hear in person). A horrifying assumption, to be sure, but still a possibility that may come earlier than you may realize.
 
-**If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.**
+**If you think you need the newest technology implemented into a business, organization, or similar group, there's a high chance you actually need better processes (and/or people!) instead.** Just because a tool, or technology, is accessible is not sufficient reason to deploy it for use in your systems regardless of your available resources. This is further restricted by some technologies only working well for certain groups of people, such as young students vs old students.
 - One example of how to alter *only* a process for significant gains is from [Flynn et al. when they swapped dishes and monitored menu selections](https://www.nature.com/articles/s43016-025-01218-8) (2025).
 - As another example, [*The pedagogy of the impressed* by Convery](https://www.tandfonline.com/doi/full/10.1080/13540600802661303) and related works contain research showing what can happen with haphazard adoption of new technology (2009).
 
@@ -44,7 +44,7 @@ Opinion: The public proliferation of AI in just about every field and occupation
 - In case someone from those companies is reading this: no, this isn't an attack on you. 
 
 AI solutions are usually overkill and not appropriate for many situations, costs a lot to use and deploy, and it is extremely easy to cause unintentional and collateral damage with if handled incorrectly, *but it can neutralize problems.* There are valuable uses for AI, but there's just as many uses which aren't practical, actually detrimental, or make little sense.
-- Automation in history is usually adopted because it was far more effective *and* efficient compared to current methods to solve a problem. If the invention isn't *both* effective and efficient, it may not persist for long or cause detrimental damage to its users over time.
+- Automation throughout history is usually adopted because it was far more effective *and* efficient compared to current methods to solve a problem. If the invention isn't *both* effective and efficient, it may not persist for long or cause detrimental damage to its users over time.
 - The biggest "hidden cost" is ambiguity and accidental complexity.
 - Other examples of overkill: giving frying pans and coffee machines firmware updates and AI.
 
@@ -63,17 +63,15 @@ Now then, let's talk about technology.
 
 ### **A Technology Overview**
 
-Technology can do many amazing things.
+Maybe referencing *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section. I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration involved forcing their hands. Perhaps the point afterall was people should avoid constantly watching televion.
 
-HOWEVER. 
+Technology can do many amazing things... HOWEVER. While technology is generally a good thing, there can also be too much of a good thing. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
 
-While technology is generally a good thing, there can also be too much of a good thing. **Technology is dangerous. Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
-
-Many people use computers, phones, etc. all day, every day, and still not know how the technology works. Even at the smallest issue and roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
+Many people use computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
 
 Is this an exaggeration? *No.*
 
-A surprisingly large number of systems are also held together through duct tape and temporary fixes, which can ironically turn into "permanent" fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. There's many things the public may not be comfortable knowing about and technology is *full* of those things.
+Additionally, a surprisingly large number of systems are held together through duct tape and temporary fixes, which can ironically turn into "permanent" fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. There's many things the public may not be comfortable knowing about and technology is *full* of those things.
 
 One major goal of technology is to improve quality of life. For example, a device does a task in 8 minutes that used to take you 8 hours to do. Sometimes those productivity gains mean people now get to do *more* work in that same amount of time. In cases illustrating Jevons Paradox, for example, efficiency gains of resource use lead to increased consumption of that resource (Jevons, 1866). Efficiency gains often get absorbed back into higher output expectations, where you having more time available means adding on more work to fill in that now "empty" time.
 
@@ -169,7 +167,7 @@ While you may be someone who knows *how* to fix these issues yourself and troubl
 
 ### **From Medieval Security to Modern Security**
 
-To further illustrate the importance of security, I'll provide another example in this section.
+To further illustrate the importance of security in general, not just with cybersecurity, I'll provide another example in this section.
 
 Imagine you have 100 servers to store your sensitive data, like personal records, transaction information, bank account information, and more. Now pretend those servers are located inside of a fortress.
 
@@ -446,6 +444,8 @@ If you want to try a different twist: you could create an assignment requiring A
 ## **Bibliography**
 
 1. Bender, E., McMillan-Major, A., Shmitchell, S., & Gebru, T. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT ’21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
+
+1. Bradbury, R. (1953). *Fahrenheit 451.* Simon & Schuster Paperbacks.
 
 1. Brooks, Frederick P. (1986). ["No Silver Bullet—Essence and Accident in Software Engineering"](https://www.cs.unc.edu/techreports/86-020.pdf) (PDF). Proceedings of the IFIP Tenth World Computing Conference: 1069–1076.
 

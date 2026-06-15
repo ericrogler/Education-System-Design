@@ -46,7 +46,7 @@ A lot of advice assumes people are rational and not crazy. In practice, that's r
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-This chapter is where we acknowledge socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service.
+This chapter is where we acknowledge socioeconomics is indeed important, and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. Socioeconomics, however, are not an excuse to treat education systems like it's customer service any neglect any social contracts embedded within these systems.
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis, crippling debt, or income stream issues.
 
@@ -64,9 +64,9 @@ Successful people rarely, if ever, achieve success on their own. They are produc
 One aspect includes the people you interact with that "wield" power and authority in an education system. The same is true of education systems, as they require multiple people working together to be successful. If there's a tangible benefit to client relations, it'd be the chance to receive goods and services previously unavailable to you. For example, maybe someone in your friend group knows how solve your construction problems and can do it for a reduced price. If you didn't know about this, or ever have the friend in the first place, you'll likely pay another service full price instead to do the necessary work.
 
 When dealing with people, it's easier to get along with someone you like instead of someone you hate. You may interview, date, or hang around someone who has all the skills and capabilities you need, but reject them because you don't want to be around, or work with, this person (especially on a daily basis!). You might non-renew or eliminate someone from a position depending on if you like them too. The ability to collaborate and work together is important afterall!
-- The phrases "culture fit" or "marry your best friend" also relate back to this concept.
+- Phrases you may've heard before, such as "culture fit" or "marry your best friend" also relate back to this concept.
 
-It is not solely an education system's fault that a student failed. This is the part where I kindly encourage readers to not displace blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes.
+It is not solely an education system's fault that a student fails in education. This is the part where I kindly encourage readers to not disproportionately place blame on educators, teachers, professors, etc. for *everything* wrong with existing education systems and remind them there's many moving parts influencing student outcomes. There's plenty of other parties, including the students themselves, with responsibility here.
 - To put it another way: Public education reflects the public.
 
 Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation or violence, or another similar act, is when that working relationship immediately ends and it's time to bring in security and/or the attorney. Education systems must be allowed to enforce consequences. For employees in many schools and education systems, this may mean enforcing consequences on the student *and* parent/guardian, not just the student.
@@ -106,7 +106,17 @@ Should this happen in a teaching setting, everyone included, then keep the follo
 - Judge based on the values, actions, and conduct of a person; not their background.
 - Notions on respect and disrespect towards someone regardless of gender, etc. can be taught.
 
-### **A Non-Education Analogy**
+### **The First Impression**
+
+Imagine 2 different teachers in 2 separate classrooms. 
+
+The first teacher is present in their room, tracks the students as they come into the door, and already has the room prepared for students to get set up and wait for class to start. The second teacher comes into the room, perhaps after all the students arrived, looking like they just woke up out of bed, complaining about all the administrative work they had to do, and even avoiding any type of conversation at all.
+
+Chances are you may think the first teacher, who looks well-kept and has everything structured, is going to be far more effective than the second teacher who invites potential chaos, and therefore risk, by their appearance. Even if the first teacher is actually *bad* at teaching, the second teacher has a lot more work to showcase the value of their work and turn around an already bad start.
+
+Though I may bastardize Newton's Laws of Motion here, the concept of "an object in motion remains in motion" very much applies as well as how mass, acceleration, and opposing forces work (Hall, 2024). If you start off correctly, you don't need to exert as much force to get an object where it's needed *and* maintain it where you want it. If you start off poorly, the object you need to move is far heavier, which requires greater force to accelerate it up to where you need it to be and maintain that state.
+
+### **At the Frontlines**
 
 Teachers and instructors in an education system are quite likely to receive complaints directly from students, parents, and other "downstream" stakeholders.
 
@@ -122,7 +132,7 @@ Within both simple and complex systems, complaints flow downstream to the most v
 
 ### **External Stakeholders and Investors/Donators**
 
-You could include "higher ups" here if you wish. I won't mind. A stakeholder, investor, or donator here can be either individuals or organizations. 
+You could include "higher ups" here if you wish. I won't mind. A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education. 
 
 External stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. External stakeholders includes decision makers often far removed from typical classroom settings (i.e. the "frontlines"), but hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This may include politicians, members of the State, consumer organizations, and more. 
 
@@ -184,7 +194,7 @@ An apple tree will experience difficulties when it wants to produce high quality
 
 With that devotion to time and presence, parents have a significant influence on all students you're dealing with and almost certainly spend far more time with them than any one educator might. If parents don't care about education, then it's more than likely their own children (i.e. students) also won't care about education. This is probably still true today and will remain true in the future.
 
-Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase.
+Much like apple trees, you'll want the first interaction with them to be positive or at least neutral. Think of the "positive interaction" as like planting the tree in good soil and providing it enough water to settle its roots down during the transplant (i.e. "honeymoon") phase. For K-12 education in particular (i.e. pre-college/university), you can do this through a variety of ways, such as a classroom open house to explain procedures, and put a name to a face, one-on-one communications like emails, or the cold "positive" call to a parent detailing positive things about students to them. Your goal here is to give the impression you're nice (not *say* you are nice, that's different), until you need to *not* be nice.
 
 At the same time, education systems are *not* simply daycares or facilities where entitlement should thrive or parental responsibilities shirked onto educators and administrators. In case there are issues here, hopefully the education system has a clause such as requiring a contact "who shall be asked to come to the school and attend to the student’s needs without delay," to cite a regulation from Anne Arundel County Public Schools as an example (2026).
 
@@ -261,15 +271,15 @@ Much like parents, this category of students is the next closest thing you'll ge
 
 For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy granted in their decisions.
 
-Compared to younger students, adult students can vary widely in demographic features, such as age, gender, and more. There may also be a technology gap, such as one group of adult students not even knowing what tech savvy means and another group who eat and breathe technology for breakfast *in the same class*.
+Compared to younger students, adult students may vary even more widely in demographic features, such as age, gender, and more. There may also be a technology gap, such as one group of adult students not even knowing what tech savvy means and another group who eat and breathe the latest technology for breakfast *together in the same class*. Said technology gap may be a blocker to *how* you deliver education to those students.
 
-Their motivations are also generally less passing some sort of standardized test, unless they're specifically training to earn a license, certification, etc. and more towards challenging themselves. Many adult students *want* to be in the classroom and are pre-disposed towards learning new things, which may occur far more frequently compared to younger students. Their inclination towards learning may be in small part motivated by them directly paying, with some type of currency, for the opportunity to learn new material.
+Their motivations are generally more towards challenging themselves as well. This may include passing a standardized test or working towards earning a license, certification, etc. Many adult students *want* to be in the classroom and are pre-disposed towards learning new things, because they want to derive value from whatever they're learning. Their inclination towards learning may also be motivated financially by them directly paying, with some type of currency, for the opportunity to learn.
 
 ### **Non-adult Students**
 
-**Why do these students also fall under clients? It's because they're the ones receiving educational services: the material being taught to them!** 
+**Why do these students also fall under clients? It's because they also receive educational services!** 
 
-You might think only parents are "stakeholders" for their children/the students. That's not the case in reality; the education system has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals to then contribute to society later in their lives. 
+You might think only parents are "stakeholders" for their children/the students. That's not the case in reality; the education system has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals to then contribute to society later in their lives. Considering "society" encompasses the entire population, which includes the author (and almost certainly you, the reader), there should be a vested interest in their education and ensuring resources are available for it to do well.
 
 That's where the comparison to clients stops with them, because this section talks about students strictly considered children (i.e. minors) unless they're the legal, adult age.
 
@@ -295,7 +305,7 @@ For students in general, you want to go in with as few assumptions as possible. 
 - They may not be familiar with the same tools you are familiar with (like computers)
 - They may not follow your instructions well and/or correctly the first time
 
-Think of education like sales. If material is engaging and desireable, students buy into it and may enjoy it. If not, they won't buy into it despite any tangible benefits provided. Some students may view activities more pragmatically, like payoff vs time and effort put in, whereas other students may view education based heavily on its enjoyment to them.
+Think of education like sales. If material is engaging and desireable, students buy into it and may enjoy it. If not, they won't buy into it despite any tangible benefits provided. This isn't to say all of your education should be entertaining; there are definitely some boring parts you cannot easily make *not boring.* This is saying, though, that some students may view activities pragmatically, like payoff vs time and effort put in, whereas other students may view education based heavily on its enjoyment to them.
 
 One strategy I've used is explicitly asking the students what kind of activities they want to learn and do within the limits of the curriculum. This method ensures they have a way to "buy in" or invest their time into what I'm teaching. For already motivated students, this won't do as much. For students on the fence or less motivated, it's like providing a free side with their entree, which may boost their motivation and increase the chances of buying in.
 
@@ -314,7 +324,7 @@ Additionally, it's also easy to tell signs of when a student has too much screen
 
 ...This list above could go on for quite a bit. Overall, students with behaviors and issues like these may also have issues with learning, cause issues inside the classroom, and potentially have overlap with, or mask, other unseen or unsaid issues. Additionally, these issues are typically the result of their environment enabling or normalizing them, intentionally or not. That environment can include parents, teachers, student peers, and other people reinforcing patterns.
 
-While parents and relatives may think *their* student is special, classrooms typically have anywhere from a handful to dozens to hundreds/thousands of students at once with other students who may also be considered special. 
+While parents and relatives may think *their* student is special, classrooms typically have anywhere from a handful to dozens to hundreds/thousands of students at once with other students who may also be considered special. For example, an email communication between a student and an educator may have the parents carbon copied (i.e. CC'd) to triangulate and document a particular conversation or encounter.
 - If every student in the classroom is special, then none of the students are special (Bird, 2004). 
 
 Teachers are operating under time and resource constraints, which means they have to focus on equity and practicality to ensure fairness and material is delivered to as many students under their care as possible.
@@ -480,6 +490,8 @@ My favorite PD days were typically:
 
 2. Guy-Evans, O. (2025). *Bronfenbrenner’s Ecological Systems Theory.* Simply Psychology. [https://www.simplypsychology.org/Bronfenbrenner.html](https://www.simplypsychology.org/Bronfenbrenner.html)
     - Further Reading: Bronfenbrenner, U. (1974). *Developmental research, public policy, and the ecology of childhood.* Child development, 45 (1), 1-5. [https://www.jstor.org/stable/1127743](https://www.jstor.org/stable/1127743)
+
+1. Hall, N. (2024, June 27). *Newton’s Laws of Motion.* Glenn Research Center; NASA. [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)
 
 1. Indeed Editorial Team. (2025, December 15). *The Airport Test: What It Is and Why Employers Use It.* Indeed Career Guide. [https://www.indeed.com/career-advice/interviewing/airport-test](https://www.indeed.com/career-advice/interviewing/airport-test)
 

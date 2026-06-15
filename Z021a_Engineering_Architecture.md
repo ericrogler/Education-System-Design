@@ -24,7 +24,9 @@ As a more "personal" note, or you happen to be a student reading this right now.
 
 ## **Long Answer**
 
-Remember: It's not stupid if it works. Even if it is stupid.
+Remember: It's not stupid if it works. 
+
+Even if it is stupid.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts, because I have education and experience with these kinds of things. For readers, think of this chapter as some topics from these fields you can use to better design education systems.
 - Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile and applies across virtually every industry.
@@ -62,7 +64,7 @@ Try it at least once. That's all I ask.
 
 *Alternatively: Standardization is GOOD*
 
-The concept of tolerances applies in about every industry. Even education. Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
+The concept of tolerances applies in about every industry, but is not obvious at first. Even education. Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
 
 Tolerances, from an engineering perspective, are allowable variations for a given product's dimensions/properties. For example, you need a part that is 1 inch long, but you could accidentally make it a touch long (+1/16 inch) or a touch short (-1/16 inch) and it'd still work fine. Messing up the part too much, like making a 1 inch piece 2 inches instead, means that potentially successful product becomes wasted time, resources, and labor.
 
@@ -74,6 +76,9 @@ From a management perspective, think of tolerances as the allowable margin of er
 - For example, what you tolerate in an education system may be *far* more lenient than in the aerospace or military industry/system. The requirements demanded by the environment and risk involved are vastly different, so what is "tolerated" is different.
 
 Tolerances are further enhanced when you combine them with methodologies like Six Sigma. Instead of only "this product isn't done right," you can now track how much waste is generated across X number of products and track how effective and efficient a given process is. It also helps when scaling upwards; if there's very clear indicators you have too much waste and issues at making 100 parts, you're almost certainly going to encounter failures when making 10,000 parts and need to implement fixes.
+
+Though partially related to tolerances, you may also commonly encounter part selection problems where you need to balance design considerations with constraints like availability and budget. For example, your calculations show you need 373.25W power output for a computer battery, but the only standardized parts available are 350W and 400W. While you *could* make a battery have that exact output you needed earlier, it'd almost certainly be far more costly to do that, so you're usually better off re-doing your calculations constrained around what parts are currently available to you. Standardization of parts is what helps enables manufacturers, businesses, and more produce at scale and keep their options predictable and reliable.
+- If finding *what* parts you're limited by is the issue, there's specialized resources to help there, both digital and physical, such as the McMaster-Carr handbooks (2026).
 
 ### **Interoperability**
 
@@ -300,6 +305,8 @@ Six Sigma is one way these systems are utilized for process improvement in appli
 1. International Code Council (ICC). (2024). CHAPTER 3 BUILDING PLANNING - 2024 INTERNATIONAL RESIDENTIAL CODE (IRC). Iccsafe.org. [https://codes.iccsafe.org/content/IRC2024V2.0/chapter-3-building-planning](https://codes.iccsafe.org/content/IRC2024V2.0/chapter-3-building-planning)
 
 1. International Code Council (ICC). (2024). *I-Codes.* Codes.iccsafe.org. [https://codes.iccsafe.org/codes/i-codes](https://codes.iccsafe.org/codes/i-codes)
+
+1. *McMaster-Carr.* (2026). Mcmaster.com. [https://www.mcmaster.com/products/reference-guides/](https://www.mcmaster.com/products/reference-guides/)
 
 2. Morse, P. M., & Kimball, G. E. (1951). *Methods of Operations Research.* MIT Press. ISBN: 9780262130059
 

@@ -15,6 +15,10 @@ nav_order: 20
 
 ---
 
+**Heutagogy:** Learners directly control what's worth learning about, and why, as well as their goals and any strategies and outcomes to meet those goals.
+- E.g. Selecting what books, courses, etc. to take rather than someone else deciding for you.
+- I hear the term "self-determined learning" more than heutagogy from personal experience, but the latter is a form of the former.
+
 **Andragogy:** Learning and theories related to instruction catered towards adult, college/university, postgraduate, and professional audiences.
 - E.g. Professional development and continuing education.
 - This book is an example of andragogy.
@@ -29,8 +33,8 @@ It is in the nature of learning to get confused along the journey. *That's norma
 In general:
 
 1. If the educator is working harder than the students, there might be a problem.
-    - Do NOT "meet them where they're at."
-2. Every method can be questioned. Without questioning methods, we cannot improve methods.
+    - Do NOT "meet them where they're at," ESPECIALLY if they have "no skin in the game."
+2. Methods can be questioned. Without questioning methods, we cannot improve methods.
 3. Both motivation and intelligence are important to learning. Even if a student is smart, if they don't want to be motivated, then they cannot be motivated.
 4. You should hold back students from moving on if they're not ready to move on.
     - The social stigma alone may be enough motivation to perform well.
@@ -38,9 +42,9 @@ In general:
     - This *doesn't* mean avoiding throwing them into the fire for learning.
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
 6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction, then you're fighting an uphill, or even losing, battle constantly.
-7. **It's not a rigorous curriculum, degree, program, etc. if you stop anyone from failing it.**
+7. **Rigor requires maintaining standards and allowing the possibility of failure.**
 
-**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or medically diagnosed disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how much and how detailed) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* following standards.
+**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
 - It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.
 
 ## **Long Answer**
@@ -75,9 +79,20 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state *my* opinion, there's a lot of risk associated with homeschooling's "reward," if not too much risk involved. The biggest deterrant to homeschooling is if it goes badly, it can go very badly. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems. 
+To state *my* opinion, there's a lot of risk associated with homeschooling's "reward," if not too much risk involved. The biggest deterrant to homeschooling is if it goes badly, it can go very badly. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
 
-*Will* it perform better than private/public schools though? It depends, but there's evidence present showing it's possible well-structured homeschooling does better than institutional (i.e. public/private) schooling, but unstructured homeschooling does significantly worse (Martin-Chang et al., 2011). Well-structured homeschooling, in this case, heavily implies sufficient parent involvement is present. A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility.
+Even without going into homeschooling, parents and guardians can greatly influence their child's education for the better. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is to help them read, read aloud to them, and teach them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
+
+Literacy is important for understanding *every* subject they'll experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
+1. Every hour of reading means 30 minutes of "free" time or can stay up 30 minutes later at night.
+2. Take them to libraries and environments where the primary means of "fun" *is* reading.
+3. Be a role model. If parents/guardians do reading, then their children may also do reading.
+4. Reading means you get a pizza (or another special treat, I suppose).
+5. Do not punish them for reading.
+6. Let them read what they enjoy reading and not force any particular reading on them.
+    - Except for *blatantly* inappropriate material. Maybe say no to erotica, for example.
+
+Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? It depends, but there's evidence present showing it's possible well-structured homeschooling does better than institutional (i.e. public/private) schooling, but unstructured homeschooling does significantly worse (Martin-Chang et al., 2011). Well-structured homeschooling, in this case, heavily implies sufficient parent/guardian involvement is present to fully meet or exceed all benefits a formal education system provides instead. A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success.
 
 One major problem to address is when you take students away from a facility, organization, etc. that utilizes *the education system's* resources to educate them. There's multiple sources of funding and pre-vetted educational materials going into established schools and education systems; not just from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden leans more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your state of residence.
 - For the United States specifically, these laws may be found on the Internet by searching for "homeschool" + name of state + "Department of Education" or other, similar search results.
@@ -369,18 +384,18 @@ I'm not against the concept of scaffolding (and neither should other educators b
 
 However, **you cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).** This remains true even if the educators do everything correctly on their part, such as properly scaffolding students, making content students *want* to (and need to) learn, and adhering to guidelines like Vygotsky's Zone of Proximal Development (McLeod, 2024).
 
-"Meet them where they're at" sounds like good advice, and sounds like what you should do, but it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on the environment and how that environment upholds excellent standards.
+"Meet them where they're at" sounds like good advice, and sounds like what you should do, but it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice possible. A student's academic readiness is heavily dependent on their environment and how that environment upholds standards and consequences for actions.
 
-Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. The irony is many of these students, from the set of 150, are still getting good grades when they normally shouldn't be doing well because I lowered the rigor to "meet them where they're at."
+Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curriculum. The irony is many of these students, at least 50% of them from the set of 150, are still getting good grades when they normally shouldn't be doing well because I lowered the rigor to "meet them where they're at."
 
 It's an issue where students haven't learned properly either. They could go from point A to point B, but the thinking behind *why* they took that route from point A to point B may be gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and cannot adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up. I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples out of countless examples too!
 
-I'm genuinely unsure if the students are actually smart, but acting this way in this scenario because they *know* they cannot fail. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures, such as holding them back a grade or forcing a retake of the class.
+Students may be acting this way in this scenario because they *know* they cannot fail rather than them not being smart enough to do the work. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures and a fix at the system level, not only in a specific classroom or group, such as holding them back a grade or forcing a retake of the class.
 - And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days. Duration of learning is not the same as demonstrated competency of learning.
 
 A question that may come up is how to implement accountability in a system resistant to it. First, you cannot properly implement a solution for a system that doesn't want it, even with the perfect sales pitch. A solution at one layer also gets scrubbed out at other layers: while an educator may hold standards in their classroom(s), administrators, parents, legal authorities, and other parties may intervene and override those same standards. Any changes upstream can be further neutralized by factors downstream. 
 
-You could use that same, external pressure to showcase how credentials don't match competency and incite change, but that requires making data visible and attributable. In a field where said data is heavily guarded and there's incentive to hold power and control over that data, that could mean an education system obscures information to preserve their reputation and ensure funds keep coming in. 
+You could use that same, external pressure to showcase how credentials don't match competency and incite change, but that requires making data visible and attributable. In a field where said data is heavily guarded and there's multiple incentives to hold power and control over that data, that could mean an education system obscures information to preserve their reputation and ensure funds keep coming in. 
 
 In a way, the system isn't broken but acting towards the incentives and metrics determining its success and survival. There are pressures, both political and economic, outside the control of education systems that still affect those systems. If there is to be a lasting solution, it needs to come from everyone involved in education upstream *and* downstream. Any partial solutions will get swept away by the tide rather than stand the test of time.
 
@@ -400,39 +415,39 @@ Survival tactics is pushing students through without addressing deficiencies. It
 
 Removing a student from a class requires a lot of documentation proving the student cannot succeeed and/or function in the class, despite best efforts, and can be cumbersome to execute/process. It deals with politics, legality, and ethics, plus you also may not be allowed to remove a student outside of extreme circumstances.
 
-Out of all of these ways, remediation (and supports) is typically done as it follows the path of least resistance while also likely meeting legal requirements. I'll focus on that and assume, in good faith, your goal is getting students up to speed despite any blockers to their education. Keep in mind it's possible remediation may not be feasible for the class, or some students, which means teaching what topics you need/want to teach may be impossible.
+Out of all of these ways, remediation (and supports) is typically done as it follows the path of least resistance while also likely meeting any legal requirements. I'll focus on that and assume, in good faith, your goal is getting students up to speed despite any blockers to their education. Keep in mind it's possible remediation may not be feasible for the class, or some students, which means teaching what topics you need/want to teach may be impossible.
 
 For remediation, I see two main options:
 
 1. Reteach and/or integrate the basics
 2. Provide sufficient supports (tables, charts, calculators, etc.)
 
-Reteaching basics requires modifying lesson plans. Time spent can range from a dedicated review class session to review snippets without each class session. It also depends on subject matter and its intensity. Some implementation examples may include:
-- Finishing 5 minutes early to speed review basics
-- Exit tickets over basic concepts
+Reteaching basics requires modifying lesson plans. Time spent can range from a dedicated review class session to review snippets without each class session. That time could also be multiple class sessions which then risks cutting into the original material you planned to teach. It also depends on subject matter and its intensity. Some implementation examples may include:
+- Dedicating one class session as "review" before going into new material
+- Finishing 5 minutes early to quickly review basics
 - Hands on activities and general review
 
-From personal experience, I could reasonably cover 1 or 2 grades of learning deficit. Beyond that would typically require tutors, special education, and external support systems. 
+From personal experience, I could reasonably cover 1 or 2 grades (e.g. 10th grade math level for a 12th grade math class) of learning deficit without detriment towards any student's education. Beyond that would typically require tutors, special education, and external support systems. 
 - Reasonable example: Re-teaching parts of Calculus 1 to students in Calculus 3.
 - Unreasonable example: Teaching Calculus 3 to functionally illiterate students.
 
-**To give an analogy, you probably don't want someone flying a plane that has never been through pilot training.**
+**To give an analogy, you probably don't want someone flying a plane that cannot properly go through pilot training.**
 
 It's not impossible to fix large deficits, but doing it on top of everything else a teacher in a typical classroom needs to do is extremely difficult, if not outright impossible. 
 - If deficits are truly impossible/unreasonable to fix, then you need to document what the deficits are, what has been done to try and overcome them, and communicate why they're infeasible to help protect yourself and your role as a teacher.
 
 The second option, providing supports, is similar to training wheels on a bike. It complements learning, but doesn't replace learning. Examples may include reference charts, formula sheets, and guided notes you provide students or students create on their own time to use for other assignments, tests, and projects.
 
-Some blockers may mitigate, or completely stop, remediation and may be outside your control: 
-- Students motivation and engagement
+Some blockers may mitigate, or completely stop, remediation and may be outside your control, such as: 
+- Student motivation and engagement
 - System issues like pushing through grades despite clear evidence showing student deficiencies
 - Administrative pressure to meet pacing/benchmarks
-- External systems not reinforcing learning outside of class
+- External systems, such as parents of students, not reinforcing learning and behaviors outside of class
 - Accommodations and legal requirements prohibiting some remediation techniques
 
 As a caution and reminder, there's still two issues with remediation and supports:
 1. If students cannot acquire the skill(s) to function in the class, and it cannot be fixed, you'll have to accept it's a potential failure and start drafting documents to protect yourself.
-2. Supports help students pass classes, but may not help them be functionally independent.
+2. Supports help students pass classes, but may not help them be functionally independent and instead overly reliant on accommodations and supports.
 
 Your goal here is properly educating students, and you should strive for it, but it won't always go the way you want for various reasons.
 
@@ -440,7 +455,7 @@ Your goal here is properly educating students, and you should strive for it, but
 
 *Alternatively: "What if students can't follow the prompt?"*
 
-Teachers want you to figure things out and have students develop their own resources for solving problems. If you don't try and fail, how are you going to know where you're failing or pinpoint exactly where the problem(s) exist?
+Teachers want you to figure things out and have students discover how to solve problems. If you don't try and fail, how are you going to know where you're failing or pinpoint exactly where the problem(s) exist?
 
 There are times the phrase in the header is unreasonable. Other times, the instructions are explicitly written out and/or shown for students to follow and they cannot follow them, or they're asking for help when they haven't even tried to find a solution and really just want the teacher to solve it for them.
 - E.g. Teacher says you need to reference a specific page in this specific book to get started. Student, with the book out, asks how they get started, despite the teacher explicitly stating how to start.
@@ -459,7 +474,7 @@ For science specifically, I'll see students who ask for help on a problem. I loo
 - There's no attempt made yet.
 - There's no basic steps showcasing you learned what you needed to learn.
 
-It's different if they're missing resources, like a ruler or calculator, to solve a problem where they're normally needed. In that case, you should be able to help them without issue.
+It's different if they're missing resources, like a ruler or calculator, to solve a problem where they're normally needed. In these cases, you should be able to help them without too much issue.
 
 Remember: you're not filling blanks. You're fixing work. Don't reward students who don't try. They should know how to do it (or at least make an earnest attempt at it).
 
@@ -467,20 +482,20 @@ Remember: you're not filling blanks. You're fixing work. Don't reward students w
 
 *Alternatively: LDL (for a euphemism)*
 
-Normally, this type of learning isn't advised for most people in general, but especially so for minors and younger students. You may see it more in military or prison settings, where motivation and discipline is expected and enforced. Frankly speaking, most people cannot handle it and it has *some* ethical concerns when applied to its extreme. Much of this seems straightforward, but there's a reason this *isn't* the norm and you normally should NOT design learning this way by default.
+Normally, this type of learning isn't advised for most people in general, but especially so for minors and younger students. You may see it more in military or prison settings, where motivation and discipline is expected and strictly enforced. Frankly speaking, most people cannot handle it and it has *some* ethical concerns when implemented. Much of this seems straightforward, but there's a reason this *isn't* the norm and you normally should NOT design learning this way by default.
 
 The concept is simple: put a student into high stress situations where the cost of failure is extremely high and detrimental to said student. When students encounter that high-stress situation, which is where they *learn* the material, they'll be less likely to mess it up and remain calm throughout it when it comes up outside of a safe learning environment.
-- This part aligns with what I mentioned in a previous chapter: "The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible."
+- This part aligns with what I mentioned in a previous chapter. The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.
 
 Because it's a high-stress environment, learning may be condensed down to essentials and requires ways to address the increased cognitive load and rapidly learn new information. This is where mnemonics like the Method of Loci ([Further reading on a VR application](https://pmc.ncbi.nlm.nih.gov/articles/PMC9540171/) (Moll & Sykes, 2022)) combine various methods like visual imagination and spatial memory for learning.
 
-There's also few, if any, potential distractions, such as a cell phone in your pocket, so you can maximize concentration. The impact of a *single* interruption can mean losing approximately 25 minutes before you're back on task and complete context switching (Mark et al, 2005). If this were an environment where distractions happen every few minutes, or even every few seconds, a distraction-free environment is a significant learning advantage.
+There's also few, if any, potential distractions, such as a cell phone in your pocket, so you can maximize concentration. The impact of a *single* interruption can mean losing approximately 25 minutes before you're back on task and complete context switching (Mark et al, 2005). If this were an environment where distractions happen every few minutes, or even every few seconds, a distraction-free environment alone is a significant learning advantage.
 
 To put it all into an example: An instructor showcases a concept once, maybe twice if it's complex enough, you learn it, then do it immediately. Doesn't matter if you're fully ready or not; you're going to do it *now.* Your brain panic signals and thinks "oh shit, that's important" and it makes a conscious effort to actually learn it and map it to something relevant to your survival.
 
-Ironically, you prove learning it matters by failing it and experiencing the consequences, no matter how humiliating or detrimental it may be. Struggling and failing is expected, but it's necessary. Now that you know it's necessary, you're not going to let distractions pry you away from critical information.
+Ironically, you prove learning it matters by failing it and experiencing the consequences, no matter how humiliating or detrimental those consequences may be. Struggling and failing is expected, but it's necessary. Now that you know it's necessary, and have first-hand experience with the consequences, you're likely not going to let distractions pry you away from critical information in the future.
 
-You *can* dilute it down to a general populace through what I'll lovingly call a "trial by fire," but that's after establishing multiple safeguards and providing at least a little bit of preparation so even young students can utilize a part of this learning style. I'll still remind you, dear reader, this learning style can quickly go wrong and has very thin lines and boundaries.
+You *can* dilute it down to a general populace through what I'll lovingly call a "trial by fire," but that's after establishing multiple safeguards and providing at least a little bit of preparation so even young students can utilize a part of this learning style. I'll still remind you, dear reader, this learning style can quickly go wrong and has very thin lines and boundaries, and has plenty of reason *not* to be what you usually implement.
 
 ## **Bibliography**
 

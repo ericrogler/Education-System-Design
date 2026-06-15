@@ -65,7 +65,8 @@ Lastly, chronic absenteeism for students with accommodations means they cannot t
 > A reasonable accommodation enables a person with a disability to enjoy equal
 employment opportunities, benefits, and privileges.
 - [U.S. Department of Education](https://www.ed.gov/sites/ed/files/about/offices/or/docs/handbook-reasonable-accommodations.pdf) (2024)
-- I'm using an employment definition instead of an education-centric definition. Nevertheless, a goal of many education systems is preparing students for future lives *outside of education systems* as working, functional adults.
+
+I'm using an employment definition instead of an education-centric definition. Nevertheless, a goal of many education systems is preparing students for future lives *outside of education systems* as working, functional adults.
 
 Accommodations should provide equity, not advantages, to students with physical, mental, or medical conditions at a disadvantage compared to peers. Some of these conditions cannot be fully cured (as of writing this), despite whatever therapy or practice is implemented for them. That means assisting people with diseases and conditions like dyslexia, dysgraphia, ADHD, cerebral palsy, muscular dystrophy, diabetes, and more. It helps them up to the same academic level, or as close as possible to, their peers. Accommodations are not just for one type of student; it's for many types of students. 
 

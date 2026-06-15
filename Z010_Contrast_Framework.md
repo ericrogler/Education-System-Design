@@ -30,7 +30,7 @@ If you have 10 parts of time, you determine how many of those 10 parts of time a
 That's it. Simple and easy. 
 
 You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to a problem with optimization constraints: **there is no perfect education system.**
-- Think CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
+- Think somewhat similar to dealing with CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
 
 A more complicated answer with empirical grounding draws some inspiration from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
 
@@ -140,7 +140,7 @@ Some readers may see the above and wonder why I spend entire days on just *one* 
 
 To give an example of a mixed "lecture" day in a 50 minute class session: 
 1. Lecture (~18-20 minutes)
-2. Activity (~15-20 minutes) 
+2. Activity (~15-20 minutes)
 3. Review (~10 minutes)
 
 **You define ratios for each category (e.g. "6:2:2") and NOT finite units of time in this framework, so you can scale up and down based on how much time you'll have to instruct.**

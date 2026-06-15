@@ -23,7 +23,7 @@ nav_order: 10
 2. Allowing students to fail
 3. Limiting the size of classrooms/number of students instructors manage
 
-A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality whatever plan you establish may experience failure due to factors outside your control.
+A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality whatever plan you establish may experience failure due to factors outside your control. Additionally, once there is a certain amount of troublemakers among students, no management plan can reliably save any teacher and they can only do the best they can at that point.
 
 Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
 - It's so significant I'd recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
@@ -72,7 +72,7 @@ If you skipped the other management chapters and went straight to here, I'll rec
 - Time is your most valuable resource
 - Success is determined by the environment and resources available, your ability, and how well students perform
 - Learning proper classroom management requires experience and application
-  - A book, guide, etc. alone will NOT be enough to get you experience, *but knowing the theory is at least better than nothing*
+  - A book, guide, etc. alone will NOT be enough to get you experience, *but knowing the theory is at least better than knowing nothing*
 
 Lastly, there's also many different types of schools even within the public and private school umbrellas. They can vary in size, policy, student demographics, the reason students are there, the wealth available in the school, and many more factors. 
 
@@ -94,7 +94,7 @@ You also cannot brute force a solution inside of a broken system. Your good inte
 
 Some people inside of education systems may view education as a customer service. Someone may acquiesce to customer demands to "keep" a customer rather than lose a customer, because that may mean less money going into the "business."
 
-Lastly, there is a great deal of multitasking involved. It's not simply delivering education to students; it's managing every other factor in the environment that could affect that delivery on top of it.
+Lastly, there is a great deal of multitasking involved. It's not simply delivering education to students; it's managing every other factor in the environment that could affect that delivery on top of it. It's also why putting up mirrors in a classroom provides an extra pair of eyes for teachers to watch out for potential issues and may mitigate troublesome behaviors from their students.
 
 ### **One Plan to Rule Them All**
 
@@ -232,7 +232,7 @@ Students that are suspended once have a higher probability of experiencing and c
 
 Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, it's unlikely a suspension will suddenly change that habit.
 
-### **How should I address student accommodations?**
+### **Address Student Accommodations?**
 
 When students see their peers get something they don't, they'll question why that is the case whether it is out loud or kept to themselves. Frankly speaking, there's no perfect answer that works in every scenario while also complying with confidentiality laws like HIPAA and FERPA. It's also difficult when the accommodation is clearly visible and actively in use in the presence of other students, because you, as the teacher, still likely cannot say anything breaking those laws.
 
@@ -242,7 +242,7 @@ You don't need to say much here. Something like: "Some of you might have differe
 
 If it's an issue *after* something like the above is mentioned, then you can always recount back to the classroom management plan you set beforehand and went over with students. This allows you to firmly inform the student (assumingly) their role is on their own work you gave, not the work of others, and is therefore not a responsibility of theirs to decide how supports are managed.
 
-### **How should I talk to students?**
+### **Talking to Students?**
 
 It depends upon your audience. One group of students may favor one approach and another group of students may favor another approach. Nevertheless, the goal is to figure out what is, generally speaking, the "best" way to address students in general. Sometimes that is blunt, direct, and straight to the point like an Army Drill Sergeant. Other times that is soft spoken, but still delivering the content as intended.
 
@@ -468,9 +468,9 @@ What are ways to "fight" these battles? It depends on what you're allowed to say
 
 2. Bacher-Hicks, A., Billings, S., & Deming, D. (2019, August). *The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime.* [https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf](https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf)
 
-2. Budish, E. B., Cramton, P., & Shim, J. J. (2013). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
+2. Budish, E. B., Cramton, P., & Shim, J. J. (2015). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
 
-3. Dantes, R. B., Kaur H., Bouwkamp B. A., et al. (2023). Sepsis Program Activities in Acute Care Hospitals — National Healthcare Safety Network, United States, 2022. MMWR. Morbidity and Mortality Weekly Report, 72(34). [https://doi.org/10.15585/mmwr.mm7234a2](https://doi.org/10.15585/mmwr.mm7234a2)
+3. Dantes, R. B., Kaur H., Bouwkamp B. A., et al. (2023). *Sepsis Program Activities in Acute Care Hospitals — National Healthcare Safety Network, United States, 2022.* MMWR. Morbidity and Mortality Weekly Report, 72(34). [https://doi.org/10.15585/mmwr.mm7234a2](https://doi.org/10.15585/mmwr.mm7234a2)
 
 3. Ginott, H. G. (1972). *Teacher and Child: A Book for Parents and Teachers.* New York, Macmillan.
 
@@ -482,14 +482,14 @@ What are ways to "fight" these battles? It depends on what you're allowed to say
 
 4. Margaret McFarland - Mister Rogers’ Neighborhood. (2018, September 13). *Mister Rogers’ Neighborhood.* [https://misterrogers.org/articles/margaret-mcfarland/](https://misterrogers.org/articles/margaret-mcfarland/)
 
-4. María, R., Santiago-Rosario, K., Mcintosh, S., Izzard, D., Cohen Lissman, E., & Calhoun. (2023). *Is Positive Behavioral Interventions And Supports (PBIS) An Evidence-Based Practice?* [https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf](https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf)
-
 5. May 1, 1969: Fred Rogers testifies before the Senate Subcommittee on Communications. (2015, February 8). *YouTube.* [https://www.youtube.com/watch?v=fKy7ljRr0AA](https://www.youtube.com/watch?v=fKy7ljRr0AA)
 
-6. National Institute of Justice, "Student Suspensions Have Negative Consequences, According to NYC Study," November 12, 2021, nij.ojp.gov:
+6. National Institute of Justice. (2021, November 12). *"Student Suspensions Have Negative Consequences, According to NYC Study."* nij.ojp.gov:
 [https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study](https://nij.ojp.gov/topics/articles/student-suspensions-have-negative-consequences-according-nyc-study)
 
 5. Nitz, J., Brack, F., Hertel, S., Krull, J., Stephan, H., Hennemann, T., & Hanisch, C. (2023). *Multi-tiered systems of support with focus on behavioral modification in elementary schools: A systematic review.* Heliyon, 9(6). [https://doi.org/10.1016/j.heliyon.2023.e17506](https://doi.org/10.1016/j.heliyon.2023.e17506)
+
+4. Santiago-Rosario, M. R., McIntosh, K., Izzard, S., Cohen Lissman, D., & Calhoun, T. E.  (2023). *Is Positive Behavioral Interventions And Supports (PBIS) An Evidence-Based Practice?* [https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf](https://cdn.prod.website-files.com/5d3725188825e071f1670246/651c4d7d5174726ec6da1d86_Is%20Positive%20Behavioral%20Interventions%20and%20Supports%20(PBIS)%20an%20Evidence-Based%20Practice.pdf)
 
 6. US Department of Education. (2023, March). *Guiding principles: A resource guide for improving school
 climate and discipline.* Washington, DC.

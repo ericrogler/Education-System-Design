@@ -34,7 +34,7 @@ Warnings, case studies, and implementation guidance intentionally draw from mult
 
 *Notice: Due to contract terms and laws limiting use of personally identifying information, details in materials, examples, or information are intentionally obscured to remain compliant.*
 
-## **"I Have <5 Minutes" Overview**
+## **"I Have Only <5 Minutes" Overview**
 
 For those who are OK with 99% of solutions, rather than 99.9% or 99.99%+ of solutions, for many education system problems to solve by next Monday morning, here's the broad summary including some actionable items:
 - Your first plan will not survive initial contact. Even the advice, suggestions, and frameworks here may need modifications for your specific situation(s). Expect to modify plans and systems as time marches on.

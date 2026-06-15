@@ -374,7 +374,7 @@ Generally speaking, employees react negatively to downsizing and there's multipl
 
 It is significantly harder to take away things than it is to provide things. You really need to ask yourself if some benefits for employees are *really* sustainable long-term. Some resentment appears when benefits get taken more than when they were never offered in the first place.
 
-This isn't to say all perks are bad or excessive. Some are genuinely beneficial to employees and increase productivity. Though not an "employee" perk, one example perk for customers is the CostCo hot dog combo, despite being a loss leader and staying at $1.50, is a great reason to get customers spending more and kept at that price for over 40 years (Matthews, 2018).
+This isn't to say all perks are bad or excessive. Some are genuinely beneficial to employees and increase productivity. Though not an "employee" perk, one example perk for customers is the CostCo hot dog combo, despite being a loss leader and staying at $1.50, is a great reason to get customers spending more and kept at that price for over 40 years (Matthews, 2022).
 
 In short, scale down carefully and with purpose. You're laser focused on solving problems by keeping the good and cutting the bad. Handwaving away problems and pretending they don't exist will not help you.
 
@@ -426,15 +426,13 @@ This same general incompetence applies cross-functionally as well. You may have 
 1. Chute, C. F., Gulick, L., & Urwick, L. (1938). *Papers on the Science of Administration.* Southern Economic Journal, 4(4), 506. [https://doi.org/10.2307/1052808](https://doi.org/10.2307/1052808)
     - The alternative link source used is a retyped version by Nickols, F. on August 7, 2019 @ [https://www.nickols.us/relationship.pdf](https://www.nickols.us/relationship.pdf).
 
-3. Dávid-Barrett, T.; Dunbar, R. I. M. (22 August 2013). *Processing power limits social group size: computational evidence for the cognitive costs of sociality.* Proc Biol Sci 1 August 2013; 280 (1765): 20131151. [https://doi.org/10.1098/rspb.2013.1151](https://doi.org/10.1098/rspb.2013.1151)
-
 2. Fadell, T. (2022). *Build.* HarperCollins.
 
 3. IRS. (2019). *Employers - Internal Revenue Service.* Irs.gov. [https://www.irs.gov/affordable-care-act/employers](https://www.irs.gov/affordable-care-act/employers)
 
-3. Matthews, Todd (April 18, 2018). *Costco CEO Craig Jelinek on Shareholders, Costco.com, and Hot Dogs.* 425Business.com. [https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html](https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html)
+3. Matthews, Todd (2022, Oct 4). *Costco CEO Craig Jelinek on Shareholders, Costco.com, and Hot Dogs.* 425Business.com. [https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html](https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html)
 
-4. Nickols, F. (2019). *The Span of Control - the formulas of V A Graicunas.* Nickols.us. [https://www.nickols.us/graicunas.htm](https://www.nickols.us/graicunas.htm)
+4. Nickols, F. (2019, August 9). *The Span of Control - the formulas of V A Graicunas.* Nickols.us. [https://www.nickols.us/graicunas.htm](https://www.nickols.us/graicunas.htm)
 
 4. Sinek, S. (2009). *Start with Why: How Great Leaders Inspire Everyone to Take Action.* 
 
