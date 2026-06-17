@@ -50,8 +50,10 @@ This chapter is where we acknowledge socioeconomics is indeed important, and may
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis, crippling debt, or income stream issues.
 
+Knowing how relations work among people, and the ability to navigate "policitcs" within systems, provides you a layer of protection. You might get by just fine without being skilled here, but you're going into a medieval sword fight without any armor on.
+
 People care about other human beings being decent human beings. One way to verify this is the "airport test," where you decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time (Indeed Editorial Team, 2025). Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you.
-- **I have personally seen people, even the most technically skilled and competent people, not be hired, or fired, purely because they were difficult to work with and/or did not acclimate to the environment they operate in.**
+- **I have personally seen people, even the most technically skilled and competent people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
 
 While being likeable is important, as people often cannot choose who they get to work with, there's two other aspects to consider: trustworthiness and competence. Trustworthiness means you can, well, trust someone to go through with what they say they'll do. A relationship is also built upon trust; the kind where you can expect someone to work without watching them and/or not have them backstab you. Competence, while it gauges technical skills, can almost always be taught along the way. Sometimes being the smartest person in the room may not be as valuable as being the person who can get things done.
 
