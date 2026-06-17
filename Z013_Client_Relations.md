@@ -50,7 +50,7 @@ This chapter is where we acknowledge socioeconomics is indeed important, and may
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis, crippling debt, or income stream issues.
 
-Knowing how relations work among people, and the ability to navigate "policitcs" within systems, provides you a layer of protection. You might get by just fine without being skilled here, but you're going into a medieval sword fight without any armor on.
+Knowing how relations work amongst people, and the ability to navigate "politics" within systems, provides you a layer of protection. You might get by just fine without being skilled here, but you're going into a medieval sword fight without any armor on.
 
 People care about other human beings being decent human beings. One way to verify this is the "airport test," where you decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time (Indeed Editorial Team, 2025). Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you.
 - **I have personally seen people, even the most technically skilled and competent people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
