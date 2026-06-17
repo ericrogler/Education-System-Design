@@ -4,7 +4,7 @@ Welcome to *Education System Design*. Included is the license involved with this
 
 **Last Updated: {{ "now" | date: "%B %-d, %Y" }}**
 
-### Wait, a book hosted on GitHub?
+### **Wait, a book hosted on GitHub?**
 
 Yea! It's unconventional to host a book on this platform. I was against it at first and almost developed my own website instead.
 
@@ -17,7 +17,7 @@ Surprisingly though, it has more benefits than expected:
 - It's self-published, so no middle man
 - It's free for you: the user/reader
 
-## Navigation by Chapter
+## **Navigation by Chapter**
 This splits the text by chapter across multiple pages. 
 
 - Abstract
@@ -52,7 +52,7 @@ This splits the text by chapter across multiple pages.
 - Action Plan For Educators
 - Conclusion / Learnings
 
-## Content License
+## **Content License**
 
 *For all written content such as material in pages outside of code used for the website template.*
 
@@ -71,7 +71,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-### Content Attribution
+### **Content Attribution**
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
@@ -79,15 +79,15 @@ Per the license requirements, you may need the following for help in citations:
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-## Template Attribution
+## **Template Attribution**
 
-### About
+### **About**
 
 Just the Docs is © 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com/).
 
-### License
+### **License**
 
 Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
 
-### Github
+### **Github**
 [Link to template's GitHub repository](https://github.com/just-the-docs/just-the-docs#contributing).
