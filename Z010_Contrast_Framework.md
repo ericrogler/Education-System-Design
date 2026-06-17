@@ -86,7 +86,6 @@ A workshop model can work alongside this framework, but places a stronger emphas
 Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
 
 A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. In a way, I'm taking parts from this framework and translating them into actionable items. We'll explore those reasons and more in this chapter.
-- The formal name is the "Gradual Release of Responsibility" in case you want more information (Pearson & Gallagher, 1983).
 
 The last example I'll include is various materials authored by Rosenshine (2010, 2012).
 
@@ -234,9 +233,7 @@ You may think writing down all of this information on a board or screen for stud
 
 Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to students and allow them to ask questions. It's sometimes called direct instruction. Direct instruction requires at least some lecturing done and I find helps both students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
 
-You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** As for a small sampling of these studies, please refer to the following:
-- [Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/) (Hattie, 2018)
-- [Just How Effective is Direct Instruction?](https://doi.org/10.1007/s40614-021-00295-x) (Mason & Otero, 2021)
+You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** 
 
 A single lecture "talk" on each topic should rarely go beyond 18-20 minutes without some sort of break or it suffers from diminishing returns. [TED (Technology, Entertainment, Design), a nonprofit focused on spreading ideas](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes), uses a similar guideline as it's "long enough to say something meaningful, but short enough to hold your audience's full attention" (TED, 2025).
 - You can, and should, still consider longer or full duration lecture days! Just remember to pause or break appropriately throughout it.
@@ -339,7 +336,7 @@ One important note about formative assessments, and assessments for reviewing an
 
 *Alternatively: 100% Summative*
 
-If you could do it, and it makes sense for the curricula, that may be preferred and I would do that myself if I could pull it off. Afterall, what matters are tests of proficiency to see if students understand the material taught to them. As for "test" anxiety, that occurs mainly because there's the fear of failure or consequences in an evaluation situation, which lower knowledge and gaps in knowledge can trigger (Theobald et al, 2022).
+If you could do it, and it makes sense for the curricula, that may be preferred and I would do that myself if I could pull it off. Afterall, what matters are tests of proficiency to see if students understand the material taught to them.
 
 Due to technological advancements, homework is increasingly easier to complete with assistance from third parties *without* getting caught. Without homework or other assignments to grade, that means less work to grade overall or have students claim there's nothing to work on, since they can always work on preparing for the upcoming quizzes and tests. You may also eliminate, or heavily reduce, missing work too. Lastly, students may skip the processing behind how many assignments they can skip and still pass if every assignment is now a quiz/test they cannot easily disregard without failing the course. 
 
@@ -444,18 +441,10 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 2. Daniels, J. (1946). *The Wilson era: Years of war and after 1917–1923* (p. 624). The University of North Carolina Press.
 
-3. *Do I need to keep talks within 18 minutes?* (2025). TED. [https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes)
-
 3. Gagné, R. M. (1965). *The Conditions of Learning.* Holt, Rinehart and Winston.
-
-3. Hattie, J. (2018). *Hattie effect size list - 256 Influences Related To Achievement.* VISIBLE LEARNING. [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
 
 2. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
     - Dialogue used written by Chris Avellone.
-
-4. Mason, L., & Otero, M. (2021). *Just How Effective Is Direct Instruction?* Perspectives on Behavior Science, 44(2-3). [https://doi.org/10.1007/s40614-021-00295-x](https://doi.org/10.1007/s40614-021-00295-x)
-
-4. Pearson, D., & Gallagher, M. (1983). *The Instruction of Reading Comprehension.* Contemporary Educational Psychology, 8(3), 317–344. [https://doi.org/10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
 
 4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
@@ -466,7 +455,7 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 
-7. Theobald, M., Breitwieser, J., & Brod, G. (2022). *Test Anxiety Does Not Predict Exam Performance When Knowledge Is Controlled For: Strong Evidence Against the Interference Hypothesis of Test Anxiety.* Psychological Science. [https://journals.sagepub.com/doi/full/10.1177/09567976221119391](https://journals.sagepub.com/doi/full/10.1177/09567976221119391)
+3. TED. *Do I need to keep talks within 18 minutes?* (2025). TED. [https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes)
 
 6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. [https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9).
 

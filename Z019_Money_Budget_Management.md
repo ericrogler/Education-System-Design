@@ -62,9 +62,7 @@ This chapter is *also* where we acknowledge that socioeconomics is indeed import
 
 While I did talk about monetary blockers briefly before, I'm creating a separate chapter on it because money permeates almost every facet of education, either directly or indirectly. How much you're paid for your work is also affected by money and resources available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
 
-Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a student has available typically correlates positively with their quality of education (Diemer et al., 2019). While that may seem "obvious" to some keen readers, I do need to plainly state that fact still.
-
-Though money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
+Money is what buys you time and happiness, up to a certain point, but also affords comforts. Though money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
 - Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
 - It also generates a lot of *new* problems.
     - Instead of not dealing with issues due to lack of resources, people may throw money at issues to try and make them go away.
@@ -359,8 +357,6 @@ Lastly, if another person, entity, organization, etc. asks about why you don't h
 
 1. Cornman, S.Q., Doyle, S., Moore, C., Phillips, J., and Nelson, M.R. (2024). *Revenues and Expenditures for Public Elementary and Secondary Education: School Year 2021–22 (Fiscal Year 2022): First Look* (NCES 2024-301). U.S. Department of Education. Washington, DC: National Center for Education Statistics. [https://nces.ed.gov/pubs2024/2024301.pdf](https://nces.ed.gov/pubs2024/2024301.pdf)
 
-1. Diemer, M. A., Marchand, A. D., & Mistry, R. S. (2019). *Charting How Wealth Shapes Educational Pathways from Childhood to Early Adulthood: A Developmental Process Model.* Journal of Youth and Adolescence, 49. [https://doi.org/10.1007/s10964-019-01162-4](https://doi.org/10.1007/s10964-019-01162-4)
-
 1. Egbe, D., & Smith, C. B. (2025, May 12). *The Double-Edged Sword of Affluence.* Psychiatric Times. [https://www.psychiatrictimes.com/view/the-double-edged-sword-of-affluence](https://www.psychiatrictimes.com/view/the-double-edged-sword-of-affluence)
 
 1. Hood, K. (2025). *Measuring Income Inequality: A Primer on the Gini Coefficient.* Bea.gov. [https://apps.bea.gov/scb/issues/2025/08-august/0825-gini-primer.htm](https://apps.bea.gov/scb/issues/2025/08-august/0825-gini-primer.htm)
@@ -383,7 +379,7 @@ Lastly, if another person, entity, organization, etc. asks about why you don't h
 
 1. Schermele, Z. (2025, October 11). Education Department wipes out special ed office in shutdown layoffs, union says. USA TODAY. [https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/](https://www.usatoday.com/story/news/education/2025/10/11/education-department-special-ed-office-layoffs-shutdown/86646104007/) 
 
-1. State of Michigan Consumer Protection Team. (2024). Credit Card v Debit Card - Know the Difference. Michigan.gov. [https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)
+1. State of Michigan Consumer Protection Team. (2024). *Credit Card v Debit Card - Know the Difference.* Michigan.gov. [https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference](https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/credit-card-v-debit-card-know-the-difference)
 
 2. Tarawally, M. (2025, June 9). *2025 Teacher Spending Survey.* AdoptAClassroom.org. [https://www.adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs/](https://www.adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs/)
 

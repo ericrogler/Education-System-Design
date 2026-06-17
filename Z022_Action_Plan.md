@@ -318,7 +318,7 @@ You may think about effectiveness and efficiency during reflection periods. Thes
 3. Drucker, P. F. (2006). *The Effective Executive: The Definitive Guide to Getting the Right Things Done.* HarperBusiness.
     - Originally published in 1966.
 
-3. James, M., DeMio, P.S. (2025, December 18). How To Increase the Retention of Early Career Teachers. Center for American Progress. [https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/](https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/)
+3. James, M., DeMio, P.S. (2025, December 18). *How To Increase the Retention of Early Career Teachers. Center for American Progress.* [https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/](https://www.americanprogress.org/article/how-to-increase-the-retention-of-early-career-teachers/)
 
 3. Kruger, J., & Dunning, D. (1999). *Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments.* Journal of personality and social psychology, 77(6), 1121–1134. [https://doi.org/10.1037//0022-3514.77.6.1121](https://doi.org/10.1037//0022-3514.77.6.1121)
 

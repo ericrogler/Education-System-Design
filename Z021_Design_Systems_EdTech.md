@@ -474,7 +474,7 @@ Some general rules of thumb you can quickly apply come from personal experience 
 
 7. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
 
-8. Spence, C., Okajima, K., Cheok, A. D., Petit, O., & Michel, C. (2016). Eating with our eyes: From visual hunger to digital satiation. Brain and Cognition, 110(0278-2626), 53–63. [https://doi.org/10.1016/j.bandc.2015.08.006](https://doi.org/10.1016/j.bandc.2015.08.006)
+8. Spence, C., Okajima, K., Cheok, A. D., Petit, O., & Michel, C. (2016). *Eating with our eyes: From visual hunger to digital satiation.* Brain and Cognition, 110(0278-2626), 53–63. [https://doi.org/10.1016/j.bandc.2015.08.006](https://doi.org/10.1016/j.bandc.2015.08.006)
 
 9. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 

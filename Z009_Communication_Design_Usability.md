@@ -93,8 +93,7 @@ You might also claim that accessibility will harm the design and content of what
 
 ### **Social-Emotional Learning (SEL)** 
 
-One goal of an education system is to bring in students and teach them the skills they need and the skills they're missing. These skills may include emotional regulation, which affects how learning may progress for students. Generally speaking, SEL programs have empirical evidence suggesting a positive impact on outcomes for students (Durlak et al., 2011).
-- This also includes long-term outcomes from these types of programs (Taylor et al., 2017).
+One goal of an education system is to bring in students and teach them the skills they need and the skills they're missing. These skills may include emotional regulation, which affects how learning may progress for students.
 
 A common example is punishing students for misbehavior, despite students not knowing how to regulate themselves. This is where lessons, such as those on conflict resolution, self-awareness, identifying feelings, and empathy, may address gaps in social skill learning.
 
@@ -147,9 +146,6 @@ And what happens when people aren't happy with a product? They'll look for ways 
 ## **Bibliography**
 
 1. Creative Commons. (n.d.). *About CC licenses.* [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)
-    - Future Reading Source
-
-1. Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). *The impact of enhancing students' social and emotional learning: a meta-analysis of school-based universal interventions*. Child Development, 82(1), 405–432. [https://doi.org/10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 
 2. Gabriel, R., & Dennis, D. V. (2025). *Introduction to the special issue: Science of Reading policies.* Education Policy Analysis Archives, 33. [https://doi.org/10.14507/epaa.33.9929](https://doi.org/10.14507/epaa.33.9929)
 
@@ -166,14 +162,12 @@ And what happens when people aren't happy with a product? They'll look for ways 
 3. Open Source Initiative. (n.d.). *The MIT license.* [https://opensource.org/license/mit](https://opensource.org/license/mit)
     - Future Reading Source
 
-4. Pareto, Vilfredo (1898). "Cours d'economie politique". Journal of Political Economy. 6. [doi:10.1086/250536](https://doi.org/10.1086%2F250536).
+4. Pareto, Vilfredo (1898). *Cours d'economie politique.* Journal of Political Economy. 6. [doi:10.1086/250536](https://doi.org/10.1086%2F250536).
     - The original source is from 1896, but the above is for journal publication.
 
-5. Samuels, A. (2018). Exploring Culturally Responsive Pedagogy: Teachers’ Perspectives on Fostering Equitable and Inclusive Classrooms. In SRATE Journal (Vol. 27, Issue 1, pp. 22–30). University of Montevallo. [https://files.eric.ed.gov/fulltext/EJ1166706.pdf](https://files.eric.ed.gov/fulltext/EJ1166706.pdf)
+5. Samuels, A. (2018). *Exploring Culturally Responsive Pedagogy: Teachers’ Perspectives on Fostering Equitable and Inclusive Classrooms.* In SRATE Journal (Vol. 27, Issue 1, pp. 22–30). University of Montevallo. [https://files.eric.ed.gov/fulltext/EJ1166706.pdf](https://files.eric.ed.gov/fulltext/EJ1166706.pdf)
 
 5. Sweller, J. (April 1988). *Cognitive Load During Problem Solving: Effects on Learning*. Cognitive Science. 12 (2): 257–285. CiteSeerX 10.1.1.459.9126. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207%2Fs15516709cog1202_4). S2CID 9585835.
-
-5. Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). *Promoting Positive Youth Development Through School-Based Social and Emotional Learning Interventions: A Meta-Analysis of Follow-Up Effects.* Child development, 88(4), 1156–1171. [https://doi.org/10.1111/cdev.12864](https://doi.org/10.1111/cdev.12864)
 
 5. U.S. Department of Justice Civil Rights Division. (2020, February 28). *ADA Requirements - Effective Communication.* ADA.gov. [https://www.ada.gov/resources/effective-communication/](https://www.ada.gov/resources/effective-communication/)
 

@@ -50,7 +50,7 @@ As a reminder, you could easily have several books on each topic here, so if you
 
 ### **Rubberducking**
 
-I love this method personally. It's a concept attributed to Hunt and Thomas (1999).
+I love this method personally. It's a concept attributed to Hunt and Thomas (1999), but I'll explain it my own way here.
 
 Talking about your problems tends to help and sometimes uncovers solutions as you're talking through them. It doesn't have to be a human you talk to either; it can be a rubber duck instead!
 

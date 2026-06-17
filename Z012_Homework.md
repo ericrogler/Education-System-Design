@@ -26,11 +26,11 @@ Sometimes you may have to give homework due to an administrative policy. This is
 
 Recall the previous section where I talked about blockers to student learning and the ability to teach.
 
-I've personally seen schools implement "no homework" policies in the mid-2010s and use the rule of thumb of 10 minutes per grade level. Nevertheless, it's difficult to determine the "optimal" time to dedicate to homework (Guo et al., 2024). Even if an optimal time is determined, there's plenty of guesswork involved but there's still an argument for neither too little nor too much homework (Cooper et al., 2006). 
+I've personally seen schools implement "no homework" policies in the mid-2010s and use the rule of thumb of 10 minutes per grade level. Nevertheless, it's difficult to determine the "optimal" time to dedicate to homework (Guo et al., 2024). 
 
 Equity is *opportunity* provided to those in worse circumstances and with fewer resources. Before you start parading equity as the end-all, be-all solution, and go straight towards support no homework policies, consider the following argument: Despite any benefits, homework amplifies potential blockers to learning and may affect equity. Student A and student B may not have the same opportunities, technology available to use, support systems, and availability to complete the same assignment.
 
-Much of American Education and how much time is spent learning is largely shaped by the Carnegie Unit or the Student Hour (Shedd, 2003). College students may see a professor for 3 hours a week while high schoolers see teachers typically 4-5 days each week at about 50 min to 1.5 hours per day. This adds up to at least 120 hours of class and contact time over one academic year. Less class time in college may mean more out-of-class work and practice to stay on track and ensure material is retained. Primary and secondary education courses have more time in class, so less, or even no, homework should be needed to go through the necessary material.
+In the United States, college students may see a professor for 3 hours a week while high schoolers see teachers typically 4-5 days each week at about 50 min to 1.5 hours per day. This adds up to at least 120 hours of class and contact time over one academic year. Less class time in college may mean more out-of-class work and practice to stay on track and ensure material is retained. Primary and secondary education courses have more time in class, so less, or even no, homework should be needed to go through the necessary material.
 
 Now to talk about why more homework for students means more homework for an educator.
 
@@ -41,9 +41,8 @@ Every assignment you issue is an assignment you may have to write, grade, and ad
 Additionally, if all work is done inside of class, a teacher could catch errors and reteach topics quickly rather than delaying correction with homework. In middle school and high school, students typically may have several teachers with differing amounts of homework given in their class too.
 
 Homework should be intended as practice and low-stakes, not busy work. I've had the most success with homework that isn't too time-consuming; if it takes excessive time, it's an issue with assignment design and/or student understanding.
-- See Cooper, 2006, for more research on that.
 
-Homework should also be *practice* and focus on critical problem-solving skills. You *can* do repetition through homework, but it shouldn't be something like drilling down 40+ math problems with a value or two changed. Class time is better for drilling down concepts because you can have students go through concepts with a teacher guiding, correcting, modeling, and facilitating the learning process (Pearson & Gallagher, 1983).
+Homework should also be *practice* and focus on critical problem-solving skills. You *can* do repetition through homework, but it shouldn't be something like drilling down 40+ math problems with a value or two changed.
 
 Ideally, you create problems that are not easily solved, or don't know how to solve on the student's end, as it provides *opportunity* for learning. It's better if a given problem can lead into additional problems, and therefore become challenges for students to tackle and flex their understanding, afterwards.
 
@@ -78,14 +77,8 @@ Overall, though, don't give out homework unless necessary. Try your best, as a t
 
 1. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
 
-1. Cooper, H., Robinson, J. C., & Patall, E. A. (2006). *Does Homework Improve Academic Achievement? A Synthesis of Research, 1987–2003.* Review of Educational Research, 76(1), 1–62. [https://doi.org/10.3102/00346543076001001](https://doi.org/10.3102/00346543076001001)
-
 1. Guo, L., Li, J., Xu, Z., Hu, X., Liu, C., Xing, X., Li, X., White, H., & Yang, K. (2024). *The relationship between homework time and academic performance among K‐12: A systematic review.* Campbell Systematic Reviews, 20(3). [https://doi.org/10.1002/cl2.1431](https://doi.org/10.1002/cl2.1431)
 
 1. Hein, P. (1969). *Grooks 1 (Grooks, #1).* Doubleday & Company.
-
-4. Pearson, D., & Gallagher, M. (1983). *The Instruction of Reading Comprehension.* Contemporary Educational Psychology, 8(3), 317–344. [https://doi.org/10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
-
-2. Shedd, J. (2003). *The History of the Student Credit Hour.* New Directions for Higher Education. 122 (Summer) (122): 5–12. [doi:10.1002/he.106](https://doi.org/10.1002%2Fhe.106)
 
 ## **[Next Chapter](Z013_Client_Relations.html)**

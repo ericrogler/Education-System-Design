@@ -443,7 +443,7 @@ If you want to try a different twist: you could create an assignment requiring A
 
 ## **Bibliography**
 
-1. Bender, E., McMillan-Major, A., Shmitchell, S., & Gebru, T. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT ’21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
+1. Bender, E., McMillan-Major, A., Shmitchell, S., & Gebru, T. (2021, March 1). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT ’21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
 
 1. Bradbury, R. (1953). *Fahrenheit 451.* Simon & Schuster Paperbacks.
 

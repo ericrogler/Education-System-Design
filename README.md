@@ -56,6 +56,10 @@ This splits the text by chapter across multiple pages.
 
 *For all written content such as material in pages outside of code used for the website template.*
 
+A reasonable attempt by the author was made throughout this repository to ensure all references utilized are compatible with CC-BY 4.0 copyright. If there is a source that *is not* compatible, please inform them directly so it may be fixed.
+
+Additionally, while I deliberately avoid the "NC" license, I would greatly prefer any readers *not* to try and turn a profit on the contents of this book.
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a

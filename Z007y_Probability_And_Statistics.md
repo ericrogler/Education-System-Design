@@ -270,7 +270,17 @@ Amongst all approaches, any approach in a given system involves tradeoffs. For e
 
 ### **What About Machine Learning?**
 
-I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Many functions in education systems don't necessarily *need* machine learning to function well, but there may be uses for it in the future. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it past foundational knowledge.
+You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about supervised vs unsupervised learning, structured vs unstructed data, streaming vs batching, and what even is machine learning without too much difficulty. The basics are doable.
+
+The next stage is going into the high-level overview of concepts, like linear regression, gradient descent, hyperparameters, learning rate, and so on. I could give you a less technical explanation of these and you might go away with understanding it just fine.
+
+The issue is when you need to go *beyond* high-level overviews and working with them in practice. For example, while you could do most problems with a small amount of theory on methods like logistic regression, random forests, and transformers as well as tools like Docker and SQL, that still leaves a small, but significant, set of problems. 
+
+At that point, the math provided in high-level math courses like Calculus, Linear Algebra, Optimization, Game Theory, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
+
+If your goal is to get into and/or work with machine learning, you'd best learn math.
+
+That said, I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Many functions in education systems don't necessarily *need* machine learning to function well, but there may be uses for it in the future. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it past foundational knowledge.
 
 If I were to sum up, in a list, some concepts you may encounter, it'd be the following:
 - Supervised vs Unsupervised vs Semisupervised Learning
@@ -297,7 +307,7 @@ You may find many of these topics covered in more dedicated resources, such as *
 Machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital resources.
 
 As one example of a resource, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
-- If you're curious about how AI Detectors may work, focus on topics under the "Classification" section.
+- If you're curious about how AI Detectors may work, for example, that may fall under "Classification." 
 
 ## **Bibliography**
 
@@ -322,7 +332,6 @@ As one example of a resource, I'll point a finger at [Google's Machine Learning 
 
 1. National Assessment of Educational Progress (NAEP). (2025). *RESULTS FROM THE
 2025 NAEP Long-Term Trend Reading and Mathematics Assessments at Ages 9 and 13*. Nationsreportcard.gov. [https://www.nationsreportcard.gov/](https://www.nationsreportcard.gov/)
-    - Aside: A new report is expected around June 2026 per the website at the time of initial access (May 18 2026).
 
 5. Reis, J., & Housley, M. (2022). *Fundamentals of Data Engineering.* O’Reilly Media, Inc.
 

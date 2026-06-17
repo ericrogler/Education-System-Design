@@ -189,11 +189,14 @@ For many people outside of math-heavy fields, like design or art, you're missing
 
 Why Calculus? A lot of applied math *loves* using it. 
 
-Sadly it contains a large amount of unnecessary and overly formalized information, which means for the average person in practice, they may rarely, if ever, use Calculus. If that's the case, perhaps approach it like a particular art style you can say you know how to do and show off regardless.
+Or at least using it as a basis to create relatively simplified equations to explain things.
+
+Sadly it contains a large amount of unnecessary and overly formalized information. For the average person in practice, they may rarely, if not never, need to use Calculus for their problems. If that's the case, perhaps approach it like a particular art style you can say you know how to do and show off regardless I suppose.
 - For example, have you ever seen an elegantly written proof? It's a thing of beauty with its own unique charm. Truly an art.
 
-I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying so heavily on a single source here.
-- These were available when I went through Calculus back in early 2010's.
+One extensive resource I'll single out is [Paul Dawkins' (Lamar University) notes posted on the Internet](https://tutorial.math.lamar.edu/). 
+- I'm only calling out the resource here; not actively utilizing their notes for the explanation in this section.
+- These were available when I went through Calculus myself back in early 2010's.
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
     - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trigonometry) and you'll fail it without solid foundations and understanding in those areas. 
 
@@ -213,15 +216,15 @@ I can, however, tell you once you understand higher level math (the what) and un
     - ∫∫∫ (Triple integral) = Continuous accumulation of change in 3 dimensions (dt³) (e.g. volume of a cube)
 
 These are the most common (and "basic") forms of integrals and derivatives I've encountered within Calculus when I went through it. How to solve them, their nuances, and associated theorems behind them are beyond the scope of this chapter, but exposure to concepts is still useful here.
-- You may also see closed line integrals (∮) and closed surface integrals (∯). They function similarly to line integrals and double integrals, except closed line integrals are over a closed curve and closed surface integrals are over a closed surface.
+- You may also see closed line integrals (∮) and closed surface integrals (∯). They function similarly to line integrals and double integrals, except closed line integrals are over a closed curve and closed surface integrals are over a closed surface, like their name implies.
 
 There's two other notations which are *similar* to the above, but aren't considered change.
-- Σ (Sigma) = Finite sum (addition) of discrete changes
+- Σ (Sigma) = Finite sum (i.e. addition) of discrete terms
     - E.g. sum(i=3 to 6) 3i -> (3x3) + (3x4) + (3x5) + (3x6) = 36
-- Π (Capital pi) = Finite product (multiplication) of discrete terms
+- Π (Capital pi) = Finite product (i.e. multiplication) of discrete terms
     - E.g. product(i=3 to 6) 3i -> (3x3) x (3x4) x (3x5) x (3x6) = 29160
 
-To more practically explain one form of derivative and integral relationships, I'll draw from physics and use displacement (x), velocity (v), and acceleration (a). Each of these derivatives/integrals is measured with respect to (w.r.t.) time (dt).
+To showcase an application of Calculus, I'll draw from physics and use displacement (x), velocity (v), and acceleration (a). Each of these derivatives/integrals is measured with respect to (w.r.t.) time (dt).
 - Derivative of displacement w.r.t. time is velocity, which is rate of change of position over time.
     - v = dx/dt
 - Derivative of velocity w.r.t. time is acceleration, which is rate of change of velocity over time.
@@ -238,7 +241,7 @@ In oversimplified terms, derivatives are like the slopes of a function and integ
 Its applications are in areas you may expect, like engineering, physics, and architecture, and areas you would not expect, like retail stores. Here's some further examples of Calculus applications below:
 - In physics: solve for velocity and acceleration, like in the example above, but also determine work and energy. 
 - In engineering: optimize systems, calculate material stress, fluid dynamics, and simplifying complex systems into algebraic equations for applied engineering problems.
-- In finance and data science: costs, profits, trends, seasonality, and rate of production.
+- In finance and data science: revenue, cost, profit, trends, seasonality, and rate of production.
 - In medicine and biology: population dynamics, drug diffusion (concentration over time), and resource consumption rates.
 
 If there's any problem in any field involving rate of change or accumulation of change over time or space, Calculus is a tool potentially able to make a solution for it. Calculus remains an *extremely* powerful way to model, predict, and optimize.
@@ -250,20 +253,24 @@ This also isn't a call to ignore math as a discipline or disrespect math either.
 
 ### **Beyond Calculus**
 
-I'll admit: many people don't *need* to go beyond basic Calculus. If we're going off purely benefits vs time investment, you're typically better off solidifying foundations and basics ten times over instead of building up a (potentially) precarious foundation. Don't compromise creativity and ability to problem solve here if it's not necessary.
+I'll admit: many people don't *need* to go beyond basic Calculus. There's even an argument that you don't need Calculus either. Sometimes things *look* like simple algebraic equations, but have a long and complicated proof steeped in higher-level math. 
 
-It's like how you can recall a topic and the general direction of what you need, then use a search engine like Google to find the details. The average person can stand upon the shoulders of giants and benefit from the collective knowledge of humanity throughout time.
+If we're going off purely benefit vs time investment, you're typically better off solidifying foundations in lower math ten times over instead of building upon a (potentially) precarious foundation with higher math. Don't compromise creativity and ability to problem solve here if it's not necessary.
 
-In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent; just more abstract and dependent on your notion of numbers. It's not quite like throwing an empty canvas at your face and telling you to paint whatever you want and disregard any rules you know of, but it certainly eliminates some guardrails you might've been comfortable with.
+It's like how you can recall a topic and the general direction of what you need, then use a search engine like Google to find the details. The average person can stand upon the shoulders of giants and benefit from the collective knowledge of humanity throughout time. Additionally, many equations available for professionals are already condensed down into far more basic, algebraic forms catered for "plug in values and it works" functionality.
 
-That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder.
+In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent, but instead more abstract and dependent on your notion of numbers. In an amusing way, you get to explore and stretch the limits of art. It's not quite like throwing an empty canvas at your face and telling you to paint whatever you want and disregard any rules you know of though, but it certainly eliminates guardrails you might've been comfortable with.
+
+That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder. Hopefully you practiced creative thinking, critical thinking, and problem solving skills before this point!
 
 When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* You have to argue *why* an equation, formulae, or theorem works the way it does. These proofs are not necessarily exclusive to higher math, and could be learned at an early age, but are definitely more abundant in higher math. Depending on how math was taught to them, someone may've experienced proofs far earlier in their learning journey.
 
-Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it followed the rules.
-- In other words, you're learning more how you can solve things without numbers readily available and deterministic models unavailable.
+Why proofs matter is because you need to convince people that something is true. Getting into the dark underbelly of proofs *too* early is counterproductive though, like an untrained person trying to tackle the nuances of an attorney on their first day. You may be fine with simple proofs initially, however, especially when an instructor's goal is seeing if you can reason through them from day one rather than waiting 2-3+ years before more complex proofs are introduced.
 
-You encounter more words with precise meanings, such as if, then, when, such, or, and, else, and so on. You deal with far more variables and symbols as placeholders, which is tantamount to death by a thousand cuts if you never got the foundations down. Sometimes things *look* like simple algebraic equations, but have a long and complicated proof steeped in higher-level math.
+A lot of earlier math is taught based around several proofs and assumptions as well, such as X is used to solve this problem, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it follows the rules.
+- In other words, higher math is learning more how you can make your own proofs to solve things without numbers readily available and deterministic models unavailable.
+
+You encounter more words with precise meanings, such as if, then, when, such, or, and, else, shall, may, and so on. You deal with far more variables and symbols as placeholders, which is tantamount to death by a thousand cuts if you never got your foundations down. 
 
 Additionally, what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling:
 - ∀ (turned A) = "For all" or "for every"
@@ -271,28 +278,12 @@ Additionally, what you *could* say in ordinary language, like English, now gets 
 - ∈ = Belongs in a set, such as "is in," "belongs to," "element of," or " "is a member of"
 - { } (Braces or curly brackets) = Set, or collection of elements (e.g. {1,2,3})
 
-With just that small sample, you can make something like this:
+With just that small sample, I can make something like this:
 - ∀x ∈ ℕ, x ∈ {1,2,3} ⇒ x ≤ 3
 
-Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3." What I just showed you is an example of using mathematics as a way of explanation. It's like art: its symbols, variables, and markings convey many words in a special way like how a picture might speak a thousand words. 
+Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3." What I just showed you is an example of using mathematics as a form of communication. It's like art: its symbols, variables, and markings convey many words in a special way like how a picture might speak a thousand words. 
 
-At least half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
-
-As a reminder, I'm not expecting the average reader to go above and beyond to the level where they, for example, [seamlessly interpret the entirely of Kimi Linear](https://arxiv.org/abs/2510.26692). Knowing the high-level concepts will suffice for most cases.
-
-### **What about Machine Learning?**
-
-Normally I'd place this under beyond Calculus, but it's its own section due to popularity of AI at the time of writing.
-
-You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about supervised vs unsupervised learning, structured vs unstructed data, streaming vs batching, and what even is machine learning without too much difficulty. The basics are doable.
-
-The next stage is going into the high-level overview of concepts, like linear regression, gradient descent, hyperparameters, learning rate, and so on. I could give you a less technical explanation of these and you might go away with understanding it just fine.
-
-The issue is when you need to go *beyond* high-level overviews and working with them in practice. For example, while you could do most problems with a small amount of theory on methods like logistic regression, random forests, and transformers as well as tools like Docker and SQL, that still leaves a small, but significant, set of problems. 
-
-At that point, the math provided in high-level math courses like Calculus, Linear Algebra, Optimization, Game Theory, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
-
-If your goal is to get into and/or work with machine learning, you'd best learn math.
+At least half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown. Knowing the high-level concepts will suffice for most cases and many readers will more commonly use basic arithmetic for problems throughout their lives.
 
 ## **Bibliography**
 
@@ -308,10 +299,5 @@ If your goal is to get into and/or work with machine learning, you'd best learn 
 
 3. U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), various years, 1990–2024 Mathematics Assessments.
     - Alt: *NAEP Mathematics: Performance Trends for States and Districts.* (2024). Nationsreportcard.gov. [https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4)
-
-4. Wikipedia contributors. (2025, December 17). *Glossary of mathematical symbols.* Wikipedia. [https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
-    - The specific section is ISO 80000-2 available at this link: [https://www.iso.org/standard/64973.html](https://www.iso.org/standard/64973.html)
-
-5. Zhang, Y., et al. (2025). *Kimi Linear: An Expressive, Efficient Attention Architecture.* ArXiv.org. [https://arxiv.org/abs/2510.26692](https://arxiv.org/abs/2510.26692)
 
 ## **[Next Chapter](Z007y_Probability_And_Statistics.html)**

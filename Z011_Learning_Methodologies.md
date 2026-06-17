@@ -92,7 +92,7 @@ Literacy is important for understanding *every* subject they'll experience as pa
 6. Let them read what they enjoy reading and not force any particular reading on them.
     - Except for *blatantly* inappropriate material. Maybe say no to erotica, for example.
 
-Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? It depends, but there's evidence present showing it's possible well-structured homeschooling does better than institutional (i.e. public/private) schooling, but unstructured homeschooling does significantly worse (Martin-Chang et al., 2011). Well-structured homeschooling, in this case, heavily implies sufficient parent/guardian involvement is present to fully meet or exceed all benefits a formal education system provides instead. A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success.
+Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success.
 
 One major problem to address is when you take students away from a facility, organization, etc. that utilizes *the education system's* resources to educate them. There's multiple sources of funding and pre-vetted educational materials going into established schools and education systems; not just from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden leans more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your state of residence.
 - For the United States specifically, these laws may be found on the Internet by searching for "homeschool" + name of state + "Department of Education" or other, similar search results.
@@ -160,8 +160,6 @@ If you're trying to hold students to *one* consistent standard, but are differen
 ### **Differentiation As Flexible Instruction**
 
 Where differentiation works exceedingly well is in tutoring or one-on-one instruction, or differentiation as flexible instruction, with the resources to support it. In this case, there's one teacher to one student, so a teacher only needs to create one distinct (i.e. "differentiated") method of teaching optimized for that one student's learning. Designing scaffolds to get students participating is also significantly less complex. The likelihood of accomplishing multiple differentiations in general classrooms decreases quickly as the number of students to accommodate increases.
-
-The 2-sigma problem, as shown by Benjamin Bloom, also shows statistical significance between students receiving differentiated instruction in a one-on-one setting vs conventional instruction (1984). There's also a philosophy by Bloom indicating mastery of prerequisite knowledge is important before moving on to new knowledge.
 
 Though technological advancements now provide online tutors, cognitive tutors, and learning systems/platforms, the reality of one-on-one instruction for ideal differentiation is often still out of reach. It could be because it's financially infeasible, or too costly, for societies to handle reliably and maintain at scale. Because of this infeasibility, it's why modern differentiation may appear closer to methods of group instruction aiming to be as close to effective as one-on-one instruction.
 
@@ -318,7 +316,6 @@ You want to save time. Non-questions waste time and students who ask these types
 The *only* exceptions here are if you're addressing medical concerns or assisting people with specific accommodations. If neither of those apply, then save time where you can and expect *specific* questions from students.
 
 If you want a solution, you could create something like productive struggle time where they are not allowed to ask for help. Do keep that timeframe limited though or else you may do more harm than good.
-- One example of "productive failure" comes from Kapur (2016).
 
 ### **The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
 
@@ -501,9 +498,6 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 
 1. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-2. Bloom, B. S. (1984). *The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring.* Educational Researcher, 13, 4-16.
-[http://dx.doi.org/10.3102/0013189X013006004](http://dx.doi.org/10.3102/0013189X013006004) 
-
 2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
 
 2. CAST. (2024). *Universal Design for Learning.* CAST. [https://www.cast.org/what-we-do/universal-design-for-learning/](https://www.cast.org/what-we-do/universal-design-for-learning/)
@@ -515,20 +509,16 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 4. The Cognition and Technology Group at Vanderbilt. (1990). *Anchored Instruction and Its Relationship to Situated Cognition*. pp. 2–10. American Educational Research Association.
 
 3. Ebbinghaus, H. (1885/1913). *Memory: A contribution to experimental psychology.* New York: Teachers College, Columbia University.
-    - (For Future Reading) Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+    - Alternate Reference: Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
 
 3. Federal Ministry of Justice. (2022, December 19). *Basic Law for the Federal Republic of Germany.* Gesetze-Im-Internet.de. [https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html)
 
 3. Finnish National Agency for Education (EDUFI). (2026, April 14). *Homeschooling*. [https://www.oph.fi/fi/koulutus-ja-tutkinnot/kotiopetus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/kotiopetus)
     - The original text is in the Finnish language, so what is cited is an attempted translation.
 
-3. Kapur, M. (2016). *Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning.* Educational Psychologist, 51(2), 289–299. [https://doi.org/10.1080/00461520.2016.1155457](https://doi.org/10.1080/00461520.2016.1155457)
-
 5. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
 
 3. Mark, G., Gonzalez, V., Harris, J., & Bren, D. (2005, April). No Task Left Behind? Examining the Nature of Fragmented Work. [https://ics.uci.edu/~gmark/CHI2005.pdf](https://ics.uci.edu/~gmark/CHI2005.pdf)
-
-5. Martin-Chang, S., Gould, O. N., & Meuse, R. E. (2011). *The impact of schooling on academic achievement: Evidence from homeschooled and traditionally schooled students.* Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement, 43(3), 195–202. [https://doi.org/10.1037/a0022697](https://doi.org/10.1037/a0022697)
 
 5. McLeod, S. (2024, August 9). *Vygotsky’s Zone of Proximal Development.* ResearchGate. https://www.researchgate.net/publication/383563118_Vygotsky%27s_Zone_of_Proximal_Development
 

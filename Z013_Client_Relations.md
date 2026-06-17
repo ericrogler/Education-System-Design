@@ -495,7 +495,7 @@ My favorite PD days were typically:
 
 1. Indeed Editorial Team. (2025, December 15). *The Airport Test: What It Is and Why Employers Use It.* Indeed Career Guide. [https://www.indeed.com/career-advice/interviewing/airport-test](https://www.indeed.com/career-advice/interviewing/airport-test)
 
-1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video. Episode Name: “Hard Times”
+1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video. Episode Name: “Hard Times.”
 
 1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
 

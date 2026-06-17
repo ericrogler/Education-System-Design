@@ -149,8 +149,6 @@ If knowledge blockers *are* encountered, the next question is whether or not the
 
 3. *Revit Subscription and License FAQs - Autodesk.* (2025). Autodesk.com. [https://www.autodesk.com/solutions/revit-subscription-faq](https://www.autodesk.com/solutions/revit-subscription-faq)
 
-5. Thomas A. Edison Quotes (2026). Goodreads.com. [https://www.goodreads.com/author/quotes/3091287.Thomas_A_Edison](https://www.goodreads.com/author/quotes/3091287.Thomas_A_Edison)
-
 4. U.S. Geological Survey. (n.d.). *USGS TopoView*. [https://ngmdb.usgs.gov/topoview/](https://ngmdb.usgs.gov/topoview/)
 
 ## **[Next Chapter](Z007_Metrics_Of_Success.html)**

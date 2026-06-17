@@ -162,7 +162,6 @@ The accommodation is generally reasonable, but depends on available resources an
 
 I'd also avoid calling a student "gifted" in the first place. It places an unspoken expectation of perfection on the student and anything less puts them under more stress than necessary. If I emphasize talent over effort, I'm more likely to see students collapse under pressure and spiral into depression and learned helplessness when, *not if*, talent alone cannot succeed.
 - Sure, talent/affinity exists, but riding on that without effort is a recipe for disaster.
-- Two examples are from Aronson et al. (2002) and Dweck et al. (2014).
 
 To clarify an earlier point: a student needs to have an exceptionally strong understanding of basics first before entering a gifted program. Without a strong foundation, they risk stumbling quickly and falling behind other peers instead of accelerating as intended.
 
@@ -538,9 +537,7 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
 
 1. American Psychological Association (APA). (2026). *Students Experiencing Anxiety*. Apa.org. [https://www.apa.org/ed/schools/primer/anxiety](https://www.apa.org/ed/schools/primer/anxiety)
 
-1. Amy, J. (2025, August 21). Cellphone bans are changing US classrooms. AP News. [https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060)
-
-2. Aronson, J., Fried, C., & Good, C. (2002). *Reducing the Effects of Stereotype Threat on African American College Students by Shaping Theories of Intelligence.* Journal of Experimental Social Psychology, 38, 113–125.
+1. Amy, J. (2025, August 21). *Cellphone bans are changing US classrooms.* AP News. [https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060)
 
 2. Burgess, M. (2026, April 15). *The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought.* WIRED. [https://www.wired.com/story/deepfake-nudify-schools-global-crisis/?utm_source=firefox-newtab-en-us](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/?utm_source=firefox-newtab-en-us)
 
@@ -549,8 +546,6 @@ Nevertheless, even if it isn't an accommodation itself, the situation can show u
 2. Center for Accessible Education. (n.d.). *Why do universities provide accommodations?* UCLA. [https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations](https://cae.ucla.edu/faculty-handbook/why-do-universities-provide-accommodations)
 
 1. Dice, J. P., Gonzalez-Reyes, E. (2024, April 25) *Physical (inducible) urticaria.* UptoDate. [https://www.uptodate.com/contents/physical-inducible-urticaria](https://www.uptodate.com/contents/physical-inducible-urticaria)
-
-1. Dweck, C. S., Walton, G. M., & Cohen, G. L. (2014). Academic Tenacity Mindsets and Skills that Promote Long-Term Learning. [https://ed.stanford.edu/sites/default/files/manual/dweck-walton-cohen-2014.pdf](https://ed.stanford.edu/sites/default/files/manual/dweck-walton-cohen-2014.pdf)
 
 1. Kulow, M., & Missirian, D. (2019). *Building STEPs Down the Precipitous Cliff from University to Workplace: A Proposal to Modify Regulation of Higher Education Mental Disability Accommodations.* Texas Journal on Civil Liberties & Civil Rights (U Texas Austin), 24(2). [https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf](https://sites.utexas.edu/tjclcr/files/2022/11/DelPo-Missirian_Building-STEPs-down-the-Precipitous-Cliff-from-University-to-Workplace.pdf)
 

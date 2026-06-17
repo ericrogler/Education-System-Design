@@ -64,7 +64,7 @@ For more experienced teachers, the amount of time outside of work you get back g
 
 ### **The Environment Itself**
 
-Being in a stressful and chaotic environment isn't good for you. For children and younger students especially, adversity, unpredictability, and household chaos are associated with poorer adolescent health (Pu et al., 2025). Generally speaking, education systems and their facilities, when done correctly, should be safe places where students can experience a "sense of normalcy" and better focus towards their studies, activities, and so on.
+Being in a stressful and chaotic environment isn't good for you. Generally speaking, education systems and their facilities, when done correctly, should be safe places where students can experience a "sense of normalcy" and better focus towards their studies, activities, and so on.
 
 As a hypothetical: if an educational facility has fights every day, furniture getting broken, and injuries often sustained on both students and staff, then a student's concerns may shift from education to safety. If they're overly focused on their own safety and well-being, that leaves little room for them to focus on education. If an education system does not ensure safety needs are met, you risk creating an unsafe environment unfit for any proper education.
 
@@ -80,7 +80,7 @@ Despite providing what's usually perceived as an honorable service to society, I
 
 Maybe there's too many debates about what educators are responsible for or they encompass too many roles at once. I'm not sure the reason myself, but it does leaves things ambiguous and morally/ethically questionable at least.
 
-Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with, such as the [the National Society of Professional Engineers](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021).
+Considering all of this, it may be prudent to adopt another creed with similar aspirations and goals in the meantime, like the Engineers' Creed I've been familiar with, such as the [the National Society of Professional Engineers (NSPE)](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed) (2021).
 - If you cannot think of something to abide by, consider something similar to the above to provide *some* sort of moral and ethical compass.
 
 ### **A List of Things to Consider**
@@ -175,7 +175,7 @@ It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet ever
 
 3. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. [https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html](https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html)
 
-4. *Engineers’ Creed - National Society of Professional Engineers.* (2021). Nspe.org. [https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed)
+4. National Society of Professional Engineers (NSPE). (2021). *Engineers’ Creed.*  Nspe.org. [https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed](https://www.nspe.org/career-growth/ethics/more-ethics-resources/engineers-creed)
 
 5. Rosvold, E.O. (2004, September 1). *Doctor, Don’t Treat Thyself.* Patient Safety Network.[https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself](https://psnet.ahrq.gov/web-mm/doctor-dont-treat-thyself)
 
@@ -183,9 +183,7 @@ It's used to treat mild pain fevers. A common dosage is a 600-1000mg tablet ever
 
 5. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. [https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating](https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating)
 
-5. Occupational Safety and Health Administration (OSHA). (2023). Workplace Stress - Overview.Occupational Safety and Health Administration. Www.osha.gov. [https://www.osha.gov/workplace-stress](https://www.osha.gov/workplace-stress)
-
-6. Pu, Q., Luo, Y., Niu, L., Luo, R., Yang, Z., & Chen, F. (2025). *Associations between household chaos and mental health in adolescents: The role of parent-adolescent relationship and adolescent resilience.* Children and Youth Services Review, 108312–108312. [https://doi.org/10.1016/j.childyouth.2025.108312](https://doi.org/10.1016/j.childyouth.2025.108312)
+5. Occupational Safety and Health Administration (OSHA). (2023). *Workplace Stress.* Occupational Safety and Health Administration. Www.osha.gov. [https://www.osha.gov/workplace-stress](https://www.osha.gov/workplace-stress)
 
 6. Scheerer, R. (1989, July 10). *Star Trek: The Next Generation* (Kemper, D., Writer; No. 21) [Television Broadcast “Peak Performance”].
     - Season 2, Episode 21

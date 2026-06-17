@@ -44,18 +44,15 @@ For both ways, I like these two quotations:
 > "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."
 - Former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002)
 
-There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. A fourth category was observed and added by Steve Rayner (2012), called "uncomfortable knowledge," are unknown knowns. To sum each category:
+There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. To sum each category:
 
 **Known Known**: Knowledge and skills gained through effort and time.
 
 **Known Unknown**: Familiarity with areas you lack detailed understanding on (breadth vs depth).
 
-**Unknown Known**: Biases, judgments, and unreviewed or unchecked beliefs.
-
 **Unknown Unknown**: Information neither known or anticipated.
 
 ### **Exploring Outside Your Field**
-Though Rumsfeld mentions unknown unknowns as difficult, I'd also categorize unknown knowns as equally challenging. Beliefs, suppositions, and practices we do not know of may form the values we know of, follow, and practice.
 
 For curricula and meeting standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching. For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. 
 
@@ -164,7 +161,6 @@ Additionally, some people conducting the research on education and classrooms ma
 All the theory in the world cannot fully correct problems at a real-life, systemic level. At its best, the theory is implemented and can solve a *set* of problems in a class, but not the entire classroom system as a whole at varying success. At its worst, the theory falls apart completely, or is adjusted to suit the interests of its implementers, and may make the classroom environment much worse.
 
 Not all educational research is bad. Some research is good and research on how to make a more effective and efficient classroom is something each party should have an interest in, including teachers. Nevertheless, be mindful of how research is conducted and how well it translates to real-life scenarios.
-- For example, observing how well some publications fare on [reproducibility](https://www.nature.com/articles/s41586-026-10203-5), [robustness](https://www.nature.com/articles/s41586-025-09844-9), and [replicability](https://www.nature.com/articles/s41586-025-10078-y) (Tyner et al., 2026)(Miske et al., 2026)(Aczel et al., 2026)
 
 ### **The Many Authors Problem**
 
@@ -194,62 +190,46 @@ These experts you should happily accept into helping design an education system,
 
 ## **Bibliography**
 
-1. Aczel, B., Szaszi, B., Clelland, H.T. et al. (2026) *Investigating the analytical robustness of the social and behavioural sciences.* Nature 652, 135–142. [https://doi.org/10.1038/s41586-025-09844-9](https://doi.org/10.1038/s41586-025-09844-9)
-
 1. Brewer, C. A. (2016). *Designing better maps: A guide for GIS users.* Esri Press. [https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401](https://www.amazon.com/Designing-Better-Maps-Guide-Users/dp/1589484401)
-    - Further Reading Source
 
 2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning.* The Belknap Press of Harvard University Press.
-    - Further Reading Source
 
 3. Duarte, N. (2010). *Resonate: Present visual stories that transform audiences.* John Wiley & Sons, Inc.
-    - Further Reading Source
 
 4. Greever, T. (2015). *Articulating design decisions: Communicate with stakeholders, keep your sanity, and deliver the best user experience.* O'Reilly Media, Inc.
-    - Further Reading Source
 
 5. Hall, E. (2024). *Just Enough Research.* Mule Books. [https://www.amazon.com/Just-Enough-Research-Erika-Hall-ebook/dp/B0DJWS2SL1](https://www.amazon.com/Just-Enough-Research-Erika-Hall-ebook/dp/B0DJWS2SL1)
-    - Further Reading Source
 
 6. Harvard Library. (n.d.). *Evaluating Sources.* [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
 7. Henderson, R. (2022, June 12). *Luxury Beliefs are Status Symbols.* www.robkhenderson.com. [https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 
 1. Inoue, T. (2003). *Vagabond* (Vol. 4). VIZ Media LLC. (Original work published 1999). ISBN: 978-1-56931-854-6
+    - Translation from Japanese to English.
 
 7. Kansas State University Libraries. (n.d.). *Evaluate Sources.* [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 
 8. Knaflic, C. N. (2025). *Storytelling with data.* [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
 
 9. Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to solve big problems and test new ideas in just five days.* Simon & Schuster. [https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
-    - Further Reading Source
 
 10. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
-    - Further Reading Source
 
 11. McCandless, D., et al. (n.d.). *Information is beautiful.* [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
-13. Miske, O., Abatayo, A.L., Daley, M. et al. (2026). *Investigating the reproducibility of the social and behavioural sciences.* Nature 652, 126–134. [https://doi.org/10.1038/s41586-026-10203-5](https://doi.org/10.1038/s41586-026-10203-5)
-
 13. Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee.
-    - Further Reading Source
 
 14. Python Graph Gallery. (n.d.). *The Python graph gallery.* [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
-
-15. Rayner, S. (2012, February 9). *Uncomfortable knowledge: The social construction of ignorance in science and environmental policy discourses: Economy and society: Vol 41, no 1.* Taylor & Francis Online. [https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335](https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335)
 
 16. Sheppard, T. (1895, December). On the occurrence of Scandinavian boulders in England. *The Glacialists’ Magazine: A Quarterly Record of Glacial Geology, 3*(3), 129–132. F. H. Butler. [https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152](https://babel.hathitrust.org/cgi/pt?id=uc1.b4182734&seq=152)
 
 18. Taleb, N. N. (2012). *Antifragile: Things That Gain from Disorder*. Random House. ISBN: 1-400-06782-0.
-
-17. Tyner, A.H., Abatayo, A.L., Daley, M. et al. (2026). *Investigating the replicability of the social and behavioural sciences.* Nature 652, 143–150. [https://doi.org/10.1038/s41586-025-10078-y](https://doi.org/10.1038/s41586-025-10078-y)
 
 17. Ulrich, R., & Miller, J. (2020). *Questionable research practices may have little effect on replicability.* ELife, 9. [https://doi.org/10.7554/elife.58237](https://doi.org/10.7554/elife.58237)
 
 17. *United States Department of Defense.* Defense.gov Transcript: DoD News Briefing - Secretary Rumsfeld and Gen. Myers. (2002, February 12). [https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636](https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636)
 
 18. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing.
-    - Further Reading Source
 
 
 ## **[Next Chapter](Z009_Communication_Design_Usability.html)**
