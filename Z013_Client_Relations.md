@@ -130,6 +130,8 @@ There's usually less consideration or grief directed at others influencing the p
 
 Within both simple and complex systems, complaints flow downstream to the most visible participant in a system even if they're not responsible. This isn't limited to only instructors and developers either; any front-facing role may face these same issues.
 
+When evaluating claims about consequences, rigor, and standards in education, the opinions of educators should generally carry more weight. Due to their frontline nature across education systems, educators are usually more exposed to the long-term outcomes of what happens within education, including evidence and patterns, other stakeholders (like students, parents, administrators, etc.) may not observe. Visibility into a system does not equal authority in a system, but both are important to enact any meaningful changes.
+
 ### **External Stakeholders and Investors/Donators**
 
 You could include "higher ups" here if you wish. I won't mind. A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education. 

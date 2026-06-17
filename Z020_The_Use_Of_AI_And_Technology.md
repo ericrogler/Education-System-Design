@@ -208,6 +208,8 @@ I would say technology goes too far though when it displaces *people* from the c
 
 In particular, screen time is one issue where people have uncontrollable desires to stare at electronic screens and, as a result, may impair other areas of life (Sampasa-Kanyinga et al., 2022). Additionally, from researchers like Sampasa-Kanyinga et al., there's strong evidence suggesting excessive technology is associated with lower academic performance.
 
+As a personal opinion, 1:1 device policies, such as each student getting assigned a computer, I find partially in
+
 ### **AI in General**
 
 **If you use technology, you should be held accountable for its outputs.** 
@@ -287,35 +289,6 @@ The lack of a one-size-fits-all, easy solution is intentional for many tasks. On
 To go back to eggs yet again: essential complexity, in this case, is the system and interactions of finding, preparing, and serving the eggs for human consumption. Accidental complexity is a countless array of other steps one could take to reach that same conclusion, such as substitutions, alternative cooking methods, and more. That complexity builds significantly faster when you automate a "generalist" to do everything rather than a "specialist" to do only a limited set of items. In all cases, automation complexity increases as the number of systems and interactions behind tasks in general also increase.
 
 The very nature of cooking has complexity built into it no matter which steps you take. If you're careless, the entity doing the request will work based on what it knows, guess what it doesn't know, and try to meet requirements based on what you describe whether the result is good or bad. It doesn't stop at just cooking either; this example can span across myriad fields and situations.
-
-### **The Akinator Files**
-
-When I was much younger, there was a web browser game called Akinator.
-
-Is it AI? Nope, it was basically a binary search tree.
-- I'm aware that's a massive oversimplification; don't worry.
-
-Did it look like magic to the younger me? At the time, yes.
-
-The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were:
-- Yes
-- No
-- Don't Know
-- Probably
-- Probably Not
-
-While there's multiple choices, the values recorded are either 0 or 1. Don't know, probably, and probably not affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
-
-In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that is 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8.6 billion people* on Earth.
-
-The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
-
-To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. It moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
-- In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtrack a few nodes/steps.
-
-If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the answers you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
-
-Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
 
 ### **AI in Education**
 

@@ -18,18 +18,11 @@ nav_order: 8
 
 If the previous chapter focused on how you interface with your organization as it grows, this chapter focuses on managing people and communications during operations and events as the number of people you're overseeing increases.
 
-As a reminder, scaling up typically involves things like:
-- New layers of management
-- Specialization of roles
-- Generalization of procedures to follow
-- Formalization of communication and meetings
-- Difficulty in cross-team communications and organizational communication
-
 In general, you want to ensure standard procedures and rules are covered and understood first *before* diving into content.
 
 After procedures are established and everyone knows what should be done in their given position, you focus on optimizing communications to ensure operations proceed effectively, efficiently, and without issues. The difficulty of communicating exponentially skyrockets as more networks to communicate on and the number of people to communicate with increase.
 
-As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate, calmly assess the situation, consider available actions, then act. Applies to many cases and not just aviation.
+As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate yourself, calmly assess the situation, consider available actions, then act. Applies to many cases and not just aviation.
 - Delaying a reaction is a skill you can train, afterall.
 
 **The closer leadership is to consequences of actions, the faster their response to address it.**

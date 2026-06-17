@@ -42,7 +42,7 @@ In general:
     - This *doesn't* mean avoiding throwing them into the fire for learning.
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
 6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction, then you're fighting an uphill, or even losing, battle constantly.
-7. **Rigor requires maintaining standards and allowing the possibility of failure.**
+7. **Rigor requires maintaining standards and allowing the possibility of failure for ALL students.**
 
 **Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. When designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
 - It's extremely difficult and complex to scaffold and differentiate for every *individual* student, but you can definitely scaffold for *groups* of students.

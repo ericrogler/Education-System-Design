@@ -110,7 +110,7 @@ Despite the potential desire to explain proofs and reasoning to students, some s
 
 ### **Back to the Basics**
 
-In art, you may need to learn how to hold a brush before you can paint. The same concept applies to mathematics.
+In art, you may need to learn how to hold a brush before you can paint. The same concept applies to mathematics. That also includes all the frustration involved with learning about how to use a brush.
 
 Basics includes items like functions, decimals, percentages, fractions, times tables, and rudimentary algebra. This also includes operations with integers (basic integer work), mental math, subtract, divide, add, multiply, doing math without a calculator, the nature and use of a proof, and more. Many of these basics require *memorization* as well.
 
@@ -130,17 +130,17 @@ Reading is important because... well, if you cannot read, then you'll be unable 
 
 Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
 
-If I were to tell you what minimum level of mathematics a functional adult should go through sometime in their life or have an intuition of, whether through self-learning or formal education, I would say the following:
+If I were to tell you what minimum level of mathematics a functional adult should go through at least sometime in their life or have an intuition of, whether through self-learning or formal education, I would say the following:
 - *Basic* Data Analysis
 - Calculus
     - *Which also means Algebra and Trigonometry*
 - Probability
 - Statistics
 
-If I were to tell you what minimum level of mathematics every student should leave an education system with, because they're likely to use it in "real life" and I'd want them prepared for when math is used against them, it's the following:
+If I were to tell you what minimum level of mathematics every student should leave an education system with, because they're likely to use it in "real life" and I'd want them prepared for problems utilizing math, it's the following:
 - Arithmetic (Addition, Subtraction, Multiplication, Division)
 - Mental math and Number Sense (e.g. 7x7 or 6x21 solved quickly without a calculator)
-- Logic Rules (True/False and If/Then/Else)
+- Mathematic Logic or at least Propositional Logic (e.g. True/False, If/Then/Else, And/Or/Xor, equivalence, and implications)
 - Fractions, Percentages, and Ratios 
     - e.g. a 1/3 pound hamburger has more meat than a 1/4 pound hamburger
 - Algebra (i.e. Abstraction)
@@ -150,8 +150,9 @@ If I were to tell you what minimum level of mathematics every student should lea
     - e.g. a d10 consistently has a higher average than a d8, despite a larger range of numbers
 - Communication & Data Interpretation
     - e.g. correctly reading graphs of various types, like bar and line charts
+- Knowing how to apply Mathematics
 
-These minimums are important because without them, future learning for students may become exercises in memorization rather than understanding of material. While I list mathematics examples here, the same principle applies towards other fields and core subjects, like science, literature, and history.
+These minimums are important because without them, future learning for students may become exercises in memorization rather than understanding of material. While I list mathematics examples here, the same principle applies towards other fields and core subjects, like science, literature, philosophy, engineering, computer science, and history.
 
 ### **"But I'll Never Use This"**
 

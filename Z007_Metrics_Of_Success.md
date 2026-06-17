@@ -333,12 +333,14 @@ It's also possible to "game" this metric by managing the test-taking population 
 - Over-identification of accommodations for students on tests, such as extended time.
 - Getting low-scoring students to not appear on test days
 
-State tests and standardized tests are usually the subjects of these metrics. If, however, these metrics are defined as success criteria, especially with money attached, some things may happen at a school:
+State tests and standardized tests in general are usually the subjects of these metrics. If, however, these metrics are defined as success criteria, especially with money attached, some things may happen at a school:
 - Curricula shifts to focus heavily on tested subjects.
 - Subjects not covered on these tests may be outright neglected or glossed over.
 - Skills not tested or harder to assess on tests may be sidelined in favor of easily defineable skills.
 - Education goes from genuine learning, understanding, and discovery to a factory churning out high test scores.
 - Accountability may be sacrificed if it means increasing the metric.
+
+If you eliminate tying standardized test scores to funding, for example, you can remove a major perverse incentive treating them like a target rather than the metric as diagnostic. The same could be said for softer comparisons too, such as "how well I score on these tests determines how much candy I get." Even if you remove any wealth incentives, you still risk neglecting certain subjects and content to laser focus on test performance.
 
 To maximize this metric, you may risk the well-being of both high-performing and low-performing students, which indicates failure in equitable education for all students.
 
@@ -361,13 +363,13 @@ These acts are responsible for establishing metrics as a target to meet, which m
 
 While these acts provide data for metrics and analysis, doing so at the cost of preventing funding for education is where it goes sour. Even if you did hide the inputs (the test scores and their results), a savvy person could deduce the outputs (funding) over time. Since these standards are tied to money, which a lot of people want and need, deviating from these standards is frowned upon, if not outright barred, in many education systems. This may mean more focus on the test(s) and its results, but perhaps at the cost of any actual learning and thinking.
 
-### **Misalignment Case: IB vs Implementation**
+### **Misaligned Goals vs Misaligned Metrics**
 
-International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of the mission statement vs metrics presented in a hypothetical.
+International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program, nor should be treated as defamation of any kind. Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.), and I use that as my own mission statement here. 
 
-Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing education specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
+That could imply many things, such as learning through trial by fire, providing accommodations to assist with development, or designing education specifically for students with higher abilities and self-motivation. Across all these things, however, *the goal is still learning.*
 
-The metrics that administration, or other people responsible for implementing programs like IB into an institution, may instead care about grades, graduation rates, student retention rates, and test scores.
+The metrics that administration may care about are grades, graduation rates, student retention rates, and test scores over the quality of the content actively taught to students.
 
 This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Each party utilizes the same metrics, perhaps even required to use some metrics, but placing different weights on those metrics. Neither side is completely at fault nor unreasonable here. Performing well on these metrics may equal job security, so there is incentive for individuals and organizations to align with metrics.
 
@@ -375,7 +377,7 @@ One group wants to ensure high-quality learning goals are met while the other gr
 
 The program offered by one group may also not match the existing system it's trying to fit into. If that occurs, then you're looking at extra work, cumbersome overlapping, and excessive overhead on the part of staff, teachers, administration, students, etc. Though the system may be excellent or great for whomever it's catered to, it requires buy-in and compatibility with the current system(s) to mitigate undue issues down the line.
 
-The easiest to state, but hardest to do, solution is simple: You need full buy-in or no buy-in (i.e. appropriate, QUALITY support/resources and student desire to enter those programs) for initiatives like these. Adapting a program into an existing monoculture, or an inflexible one, without setting up the supports and foundation means you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curriculums are all in the same campus area at universities.
+The easiest to state, but hardest to do, solution is straightforward: You need full buy-in or no buy-in (i.e. appropriate, QUALITY support/resources and student desire to enter those programs) for initiatives like these. Adapting a program into an existing monoculture, or an inflexible one, without setting up the supports and foundation means you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curriculums are all in the same campus area at universities.
 - To put it like I'm in a negotiation: "Yes, we'll add this program on the condition we get resource A, B, and C before this stated time. If this is not feasible, we will not do it."
 
 ### **Open Enrollment**
