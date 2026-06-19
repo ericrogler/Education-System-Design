@@ -37,6 +37,8 @@ Warnings, case studies, and implementation guidance intentionally draw from mult
 ## **"I Have Only <5 Minutes" Overview**
 
 For those who are OK with 99% of solutions, rather than 99.9% or 99.99%+ of solutions, for many education system problems to solve by next Monday morning, here's the broad summary including some actionable items:
+- **This book will NOT solve all of your problems in education.**
+    - Hopefully it solves some problems though. I'll consider my goal met if that's the case.
 - Your first plan will not survive initial contact. Even the advice, suggestions, and frameworks here may need modifications for your specific situation(s). Expect to modify plans and systems as time marches on.
 - Most communications should be clear, concise, and descriptive.
 - If a rule, regulation, guideline, etc. is in a system and sounds dumb, there's a good chance that rule was written in blood and has a reason "why" behind it.

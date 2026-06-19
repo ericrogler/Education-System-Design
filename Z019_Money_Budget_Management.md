@@ -48,7 +48,7 @@ Many questions have a simple answer or at least one common symptom behind an ans
 
 That's wealth/money. 
 
-**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.**
+**A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.** If there were ever any "war" undoubtedly affecting an education system, it would be a class war. Having the resources available for a proper education is simply that important for an education system's survival.
 
 For example, when working with people in business, you can do anything they want. The only question is how much money they want to spend. You could even have billions of dollars of equipment available at your disposal, but no free toaster for bread in your workplace. You could even buy intangible assets like silence by purchasing quieter places, more soundproofing, and less noisy applicances and technology. You also might have no money for equipment either, but all of a sudden the funds are available only when an emergency, like system downtime, occurs. You might also see policies and incidents get handwaved away because there's financial implications (i.e. loss of funding) if you go through with them and/or enforce consequences instead.
 
@@ -69,9 +69,9 @@ Money is what buys you time and happiness, up to a certain point, but also affor
     - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
     - More aptly put: making decisions based on convenience rather than monetary cost.
 
-**If teachers are "managers," then each class they're teaching is like a project, campaign, or initiative they're overseeing.**
+**If teachers are "managers," then each class they're teaching is like a project, campaign, or initiative they're overseeing.** To draw parallels:
 
-- Students are employees doing the tasks by learning and showing proof they learned properly.
+- Students are employees doing the learning you assign them and showing proof they learned properly through their work.
 - You have an assigned budget for supplies, equipment, and materials mainly provided by the school, PTO/PTA, investments, etc.
 - You're organizing the workload distribution and backlog (e.g. units and topics in your subjects taught) through a set period with strict deadlines.
 - You have to make sure students are doing the work and not causing excessive issues amongst each other. There is behavior management involved.
@@ -206,10 +206,10 @@ To end this section: while wealth is an indicator, it does not always paint the 
 
 ### **Are Private or Public Schools Better?**
 
-There's a lot of factors in play, but I'll generalize it this way: the types of students present, the resources available, and *how* the resources are used affect the outcomes of student education far more than a school designation. 
+There's a lot of factors in play, but I'll generalize it this way: the types of students present, the resources available, and *how* the resources are used affect the outcomes of student education far more than a school designation. There can be good public schools as well as good private schools.
 - I'm also lumping charter schools under the public school umbrella here.
 
-The biggest advantage I've seen with private schools is they can select their students and more easily remove students.
+The biggest advantages I've seen with private schools is they could select which students get in and stay, more readily affect the environment itself (such as deliberating limiting class sizes) and could more easily remove students from their school.
 
 Assuming one public school teacher and one private school teacher enroll the same types of students (including their distributions on performance, behaviors, etc.), get the same curriculum and standards, and receive the same resources, I'd imagine they perform equally well. The major variable left to "control" is the teacher in charge of each classroom, which even that could be the same across both testing groups.
 
@@ -219,7 +219,7 @@ Even if public schools and private schools perform similarly in controlled envir
 
 Both private schools and public schools can perform well. The focus should be more on the environments these schools have and whether or not the school has specific resources to suit your educational needs.
 
-### **Pay-As-You-Go Models**
+### **Pay-As-You-Go & Subscription Models**
 
 You may have used these models before in your life. For example, if you use more power for utilities than usual in a dwelling or home, you may be charged for that excess. Alternatively, if you use more compute or resources to operate a server or database, the costs associated with that server or database also increase.
 
@@ -229,9 +229,11 @@ You may also suffer from financial attacks, such as any person, intentionally or
 
 Fortunately, the greatest benefit of these models is scalability on demand. If you need more resources, you can scale up quickly. If it's a period of low activity or minimal resource consumption, you cut down the scale to save money. Though you can scale easily here, you may need to pay money to perform the act of scaling and require vigilant monitoring and logging of these services to ensure you use only as much as you need at any given time.
 
+Subscription models have similarities to pay-as-you-go models, but are more "access to services for X time." Instead of spending X dollars for X usage, you pay Y dollars for "unlimited" usage, so long as you don't break the terms and conditions of the subscription. Subscriptions are better for predictability whereas pay-as-you-go models are better for efficiency. You can also make a hybrid model between the two, such as paying X dollars for Y amount, but paying overage charges as you exceed the subscription thresholds.
+
 ### **Where's the Money?**
 
-Money for education systems, at least in our example of the United States, typically comes from three "public funding" sources:
+Money for education systems, at least with the example of the United States, typically comes from three "public funding" sources:
 - Local government
 - State government
 - Federal government

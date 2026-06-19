@@ -31,9 +31,7 @@ I view two ways to approach teaching and instruction: as a job and as a career.
     - I.e., you leave work at work, take time off when needed, and invest in other passions to avoid early burnout and separate work and life.
 - Career: teaching is a passion where you continuously improve and offer help outside work when able.
 
-Both ways are valid. You can have good teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. 
-
-With either way above, be careful not to get taken advantage of and know when to set boundaries. Even if teaching/instruction is your calling, there is *always* a threshold where you'll no longer tolerate bad working conditions and/or impossible standards.
+Both ways are valid. You can have good teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. With either perspective above, be careful not to get taken advantage of and know when to set boundaries. Even if education is your passion and calling in life, there is *always* a threshold where you'll no longer tolerate the environment, working conditions, and/or standards.
 
 ## **Long Answer**
 
@@ -49,11 +47,12 @@ Now let's talk about work. What defines meaningful work differs from person to p
 3. Appropriate effort vs reward
 
 If the work is too simple, you may atrophy various skills you once took pride in and developed over time. If you're not autonomous enough, or have the freedom to do what you need to do, you may not develop the necessary critical thinking to make decisions when push comes to shove. Lastly, if the effort isn't worth the reward, such as grueling work for little monetary pay, you might not value the work you're putting in in the first place! 
-- If someone says "no one wants to work," chances are they aren't sufficiently providing these items above.
+- If someone says "no one wants to work," chances are they aren't sufficiently providing these three items above.
 
 Is it normal to work outside of contract/normal work hours? For most people, no.
 
-Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes.
+Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes, even if the ideal goal is *not* to work outside contract hours. Administrators should avoid pushing extra work, as it leads to burnout and eventual departure of valuable employees (e.g. teachers), while teachers should avoid it because, well, *not taking of yourself properly means being unable to take care of others.*
+- As an unrelated example, it's why an airline may tell you to put on *your* oxygen mask first before assisting others with their oxygen masks.
 
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to perform your job's tasks. You may also deal with increased workloads/duties, fewer support networks, reduced protections, and countless demands to do what's needed regardless of resources available. If it gets bad enough, someone may be in "survival mode" and simply doing what they can to get by rather than excel.
 - E.g. it feels like you have to always do more with less with every passing year.

@@ -25,7 +25,7 @@ After procedures are established and everyone knows what should be done in their
 As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate yourself, calmly assess the situation, consider available actions, then act. Applies to many cases and not just aviation.
 - Delaying a reaction is a skill you can train, afterall.
 
-**The closer leadership is to consequences of actions, the faster their response to address it.**
+**The closer leadership is to being affected by the consequences of actions, the faster their response to address them.**
 - If they suffer consequences, they may resolve it quickly.
 - If they do not suffer consequences, they may resolve it slowly or ignore it.
 
@@ -33,7 +33,7 @@ As for emergencies, you can "wind the clock" back for all but the most serious e
 
 *Notice: As I'm not active military or ever been part of the military, I cannot accurately describe their organizations from first-hand experiences nor will I pretend to do so.*
 
-This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context. Despite its unusual appearance here, there are parallels you can observe and learn about.
+This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context. Despite its unusual appearance here, there are parallels you can observe and learn about related to education systems.
 
 This chapter covers operational management and provides some context for what level of preparation is needed to ensure operations and events are ran as smoothly as possible.
 

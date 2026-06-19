@@ -46,13 +46,13 @@ Sadly, it isn't a joke.
 
 This chapter help explains why that joke is now reality.
 
-One part of that reality is **almost all data and information you work with and see is affected by bias.** Metrics are largely made up by humans for humans. I sincerely doubt your Shiba Inu dog is concerned by the unending march and concept of time humans often use for measurements, for example.
+One part of that reality is **almost all data and information you work with and see is affected by bias.** Metrics are largely made up by humans for humans. For example, I sincerely doubt your Shiba Inu dog is concerned by the unending march and concept of time humans often use for measurements.
 
 It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
 
 ### **Why Metrics of Success?**
 
-If you're dealing with other professionals, they may care about how you save them time and make them money. Metrics of success help you there.
+If you're dealing with other professionals, they may care about how you save them time and make them money. Metrics of success help you prove you can do that for them.
 
 Even if you're not in business or finance, there are terms from those fields you should know. Metrics are measures to reveal whether your current system performs as intended and/or requires changes. Metrics also apply to educational systems to determine implementation effectiveness based on outcomes (U.S. Department of Education, 2025).
 
@@ -84,6 +84,8 @@ Any metric can be "gamed" or optimized. Despite this, the goal of successful stu
 
 ### **Metrics (In General)**
 
+A metric generally deals with some type of performance, growth/decline, and/or development. You may also track metrics like GPA and test scores alongside other, related metrics such as proficiency rates.
+
 One area of quantitative data comes from metrics for student success. Some quantitative examples include (Fields, 2024):
 
 - GPA/Grades (Academic Performance)
@@ -94,8 +96,6 @@ One area of quantitative data comes from metrics for student success. Some quant
 - Post-Graduate Employment Rate
 - Test Scores (State, ACT, SAT, IB, AP, etc.)
 - Attendance & Participation
-
-Generally speaking, a metric deals with some type of performance, growth/decline, and/or development. You may also track metrics like GPA and test scores through other, related metrics such as proficiency rates. This is often when students are bucketed based on performance and you want to showcase a high percentage scoring at or above, for example, a "proficient" level.
 
 Most analysis of results should be treated as a snapshot at a given time rather than a valid performance evaluation across all time. This may be because only a single metric is focused at a time, there are insufficient growth models, or multiple metrics aren't used in conjunction for analysis. For example, if using gap analysis, or even analysis in general, to analyze education results, it may have critical flaws for three reasons:
 1. Typical experiments test the same group, or same subject, before and after an experiment to isolate effects and ensure only one variable is changed at a time. Many school environments rarely allow for this controlled testing in a way conducive to research.
@@ -112,7 +112,7 @@ There's also metrics not related just to students, but also staff members (and s
 - Teacher-to-Student Ratio
 - Counselor-to-Student Ratio
 
-There are a whole host of metrics, but there's some I'll call out because I have usually seen them as "objectives" rather than performance indicators.
+There are a whole host of metrics, but there's some I'll call out throughout this chapter because I have usually seen them as "objectives" rather than performance indicators.
 
 ### **What If Metrics Mean Different Things?**
 
@@ -120,16 +120,18 @@ If a metric means something different for multiple people, you'll eventually, bu
 
 If you're in a position to do it *and maintain it* (because things always change over time), start with a single document outlining definitions on what the metrics are, what each metric means, and how each metric is measured. Once this document is created, include the date it was created *and finalized* on, as it'll serve as evidence and a reference for when questions arise regarding any metrics. You may also need to include the people who agreed on what the metric(s) mean as insurance, in case someone claims they never agreed to it.
 
-Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. The primary reason to model dimensions and facts *before* building anything comprehensive is for usability and flexibility, which makes reporting and utilizing these metrics far easier down the line. Humans tend to follow the path of least resistance, so your new "standardized" metrics shouldn't be harder to use or they may not be followed and any work becomes wasted effort.
+Ideally, you define metrics *once*, then ensure dashboards, tools, etc. follow those definitions. In practice, you may have to alter and perform maintenance on metrics for a variety of reasons, such as new goals and objectives, slowly changing dimensions (SCD), and formula corrections.
+
+This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. The primary reason to model dimensions and facts *before* building anything comprehensive is for usability and flexibility, which makes reporting and utilizing these metrics far easier down the line. Humans tend to follow the path of least resistance, so your new "standardized" metrics shouldn't be harder to use or they may not be followed and any work becomes wasted effort.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
 - If you're the one asking for this "single source of truth" and get someone/something else to make it, please do not ignore the stuff that is pulled together.
 - Basically: don't neglect modeling first; it may save a future headache or two.
 
-This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It may also kill you spiritually and mentally on the inside depending on how complex/large the organization utilizing it is. It does, however, help mitigate the decision-making issue where two or more teams use the same metric, but interpret it differently.
+This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It may also kill you spiritually and mentally on the inside depending on how complex/large the organization utilizing it is. It does, however, help mitigate the decision-making issue where two or more teams based decisions on the same metric, but interpret it (invalidly) differently.
 
 You could also implement a ticket system, which forces people to write down what they actually want or need before requesting or implementing a change for it. It's like doing a double take to confirm "do I actually need to change" before you go in and change it guns blazing. The ticket system needs clear intake standards, like mandatory fields to fill out and write text in, to mitigate communication issues. You want to ensure it's lightweight enough it's actually used, rather than circumvented, and forces clarity instead of bureaucracy so you can eliminate vague, redundant, and unnecessary requests.
 
-You may encounter issues during this alignment phase. Sometimes you may not need to standardize *everything*, as there may be granular scale issues like team-specific metrics. A document or wiki may not fully cover all your needs either; you may need dashboards, code implementations, and centralized transformations towards databases so every new dashboard isn't another fork away from the plate of truth. 
+You may encounter issues during this alignment phase. Sometimes you may not need to standardize *everything*, as there may be granular scale issues like team-specific metrics involved. A document or wiki may not fully cover all your needs either; you may need dashboards, code implementations, and centralized transformations towards databases so every new dashboard isn't another fork away from the plate of truth. 
 
 Metric definitions are also not static and may affected by what you might see called "slowly changing dimensions" (SCD) or "rapidly changing dimensions" (RCD). Much like how a system may grow and change over time, metrics may also change over time. If you don't track what changes, as well as when and why, you risk unreliable (and likely bad!) data and people losing trust in any established metrics.
 

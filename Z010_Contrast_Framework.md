@@ -29,7 +29,7 @@ If you have 10 parts of time, you determine how many of those 10 parts of time a
 
 That's it. Simple and easy. 
 
-You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into lesson plans for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to a problem with optimization constraints: **there is no perfect education system.**
+You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into "lessons" for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to a problem with optimization constraints: **there is no perfect education system.**
 - Think somewhat similar to dealing with CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
 
 A more complicated answer with empirical grounding draws some inspiration from Rosenshine's *Principles of Instruction* and other information derived from his works (2010, 2012).
@@ -69,15 +69,15 @@ Though this advice may run counter to this chapter's focus, it will help you in 
 
 ### **What Other Methods Are There?**
 
-Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. This section lists a few that may illustrate what's outlined in the chapter.
+Educators, in practice, adopt, adapt, or create a curriculum referencing one or more existing and effective frameworks to suit their needs and their student's needs. This section lists several examples that help inform why the framework is what it is that you'll see later on.
 
-The first one isn't an education framework, but a management framework: Agile (and by extension Scrum). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside. For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). To compress Agile down into a single sentence, it's basically everyone talks to each other, the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
+The first one isn't an education framework, but instead a management framework: Agile (and by extension Scrum). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to other practices, like Waterfall and Kanban, and its original intent, guidelines, and purpose often gets thrown to the wayside. For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). To try and compress Agile down into a single sentence, it's basically everyone talks to each other, the system strives for quality outputs, and the product is updated frequently (and hopefully easily) to account for changing conditions.
 
-Scrum is another management framework compatible with Agile (but Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The stages of a Scrum "sprint" include ([further reading](https://www.atlassian.com/agile/scrum/sprints)) planning, implementation, review, and retrospective. The goal of a sprint is to ship out work on a usable increment (i.e. a part of a project or even a complete project) at the end of each sprint. To put "product" another way, the goal is to complete parts of, or the whole, curriculum/education system by your deadline(s).
+Scrum is another management framework compatible with Agile (but Scrum =/= Agile) and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The stages of a Scrum "sprint" include ([further reading](https://www.atlassian.com/agile/scrum/sprints)) planning, implementation, review, and retrospective. The goal of a sprint is to ship out work on a usable increment (i.e. a part of a project or even a complete project) at the end of each sprint. To put "product" another way, the goal is to get students through parts of, or the whole, curriculum/education system by your deadline(s).
 
-As for education frameworks, the closest comparison to what's presented here, that I can think of at least (and found out *after* initially drafting this), is the concept of "Backward Design" by McTighe and Wiggins in *Understanding by Design* (2005).
+As for education frameworks, the closest comparison to what's presented here, that I can think of at least (and found out *after* initially drafting this framework, funny enough!), is the concept of "Backward Design" by McTighe and Wiggins in *Understanding by Design* (2005).
 - "Comparison" as in we took two different routes to arrive at somewhat similar conclusions.
-- Admittedly, those authors utilize more pedagogial vocabulary and methodology while I take a generalized approach through management-based methodology.
+- Admittedly, those authors utilize more pedagogial vocabulary and methodology while I take a generalized approach with more management-based methodology.
 
 Other methods include Bloom's Taxonomy and the cognitive domain (Anderson & Krathwohl, 2001) as well as the works from Robert M. Gagné like their Nine Events of Instruction (1965).
 
@@ -85,7 +85,7 @@ A workshop model can work alongside this framework, but places a stronger emphas
 
 Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
 
-A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. In a way, I'm taking parts from this framework and translating them into actionable items. We'll explore those reasons and more in this chapter.
+A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. Direct instruction, afterall, is so important it's even one of my three categories I explicitly define in this framework. In a way, I'm taking parts from that saying and translating them into actionable items.
 
 The last example I'll include is various materials authored by Rosenshine (2010, 2012).
 
@@ -113,19 +113,21 @@ This framework requires keeping some other important things in mind:
 
 ### **The Initial Setup**
 
-There's three categories to remember:
+There's three categories to remember and strictly limit yourself to:
 1. Lectures (Direct Instruction)
 2. Activities & Projects (Hands-on Instruction)
 3. Review & Tests
 
-If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across these categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
+That's it. The best framework is the one that intentionally limits the amount of bullshit involved and gets straight into delivering education.
 
-With any distribution of parts of time, keep in mind the following:
+For example, if you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across these categories for every topic, unit, concept, etc. you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
-1. You'll eventually lose some instructional days. It's possible, but difficult, to plan for losses like these, but you'll likely only decently prepare lessons 1-2 weeks out at a time.
-2. 1 or 2 week periods for each unit work best from personal observation, because you won't go too in-depth when you should summarize instead and are less likely to get behind on schedule.
+With any distribution of time, keep in mind the following:
 
-Some parts in each unit I can summarize and explain fully in a few sentences. Other parts required significantly more depth or required methods where typical text or verbal explanations alone were insufficient.
+1. You may lose some instructional days unpredictably for reasons outside your control. It's possible, but difficult, to plan for losses like these, but you'll likely only decently prepare lessons 1-2 weeks out at a time.
+2. 1 or 2 week periods for each unit work best from personal observation, because you won't go too in-depth when you should summarize instead and are less likely to get behind on schedule. Nevertheless, assess what works best for *your* environment.
+
+Some parts in each content area I can summarize and explain fully in just a few sentences. Other parts require significantly more depth or methods where typical text or verbal explanations alone were insufficient.
 
 When I taught, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
@@ -147,15 +149,13 @@ To give an example of a mixed "lecture" day in a 50 minute class session:
 
 ### **What About Other Subjects?**
 
-There are multiple ways to teach multiple topics. 
+There are multiple ways to teach multiple topics. This framework focuses on categorizing methods and distributing their ratios to fit a learning environment. It's my attempt to make a framework one can apply across multiple environments, multiple age groups, multiple levels of education, and multiple accommodations all at once. 
 
-Though I did a 6/2/2 setup as an example, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
+Though I did a 6/2/2 setup as an example, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily activity-based rather than theory-based and/or exams aren't the primary way to check for competency.
 
-If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on long-term projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered.
+If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on long-term projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered. **Regardless of your curriculum, never, *and I mean never*, completely disregard any of those three categories.**
 
-This framework focuses on categorizing methods and distributing their ratios to fit a learning environment. It's my attempt to make a framework one can apply across multiple environments, multiple age groups, multiple levels of education, and multiple accommodations all at once. 
-
-**Some important notes on education:**
+**Some further important notes on education:**
 1. It's ok for students to be bored sometimes.
 2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. It should accommodate most systems though!
 3. Modifications are expected and *will* happen in practice; plan for when they're needed.
@@ -209,19 +209,21 @@ Think of "Implementation" as the timeframe to execute your plans made earlier in
 
 There are three "primary" teaching methods: lectures, projects and activities, and tests/review. You can quickly reassess your progress and make minor to moderate adjustments if needed as you go in between units as well.
 
+Also, remember that phrase "I do, we do, you do?" Utilize that across these categories. You'll thank me later.
+
 Before we dive further, I'll reference, as an example, *The 17 Principles of Effective Instruction* by Rosenshine, as they explore ways to begin lessons, present material, and guide students throughout the learning journey.
 - [Link to Full Report](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
 
 ### **Lectures (Direct Instruction)**
 
-As a reminder, you can decrease the number of lecture days for more hands-on classes.
+As a reminder, you can decrease the number of lecture days for more hands-on classes. You may be handling young children who probably don't want to sit still afterall!
 
-I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students. It's also where I found most inquiry-based learning occurred.
+I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students. Nevertheless, often is simply sitting down (metaphorically or literally) and telling students what they actually need to know is what's best. For subjects like Science and Math, I'd personally tell you to use *far more* direct instruction.
 
 Lectures are like meetings. The person "calling the meeting" is the instructor and should preferably have several things in place (with some tips taken from *Smart Brevity* by VandeHei et al. (2022)) before said meeting starts:
 - There's an objective and an agenda.
-    - This can be just a few sentences. Nothing long.
-- Time limits are planned.
+    - This can be one to a few sentences for all I care. Just nothing too long.
+- Time limits are deliberately planned, even if outside factors force breaking away from them.
 - A headline to single out why people (the students typically) are there.
 - Ways to guide the discussion and shut down off-topic conversations.
 - Starting on time.
@@ -231,11 +233,11 @@ Lectures are like meetings. The person "calling the meeting" is the instructor a
 
 You may think writing down all of this information on a board or screen for students is a good idea, but that's potential time of preparation you could've used for other items. Add in repeating that process for any transitioning periods and you risk getting *behind* schedule rather than staying ahead of schedule.
 
-Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to students and allow them to ask questions. It's sometimes called direct instruction. Direct instruction requires at least some lecturing done and I find helps both students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
+Lectures are sessions used to deliver, typically verbally or in writing, a significant amount of information all at once to students and allow them to ask questions regarding that information. It's sometimes called direct instruction. Direct instruction requires at least some lecturing done and I find greatly helps both students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
 
-You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective and reinforced with studies spanning over 50 years from today (as of February 2026).** 
+You may consider direct instruction bad, or at least heard about its negative aspects. I'm here to tell you the opposite. **Direct instruction is effective. Utilize it.** 
 
-A single lecture "talk" on each topic should rarely go beyond 18-20 minutes without some sort of break or it suffers from diminishing returns. [TED (Technology, Entertainment, Design), a nonprofit focused on spreading ideas](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes), uses a similar guideline as it's "long enough to say something meaningful, but short enough to hold your audience's full attention" (TED, 2025).
+At the same time, consider "utilization rates" or incorporating breaks throughout lectures. A single lecture "talk" on each topic should rarely go beyond 18-20 minutes without some sort of break or it suffers from diminishing returns. [TED (Technology, Entertainment, Design), a nonprofit focused on spreading ideas](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes), uses a similar guideline as it's "long enough to say something meaningful, but short enough to hold your audience's full attention" (TED, 2025).
 - You can, and should, still consider longer or full duration lecture days! Just remember to pause or break appropriately throughout it.
 - As a caveat, this is meant for public talks or "sage on the stage" style lectures.
 
@@ -264,16 +266,19 @@ In a way, you could liken many forms of effective lectures and direct instructio
 
 ### **Activities & Projects (Hands-on Instruction)**
 
-If anything stops you from setting up activities and projects, it is time, space, and money. A lot of equipment and materials are not cheap (especially with science projects, from personal experience) and a significant amount of preparation and testing *before* students are involved is expected before you can properly incorporate it into a curriculum. When it's the stage students get involved at, you'll have to factor in any additional setup *and* cleanup time as well, which may very well cut into the activity/project's time too. Space is simply whether or not your environment would accommodate the activity/project in the first place.
-- e.g. If your goal is a project-based learning curriculum, you cannot properly go through with it unless you're able to *acquire/buy* the necessary materials/equipment.
+Sometimes, explicit instruction and repetitions aren't always the best way forward. Only sometimes. That's where activities and projects come in as an *alternative* method of learning to direct instruction. They serve as an augmentation towards direct instruction rather than a substitute for it.
 
-Another thing stopping you might be when teaching subjects or certain concepts where thinking abstractly *is* the point, like with certain upper level math and science, so hands-on/project-based learning is detrimental to that process. This extends into students being unable to read and follow directions as well as engage and participate.
+If anything stops you from setting up activities and projects, it is the sheer amount of time, space, and money required for any activity/project-based learning. A lot of equipment and materials are not cheap (especially with STEM projects, from personal experience) and a significant amount of preparation and testing *before* students are involved is expected before you can properly incorporate it into a curriculum. When it's the stage students get involved at, you'll have to factor in any additional setup *and* cleanup time as well, which may very well cut into the activity/project's time too. Space is simply whether or not your environment would accommodate hosting the activity/project in the first place.
+- e.g. If your goal is a project-based learning curriculum, you cannot properly go through with it unless you're able to *acquire/buy* the necessary materials/equipment for the projects.
 
-Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. They also promote project-based learning in ways lectures and reviews may not be able to. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
+Another thing stopping you might be when teaching subjects or certain concepts where thinking abstractly *is* the point, like with certain upper level math and science. Hands-on/project-based learning is detrimental to that process. This extends into students being unable to read and follow directions as well as engage and participate.
 
-Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. They'll require understanding of simple concepts and other prerequisite knowledge to follow along properly or else the purpose of the activity/project falls through.
+Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot learn as well through direct instruction. They also promote project-based learning in ways lectures and reviews may not be able to. These may be the toughest type to implement, because many things can go very wrong, very quickly *and* you cannot go straight into activities with no prior knowledge.
+- People have to learn the "rules" before playing games, for example.
 
-If you haven't reviewed your safety measures for activities, review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
+Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. They'll require understanding of simple concepts and other prerequisite knowledge, usually best done through direct instruction, to follow along properly or else the purpose of the activity/project falls through.
+
+If you haven't reviewed the safety measures and rules for activities, review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
 
 For activities and projects, do not be afraid to use the Internet for inspiration and gather ideas. Compared to finding textual information on how things work, I find it's much harder to find practical applications for that same information.
 
@@ -287,7 +292,7 @@ For activities and projects, do not be afraid to use the Internet for inspiratio
 - How will I manage the activity inside the classroom?
 - Do I need to account for disabilities or accommodations with the activity?
 
-While many activities can be done on computers as of 2025, such as planetary orbit simulations, some activities *have* to be done in a physical environment and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
+While many activities can be done with sufficiently advanced technology, such as planetary orbit simulations on a laptop, some activities *have* to be done in a physical environment and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
 
 Group projects are often the bane of a teacher's and student's existence. They also simulate the real-world working environment shockingly well. The teacher could suddenly add in things like a manager would, like "you need to do this new thing" with less than a week left until the deadline.
 
@@ -309,14 +314,14 @@ Review is when you're presenting the material you've implemented in the previous
 
 In teaching, review sorts out deficiencies in learning, identifying where students struggle with the material, and demonstrating that students have "done" the learning they need.
 
-You can prove learning through tests, quizzes, review sessions, questionnaires, exit tickets, and more. For each of these sessions, you must explicitly define the test-taking conditions, such as what is allowed, what is not allowed, how much you can help a student with questions, how to take the test, the time allotted, and what other resources they may bring into the test.
+Tests serve as a proof of mastery and competency. You can prove learning through tests, quizzes, review sessions, questionnaires, and more. For each of these sessions, you must explicitly define the test-taking conditions, such as what is allowed, what is not allowed, how much you can help a student with questions, how to take the test, the time allotted, and what other resources they may bring into the test.
 
 There are two ways I would separate the review days, using an example of 2 days' worth of time out of 10 days total for a unit.
 
 1. 1 day of testing, 1 day of dedicated review
 2. 1 day of testing, 1 day of review spread out among lecture days.
 
-In both cases, dedicated testing is non-negotiable as you need an assessment with stakes to evaluate proper learning and demonstrate proof of competency. The difference is how you review and check the "progress" of learning.
+In both cases, dedicated testing is non-negotiable as you need an assessment, with stakes student care about, to evaluate proper learning and demonstrate proof of competency. The difference is how you review and check the "progress" of learning.
 
 In the first method, this assumes you'll set aside an entire day to review every concept and standard for the unit. Students may appreciate this as it gives them a "breather" and time to review areas they may have forgotten or are lacking in. Other students, however, may not want or desire this as they'd prefer not to spend the extra time and complete the unit more quickly. A dedicated review day also allows final adjustments to determine what to review and test based on current student progress.
 

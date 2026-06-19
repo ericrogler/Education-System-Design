@@ -79,9 +79,15 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state *my* opinion, there's a lot of risk associated with homeschooling's "reward," if not too much risk involved. The biggest deterrant to homeschooling is if it goes badly, it can go very badly. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
+To state *my*, the author's, opinion? I'm normally against homeschooling.
 
-Even without going into homeschooling, parents and guardians can greatly influence their child's education for the better. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is to help them read, read aloud to them, and teach them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
+There's a lot of risk associated with homeschooling's "reward," if not too much risk vs reward. The biggest deterrant to homeschooling I observe is it can go very badly and, as a result, the students lack even basic fundamental skills, which means setting them up for probable failure in future education. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
+
+Homeschooling is also one of those areas in education where, at the time of this writing, empirical knowledge and research behind it is only an indicator at best. Much of what's available is short-term studies and surveys vs long-term studies. For example, if research utilizes standardized test scores as a metric to showcase homeschooling performance, that study may be subject to volunteer and selection bias as not *every* student may be required to take those tests (or even permit sharing of data). To select examples of publicly available research on this area as further reading:
+- *Homeschooling: An Updated Comprehensive Survey of the Research* by Kunzman & Gaither (2020)
+- *The Social and Educational Outcomes of Homeschooling* by Murphy (2014)
+
+Even without going into homeschooling, parents and guardians can greatly influence their child's education for the better. They can supplement learning outside of school alongside any formal education. For example, one of the easiest ways to help elevate a child above their peers is training literacy by helping them read, reading aloud to them, and teaching them to learn to read well *before* starting any formal education. The hard part is making reading a habit, where you encourage reading without prompting them to do it. The other hard parts are ensuring they can not only just read words, but also utilize words correctly and decipher the text, and developing the mental endurance to not give up at the first sign of a challenge. 
 
 Literacy is important for understanding *every* subject they'll experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
 1. Every hour of reading means 30 minutes of "free" time or can stay up 30 minutes later at night.
@@ -92,7 +98,7 @@ Literacy is important for understanding *every* subject they'll experience as pa
 6. Let them read what they enjoy reading and not force any particular reading on them.
     - Except for *blatantly* inappropriate material. Maybe say no to erotica, for example.
 
-Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success.
+Going back to homeschooling, there's a question to face head-on: *will* homeschooling perform better than private/public schools and formal education systems? A student can still perform extremely well and rise above their peers in education from homeschooling; I'm not denying the possibility, but I am affirming the low probability of success in addition to saying "the evidence currently present 
 
 One major problem to address is when you take students away from a facility, organization, etc. that utilizes *the education system's* resources to educate them. There's multiple sources of funding and pre-vetted educational materials going into established schools and education systems; not just from one or two sources. If parents/guardians decide to homeschool, the monetary and resource burden leans more on them, *not* other education systems. Additionally, you may still have stringent laws specifically covering homeschooling based on your state of residence.
 - For the United States specifically, these laws may be found on the Internet by searching for "homeschool" + name of state + "Department of Education" or other, similar search results.
@@ -104,9 +110,9 @@ Finland has *education* as compulsory, but not *schooling*. While there is freed
 Germany has *Schulpflicht*, which is compulsory *attendance* at a state-approved or state-governed school with the very rare, case-specific arrangement allowing otherwise for extreme situations like certain medical reasons. There are mandates at both the national level with Grundgesetz (e.g. Art 7 (Federal Ministry of Justice, 2022)) and at the state level with Bundesländer (e.g. Hessian School Law (HSchG) Section 58 (Citizen Service Hessenrecht, 2023)).
 - Greatly simplifying from personal observation as well: Germany treats homeschooling *in general* quite negatively, if not outlawing homeschooling entirely.
 
-**I'd say if a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
+Even well-intentioned parents and guardians may lack the resources or are ill-equipped to educate their own children as students. **I'd say if a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
 - Parents/guardians not being abusive or neglectful of their children nor wanting to indoctrinate them.
-- The time (40+ hours/week) for parents/guardians to commit to their child's education *for many (10+) years.*
+- The time (40+ hours/week) for parents/guardians to commit to their child's education *for many (at least 10-15+) years.*
 - Enough money and resources to devote to it, often at the loss of 1 or more income streams.
 - A sufficient education to differentiate between good and bad learning materials across *ALL* required subjects at *ALL* grade levels the student does homeschooling for.
 - The means to get a student proficient in *every* core subject, not just 1.
@@ -116,7 +122,7 @@ Germany has *Schulpflicht*, which is compulsory *attendance* at a state-approved
 - Providing ways to incorporate extracurricular activities.
 - The backbone to enforce regulations and standards in behavior, education, and conduct.
 - The ability to accommodate any disabilities, special needs, etc. if applicable.
-- Access to the appropriate groups, organizations, communities, co-ops, etc. to outsource any parts of learning parents/guardians cannot reasonably, and sufficiently, cover on their own.
+- Access to the appropriate groups, organizations, communities, co-ops, etc. to outsource and verify proper learning of subjects parents/guardians cannot reasonably, and sufficiently, cover on their own.
 
 Dedicated school environments have the means and resources to at least meet expectations on every item in this list. Parents/guardians, more often than not, do not have those means and resources as readily available. Additionally, much advice that applies to standard education systems may not apply to homeschooling systems due to a (admittedly presumed) lack of peers and social interactions among the student(s).
 
@@ -518,9 +524,13 @@ You *can* dilute it down to a general populace through what I'll lovingly call a
 
 5. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
 
+3. Kunzman, R., & Gaither, M. (2020). *Homeschooling: An Updated Comprehensive Survey of the Research.* ResearchGate, 9(1), 253–336. [https://www.researchgate.net/publication/374195331_Homeschooling_An_Updated_Comprehensive_Survey_of_the_Research](https://www.researchgate.net/publication/374195331_Homeschooling_An_Updated_Comprehensive_Survey_of_the_Research)
+
 3. Mark, G., Gonzalez, V., Harris, J., & Bren, D. (2005, April). No Task Left Behind? Examining the Nature of Fragmented Work. [https://ics.uci.edu/~gmark/CHI2005.pdf](https://ics.uci.edu/~gmark/CHI2005.pdf)
 
-5. McLeod, S. (2024, August 9). *Vygotsky’s Zone of Proximal Development.* ResearchGate. https://www.researchgate.net/publication/383563118_Vygotsky%27s_Zone_of_Proximal_Development
+5. McLeod, S. (2024, August 9). *Vygotsky’s Zone of Proximal Development.* ResearchGate. [https://www.researchgate.net/publication/383563118_Vygotsky%27s_Zone_of_Proximal_Development](https://www.researchgate.net/publication/383563118_Vygotsky%27s_Zone_of_Proximal_Development)
+
+5. Murphy, J. (2014, April). (PDF) *The Social and Educational Outcomes of Homeschooling.* ResearchGate. [https://www.researchgate.net/publication/261885035_The_Social_and_Educational_Outcomes_of_Homeschooling](https://www.researchgate.net/publication/261885035_The_Social_and_Educational_Outcomes_of_Homeschooling)
 
 6. Moll, B., & Sykes, E. (2022). *Optimized virtual reality-based Method of Loci memorization techniques through increased immersion and effective memory palace designs: a feasibility study.* Virtual Reality. [https://doi.org/10.1007/s10055-022-00700-z](https://doi.org/10.1007/s10055-022-00700-z)
 

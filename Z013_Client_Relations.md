@@ -16,7 +16,11 @@ nav_order: 22
 > Crowley: "Oh yeah. That'll do it."
 
 
-- Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019)
+- Crowley and Aziraphale, *Good Omens* (Mackinnon, 2019a)
+
+> "I only ever asked questions. That's all it took to be a demon in the old days."
+
+- Crowley, *Good Omens* (Mackinnon, 2019b)
 
 ---
 
@@ -412,27 +416,28 @@ This could apply to many similar cases, such as:
 
 In many fields like education, military, medicine, and so on, there's a distinct difference in authority between what I'll call "frontline" (i.e. enlisted) vs "midline/backline" (i.e. officer) staff.
 
-**To emphasize this point: People at all authority levels are not free of mistakes and authority does not equal knowledge.** Even someone who is competent and became an authority in a field later on in life *can still be wrong.*
+**To emphasize this point: People at all authority and experience levels are not free of mistakes.** Even someone who is competent and became an authority in a field later on in life *can still be wrong.*
+- For example, if you dismissed the contents of this book because it was written by someone with 3 years of education experience (at the time of writing), rather than evaluating the content on its own merits, you've further illustrated the point here.
 
 You may have frontline workers with decades of experience under their hat. They know the in's and out's of the system(s) they work with, know what processes work well and don't work well, and, most importantly, know when someone is about to do something they'll regret.
 
 For stricter organizations, this typically means the lower-ranking employee *must* obey the orders and requests from a higher-ranking employee, even when said orders are definitely terrible ideas.
 
-In this scenario, let's assume you're the higher-ranking employee, you have little to no practical experience, and you want to not be a terrible "leader." Just the desire to not want to be terrible and do the right thing solves most problems already. 
+In this scenario, let's assume you're the higher-ranking employee and you have little to no practical experience. Your goal is you want to not be a terrible "leader" despite lacking the experience of leadership. Just having the desire and willpower to not want to be terrible and do the right thing solves most problems already and may pass any "social" checks subordinates have regarding your character. 
 
 The remaining problems are dealt with methods like:
+- You not being an asshole.
 - Acknowledging you *will* screw things up and be treated like you don't know what you're doing at first, while accepting this is normal and shouldn't let it disturb you.
     - Chances are, this organization functioned fine without you and may continue just fine without you too.
-- Not being an asshole.
 - Not changing anything for the first month by learning first how things work.
     - Unless it's a dire emergency that must be fixed *right now.*
 - Trusting your employees who have significantly more experience than you.
 - Learning about your job and purpose.
 - Learning about the organization, its mission, the equipment you have, etc.
 - Learning about the people under you, what they do (at least at a basic understanding), and find ways to let them do their job well.
-- Seek out the advice of people more experienced than you.
-- Lead by example.
-- Be willing to get your hands dirty and figure out the technical details of how things work.
+- Seeking out the advice of people more experienced than you.
+- Leading by example.
+- Willing to get your hands dirty and figure out the technical details of how things work.
 
 You may encounter other scenarios, such as a team of veterans on equal authority with disagreements, non-cooperative agendas, and varying competence levels. In cases like these, you'll need proper evidence to support claims, figure out if there's bias in why they're recommending one method over another, and seeing if the dissenters are actually right or wrong. It's possible they could be right too, but poorly communicate or badly explain a point too! While picking a single advisor may seem correct, you also risk filtering decisions and opinions through one filter. Navigating scenarios like these is a skill you'll have to practice over time, but there are ways to help right now:
 - Listening to multiple sides.
@@ -500,6 +505,8 @@ My favorite PD days were typically:
 1. Indeed Editorial Team. (2025, December 15). *The Airport Test: What It Is and Why Employers Use It.* Indeed Career Guide. [https://www.indeed.com/career-advice/interviewing/airport-test](https://www.indeed.com/career-advice/interviewing/airport-test)
 
 1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 3). Amazon Prime Video. Episode Name: “Hard Times.”
+
+1. Mackinnon, D. (2019, May 31). *Good Omens* (T. Pratchett & N. Gaiman, Eds.; No. 4). TV Show Transcripts. Episode Name: “Saturday Morning Funtime.” [https://tvshowtranscripts.ourboard.org/viewtopic.php?f=1932&t=64030&sid=ad0d804f3a81e13c2738f9392b6e681f&view=print]( https://tvshowtranscripts.ourboard.org/viewtopic.php?f=1932&t=64030&sid=ad0d804f3a81e13c2738f9392b6e681f&view=print)
 
 1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
 
