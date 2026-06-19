@@ -101,12 +101,10 @@ You might also hear this mentioned as stereotypes and this applies to many thing
 
 I'll go over one example here: gender.
 
-Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. In our teacher example, male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Conversely, female teachers may have more support networks and lower fears of retaliation for what they say and do, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
-- I've seen multiple times male students treat female teachers worse, but male teachers better, despite both sets of teachers sharing the exact same roles, responsibilities, and skills.
-- Small aside: these same dynamics may occur to non-teachers and professionals across multiple fields too.
+Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. In our teacher example, male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Conversely, female teachers may have more support networks and lower fears of retaliation for what they say and do, but may be more likely to face danger in general, such as sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
 
-With gender, teachers and professors are not classified as a "bona fide occupational qualification" (BFOQ), so you may not legally discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982).
-- Notice: BFOQ is an *exception* to existing laws, [like Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) (U.S. Equal Employment Opportunity Commission, 2009).
+With gender, teachers and professors normally are not classified as a "bona fide occupational qualification" (BFOQ), so you may not legally discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982). Even when legal protections are made, perceptions may still persist.
+- Aside: BFOQ is an *exception* to existing laws, [like Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) (U.S. Equal Employment Opportunity Commission, 2009).
 
 Should this happen in a teaching setting, everyone included, then keep the following in mind: 
 - Judge based on the values, actions, and conduct of a person; not their background.
