@@ -13,6 +13,10 @@ nav_order: 5
 
 - Thomas Pynchon, *Gravity’s Rainbow* (1973)
 
+> "The Codex Astartes does not support this action...
+>
+> ...But I am looking forward to it."
+
 ---
 
 *Notice: All information in this chapter is NOT legal advice.*

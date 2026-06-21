@@ -32,6 +32,8 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 
 ## **Long Answer**
 
+Every role requires communication skills.
+
 **Before continuing, recognize that:**
 1. Someone else probably did what you want to do before.
 2. Someone else probably did it better.

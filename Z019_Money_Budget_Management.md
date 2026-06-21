@@ -44,9 +44,9 @@ If you're trying to teach a student about wealth, consider going over the follow
 
 *Notice: There is no financial advice offered to the reader in this chapter. Assume everything here is informational.*
 
-Many questions have a simple answer or at least one common symptom behind an answer.
+You may be considered foolish, or dumb, to not take advantage of the resources available to you. This includes accepting help and the doors that help opens for you. It doesn't devalue you as a person to take advantage of them, so long as you acknowledge honestly you *did* take advantage of said resources, use whatever you receive for good in return (i.e. contributing back to society), and don't be an asshole about it. The problems come when someone is selfish, antagonistic, and/or pretends they did everything on their own and completely disregards the people and supports helping them along the way. I cannot blame someone for circumstances of their birth and upbringing, but I can blame them for the actions they take.
 
-That's wealth/money. 
+Moving forward on wealth, you may discover many questions have a simple answer or at least one commonality behind their answer: wealth/money. 
 
 **A lot of things happen due to wealth. Optics (i.e. perceptions) are a factor too. Additionally, when enough wealth is accrued, people may value the leverage that money affords them instead of valuing the money itself.** If there were ever any "war" undoubtedly affecting an education system, it would be a class war. Having the resources available for a proper education is simply that important for an education system's survival.
 
@@ -54,20 +54,13 @@ For example, when working with people in business, you can do anything they want
 
 Are the above examples meant to be jokes? I can neither confirm nor deny. 
 
-Nevertheless, anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means (i.e. wealth) to afford said success.
+Nevertheless, anything's possible with enough money, but there's likely a reason behind why certain things are the way they are. For example, a successful person may be successful purely because of the environment they were in and they had the means (i.e. wealth) to afford said success. In a way, nobody does anything without help.
 
 In this chapter, we explore topics that "price insensitive" and "economically insensitive" people pretend to ignore, but still very much care about. If you know someone who describes themselves with those terms, ask them for money and see if they're actually insensitive or just won't admit they are sensitive still. As a hypothetical example, the billionaire may haggle over only 2000 dollars, but the working class with little money handles that same 2000 dollars with no questions asked.
 
 This chapter is *also* where we acknowledge that socioeconomics is indeed important and may influence educational policies, but often contains issues that cannot be controlled by certain people involved in the education system. *Yes, this paragraph is intentionally replicated to emphasize the point.*
 
 While I did talk about monetary blockers briefly before, I'm creating a separate chapter on it because money permeates almost every facet of education, either directly or indirectly. How much you're paid for your work is also affected by money and resources available for budgets. When able, you want to find out, or at least think about, who controls the budget because time can kill deals and opportunities.
-
-Money is what buys you time and happiness, up to a certain point, but also affords comforts. Though money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
-- Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
-- It also generates a lot of *new* problems.
-    - Instead of not dealing with issues due to lack of resources, people may throw money at issues to try and make them go away.
-    - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
-    - More aptly put: making decisions based on convenience rather than monetary cost.
 
 **If teachers are "managers," then each class they're teaching is like a project, campaign, or initiative they're overseeing.** To draw parallels:
 
@@ -95,6 +88,23 @@ Indirect costs, or overhead, are not tied to specific works but still utilized b
 Capital expenses (CapEx) are generally upfront, long-term purchases dealing with assets, such as hardware, software, and property. Operational expenses (OpEx), meanwhile, are ongoing, short-term costs like subscriptions, pay-as-you-go models, and recurring services.
 
 While I don't expect every reader to become an expert in financial documents overnight, you may consider getting familiar with at least income statements, balance sheets, and cash flow statements. Those 3 documents alone can provide significant insight into the "health" of a system, business, etc. Going into detail on said documents would be its own chapter, if not its own book(s), so I'm only mentioning their names and what they could do for you here.
+
+### **Money [Can] Buy Happiness**
+
+Readers may be familiar with the [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html) (McLeod, 2025).
+
+If not, then I'll briefly describe it here. Humans have several needs to meet, such as physiological, safety, love, esteem, and self-actualization. Unless their needs are met
+
+Pretend that money is the primary method to meet your needs. Food, clothing, and sleep (i.e. shelter) can be purchased with money to meet physiological needs. With enough money invested, you can establish financial stability for yourself and purchase security to defend yourself from threats internal and external. People seeing you enjoying safety may want to enjoy your company, which brings love and social belonging. The company of people around you brings about desiring appreciation and recognition. Finally, with all the more basic needs met, that leaves you more time and energy to invest further into your own talents and frees up exploration into the many possibilities now open to you.
+
+Though money meets these needs, this hierarchy is not perfectly linear and has diminishing returns for how well it meets people's needs. For example, if a salary of 50,000 dollaroos meets all of your basic needs, then a higher salary of 100,000 dollaroos may only increase the *quality* of how those already covered needs are met rather than meeting even more needs. Money, in this case, is important for nearly all people, but money's importance and marginal value may decrease as you acquire more of it. 
+
+Money is what buys you time and happiness, up to a certain point, but also affords comforts. Though money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
+- Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
+- It also generates a lot of *new* problems.
+    - Instead of not dealing with issues due to lack of resources, people may throw money at issues to try and make them go away.
+    - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
+    - More aptly put: making decisions based on convenience rather than monetary cost.
 
 ### **How to Make Money**
 

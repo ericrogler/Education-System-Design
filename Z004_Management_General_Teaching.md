@@ -25,7 +25,7 @@ As great as the quotation above is, sometimes being visible is what gets you not
 **The easiest mistake is always prioritizing speed over quality.** Sometimes slower is actually faster, like the turtle beating the rabbit. You might meet deadlines, but it's at high risk of rework costs and every other metric suffering.
 - *There's probably a parallel with "passing up students" and "failing upward" somewhere in here.*
 
-Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet your goals as both a manager and educator. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** Core decision-making relies on technical considerations and business objectives, which is difficult and detrimental without appropriate background knowledge. You also need technical knowledge to properly advise others and hold technical people accountable. This decision-making includes how to scope your projects and set reasonable deadlines, which is difficult to do *correctly* without sufficient technical knowledge. In education, you may be able to manage people, but your curriculum suffers if you cannot effectively teach it. 
 - Similar advice applies for managers in other industries, like engineering.
 - E.g. You don't want to be the manager in a "data driven" meeting and not know anything about how data works; that's just one recipe for embarassment.
 
@@ -36,7 +36,7 @@ If you're not sure how to set up a process or workflow, start with the minimum (
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - This is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
 
-Last, but not least: **the best managers are the ones who know when to pick their fights and when to step back.**
+Last, but not least: **the best managers are the ones who know when to pick their fights and when to step back.** Not every problem they face is one requiring their personal involvement.
 
 ## **Long Answer**
 
@@ -124,7 +124,7 @@ Any policies managers make should also be effective and efficient. If it looks g
 
 How do managers acquire the knowledge to determine policies? Preferably, it's by having experience in what they manage (e.g. having teaching experience when managing teachers) or proactively and intently researching/studying the relevant technical material to properly inform decisions.
 
-What they actually do is handle communication and relationships between people, task delegation, create schedules, define why something is important and set context, and accomplish goals in the projects/work they oversee. Ironically, a manager should train employees under them to perform their jobs so well they don't "need" a manager and become capable of operating without constant direction. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
+What they actually do is handle communication and relationships between people, task delegation, create schedules, define why something is important and set context, and accomplish goals in the projects/work they oversee. Ironically, a manager should train employees under them to perform their jobs so well and solve problems without managers they don't "need" a manager and become capable of operating without constant direction. Put another way: the goal is a team capable of success when a leader isn't around to guide them. Doing that successfully frees up time for bigger picture work like strategy and stopping problems before they happen.
 
 Here's more examples of what a manager may do:
 - Finding new projects and work to keep everyone in business and employed

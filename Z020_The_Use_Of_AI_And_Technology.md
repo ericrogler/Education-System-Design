@@ -63,13 +63,13 @@ Now then, let's talk about technology.
 
 ### **A Technology Overview**
 
-Maybe referencing *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section. I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration involved forcing their hands. Perhaps the point afterall was people should avoid constantly watching televion.
+Maybe referencing *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section.
+ 
+I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration from a third party involved forcing their hands. Perhaps the point afterall was people should avoid constantly watching television.
 
 Technology can do many amazing things... HOWEVER. While technology is generally a good thing, there can also be too much of a good thing. **Technology can *still* be dangerous even when handled and regulated properly. This applies broadly for just about every piece of technology, such as AI (Artificial Intelligence), electricity, and a sniper rifle.**
 
-Many people use computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them.
-
-Is this an exaggeration? *No.*
+Many people use computers, phones, etc. all day, every day, and perhaps even every waking hour, and *still* not know how the underlying technology works. Even at the smallest issue or roadblock, their mind can go blank or they don't know how to find a solution to implement, which can lead to an unpleasant experience for anyone trying to help them. Having too many technologies (such as microservices) to the point where no one knows what they do anymore is a sign you've likely chosen technology implementations poorly.
 
 Additionally, a surprisingly large number of systems are held together through duct tape and temporary fixes, which can ironically turn into "permanent" fixes, due to limited resources like time and money. You also might not want to know about the mental capacity and sleep deprivation of a health professional near the end of their 12-hour shift either. There's many things the public may not be comfortable knowing about and technology is *full* of those things.
 
@@ -361,9 +361,11 @@ Lastly, AI is an umbrella term and large language models (LLMs) are but one item
 
 ### **Cost of AI Implementation?**
 
-In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. Automation is pretty expensive, but AI is extremely expensive. Automation differs from AI because automation is programmed to operate on set rules and procedures whereas AI is programmed to make its own choices from the data it's provided. Though automation isn't AI, it still suffers from similar issues.  
+The question you should be asking here is not whether or not to use AI, but instead what you'll get from it and if its costs are justified.
 
-Using either to do everything (or at least a lot of things) is certainly prohibitively expensive. 
+In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. Automation is pretty expensive, but AI in particular is *extremely* expensive. Using either to do everything (or at least a lot of things) is certainly prohibitively expensive. 
+
+Automation differs from AI because automation is programmed to operate on set rules and procedures whereas AI is programmed to make its own choices from the data it's provided. Though automation isn't AI, it still suffers from similar issues and you may see these issues crop up amongst different technologies now and in the future.  
 
 Therefore, if you ever implement automation, AI, LLMs, etc. they should be used only for operations where its benefit outruns any present and potential future cost. If not, you risk spiraling into a financial deficit by reckless use of technology.
 

@@ -313,18 +313,16 @@ Lastly, some leadership roles are in a position they *can* influence their wealt
 
 ### **The Bureaucratic Spiral**
 
-As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy.
+As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy. It's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
 
-Let's explore a *bad* implementation in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day. You also prefer explicit over implicit instructions, so you can verify work was done right and there won't be many issues in the future.
+Let's explore a *bad* implementation where you're in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day away from work. You also prefer explicit over implicit instructions, so you can verify work was done right and there won't be many issues in the future.
 
-Despite that goal, the organization may require meetings to go over work. That's still "normal" because meetings communicate necessary information.
+Despite that goal, the organization may require meetings to go over work. That's still "normal", or at least a necessary evil, because meetings can communicate necessary information to help you perform your role.
 
-However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things. Then comes meetings for scheduling meetings. This becomes a hassle to manage, so you hire on someone specifically to handle meetings for employees.
+However, you notice future meetings don't get agendas, or they take up too much time talking about non-meeting related things. Then comes meetings for scheduling meetings. This becomes a hassle to manage, so your system hires on someone specifically to handle and schedule meetings for employees.
 
 Now you get a new initiative to adhere to multiple different activity trackers because managers across all layers of an organization want to see employees doing work. To verify work outputs, new levels of performance are developed such as meeting expectations and exceeding expectations.
-- Ironically, "exceeding expectations" may be what people consider "meeting expectations" and ruins the new system anyway.
-
-It's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
+- Ironically, "exceeding expectations" may be what people consider "meeting expectations" and may create conflicts of interests and deteriorate a system.
 
 ### **Scaling Up & Hiring**
 

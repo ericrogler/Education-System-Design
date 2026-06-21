@@ -13,9 +13,15 @@ Imagine I want to get a new teacher, instructor, presenter, etc. from 0-100 as f
 
 **That's my problem here to solve and this book is my solution. It serves as an introduction, or starting point, towards education systems and examines multiple topics broadly.**
 
+This is one of those books that can only be written by someone with neither too much or too little experience in the field. Its the only way I can keep a "fresh" perspective while utilizing background knowledge and practiced methods to better inform what is written. If I write it while inexperienced, you get a blind leading the blind scenario. If I write it while *too* experienced, my own biases normalize and dismiss many existing issues, which are actually serious issues to address, for people looking and going into education systems.
+
+If you dismiss the contents of this book because it was written by someone with 3 years of education experience (at the time of writing), rather than evaluating the content on its own merits, then you've only done yourself a disservice.
+
 Will it go against some conventional wisdom on education and teaching? Yes. 
 
-Will it also support some existing, tried-and-true, education practices? Also yes.
+Will it also support some existing, tried-and-true, education methodology? Also yes.
+
+Might it be considered a controversial book to some readers? Very much so.
 
 ***Think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.*** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to be like IKEA and cater what products and services I provide, i.e. information and opinions on topics presented to you.
@@ -32,19 +38,19 @@ That may mean removing a problematic student to save the education of every othe
 
 1. To increase the probability of success for professionals navigating a new or existing education system.
 2. To explain some of the nuances and practicalities present in education systems.
-3. To help others design their own education systems.
+3. To help others design their own education systems by drawing upon education and other professional disciplines.
 
 ### **What The Book Isn't**
 
-To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. If anything, technology is actually quite dangerous and depends heavily on how its utilized.
+To get it out of the way: this book isn't an advocate for any particular technology, tool, or platform. If anything, technology is actually quite dangerous and depends heavily on how its utilized and whether or not it even *can* be utilized.
 
-I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is to be as tool-agnostic as possible, yet ironically I need to talk about tools to get across my point sufficiently.
+I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is to be as tool-agnostic as possible, yet ironically I need to talk about certain tools to get across my point sufficiently.
 
-Technology rapidly evolves; what could be used today may no longer be used 5 years in the future. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming and the use of pencils and papers for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
+Technology rapidly evolves; what could be used today may no longer be used 5 years in the future from now. The same goes for education systems as well; there can be sweeping changes within 5-10 years towards an existing system. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming, the tenacity of "I do, we do, you do" teaching style in education, and the use of pencils and paper for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
 
-**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create such a system.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want an alternative perspective to this book, I would encourage you to read works like [the 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
+**I do not expect this book to solve all problems related to education systems nor expect one single individual or organization to create a perfect education system on their own.** It takes many kinds of people and groups in society working together. Even large, well-funded organizations, like NCEE, with 40+ years of research into education advocate collaboration and community efforts as essential to education systems. If you want alternative perspectives to this book, I would encourage you to read works like [the 2024 findings from NCEE](https://eric.ed.gov/?id=ED671660) as one example.
 
-This book also uses what I'll call a "ground up" approach. I find this approach is the most accessible for a general audience, which is why I take it. It will examine education from the school and classroom level, with references up to district and state level education systems. It doesn't examine from a top down approach, starting from the national/sovereign level and drilling down, because most interactions people have (i.e. students, administrators, educators, parents, etc.) are around a "classroom" granularity or near the frontlines of education.
+This book also uses what I'll call a "ground up" approach. I find this approach is the most accessible for a general audience, which is why I take it. It will examine education from the school and classroom level, with references up to district and state level education systems. It doesn't examine nearly as much from a top down approach, starting from the national/sovereign level and drilling down, because most interactions people have (i.e. students, administrators, educators, parents, etc.) are around a "classroom" granularity or near the frontlines of education.
 
 ### **Who Should Read This Book**
 

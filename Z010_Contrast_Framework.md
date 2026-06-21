@@ -85,7 +85,12 @@ A workshop model can work alongside this framework, but places a stronger emphas
 
 Project-based learning can tie into the framework presented here as well, but also places stronger emphasis on projects like its name implies. The method leans heavily into active learning and inquiry-based learning, or the integration of knowing and doing, to produce a result or solve problems over longer periods as proof of competency rather than more passive learning through multiple lectures and tests.
 
-A popular phrase is "I do, we do, you do" and repeat. It may be an older framework, but it's still pretty effective. Direct instruction, afterall, is so important it's even one of my three categories I explicitly define in this framework. In a way, I'm taking parts from that saying and translating them into actionable items.
+A popular phrase is "I do, we do, you do" and repeat. For example:
+- I do a math problem on a whiteboard to explain a concept.
+- We do a *new* problem together where students do the steps and you guide them along throughout the process.
+- You do setup for *more* new problems that students work on and see if they can get through it without assistance, then provide feedback afterwards as needed.
+
+It may be an older framework, but it's still pretty effective so why not continue to use it? Direct instruction, afterall, is so important it's even one of my three categories I explicitly define in my own framework here. In a way, I'm taking parts from that saying and translating them into actionable items. You can do this once over multiple lessons, once per lesson, and even multiple times in a single lesson too!
 
 The last example I'll include is various materials authored by Rosenshine (2010, 2012).
 
@@ -294,12 +299,13 @@ For activities and projects, do not be afraid to use the Internet for inspiratio
 
 While many activities can be done with sufficiently advanced technology, such as planetary orbit simulations on a laptop, some activities *have* to be done in a physical environment and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
 
-Group projects are often the bane of a teacher's and student's existence. They also simulate the real-world working environment shockingly well. The teacher could suddenly add in things like a manager would, like "you need to do this new thing" with less than a week left until the deadline.
+Group projects are often the bane of a teacher's *and* student's existence. Though they can simulate the real-world working environment, they also often lack the accountability and "consequences for actions" attached with real-world scenarios, like demotions or losing their job, if they don't put in their share of work and/or greatly fail with the project. The teacher could suddenly add in things like a manager would, like "you need to do this new thing" with less than a week left until the deadline.
 
 The "average" group project, from observation, is when you have a group of 4-5 students, but only 1-2 of them do the majority of the work while the others coast by and pitch it an infinitesimal amount of effort on their part. If these issues happen in group projects, there are some potential solutions:
 - Provide the people not contributing with busywork to avoid them causing issues with the real work produced by the people actually contributing.
 - The students who actually did the work can meet with you and provide evidence of the work they did. From there, you can figure out how to delegate grades for each group member.
-- Alternatively, you could have a policy in place like "drop the lowest grade" for students who are consistently high-scoring to avoid one bad group project tanking their grade.
+- Alternatively, you could have a policy in place like "drop the lowest grade" for only the students who are consistently high-scoring to avoid one bad group project tanking their grade, but letting the lazy students keep the low grade.
+- A peer review system *that is actually enforced* where reviews alter individual grades, so accountability "forces" teamwork due to explicit consequences.
 
 If the student refuses to do a particular activity or assignment because it won't affect their grade (e.g. An A+ student doesn't do X because they'll still have an A regardless), then I'd advise a short meeting with them to confirm their intentions. It doesn't have to be a long meeting; this kind of meeting can even take less than 30 seconds if you're direct and to the point about intentions.
 - If this becomes a problem with *multiple* students, I would consider adjusting your classroom management plan and how it handles grading. This could let high-performing students find alternative, but appropriate, forms of learning due to sufficient mastery and effort already demonstrated.

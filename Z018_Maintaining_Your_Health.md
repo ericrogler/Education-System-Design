@@ -49,7 +49,8 @@ Now let's talk about work. What defines meaningful work differs from person to p
 If the work is too simple, you may atrophy various skills you once took pride in and developed over time. If you're not autonomous enough, or have the freedom to do what you need to do, you may not develop the necessary critical thinking to make decisions when push comes to shove. Lastly, if the effort isn't worth the reward, such as grueling work for little monetary pay, you might not value the work you're putting in in the first place! 
 - If someone says "no one wants to work," chances are they aren't sufficiently providing these three items above.
 
-Is it normal to work outside of contract/normal work hours? For most people, no.
+Is it normal to work outside of what you're contracted to do? For many people, no. A typical expectation is to complete your role's responsibilities, work the alloted hours/time for that role, and then *not* doing further work. Everything else is extra effort you may not receive any satisfaction or reward from if you're not careful.
+- For example, completing more work means getting more work in return.
 
 Do teachers/instructors typically have to work outside normal work hours just to stay on track with their workload? Sadly, yes, even if the ideal goal is *not* to work outside contract hours. Administrators should avoid pushing extra work, as it leads to burnout and eventual departure of valuable employees (e.g. teachers), while teachers should avoid it because, well, *not taking of yourself properly means being unable to take care of others.*
 - As an unrelated example, it's why an airline may tell you to put on *your* oxygen mask first before assisting others with their oxygen masks.

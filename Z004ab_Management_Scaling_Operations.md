@@ -117,7 +117,7 @@ Let's pretend I'm creating a Force Reconnaissance detachment and I'm doing this 
 - What tasking they can and cannot do
 - What additional requirements for applications and membership into the detachment
 
-After approval is received comes designing the training further. Let's say I want the detachment to scout objectives and do reconnaissance. This means creating standards and a training over things like:
+After approval is received comes further changes to how the training is designed and implemented. Let's say I want the detachment to know how to scout objectives and do reconnaissance. This means creating standards and also creating a training to meet (or exceed) those standards, such as:
 - Any additions or modifications to general procedures, if applicable
 - How to use detachment assets and equipment
 - New procedures and methods for specialized tasking
@@ -126,7 +126,7 @@ After approval is received comes designing the training further. Let's say I wan
 - How to interpret maps, terrain, symbols, landmarks, and so on
 - How to complete multiple tasks thousands of meters away from objectives
 
-Detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and access permissions related to it.
+Detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment and how they interact with the people around them as well. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and access permissions related to it.
 
 In a typical education system, this is like bringing on teaching assistants from students who passed the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities.
 
@@ -457,6 +457,24 @@ If you were to scale it up further from battalion, staying with an instructional
 - Field Army (All regions within one state (e.g. Colorado Department of Education))
 - Army Group (Multiple states categorized into one geographical section, like Midwest, Southwest, etc. (Many state departments of education collaborating together))
 - Army Region (All states in the United States (e.g. U.S. Department of Education))
+
+### **The Importance of Succession & Middle Management**
+
+As you've read through these breakpoints, you may've noticed a consistent "theme" on how many direct reports a leader has under them. To quickly recap some examples in case you didn't catch it the first time:
+- Team leaders have ~3-5 direct reports: soldiers, medics, etc.
+- Squad leaders have ~3-5 direct reports: RTOs and team leaders
+- Platoon leaders have ~3-6 direct reports: squad leaders, their 2IC, platoon medic/RTO, and (sometimes) detachment leaders
+- Company leaders have ~5-7 direct reports: company staff, their 2IC, platoon leaders, auxiliary officers, and detachment leaders
+
+Every "manager" has at least a few people of lower rank below them. It permitted a smooth progression up the chain of command for *every* person involved, should they wish to pursue promotions, and provides smooth transitions in leadership should a manager, director, or leader step down from their position. The deliberately controlled number of direct reports also ensures there is sufficient time for 1:1 communication, handling emergencies, and still getting the necessary work done.
+
+In these scenarios, you should under no circumstance heavily invest a significant amount of people of lower rank under only 1 person, or an extremely limited number of people, of a higher rank. While you may've flattened the level of leadership involved and potentially reduced role complexity, you've effectively destroyed any progression or advancement, a buffer for when things go wrong, *and* eliminated the incentive for people to advance further in the organization. If there's no upward path in *your* organization, perhaps people will search for an upward path in another organization to meet their goals.
+
+What may result is a gap reminiscent of a caste system where you have a cohort of extremely experienced individuals, a cohort of extremely inexperienced individuals, and nothing in between. Measures to mitigate that gap will be hard pressed to execute in practice as the experienced group is far too focused on their own duties for the health of the organization to impart their knowledge to those below. That leaves the inexperienced group undergoing a constant trial by fire and hopefully able to glean knowledge on how things work over time. Lastly, should a large enough group of those highly experienced people depart, the organization is bound to lose structure, lose a significant source of technical knowledge, be thrown into a period of chaos, and will either miraculously survive a near-fatal wound or simply die out.
+
+Though "middle management" complicates communication across layers, organizations cannot completely neglect the duties behind the middle layers at the intersection of strategy and execution. At the same time, you also cannot have *too* many leaders and people in the middle layers, as you're looking at excessive redundancy and costs to the organization.
+
+It's a balancing act between too many leaders and too few leaders to oversee people in the organization. Neither extreme is good.
 
 ### **Scaling Down & Reservists**
 
