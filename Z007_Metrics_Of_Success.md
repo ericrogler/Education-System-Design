@@ -365,9 +365,9 @@ These acts are responsible for establishing metrics as a target to meet, which m
 
 While these acts provide data for metrics and analysis, doing so at the cost of preventing funding for education is where it goes sour. Even if you did hide the inputs (the test scores and their results), a savvy person could deduce the outputs (funding) over time. Since these standards are tied to money, which a lot of people want and need, deviating from these standards is frowned upon, if not outright barred, in many education systems. This may mean more focus on the test(s) and its results, but perhaps at the cost of any actual learning and thinking.
 
-### **Misaligned Goals vs Misaligned Metrics**
+### **Misaligned Goals & Misaligned Metrics**
 
-International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program, nor should be treated as defamation of any kind. Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.), and I use that as my own mission statement here. 
+Let's say the goal of an education program or initiative is learning and developing skills for a student's future.
 
 That could imply many things, such as learning through trial by fire, providing accommodations to assist with development, or designing education specifically for students with higher abilities and self-motivation. Across all these things, however, *the goal is still learning.*
 
@@ -549,8 +549,6 @@ TTK and TAE are decision metrics while DPS and DPR are diagnostic metrics. Decis
 1. Hirschfeld Davis, J. (2015, December 11). *President Obama Signs Into Law a Rewrite of No Child Left Behind.* The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
 
 1. Institute of Education Sciences (IES). (2025, July 31). *Understanding Results - NAEP.* Nces.ed.gov. [https://nces.ed.gov/nationsreportcard/guides/]
-
-2. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/about-the-ib/](https://www.ibo.org/about-the-ib/). Accessed on December 17, 2025.
 
 1. Klein, M., Sosu, E. M., & Dare, S. (2020). *Mapping inequalities in school attendance: The relationship between dimensions of socioeconomic status and forms of school absence.* Children and Youth Services Review, 118(118), 105432. [https://doi.org/10.1016/j.childyouth.2020.105432](https://doi.org/10.1016/j.childyouth.2020.105432)
     - Alt Link: [https://www.sciencedirect.com/science/article/pii/S0190740920303698](https://www.sciencedirect.com/science/article/pii/S0190740920303698)

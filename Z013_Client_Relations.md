@@ -96,20 +96,16 @@ Before we go any further, let me emphasize one point clearly. **Every stakeholde
 
 An education system, or a workplace, is not a family. Families are *part* of education systems, but families are not a group of professionals here and instead parents/guardians and their children engaging in education. Many relationships and rewards in systems between professionals are determined through contracts, and by extension money, so oversharing information may become a security and livelihood risk. While other people may not necessarily be your friends, it still doesn't stop you from being friendly. At the same time, someone being friendly isn't a sufficient reason to divulge information readily.
 
-Bias is unavoidable, ever-present, and unlikely to go away anytime soon. Everyone has unconscious bias and it's your role to identity which biases matter and how to adapt to them. It's the things people don't *say* they do, but still do it anyway: the unknown knowns. 
+Bias is unavoidable, ever-present, and unlikely to go away anytime soon. Everyone has unconscious bias and it's your role to identity your own biases and how to adapt to them. It's the things people don't *say* they do, but still do it anyway: the unknown knowns. 
 
 You might also hear this mentioned as stereotypes and this applies to many things, such as gender, race, and more. It affects how you handle things like classroom management and is often out of your control and shaped by the dynamics of the environment people grow up in.
 
 I'll go over one example here: gender. Every gender has its problems in this area.
 
-Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. In our teacher example, male teachers often have more authority in discipline and less backlash on their appearances, but face more scrutiny on what they say and do. Conversely, female teachers may have more support networks and lower fears of retaliation for what they say and do, but may be more likely to face danger in general, such as sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
+Gender shapes people's perceptions of teachers, whether people admit it or not. You could say the same for many other professions besides teachers too. In our teacher example, male teachers often have more authority in discipline and less backlash on their appearances, but face more scrutiny on what they say and do in public and private. Conversely, female teachers may have more support networks and lower fears of retaliation for what they say and do, but may be more likely to face danger in general, such as sexual assault, misogyny, objectification, and have their classroom authority questioned by students, parents, co-workers, administration, and more.
 
-With gender, teachers and professors normally are not classified as a "bona fide occupational qualification" (BFOQ), so you may not legally discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982). Even when legal protections are made, perceptions may still persist.
+With gender, teachers and professors may not fall under a "bona fide occupational qualification" (BFOQ), so you may not discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982). Despite any legal protections that are made, perceptions may still persist.
 - Aside: BFOQ is an *exception* to existing laws, [like Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) (U.S. Equal Employment Opportunity Commission, 2009).
-
-Should this happen in a teaching setting, everyone included, then keep the following in mind: 
-- Judge based on the values, actions, and conduct of a person; not their background.
-- Notions on respect and disrespect towards someone regardless of gender, etc. can be taught.
 
 ### **The First Impression**
 

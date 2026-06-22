@@ -76,7 +76,7 @@ There are multiple types of trainings milsim organizations host, such as Basic, 
 
 Keep in mind members of a group may more or less freely associate with each other regardless of rank or position in a milsim group, but may be restricted on what channels they can access depending on their position within the group.
 
-**Basic Training**
+### **Basic Training**
 
 Basic is vital to milsim organizations as it's the entry point and orientation for incoming recruits. It ensures they understand the environment they're getting into and what they must do to work effectively alongside everyone else. If they cannot abide by these rules and procedures, they are subject to disciplinary actions. 
 
@@ -95,7 +95,7 @@ These processes are similar to how most classroom management is taught to studen
 
 To parallel classrooms, Basic is like the guidelines or syllabus you print out and hand copies to each student, go over with the students, and confirm everyone understands before giving them any real responsibilities.
 
-**MOS Training**
+### **MOS Training**
 
 A MOS (military occupational specialty) is a field or role a soldier may pursue. Compared to its real-life counterpart, many nuances are omitted, so each training session typically takes 30 minutes to a few hours depending on its complexity. 
 
@@ -103,15 +103,13 @@ In a milsim, think of getting a MOS as permission to use certain equipment and p
 
 These trainings are available only after Basic is passed and there may be additional restrictions, such as time-in-service (TiS), time-in-grade (TiG), or minimum rank. Each MOS training comes with a specific set of rules, procedures, and methodology for correct use of all MOS-related equipment and procedures. Training typically does instruction, practice, then a test of competency before trainees may be cleared for the MOS. If MOS rules are broken, MOS permissions may be revoked for a limited time or indefinitely as a consequence.
 
-For a classroom parallel, MOS training is like reviewing rules and requirements of a specific activity, like gym class and basketball, before allowing students to participate in that specific activity. Unlike Basic, MOS training is specific rules for specific activities and covers primarily the needed equipment and procedures for those activities.
+For a classroom parallel, MOS training is like reviewing rules and requirements of a specific activity, like gym class and basketball, before allowing students to participate in that specific activity. Unlike Basic, MOS training is specific rules for specific activities and covers primarily the needed equipment and procedures for those activities. Nevertheless, the more MOS trainings you get through and pass successfully, the more parts of an organization you can be a part of in turn.
 
-**Specialty/Detachment Training/Creation**
+### **Detachment Training**
 
-Specialty training is typically reserved for detachments with stricter requirements and performance standards. Detachments are personnel assigned to specific tasks and roles within the milsim organization as a whole. 
+Detachment training is typically reserved for detachments with stricter entry requirements and performance standards. Detachments consist of personnel assigned to specific tasks and roles within the milsim organization as a whole, which means receiving different trainings, missions, and equipment. They are also intentionally limited in size as smaller numbers are generally better suited for "special" or unconventional operations. 
 
-Setting a detachment up and its training requires different clearances, permissions, and oversights approved first compared to Basic/MOS training.
-
-Let's pretend I'm creating a Force Reconnaissance detachment and I'm doing this for a Company Leader. There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
+Setting a detachment up and its selection/training process also requires more clearances, permissions, and oversights approved first compared to Basic/MOS training. Let's pretend I'm creating a Force Reconnaissance detachment and I'm seeking approval from the Company Leader (or the current direct leader of an organization). There's several things to establish and approve outside of training and certifications with the Company Leader including, but not limited to, a proposal covering items like:
 - What extra equipment the detachment is permitted and what additional rules do they follow
 - How will this detachment operate alongside other elements in the organization
 - What tasking they can and cannot do
@@ -121,16 +119,22 @@ After approval is received comes further changes to how the training is designed
 - Any additions or modifications to general procedures, if applicable
 - How to use detachment assets and equipment
 - New procedures and methods for specialized tasking
-- How to develop the proper mindset to operate in this detachment
+- The mindset incoming recruits need to operate in this detachment
 - How to gather and report intelligence effectively
 - How to interpret maps, terrain, symbols, landmarks, and so on
 - How to complete multiple tasks thousands of meters away from objectives
 
-Detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment and how they interact with the people around them as well. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and access permissions related to it.
+Several requirements are already met by many people after they reach a certain "rank" and pass specific MOS trainings (in this example: at least passing marksman, medic, and grenadier MOS trainings) as well as basic training. The detachment training can review *parts* of these prior trainings again, but assumes heavily, and in good faith, rigor was strictly maintained and review time can be shortened greatly. Compared to all other trainings, except for officer/leadership training, how the training is conducted and performance graded is intentionally obscured to ensure fairness and equity for all incoming candidates.
 
-In a typical education system, this is like bringing on teaching assistants from students who passed the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities.
+Of particular note above, mindset is *extremely* difficult to train compared to other skills. If I were to describe the ideal mentality briefly: those who seek to perfect their craft and will not give up when things get difficult. While mentality can be developed to what's needed for the detachment, training that up takes significant time and resources and requires the trainee to undergo a self-actualization process. It also cannot be trained up as easily as physicality, coordination, accuracy and precision, or other technical skills. Any physical factors and technical knowledge can be trained up and overcome blockers far more easily compared to mentality.
 
-**Officer/Leadership Training**
+There's also a process called voluntary withdrawl, where a trainee chooses, of their own accord, to leave the training program. That's allowed during the training stages and they can do it at any point during the training without punishments. If they try to reattempt to get back into the detachment though, they're normally not allowed to retry until a sufficiently long period of time pass since their last attempt. The idea here was if trainees quit during the *training* without testing their limits, they'll certainly quit during a critical situation when those limits are tested. Trainees putting in an earnest effort and still failing, however, gets them another chance at a later time and perhaps even the help to succeed next time.
+
+Outside of the above details, detachment training is similar to Basic/MOS, but typically with higher standards due to specialized responsibilities and more dedicated resources available. When someone goes through detachment trainings, they usually do so to become part of that detachment rather than receive only knowledge and receiving any new permissions from their station. After passing the training and tests, the applicant may go into an official role or a trial period to see how they act in a live environment and how they interact with the people around them as well. The purpose of a "trial period" is to confirm they didn't slip through the cracks on the training process and we catch the issues quickly.
+
+In a typical education system, my closest comparison here may be with selecting teaching assistants from students who passed with high marks in the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities. While they don't hold as much authority (and likely knowledge) as a teacher, they are still specialists in a given area of expertise.
+
+### **Leadership (NCO/Officer) Training**
 
 Leadership in milsim groups typically requires a long time-in-service, training, and testing before billeting. This may be first done by assuming an "acting" leadership role within the milsim group, doubling as a trial period to see their performance acting as the role in live operations.
 
@@ -148,7 +152,7 @@ Tests are small-scale simulations appropriate for team/squads. A batch of aspiri
 
 In education, officer training has similarities to a student teacher "trialing" in a classroom supervised by an existing teacher in order to become a teacher themselves.  The student teacher first observes and listens to the primary teacher, absorbing the "theory" behind how a classroom is managed and operates. After this, the student teacher designs their own lessons and teaches independently to prove competency and gets evaluated by teachers and potentially administration. Additionally, both student teachers and leadership applicants are expected to quickly take a bold plunge into the working environment under pressure and high expectations.
 
-**Field Training Exercises (FTX)**
+### **Field Training Exercises (FTX)**
 
 The closest comparison for these in education systems are probably "continuing education" or "professional development." 
 
