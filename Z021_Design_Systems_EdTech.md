@@ -182,7 +182,7 @@ Systems design and design systems don't work in isolation either. They're *both*
 
 In both cases, you don't decide the tools before how you'll design the architecture. If you curious why, think about building a house without a blueprint. It's generally a bad idea to go in without a proper plan. Even when you decide on tools, you want to reevaluate those tools regularly on a yearly, or even bi-yearly, basis.
 
-Many details behind system design assume technical knowledge existing outside the scope of this book and are often catered towards backgrounds like engineers. Two extensive resources, albeit more advanced readings, covering system design and data engineering I've seen are:
+Many details behind system design assume technical knowledge existing outside the scope of this book and are often catered towards technical backgrounds like engineers and researchers. Two extensive resources, albeit more advanced readings, covering system design and data engineering I've seen are:
 - *Fundamentals of Data Engineering* by Reis & Housley (2022)
 - *Designing Data-Intensive Applications* by Kleppmann (2018)
 

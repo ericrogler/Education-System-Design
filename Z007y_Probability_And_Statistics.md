@@ -248,65 +248,34 @@ Confidence intervals (CI) measure reliability where, if you repeat an experiment
 
 With context behind the metrics provided above, let's consider one case of reading rates: a "significant difference" between percentiles. Remember that reading rates measure if students meet a baseline value. I could say there's 90% of students with a reading rate at grade level, but among that 90% there could be a stark difference in performance. That's what the different percentiles, such as 90th, 75th, and 25th percentiles check for and determine. With these percentiles, and other metrics, you can determine how well students perform at the top, middle, and bottom levels across different years and tests, even if one value like mean score remains flat/stable. One possibility from your results is you can say "our top performers are doing much better this year compared to before, but our average students are clearly falling behind" and you've set the grounds to develop a targeted solution.
 
-### **Business, Operational, and Embedded Analytics**
-
-Reis & Housley in *Fundamentals of Data Engineering* touch on various analytics employing various statistical methods I'll bring up in this section (2022).
-
-A fair bit of decision-making happens through two means: operational analytics and business analytics. Operational analytics seeks to enable immediate action whereas business analytics seeks actionable insights from data.
-
-Operations focuses on real-time and streaming data so organizations can respond as events occur. Examples of implementations may be dashboards, alerts, automated responses and triggers, and so on to respond to when conditions change.
-
-Business focuses on aggregations, forecasting, comparisons, and batching data. It doesn't respond to individual events, but guides planning and strategy over time. 
-
-The biggest difference between them is time (or decision latency). Operational analytics minimizes time between an event and action taken while business can suffice without immediate action for a deeper analysis and improved context. The lines between these two blur as technology advances and can do both types at once.
-
-As for how this ties into wealth, think about managers and administrators handling finances. They may use operational analytics for monitoring revenue and expenses throughout the day, while business analytics aggregates financial performance for weekly reviews, monthly reviews, and yearly reviews. Systems could be designed to cater to real-time data and streaming, then add options to batch data for long-term analysis. Be warned, however, that streaming data without acting on it introduces excess storage costs, complexity, and maintenance requirements.
-
-For users in education systems, they may do more business analytics due to domain characteristics rather than technology choice. Many academic events occur discretely, such as assignments, exams, and grades, and update only as students complete them. The system will prefer periodic analysis over continuous monitoring by design. A user can extract data, process it through scripts, and aggregate results by classroom, grade level, or demographic for presentation and decision-making. An engineer may favor batch pipelines and architecture over stream architecture in education systems.
-
-A third type of analytics is embedded analytics. While operational and business analytics focuses on *internal* data within an organization, embedded focuses on where data is delivered to users and integrates analytics directly into products. There exists many examples, including products like the smart thermostat, a software application, and through SaaS (software-as-a-service) platforms providing analytics in their interface.
-
-Amongst all approaches, any approach in a given system involves tradeoffs. For example, business analytics may tolerate lower availability at higher latency, but operational and embedded analytics typically require high availability at low latency. All analytics still care about overall performance though. Systems working at smaller scales may require a redesign as number of requests/users grows, so scalability and adaptability should be considered early on to avoid issues later.
-
 ### **What About Machine Learning?**
 
-You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about supervised vs unsupervised learning, structured vs unstructed data, streaming vs batching, and what even is machine learning without too much difficulty. The basics are doable.
+You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about the basics of machine learning without too much difficulty. The basics are doable.
 
-The next stage is going into the high-level overview of concepts, like linear regression, gradient descent, hyperparameters, learning rate, and so on. I could give you a less technical explanation of these and you might go away with understanding it just fine.
+The issue is when you need to go *beyond* high-level overviews and working with these concepts in practice. For example, while you could do most problems knowing a small amount of theory on methods like logistic regression, that covers only a small, but still significant, set of problems you can reliably solve. 
 
-The issue is when you need to go *beyond* high-level overviews and working with them in practice. For example, while you could do most problems with a small amount of theory on methods like logistic regression, random forests, and transformers as well as tools like Docker and SQL, that still leaves a small, but significant, set of problems. 
+At that point, statistical knowledge and the math provided from high-level math courses like Calculus, Linear Algebra, Optimization, Game Theory, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
 
-At that point, the math provided in high-level math courses like Calculus, Linear Algebra, Optimization, Game Theory, and so on is no longer a suggestion but a requirement. Without that foundation, you're going in blind, unsure why X is doing Y thing, and far more likely to break something or make things worse. You also cannot adapt its underlying concepts to the problems *you* need to solve as easily, which often means you're stuck searching for a solution that barely works and takes a lot of time to get up in the first place.
+Simply put: if your goal is to get into and/or work with machine learning, you'd best learn math.
 
-If your goal is to get into and/or work with machine learning, you'd best learn math.
+That said, I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Many functions in education systems don't necessarily *need* machine learning to function well, but there may be more uses for it in the future. Nevertheless, it's increasingly common and may affect analysis and research towards education, so it has relevance here.
 
-That said, I don't expect the average person *in general* to invest heavily into machine learning or need to learn much about it in the first place. Many functions in education systems don't necessarily *need* machine learning to function well, but there may be uses for it in the future. Nevertheless, it's increasingly common and it's an area serving data, which in turn affects analysis and research, therefore it has relevance here. I'm not teaching it here though, but I can tell you it requires statistical knowledge and at least linear algebra & calculus knowledge to make decent sense of it past foundational knowledge.
-
-If I were to sum up, in a list, some concepts you may encounter, it'd be the following:
+Some concepts you may encounter include, but are not limited to:
 - Supervised vs Unsupervised vs Semisupervised Learning
-- Batch vs Streaming Data
-- Structured vs Unstructured vs Semistructured Data
-- Encoding & Embedding Data
-- Classical Techniques vs Deep Learning Techniques (and, by extension, knowing when one solution is overkill)
-- Regression vs Classification Techniques
-- Time-Series Data (e.g. Forecasting)
-- Bias-Variance Tradeoff
-- Overfitting & Underfitting
-- Clustering
-- Dimensionality Reduction
-- Gradient Descent
+- Regression & Classification
+- Time-Series Data, Forecasting, & Seasonality
+- Bias-Variance Tradeoffs
+- Clustering (e.g. K-Means)
+- Gradient Descent (which you also see in Calculus)
 - Training & Learning Curves
-- Coding Libraries (e.g. Python and Scikit-Learn)
 - Confusion Matrix (i.e. True/False Positive/Negative, Sensitivity, Specificity, Accuracy, Recall, Precision, F1 Score, etc.)
 - Neutral Networks
-- Anomaly Detection
-- Prediction
 
-You may find many of these topics covered in more dedicated resources, such as *Ace the Data Science Interview* by Huo and Singh (2021), *Fundamentals of Data Engineering* by Reis & Housley (2022), and various other textbooks and courses.
+You may find many of these topics and beyond covered in more dedicated resources related to the data field, such as *Ace the Data Science Interview* by Huo and Singh (2021), *Fundamentals of Data Engineering* by Reis & Housley (2022), and various other textbooks and courses.
 
 Machine learning is a vast field evolving constantly, especially with increased popularity in artificial intelligence (AI). Further reading on any topics here, related topics, or machine learning in general is available through many physical and digital resources.
 
-As one example of a resource, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
+As another example of a resource focused near *solely* on machine learning, I'll point a finger at [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) on AI/LLMs (Google Developers, 2025).
 - If you're curious about how AI Detectors may work, for example, that may fall under "Classification." 
 
 ## **Bibliography**
