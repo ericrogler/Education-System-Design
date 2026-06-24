@@ -23,7 +23,7 @@ If you're going into management, or transitioning from an individual contributor
 - Notifications and distractions *will* kill your productivity if you let them.
 - Give people what they need, not what they want.
 
-As the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. If you do not plan appropriately, you face stagnation or even organizational death.
+As the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. Poor planning leads to organizational decline.
 
 Scaling up typically involves things like:
 - New management layers
@@ -45,7 +45,7 @@ I'm going to draw parallels from two places you may not expect to see in a book 
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
-According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter ("Operational Management") showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate, through hypotheticals, *why* these breakpoints are at those values.
+According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't a new idea here; the next chapter ("Operations At Scale") showcases similar breakpoints in a different context and application. I'm going to use these values as my own breakpoints and attempt to illustrate, through hypotheticals, *why* these breakpoints are at those values.
 - If interested in my primary basis for these ratios, look further into [this paper on relationships in organization](https://www.nickols.us/relationship.pdf) (Chute et al., 1938) and [this explanation on the formulas from Graicunas](https://www.nickols.us/graicunas.htm) (2019).
 - The concept of scaling discussed here isn't unique to Fadell either. Other authors, such as Robin Dunbar (2013) and Geoffery West (2017), also researched this topic in a similar vein.
 
@@ -57,7 +57,7 @@ You should avoid limiting personnel as people may leave the organization and shi
 
 Imagine you're an educator, teacher, or instructor.
 
-You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, which are past typical limits for managers to direct reports. 
+You're technically a manager of ICs (individual contributors), but may deal with class sizes of up to 40 students, or lecture hall sessions with hundreds of students, at the same time which are past typical limits for managers to direct reports. 
 
 You may also deal with multiple groups of up to 40+ *different* students in a single day, which means you could quickly approach the 120-140 or 350-400 people breakpoints *with only one manager*. Sometimes this is accommodated with assistant teachers, co-teachers, and other support staff to assist at the "management" layer. Sometimes this is not accommodated.
 
@@ -65,9 +65,7 @@ I'll discuss more on this below, but the general lesson is as the number of peop
 
 ### **A Quick Aside**
 
-I'm not going into depth on matrices or a weak vs strong matrix in management, as well as other advanced management concepts. That's too high level for this book.
-
-At best, we're going to assume 1 manager oversees X number of direct reports and make a nice and simple tree diagram across multiple levels.
+I'm not going into depth on matrices or a weak vs strong matrix in management, as well as other advanced management concepts. That's too granular for this book.
 
 I'm also not going into many edge cases, such as the manager with multiple managers *and* individual contributors under them as direct reports.
 
@@ -75,64 +73,63 @@ I'm also not going into many edge cases, such as the manager with multiple manag
 
 If you're making a business, you likely, if not certainly, go through multiple hoops just to legally start up the business. For example, there's seed funding and gathering the initial capital (i.e. money), registration with the State, market research, business plans, tax documentation, advertising plans, insurance, general management, labor contracts, licenses, banks, and many, *many* more problems to address.
 
-If, for some reason, you actually want to start a business on the side, please refer to more dedicated resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside scope here.
+If, for some reason, you actually want to start a business on the side, please refer to more dedicated resources like [SBA.gov](https://www.sba.gov/) as far too many details are outside the book's scope here.
 
-When starting out, you'll want to set up communications like emails and websites through official business URLs (such as "companyname.com") rather than informal, personal emails for perception amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage and enforce than no workflow or a sloppy workflow. 
+When starting out, you'll want to set up communications like emails and websites under official business names (such as "companyname.com") rather than informal, personal emails for perception and first impressions amongst clients. You'll also want to document important processes first like hiring and onboarding, even if only rough drafts right now, as a clear workflow is *far* easier to manage, change, and enforce than no workflow or a sloppy workflow. 
 - As an aside, remember that *both* hiring and fully onboarding may take several months or even years for every new person, employee, etc. you bring on! Plan for that time and expense!
 
-Additionally, if forced to choose between two options, like two equally technical interviewees to bring into an organization, then use competency in soft skills (i.e. non-technical skills) and check for repeatable patterns of behavior as a tie-breaker. At the same time, be mindful of those who are good at presentation, but bad at execution.
+If forced to choose between two options for bringing in new people, like two equally technical interviewees to bring into an organization, then use competency in soft skills (i.e. non-technical skills) and check for repeatable patterns of behavior as a tie-breaker. At the same time, be mindful of those who are good at presentation, but bad at execution, as people may train to succeed at the *interview* and not necessarily the job.
 
 You'll want to be careful with onboarding new people because the cost of one bad hire can quickly exceed the cost of recruiting and further cause organizational issues. Even if someone will perform well, but cannot adjust to the working environment, it'll still create issues.
 - A really good employee being worth many employees is a widely accepted view, but you may risk a single point of failure and overworking them.
 - Don't expect top-tier talent unless you provide top-tier pay and benefits to keep them around.
 
-You also need to choose technologies useful for today, but plan for the future. A bakery cannot sell 1000 cakes in one day if it cannot sell even 10 cakes in a single day. While there's a risk of under-preparing, there's also over-investing. You don't need the same technology as a massive corporation with 10000+ employees at this breakpoint; you may spend unnecessarily, deal with excessive complexity, and be stuck too long in the setup phase, which greatly delays any return on investment. Don't plan for the stars when you haven't reached the moon.
+You also need to choose technologies useful for today, but reasonably plan for the future. A bakery cannot sell 1000 cakes in one day if it cannot sell even 10 cakes in a single day, so it needs to establish the means to produce 10+ cakes per day first. While there's a risk of under-preparing, there's also over-investing. You don't need the same technology as a massive corporation with 10000+ employees at this breakpoint if you can only accommodate 10 employees right now. You may spend unnecessarily, deal with excessive complexity, and be stuck too long in the setup phase, which greatly delays any return on investment and profits. Don't plan for the stars when you haven't reached the Moon, so to speak.
 
 These things above are to solve an early scaling problem and identify what you want from your employees, and yourself, as part of your business. Properly building a foundation is key to success, makes it easier to scale up as the organization grows, and generally avoids a lot of issues in the future.
 
-For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking at companies.
+For the rest of this chapter, pretend you are the CEO/owner of this newfound company as I go through those breakpoints from before and *why* I find them applicable and relevant from my own experiences looking into companies.
 
 ### **Business Breakpoint 1: 15 People**
 
 15 people is how many people a single manager typically can manage simultaneously *as an upper limit*. A smaller breakpoint starts at around 5 direct reports per manager where relations and group management quickly explode exponentially (Chute, Gulick, & Urwick, 1938). At this stage, it's you, the manager, and the other employees as ICs.
 
-As for typical limits, I'd expect around 5-8 direct reports if overseeing people with different roles and 9-12 direct reports when overseeing people with similar, if not the exact same, roles. You *could* extend beyond the 14 person breakpoint (15 people minus you, the manager) for direct reports, but it would have to be in a role requiring minimal direct intervention with individual contributors and the manager focus almost solely on management.
+As for typical *maximum* limits organizations may impose, I'd expect around 5-8 direct reports if overseeing people with significantly different roles and 9-12 direct reports when overseeing people with similar, if not the exact same, roles. You *could* extend beyond that and go to a 14 person breakpoint (15 people minus you, the manager) for direct reports, but the role may require minimal direct intervention with individual contributors and the manager focused almost solely on management.
 
 You'll have two layers at this point:
 1. Manager(s) (You)
 2. Individual Contributors
 
-As there's only one true manager (and perhaps assistant managers if hired), your main duties are management and task delegation. You may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are straightforward. Everyone can likely fit into a single space without great difficulty if based in a physical environment and you stay at or under 15 people.
+As there's only one true manager (and perhaps assistant managers if hired), your main duties are people management and task delegation. You may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are relatively straightforward still. Everyone can likely fit into a single space without great difficulty if based in a physical environment when you stay at or under 15 people.
 
-Some small businesses may purposely stay small and still be successful. These businesses may hire contractors to perform tasks rather than hiring more new employees and these contractors are applicable at any scale of business. Business growth depends on organizational structures, revenue streams, and expense management.
+Some small businesses may purposely stay small and still be successful. These businesses may hire out contractors to perform tasks rather than hiring more new employees and these contractors are applicable at any scale of business.
 
-Lastly, if you're at this breakpoint, I'll wager a guess you've probably started the group with a bunch of friends (or at least people you're friendly with). To grow past this point, you're going to need to set rules in place for how your "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
+Lastly, if you're at this breakpoint, I'll assume you've probably started with a bunch of friends or at least people you can work with. To grow past this point, you're going to need to set rules in place for how your "friends" interact with each other. If you do not, bringing in new people will swiftly backfire with various mixed opinions added and no codified means to appropriately communicate them.
 
 ### **Business Breakpoint 2: 40-50 People**
 
-One single manager cannot reasonably handle 40-50+ people by themselves. Even if they *can*, they probably shouldn't anyways. They cannot effectively oversee this many direct reports, so a common solution is a new organizational layer.
+One single manager cannot reasonably handle 40-50+ direct reports by themselves. Even if they *can*, they probably shouldn't anyways. They cannot effectively oversee this many direct reports, so a common solution is a new organizational layer.
 
 You'll have three layers at this point:
 1. Director/CEO (You)
 2. Managers (New)
 3. Individual Contributors
 
-At higher levels, your goals go from managing tasks to managing people. You can no longer deal with incidents or problems as they come; you have to think steps ahead and plan out the future. This is a paradigm shift from operating tactically to operating strategically. The director+ here now develops employees, company culture, and revenue streams.
-- Put another way: finding methods to earn money, improving the state of the company, and getting employees to perform better.
-- If it doesn't cover one of these areas, consider delegation.
+As the new director, your goals go from managing tasks people do to managing people themselves. You can no longer deal with incidents or problems as they come like before; you have to think steps ahead and plan out the future. This is a paradigm shift from operating tactically to operating strategically, where knowing who/what/how to delegate becomes more important. The director+ here now develops employees, company culture, and revenue streams.
+- Put another way: finding new methods to earn money, improving the state of the company, and getting employees to perform better.
 
-An assumed "upper limit" is about 4-5 managers with 8-10 direct reports each on average in a ~40-50 person organization. Direct reports are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors, and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
+An assumed "upper limit" is about 4-5 managers with 8-10 direct reports each on average in a ~40-50 person organization. I'll also assume each manager's direct reports are of similar roles to what the manager has technical knowledge of and can oversee. Direct reports are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors, and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
 
-You may also consider hiring on new individual contributors to assist you directly, the director, but remember they count towards the limit of direct reports. If their roles are not well-defined, they risk unnecessary overhead and are better off slotted under a manager to ensure clearer accountability and workload distribution.
+You may also consider hiring on new individual contributors to assist you directly, the director, but remember they count towards the limit of *your* direct reports. If their roles are not well-defined, they risk unnecessary overhead and are better off slotted under a manager to ensure clearer accountability and workload distribution.
 
-In smaller organizations, employee often wear multiple hats. When scaling up and expanding operations, you'll need specialists and managers to oversee new projects or expand existing projects. Generalists are still helpful, but you'll need to look into specialists to meet advanced project requirements. Some ICs may step up into management, but you may need to bring in outside managers and specialized individual contributors to fulfill new roles.
+In smaller organizations, employee often wear multiple hats. When scaling up and expanding operations, you'll need specialists and managers to oversee new projects or expand existing projects. Generalists are still helpful, but you'll also need to look into specialists to meet advanced project requirements. Some ICs may step up into management, but you may need to bring in outside managers and specialized individual contributors to fulfill new roles.
 
 Growth near this breakpoint may introduce new regulations too. For example, the Affordable Care Act, according to [the IRS](https://www.irs.gov/affordable-care-act/employers) (2019), explicitly define "50 or more full-time employees" where you legally have to change procedures and benefits to meet requirements if not already in place.
 
 Communication as a risk factor exponentially increases with scale. Large meetings, if done with 40-50 people, almost certainly lead into side conversations and distractions which waste time and reduce productivity. Conveying vital information occurs through mainly one layer at a time rather than straight from point A to point B. This is when you hopefully learn the art of sending an email instead of hosting a meeting.
 
 As for you, the CEO, you become a director, or a manager of managers. There are many similarities, but also differences, between managers of ICs and managers of managers:
-- Rather than assist directly with tasks, you help the people helping people complete tasks
+- Rather than assist directly with tasks, you help the people helping other people complete tasks
 - Managers require more autonomy compared to ICs
 - You have more responsibility and power, but less freedom
 - You move from domain expertise to management
@@ -143,11 +140,11 @@ Remaining as CEO/director at this stage requires committing more to management t
 - This effect magnifies as your organization scales up.
 - **You'll also have to accept your direct reports, or team, may be or become smarter than you on certain aspects. Learn to respect them.**
 
-If there's no employee(s) to fulfill organization responsibilities, it falls upon you and everyone else in the organization instead until you bring in more external expertise. Layers tend to assign blame towards the layer directly beneath them if something goes wrong, so a director will blame a manager first before any IC, as the manager did not sufficiently manage resources to do their job. For example, if a manager firing one employee risks the failure of most or all of the organization, that may be seen as failure on the manager's part. There should also be succession plans and contingency systems across each management layer to address emergencies for vacancies too.
+If there's no employee(s) to fulfill organization responsibilities, those responsibilities fall upon you and everyone else in the organization instead until you bring in more external expertise. Layers tend to assign blame towards the layer directly beneath them if something goes wrong, so a director will blame a manager first before any IC, as the manager did not sufficiently manage resources to do their job. For example, if a manager firing one employee risks the failure of most or all of the organization, that may be seen as failure on the manager's part. There should also be succession plans and contingency systems across each management layer to address emergencies for vacancies too.
 
 ### **Business Breakpoint 3: 120-140 People**
 
-Another layer of management appears at this stage: directors, or "middle management." While directors aren't "new," it's around this point more people become directors instead of only the CEO. Unlike the previous stage, directors are a layer between you and managers, rather than only director -> manager -> employee. Each director usually manages up to 6 direct reports and may oversee key projects/products directly if needed. At 120-140 people, you may only need 3, or even 4-5, directors.
+While directors aren't "new," it's around this point more people become directors instead of only the CEO. Unlike the previous stage, directors are a layer between you and managers, rather than only director -> manager -> employee. Each director usually manages up to 6 direct reports and may oversee key projects/products directly if needed. At 120-140 people, you may only need 3, or even 4-5, directors.
 
 The organization layers may look like this now:
 1. President/CEO (You)
@@ -155,7 +152,7 @@ The organization layers may look like this now:
 3. Managers
 4. Individual Contributors
 
-Outside core products and projects, you'll want specialized departments and teams, such as HR, legal, and more. Outsourcing these functions typically exceeds a breakeven point at this scale where it's more cost-effective to bring in-house instead.
+Outside core products and projects, you'll want to look into specialized departments and teams, such as HR, legal, and more. Bringing these functions in-house becomes more cost-effective at around this breakpoint.
 
 More management means reviewing meeting structures, organizational culture, support networks for managerial staff, and communication across layers. The tasks a director do may differ greatly from a manager, so bringing in directors requires a different set of training and skills to onboard them. For that purpose, specialists familiar with director+ training may be contracted or hired for support if you lack the resources to do it yourself.
 
@@ -297,7 +294,7 @@ There's also what I'll call "bad engineering," which affects technical debt, but
 
 A manager has many freedoms.
 
-Taking time off whenever they want, however, may not be included. At least not in the way many may think.
+Taking time off whenever they want, however, may not be included in that list of freedoms. At least not in the way many may think.
 
 At a high enough leadership position, or when you're the owner/president of an organization, you're always "on-call." You *could* take time off like a typical employee, but you may only manage 2-3 weeks because chaos ensues from absent leadership (and maybe not having someone around to pay people!).
 
@@ -313,7 +310,7 @@ Lastly, some leadership roles are in a position they *can* influence their wealt
 
 ### **The Bureaucratic Spiral**
 
-As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy. It's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
+As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about bureaucracy. In its worst form, it's death by process. There's so many new meetings, initiatives, etc. it takes away time to do what you're supposed to do, which ironically places you and/or the employee at risk of firing/laying off. Unchecked bureaucracy creates the very failures it tries to prevent.
 
 Let's explore a *bad* implementation where you're in the shoes of John Employee; the average white collar worker. You are hired and *want* to just work on your job, then enjoy the rest of your day away from work. You also prefer explicit over implicit instructions, so you can verify work was done right and there won't be many issues in the future.
 
@@ -346,7 +343,7 @@ This training lets you establish flags, terms, and phrases that indicate hollow 
 
 The training should also include limiting reasons to reject hiring a candidate. For example, reject someone because they clearly don't know how to do a job rather than their age, gender, way they said a particular word, lack of diversity, and so on. While hiring someone because they're nice to work with is also important, that shouldn't be the sole deciding factor. Sometimes the best person for a job is the person you may least expect, like a new engineer with a lower-level degree or an unrelated degree to the role. Though it's understandable to hire the most legally defensible candidate, that may mean rejecting the most qualified candidate as a result.
 
-While training may seem like an obvious solution, it may not be implemented in practice for several reasons:
+While training incoming and existing personnel may seem like an obvious solution, it may not be implemented in practice for several reasons:
 - To save money.
 - An organization may save money and time hiring someone already competent rather than training up existing personnel.
     - This may mean not hiring juniors or interns as a result, as one example.
@@ -380,7 +377,7 @@ In short, scale down carefully and with purpose. You're laser focused on solving
 
 I will preface this by stating this is a slippery slope of a topic and also applies to any similar events.
 
-On one hand, you bring attention towards a group whose good deeds and efforts may have gone unnoticed by a larger population and give them the recognition they deserve.
+On one hand, you bring attention towards a group (or person) whose deeds and efforts may have gone unnoticed by a larger population and give them the recognition they deserve.
 
 On the other hand, establishing an appreciation week, day, etc. opens you up to a can of *ethical* worms. Let's go over why that's the case. 
 
