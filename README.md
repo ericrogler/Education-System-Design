@@ -18,7 +18,6 @@ Surprisingly though, it has more benefits than expected:
 - It's free for you: the user/reader
 
 ## **Navigation by Chapter**
-This splits the text by chapter across multiple pages. 
 
 - Abstract
 - Introduction

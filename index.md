@@ -24,7 +24,6 @@ Surprisingly though, it has more benefits than expected:
 - It's free for you: the user/reader
 
 ## **Navigation by Chapter**
-Table of contents for each chapter written below:
 
 - [Abstract](Z001_Abstract.html)
 - [Introduction](Z002_Introduction.html)

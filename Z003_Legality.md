@@ -104,7 +104,7 @@ Of the organizations listed, the CDE at state level plays the broadest role in C
 
 There are exceptions to what education facilities and programs the CDE holds direct oversight on, such as some rules on private schools, but they are not fully exempt from all CDE regulations. They still abide by many CDE standards, such as building standards, health, basic education, and attendance requirements (Colorado Department of Education, 2013). In case the CDE has issues, the U.S. Department of Education also keeps track of state regulations, like Colorado's, on locations like their ed.gov website (U.S. Department of Education, 2025).
 
-Teachers interact mainly with their respective district offices and school boards, which are regulated by the CDE. Districts and school boards typically oversee items like the following, in addition to any CDE/state regulations:
+Mainly teachers interact mainly with their respective district offices and school boards, which are regulated by the CDE. Districts and school boards typically oversee items like the following, in addition to any CDE/state regulations:
 - Permiting learning materials like textbooks
 - Approving curricula for various subjects
 - Allowing or disallowing technology use, like certain software applications
@@ -120,7 +120,7 @@ There are some online courses separate from educational institutions that count 
 
 ### **Student Protection Laws**
 
-*Notice: This is for the United States only.*
+*Notice: These examples are for the United States only.*
 
 In most cases, students, teachers, and staff deal with FERPA and HIPAA. FERPA and HIPAA are safeguards for people's personal information, such as address, first and last name, gender, and other personal identifiers (PIDs and PIIs). You cannot share this information outside of approved personnel and specific cases, such as other teachers in your school, law enforcement, public health, EMTs, and the parent(s)/guardian(s) of the relevant student(s) (CDC, 2024). Sharing information with professionals in outside organizations, even other teachers not a part of your school or working with the same students you work with, may also violate FERPA/HIPAA in certain circumstances.
 
@@ -134,7 +134,7 @@ Per the U.S. Department of Health & Human Services (2020) and the American Acade
 
 In a professional role within education systems, expect to follow FERPA guidelines more than HIPAA guidelines, but you may need to abide by both laws (and any other related laws).
 
-To list out several examples of what is generally protected information, at the time of this writing, in case HIPAA, FERPA, etc. no longer exist in the future:
+To list out several examples of what is generally protected personal information, at the time of this writing, in case HIPAA, FERPA, etc. no longer exist in the future:
 1. Address
 2. Dates of admission (starting/ending education at a particular location, system, etc.)
 3. Birthdate
@@ -150,34 +150,34 @@ To list out several examples of what is generally protected information, at the 
 13. Fingerprints
 14. Email addresses
 
-Rocher et al. conducted one study of an American population, across anonymized datasets, in 2019 and found 99.98% successful identification with 15 demographic attributes and 83% with 3 demographic attributes. Demographic attributes include items like date of birth (age), gender, zip code, race, citizenship, and so on. 
+This list seems like a lot of items, but strict protections are needed for these items and more. Rocher et al. conducted one study of an American population, across anonymized datasets, in 2019 and found 99.98% successful identification with 15 demographic attributes and 83% with 3 demographic attributes. Demographic attributes include items like date of birth (age), gender, zip code, race, citizenship, and so on. 
 
 To put that into perspective: revealing 3 important attributes about a classroom of any size gives *anyone* an 83% chance to find out information on any one student in there. **I'll stress this point: it is very easy to make yourself and others a target by carelessly revealing information (or quasi-identifiers). That's one major reason these laws and regulations exist!**
 
 One example that may break these laws and regulations, even with explicitly written permission from all correct parties to do it, is filming and recording students (especially students who are minors). The same could be said of patients in hospitals, as a non-education comparison. You can, and probably will, give away personal identifying information including, but not limited to, names, age, gender, ethnicity, address (of where it's filmed at), and many more items. These identifiers may be uncovered even if not showing any students in the recording either. Privacy is important and recording is one of the quickest ways to eliminate privacy.
-- The same applies for *students* also filming and recording too, though the exact rules and disciplinary actions may be different based on one-party and two-party consent states.
+- The same applies for *students* also filming and recording too. The exact rules and disciplinary actions may be different based on one-party and two-party consent states.
 
 ### **Student Disabilities and Accommodations**
 
-For students with disabilities and accommodations, educators are expected to adjust lesson plans and curricula to meet their needs. Sometimes this is easy to do and other times this is extremely difficult and/or unreasonable to accommodate. 
+For students with disabilities and accommodations, educators are expected, if not mandated, to adjust lessons and curricula to meet their needs. Sometimes this is easy to do and other times this is extremely difficult and/or unreasonable to accommodate. 
 
-In the United States, the most common accommodations I've personally seen are Individualized Education Plans (IEPs) and Section 504 Plans (504s). States, like Colorado, may have guidelines for Individualized Health Plans (IHPs) to cover specific health needs and treatments (Colorado Department of Education, 2025b). Sometimes there are Behavior Intervention Plans or Behavior Support Plans (BIPs and BSPs), but I've encountered them less often in comparison. Each plan addresses physical, mental, medical, cognitive abilities, education, and learning ability.
+In the United States, the most common accommodations I've personally seen are Individualized Education Plans (IEPs) and Section 504 Plans (504s). States, like Colorado, may have guidelines for Individualized Health Plans (IHPs) to cover specific health needs and treatments as well (Colorado Department of Education, 2025b). Sometimes there are Behavior Intervention Plans or Behavior Support Plans (BIPs and BSPs), but I've encountered them less often in comparison. Each of these plans generally addresses physical, mental, medical, and cognitive abilities as well as education and learning ability.
 
 In practice, these plans are typically satisfied by school staff with two methods: service hours and specific accommodations. Service hours are the amount of instructional/support time a student is entitled to while specific accommodations are supports/modifications provided for a student's learning.
 
-Per the U.S. Department of Education, there are explicit standards on IEPs and 504s. To summarize, an IEP focuses on modifying the instruction/delivery of material/content and establishes specialized goals and milestones. In contrast, a 504 focuses on changing the environment in which learning occurs (e.g., seating arrangement, extra test time, etc.) due to limits in major life functions and impairments (Schultz, 2022).
+An IEP focuses on modifying the instruction/delivery of material/content and establishes specialized goals and milestones. In contrast, a 504 focuses on changing the environment in which learning occurs (e.g., seating arrangement, extra test time, etc.) due to limits in major life functions and impairments (Schultz, 2022).
 
-IEPs and 504s have nationwide resources available, whereas IHPs have info at the state level. Here are a few links/sources for future reference.
+IEPs and 504s have nationwide resources available, whereas IHPs generally have info at the state level. Here are a few links/sources for future reference.
 
 - [https://sites.ed.gov/idea/topic-areas/#IEP](https://sites.ed.gov/idea/topic-areas/#IEP)  
 - [https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)  
 - [https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019](https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019)
 
-These plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery. Initially establishing one of these plans is not always an educator's responsibility, but meeting the plan's accommodations and understanding a student's specific needs is their responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
+These plans account for a student's *learning.* These plans do not grant students qualified immunity from consequences when violating school rules and other laws, such as assault, bringing a weapon on campus, and battery. Initially establishing one of these plans is not always an educator's responsibility, but meeting the plan's accommodations and understanding a student's specific needs is generally their responsibility. Additionally, these plans can change over time and are not immutable for the entire student's learning journey.
 
-Another important note: you also cannot tell other students, even in the same class, that one of your student(s) has an IEP/504. That also violates FERPA because students don't have a legitimate, educational need-to-know basis for that information.
+Another important note: an educator also cannot tell other students (and other people in general, but especially other students), even in the same class, that one of your student(s) has an IEP/504. That may violate FERPA because students generally don't have a legitimate, educational need-to-know basis for that information.
 - By extension, you also are heavily restricted on asking about any medical conditions related to the accommodations as well.
-- One potential way around this is if the student, or parent/guardian depending on their age, discloses details of their own IEP/504/etc. and conditions publicly. Nevertheless, you're still only allowed to say what is public knowledge.
+- One potential way around this is if the student, or parent/guardian depending on their age, discloses details of their own IEP/504/etc. and conditions publicly. Nevertheless, you're still only allowed to say what is reasonably considered public knowledge.
 
 ### **Behavioral Intervention Plans (BIPs)**
 
@@ -204,13 +204,13 @@ Teachers (among other professions) are legally required to report **suspected** 
 
 ### **Teacher Protection Laws**
 
-There's various laws in place to protect a teacher in case of incidents. There are also times where you'll need to go "above your manager" or outside the chain-of-command becauses of work environment issues or for legal compliance with authorities. Because of the quantity and variety of these protections, I won't explain every single one of them.
+There's various laws in place to protect a teacher in case of incidents. There are also times where you'll need to go "above your manager" or outside the chain-of-command because of work environment issues or for legal compliance with authorities. Because of the quantity and variety of these protections, I won't explain every single one of them.
 
 These protections may be useful when reporting direct violations of laws, like sexual harassment or civil/criminal misconduct, or times where the principal/manager is unable to provide a safe work environment. There are various organizations overseeing these protections for both public or private employees, such as Public Health and Safety organizations in each state and OSHA at federal level. In addition, retaliation laws may apply if you lose your role as a result of taking action (U.S. Department of Labor, 2025).
 
 In addition:
 - The process may take an extended time to complete.
-- You can press crimial charges against students as well, but the [ages juveniles receive charges as an adult](https://www.juvenilecompact.org/age-matrix) varies across states (Interstate Commission for Juveniles, 2025). 
+- You may be able to press crimial charges against students as well, but the [ages juveniles receive charges as an adult](https://www.juvenilecompact.org/age-matrix) varies across states (Interstate Commission for Juveniles, 2025). 
 
 ### **What about showing and using content like YouTube videos in a face-to-face classroom?**
 
@@ -253,14 +253,14 @@ For case studies related to social media and speech, I see these three cited oft
 
 Outside of that, it depends how it's implemented. A small flat fee, without any additional consequences, implicitly creates an inequality gap on who can do what and deters only a handful of people compared to, ideally, as many people as possible.
 
-Even if said fee increases to percentage of revenue (or assets) and scales properly based on the damages done, that may decrease the number of issues. If it's not coupled with something you cannot "pay off," however, you'll still get people who do it because the consequences are of no consequence.
+Even if said fee increases to percentage of revenue (or assets) and scales properly based on the damages done, that may decrease the number of issues. If it's not coupled with something you cannot "pay off," however, you'll still get people with enough money who do it because the consequences are of no consequence.
 
-Bribes can also go under here as well, though they aren't a "fine" you do after the fact and instead use wealth to bypass a barrier in advance to avoid an issue altogether instead of escaping an issue.
+Bribes can also go under here as well, though they aren't a "fine" you do after the fact and instead use wealth to bypass a barrier in advance and avoid an issue altogether instead of escaping an issue.
 
 You could also place influence and power under here as well, though it's not a perfectly accurately comparison. Name brands and recognition makes you familiar to others, though, and people tend to be friendlier with what is similar and known to them with plenty of research backing that claim.
 - E.g. [Schwyck et al. on *Similarity Among Friends*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11080385/) (paraphrased title; 2023)
 
-At the end of the day, these types of punishments may turn moral/legal/ethical prohibitions into a cost-benefit analysis game.
+At the end of the day, these types of punishments may turn moral/legal/ethical prohibitions into a cost-benefit analysis game for bad actors.
 
 ### **Age Verification Systems**
 
@@ -282,7 +282,7 @@ Lastly, I'll cover one situation where a data leak did happen: Discord. This isn
 
 Age verification systems don't even need *students* involved. Though the articles make no mention of age, you could reasonably assume adults were affected by the information breach too alongside children. Add onto this integrating age checks (which means storing and handling personal identifiers) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft, therefore this information requires protection.
 
-Despite all of this, storing and handling this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate and control.
+Despite all of this, storing and handling this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate and control. The better option is usually to *not* store that information instead, so you can avoid any issues that come with its storage.
 
 ### **"Redshirting"**
 
@@ -292,19 +292,19 @@ Birthdays are an arbitrary method in education to determine *when* a child becom
 
 There's measureable evidence that relative age matters too. For example, Malcom Gladwell in *Outliers* notes there's significantly more elite players in hockey (i.e. "best of the best") with birthdays earlier in the year (e.g. January to March and April to June), suggesting a small age difference compounds into advantages over time.
 
-There's also evidence of *both* negative and positive results from redshirting (Fortner & Jenkins, 2017). It's an open question if redshirting creates advantages or amplifies existing ones.
+There's also evidence of *both* negative and positive results from redshirting (Fortner & Jenkins, 2017). Overall, it's an open question if redshirting creates new advantages or amplifies only existing ones, but an issue to at least make visible to those looking into education systems.
 
 ### **Attendance**
 
 One may think attendance in education systems is not a big legal issue. I'm here to say it is.
 
-In short, *don't knowingly misreport attendance* because that may be falsifying a legal document and carries consequences. It's an alibi for every party involved and ensures they're where they're supposed to be. It's a matter of safety.
+In short, *don't knowingly misreport attendance* because that may be falsifying a legal document and carries consequences. It's an alibi for every party involved and ensures they're where they're supposed to be and where they say they are. It's a matter of safety.
 
 I'll reframe it with a general analogy.
 
-You are responsible for knowing where someone is during a given timeframe on X number of days. If they are in a classroom, you need to report they are "present" in a certain classroom. If they are not in a classrom, you need to report they are "absent" from a certain classroom. If their status suddenly changes from present to absent, or absent to present, you also need to note that down with a timestamp. If any emergency or issue comes along, but the person is marked "present" when they're actually absent (or the inverse!), you may be held responsible because *you* neglected your duties.
+You are responsible for knowing where someone is during a given timeframe on X number of days. If they are in a classroom, you need to report they are "present" in a certain classroom. If they are not in a classrom, you need to report they are "absent" from a certain classroom. If their status suddenly changes from present to absent, or absent to present, you also need to note that down with a timestamp. If any emergency or issue comes along, but the person is marked "present" when they're actually absent (or the inverse!), you may be held responsible because *you* neglected your duties by not knowing where they are.
 
-With attendance in education, it's typically a teacher making a reasonable, best effort to confirm whether or not students are there in their classroom. This can be doing a roll-call and audibly calling out each students name then marking absent whomever doesn't respond, a teacher confirming visually a student is physically there in a classroom, or a similar method. What matters is any positive response, confirmation, or identification of a student in that particular area at that particular timeframe in case of any particular emergencies they need to be contacted. Attendance sheets could also be used to identify witnesses who can report what may've happened in a given classroom.
+With attendance in education, it's typically a teacher making a reasonable, best effort to confirm whether or not students are there in their classroom. This can be doing a roll-call and audibly calling out each students name then marking absent whomever doesn't respond, a teacher confirming visually a student is physically there in a classroom, or a similar method. What matters is any positive response, confirmation, or identification of a student in that particular area at that particular timeframe in case of any particular emergencies they need to be contacted. Attendance sheets could also be used to identify witnesses who can report what may've happened in a given classroom if issues arise in that classroom.
 
 In the case of "errors" with attendance, an education system may have other staff members, such as an attendance secretary or administrator, around to double-check veracity and confirm whether or not the attendance is validly handled. That safety net changes a knowing misrepresentation (and legal issues) back into honest errors (and *potentially* not legal issues), which can then be rectified. This correction process still has to act in good faith, however.
 
