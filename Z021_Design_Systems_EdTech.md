@@ -27,7 +27,7 @@ Most solutions and traditional projects may be abandoned because shipping/making
 
 If you're not sure where to find problems to solve, think of something that already exists and see if you can improve it in one of these three areas:
 1. Reliability: Ability to continue working despite issues; resilience
-2. Scalability: Handling increased loads, stress, etc. without breaking down; growth
+2. Scalability: Handling increased capacity, loads, stress, etc. without breaking down; growth
 3. Maintainability: Adaptation and change over time; readability
 
 A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are, due to the nature of complexity, more prone to failure compared to simple designs. 
@@ -38,7 +38,7 @@ A complex design is always worse than a simple design if they perform at the sam
 **Your most important question is "Why?"** You don't jump straight into things or overengineer solutions when it's not necessary, especially if you'll never see the problems requiring advanced solutions. Acquire information and clarify requirements/context, when able, *before* working or you risk wasting time, money, and sanity.
 - What people actually do is worth more than what people say they do.
 - Sometimes all it takes is listening to or watching someone to find out nothing "fancy" was needed.
-- People don't always know what they need, but may know what problem they need solved.
+- People don't always know what solution they need, but may know what problem they need solved.
 - Theory and testing are equally important.
 
 ## **Long Answer**

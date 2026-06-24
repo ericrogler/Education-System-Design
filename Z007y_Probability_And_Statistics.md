@@ -250,7 +250,7 @@ With context behind the metrics provided above, let's consider one case of readi
 
 ### **What About Machine Learning?**
 
-You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. For example, I could tell you about the basics of machine learning without too much difficulty. The basics are doable.
+You could learn the concepts about machine learning early on, even at a young age, provided you're able to reason through it and read tables, graphs, and charts. I could tell you about the basics of machine learning without too much difficulty. The basics are doable.
 
 The issue is when you need to go *beyond* high-level overviews and working with these concepts in practice. For example, while you could do most problems knowing a small amount of theory on methods like logistic regression, that covers only a small, but still significant, set of problems you can reliably solve. 
 

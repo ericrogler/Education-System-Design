@@ -9,7 +9,7 @@ nav_order: 20
 
 ## **Short Answer**
 
-> "And such teachings and their teachers is why I harbour doubts, why I wonder if something is missing from the Jedi Code. There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves. Many of the Jedi Council trained Exar Kun, Ulik... Revan and Malak. How could they not see the danger they posed? And if they could not... perhaps there was some essential part of their teachings that was flawed. Something beyond the Jedi Code that they were missing." 
+> "There is no blame - all must accept. But, at its core, one must wonder if it was the failure of the Jedi teachings... or the teachers themselves." 
 
 - Mical, Star Wars Knights of the Old Republic II: The Sith Lords (2004)
 
@@ -79,11 +79,13 @@ Before we dive into further topics, I want to emphasize one point: **It is signi
 
 *Notice: This section primarily aimed at parents/guardians.*
 
-To state *my*, the author's, opinion? I'm normally against homeschooling.
+To state *my*, the author's, opinion? I'm normally against homeschooling. I've also never been through homeschooling myself.
 
-There's a lot of risk associated with homeschooling's "reward," if not too much risk vs reward. The biggest deterrant to homeschooling I observe is it can go very badly and, as a result, the students lack even basic fundamental skills, which means setting them up for probable failure in future education. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
+The reasons for opting into homeschooling over other types of education systems are quite varied. Perhaps an existing education system isn't safe, civil, and/or lacks accountability to regulate, remediate, and punish disruptive and dangerous students. Said system probably doesn't offer the type of education they initially expected/desired either, such as no higher math courses. Maybe there's a specific medical condition a given school, facility, etc. cannot cover sufficiently for the student(s) either. Maybe the idea of differentiation and dedicating specialized education for a student, or small group of students, may be better than a one-size-fits-all model another education system may provide. The student may be failing in an existing education system as well, so they're pulled out to avoid any consequences as a result. These are but a few examples.
 
-Homeschooling is also one of those areas in education where, at the time of this writing, empirical knowledge and research behind it is only an indicator at best. Much of what's available is short-term studies and surveys vs long-term studies. For example, if research utilizes standardized test scores as a metric to showcase homeschooling performance, that study may be subject to volunteer and selection bias as not *every* student may be required to take those tests (or even permit sharing of data). To select examples of publicly available research on this area as further reading:
+There's a lot of risk associated with homeschooling's "reward," if not too much risk vs reward. You *can* address many of these fears and risks, but the chances of that happening are slim at best even with the resources available. The biggest deterrant to homeschooling I observe is it can go very badly and, as a result, the students lack even basic fundamental skills, which means setting them up for probable failure in future education. You also cannot replace a neglectful and bad parent/guardian in a home setting as easily as you can a bad teacher in many education systems.
+
+Homeschooling is also one of those areas in education where, at the time of this writing, empirical knowledge and research behind it is only an indicator of its effectiveness at best. Much of what's available is short-term studies and surveys vs long-term studies. For example, if research utilizes standardized test scores as a metric to showcase homeschooling performance, that study may be subject to volunteer and selection bias as not *every* student may be required to take those tests or be allowed to report their results. To select examples of publicly available research on this area as further reading:
 - *Homeschooling: An Updated Comprehensive Survey of the Research* by Kunzman & Gaither (2020)
 - *The Social and Educational Outcomes of Homeschooling* by Murphy (2014)
 
@@ -91,7 +93,7 @@ Even without going into homeschooling, parents and guardians can greatly influen
 
 Literacy is important for understanding *every* subject they'll experience as part of their education. At the same time, don't make them *hate* reading either, as not wanting to read is one of the fastest ways to keep them uneducated and weaken their endurance for learning in general. As for potential ways to help get children, and students, to want to read on their own:
 1. Every hour of reading means 30 minutes of "free" time or can stay up 30 minutes later at night.
-2. Take them to libraries and environments where the primary means of "fun" *is* reading.
+2. Take them to environments, such as public libraries, where the primary means of "fun" *is* through reading.
 3. Be a role model. If parents/guardians do reading, then their children may also do reading.
 4. Reading means you get a pizza (or another special treat, I suppose).
 5. Do not punish them for reading.
@@ -110,7 +112,7 @@ Finland has *education* as compulsory, but not *schooling*. While there is freed
 Germany has *Schulpflicht*, which is compulsory *attendance* at a state-approved or state-governed school with the very rare, case-specific arrangement allowing otherwise for extreme situations like certain medical reasons. There are mandates at both the national level with Grundgesetz (e.g. Art 7 (Federal Ministry of Justice, 2022)) and at the state level with Bundesländer (e.g. Hessian School Law (HSchG) Section 58 (Citizen Service Hessenrecht, 2023)).
 - Greatly simplifying from personal observation as well: Germany treats homeschooling *in general* quite negatively, if not outlawing homeschooling entirely.
 
-Even well-intentioned parents and guardians may lack the resources or are ill-equipped to educate their own children as students. **I'd say if a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
+Even well-intentioned parents and guardians may lack the resources or are ill-equipped to educate their own children as students. **If a parent/guardian cannot provide the following *at a minimum,* homeschooling risks being a disaster for a student's education:**
 - Parents/guardians not being abusive or neglectful of their children nor wanting to indoctrinate them.
 - The time (40+ hours/week) for parents/guardians to commit to their child's education *for many (at least 10-15+) years.*
 - Enough money and resources to devote to it, often at the loss of 1 or more income streams.
@@ -207,37 +209,27 @@ These methods might sound boring because they are work, but it is work you put i
 
 There's also another name for this: *studying.*
 
+If you're unsure on how to study, the concepts of spaced practice, interleaved practice, and varied practice may help you out here (Brown, Roediger, McDaniel, 2014). Essentially, you're learning over multiple sessions, practicing multiple methods and examples, and avoiding focusing too heavily on only one thing to study the entire time.
+
 ### **Managing Boredom**
 
-Not all boredom is bad and not all learning needs to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future.
+Not all boredom is bad and not all learning needs to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future. They may even sacrifice opportunities for improving creativity and patience, plus the ability to tolerate boredom itself is a valuable skill.
 
-It's like going to a new rollercoaster ride at a park and realizing you need to wait 2 hours in line before you can get on the 3-5 minute ride of a lifetime.
+As a true story example I've myself seen happen, a student being told they'll have to wait or be bored for even a few minutes or seconds may be akin to insulting their very being. The sheer audacity of this person telling *me* to waste *my* time and rob me of my lifespan? Even if it's only a short wait and likely entirely due to my own lack of preparation and actions? I will not stand for this and display my anger and rage at this situation I can actually control reasonably well on my own!
+
+As another example, think of going to a new rollercoaster ride at a park and realizing you need to wait 2 hours in line before you can get on the 3-5 minute ride of a lifetime.
 
 How do you manage that boredom in the meantime?
 
 In operations research, we have two terms relevant here: balking (not joining the queue) and reneging (leaving the queue after joining).
 
-The point is you may have to get through the boring part (the long wait in line) before the reward (the new park ride). There's also a second lesson about a certain reward in the present vs a greater reward in an unreliable future.
+The point is you have to get through the boring part (the long wait in line) before the reward (the new park ride). There's also a second lesson about a certain reward in the present vs a greater reward in an unreliable future. 
 
 This is seeking instant gratification vs delayed gratification, or the difference between a reward today vs bigger reward tomorrow. Put another way: the fight against non-stop stimuli.
 
 To apply this back to teaching:
 1. It's balancing act of students doing things and students listening about things.
 2. It's a test of how well students can manage their own boredom.
-
-### **Types of Practice**
-
-Suppose you have ever coached or practiced sports before. You may have experienced spaced practice, interleaved practice, and varied practice but not know there were terms for it (Brown, Roediger, McDaniel, 2014).
-
-**Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material. Review time for materials is typically before someone naturally forgets.  Spaced practice combats the [forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned (Ebbinghaus, 1885). 
-
-**Massed practice** is what we do *not* want, compared to spaced practice. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.999%+ (i.e. at least "three nines") of other students, that does not work out well (Whedon, 2012).
-
-- If it *does* seem to work, it's an illusion of effective learning and you may forget it all in short time afterwards.
-
-**Interleaved practice** is when you alternate what is being practiced or learned. For example, we spaced out tennis practice at specific times each day. Interleaved practice is doing multiple types of tennis techniques throughout the practice sessions, Interleaving mixes skills in the same session instead of isolating skills across sessions.
-
-**Varied practice** is another form of learning. To expand on the tennis example in interleaved practice, we're already doing spaced days and interleaving different types of tennis techniques throughout the day. Variation adds context, where you practice a technique across multiple applications, like a drop shot from baseline and net. You take the topic and the methods employed under that topic and vary based on how they're applied.
 
 ### **Back to the Basics**
 

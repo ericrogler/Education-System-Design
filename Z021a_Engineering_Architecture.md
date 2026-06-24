@@ -175,11 +175,11 @@ Of particular note for my own endeavors were "topo" (topographic) maps and site 
 
 ### **Facility Planning and Production Planning & Inventory Control (PPIC)**
 
-*Notice: Primary source for this section is "Facilities Planning" by Tompkins et al. (2010).*
+For a far more detailed source on this section, please refer to materials such as *Facilities Planning* by Tompkins et al. (2010).
 
-The type of math required to fully derive and prove models here may require at least multivariate Calculus understanding, though much work is done using results from derivations other people made before.
+The type of math required to fully derive and prove models here may require at least multivariate Calculus understanding, though much work can be done using results from derivations other people made before.
 
-Though it sounds simple and these topics are catered primarily towards manufacturing, it still encompasses quite a bit. Imagine you're planning out a service you want to make and sell something and you have X amount of funds available to set it up. You'll need to consider many things, such as:
+Though it sounds simple and these topics are catered primarily towards manufacturing, it still encompasses quite a bit. Imagine you're planning out a service. You want to make and sell something and you have X amount of funds available to set it up. You'll need to consider many things, such as:
 - Maximizing ROI (return on investment) and ROA (return on assets)
 - How to cut down on unnecessary costs
 - Determining demand
@@ -188,9 +188,9 @@ Though it sounds simple and these topics are catered primarily towards manufactu
 - How to maintain existing inventory and allocate space to store it.
 - Where to acquire raw materials or base components to bring into a facility to then process it into the products you distribute and sell.
 
-You may think "what does this have to do with education systems" and the answer is *a lot of things.* Education systems will encounter problems with resources, capacity, and flow like manufacturing systems will. You still have production, which is delivering quality learning, inventory for resources to make said learning happen, and planning to figure out schedules, where to allocate people, organizing how content is deliver, handling enrollment and student intake, and forecasting demand and costs out in the future. It could be embedded inside existing education systems too, such as the "production line" of a cafeteria to store and process those same items, provide the items they need, get people through queues, and do it all quickly enough to meet deadlines. It could even be perfecting how students may pass along materials from one desk to another desk while applying models for conveyors in a new way.
+You may be thinking at this point "what does this have to do with education systems?" Education systems will encounter problems with handling resources, capacity, and flow like manufacturing systems might. You still have production, which is delivering quality learning (and perhaps providing meals), inventory for resources to make said learning happen, planning to figure out schedules, where to allocate people, organizing how content is delivered, handling enrollment and student intake, and forecasting demand and costs for education in the future. It could be embedded inside existing education systems too, such as the "production line" of a cafeteria to store and process those same items, provide the items they need, get people through queues, and do it all quickly enough to meet deadlines. It could even be perfecting how students may pass along materials from one desk to another desk while applying models for conveyors in a new way.
 
-There's also many parts that directly translate to education systems present in architecture and engineering, such as handling environment constraints, utilizing layout planning models, and design algorithms like CRAFT, MCRAFT, and BLOCPLAN. Educators should strive to optimize how the space in their classroom is utilized, much like how a manufacturer wants to maximize production capabilities in a given space. Perhaps you're reorganizing something simple, like a closet, and could use a high-powered solution like a block stacking model to help you optimize it too.
+There's also many parts that at least indirectly or directly translate to education systems present in architecture and engineering, such as handling environment constraints, utilizing layout planning models, and design algorithms like CRAFT, MCRAFT, and BLOCPLAN. Educators may not need to go to extremes and develop advanced algorithms themselves here, but they should strive to optimize how the space in their classroom is utilized, much like how a manufacturer wants to maximize production capabilities in a given space. Perhaps you're reorganizing something simple, like arrange storage cabinets, but you want to tinker with a high-powered solution like a block stacking model to help you optimize it too.
 
 Recalling the sections on graphics and building codes, you may need to consider other design aspects, such as traffic flow of people (or vehicles, animals, etc.) in physical spaces, the physical constraints of the space you're working in (e.g. a rectangle vs unorthodox shaped room), where to retrieve, transport, and store goods at, and so on.
 
@@ -200,7 +200,7 @@ These topics, and related topics, altogether provide processes to assist with pl
 
 ### **Programming**
 
-Yes, programming is a thing for both engineers and architects and includes languages like SQL, Python, R, Java, COBOL, Rust, and so on. Generally speaking, when dealing with programming languages, you're usually better off prioritizing readability (and therefore maintainability) over performance *unless* you need to meet a minimum performance threshold.
+Generally speaking, when dealing with programming languages, you're usually better off prioritizing readability (and therefore maintainability) over performance *unless* you need to meet a minimum performance threshold.
 
 Architects may utilize software and programming for architectural designs. They can manipulate code through programming languages to build plugins and create custom solutions as tools to enhance their work processes and outputs. In this case, it's in service of something else, like geometry or workflow automation, and the programming stays close to the design artifact/software.
 

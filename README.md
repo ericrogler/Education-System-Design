@@ -35,7 +35,7 @@ This splits the text by chapter across multiple pages.
 - Probability, Statistics, and Analysis
 - Source(s) of Truth
 - The User Experience
-- “Contrast" Framework - An Educational System
+- “Contrast" Framework
 - Accommodations
 - Learning Methodologies and Teaching Methods
 - Homework
@@ -58,8 +58,6 @@ This splits the text by chapter across multiple pages.
 
 A reasonable attempt by the author was made throughout this repository to ensure all references utilized are compatible with CC-BY 4.0 copyright. If there is a source that *is not* compatible, please inform them directly so it may be fixed.
 
-Additionally, while I deliberately avoid the "NC" license, I would greatly prefer any readers *not* to try and turn a profit on the contents of this book.
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
@@ -78,6 +76,16 @@ Per the license requirements, you may need the following for help in citations:
   - Rogler, E. ({{ "now" | date: "%Y, %B %-d" }}). *Education System Design.* GitHub. [https://ericrogler.github.io/Education-System-Design/](https://ericrogler.github.io/Education-System-Design/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+## **Fair Use & Copyright Notice**
+
+[Per 17 U.S.C. § 107 — Limitations on exclusive rights: Fair use](https://www.copyright.gov/title17/92chap1.html#107)
+
+Portions of this work may reference or incorporate copyrighted materials for purposes such as commentary, criticism, teaching, research, and education. Any use is intended to comply with applicable fair use principles.
+
+This work's purpose is primarily as an educational and informational resource. It is not intended for commercial sale or for profit. If you have purchased, or spent money of any kind, on this book or its contents, please request a refund as soon as possible.
+
+Except where otherwise explicitly noted, the original content of this work remains copyrighted by the author and is distributed under the terms of its accompanying content license ("CC-BY 4.0"). Readers are encouraged to review all cited sources and respect the copyrights of their respective owners.
 
 ## **Template Attribution**
 

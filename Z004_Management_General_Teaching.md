@@ -44,7 +44,7 @@ If a manager makes a mistake, a manager makes a mistake. Not the people under th
 
 **Management often involves your ability to be supportive, recognize when something needs your attention, and if you can assist others *without* sacrificing your own tasks, duties, deadlines, etc.** It also includes your ability to handle what happens when you go off-track and still deliver what you're accountable for, as well as when you should escalate situations to higher authorities and delegate responsibilities. It even includes determining if something is a one-time event vs a recurring event as well as resource allocation to solve problems.
 
-As for education, education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
+Education is anywhere from extremely hands-off, like how many online "courses" avoid interfacing directly with students almost entirely, to extremely hands-on, such as constant assistance for students in classrooms. At least some level of management exists across the entire spectrum.
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another and how a student behaves in class varies from student to student. The same can be said for classroom management in general; a strategy created in a time and place for classrooms where every student has manageable behaviors and consistent competencies doesn't directly translate well to classrooms where every student has variable behaviors and competencies.
 
@@ -259,10 +259,10 @@ Consider short-form content like TikTok videos and YouTube shorts. They implemen
 
 If a student wants to learn something, they'll at least try to learn something... which may not be what you're teaching at the same time. It's not always the case of the student intentionally and/or maliciously doing something bad. Something else caught their attention more at the time or they got confused and are now acting out.
 
-**Fighting for attention can be remedied with techniques like the following.** They may not work perfectly and their effects vary depending on your audience, but it's significantly better than *not* doing anything.
+**Fighting for attention can be remedied with techniques like the following below.** They may not work perfectly and their effects vary depending on your audience, but it's significantly better than *not* doing anything.
 
 - Keep an overall level of focus (i.e. "utilization rate") at 85% to 90%.
-    - Enough work to not be bored, but not so much work to incur undue stress and burnout.
+    - Enough work to not be completely bored, but not so much work to *constantly* be occupied with something and incur undue stress and burnout.
     - Some mental wandering, time for setup and departure, breaks, and loss of focus among students should be expected and accounted for.
     - Multiple study techniques are designed with breaks, so learning and teaching techniques should incorporate breaks too.
 - Do not carelessly give away rewards for good behavior, as they can be detrimental to intrinsic motivation by replacing it with extrinsic motivation.
@@ -420,19 +420,15 @@ For teachers and other employees involved in education, the absence of troublema
 
 ### **Employing Negotiation Tactics**
 
-Though it's a bit extreme of an application, you can utilize hostage negotiation strategies in multiple systems, including education. Don't do this for every situation, though; there's a time and place for it.
+Though it's a bit extreme of an application, you can utilize hostage negotiation strategies in multiple systems, including education. Don't do this for every situation, though; there's a time and place for it. One account going over these strategies is in *Never Split the Difference* by Chris Voss (2016). 
 
-One resource going over these strategies is called *Never Split the Difference* by Chris Voss (2016). To explain two examples from that book, there's a section talking about how compromises aren't always the best solution and how keeping self-control is important. I'll paraphrase the following from those sections below.
+**A win-win strategy, or a compromise, isn't always the ideal outcome nor is it always a moral good to compromise for the best outcome.** Compromises are easy to do and *seem* fair, which is why compromising is often the first thing people try when negotiating. Compromises often require concessions though, which means taking away things at least one party, or even all parties, wanted and may generate resentment after the fact. Better solutions require creativity and have a higher payout for all sides, but also hold heavier risk and potential conflict as a barrier to reaching those solutions.
 
-**A win-win strategy, or a compromise, isn't always the ideal outcome nor is it always a moral good to compromise for the best outcome.** Compromises are easy to do and *seem* fair, which is why compromising is often the first thing people employ when negotiating. Better solutions require creativity and have a higher payout for all sides. Still, they undergo a heavier risk and potential conflict as a barrier to reaching those solutions.
+A significant error in judgment involved with compromises is when you're projecting your perspective(s) onto them and making a potentially dangerous assumption, which can escalate the situation in neither party's favor. That *isn't* empathy; you're not understanding their point of view here.
 
-A significant risk involved in compromises is you're often assuming, as a teacher, a student is thinking like you. That *isn't* empathy; you're not understanding their point of view. Instead, you're projecting your perspective(s) onto them and making a potentially dangerous assumption, which can escalate the situation in neither party's favor.
+Emotional contagion plays a part as well, where people nearby may generate the same energy you project in a given situation. This could be from a student, a teacher, an administrator, and so on. If you mismanage self-control and create a crisis situation out of something mundane, other people may then react like it is a crisis because they see you treating it that way. This likely leads to a situation that becomes out of control rather than one which was previously kept under control. This is why self-control and emotional regulation is important.
 
-A way to think about negotiation is emotional contagion, where people nearby may generate the same energy you project in a given situation. If you mismanage self-control and create a crisis situation out of something mundane, other people may react like it is a crisis. This likely leads to a situation that is actually out of control rather than one which was previously kept under control.
-
-Unless you have self-control and can regulate emotions, you won't regain control and negative behaviors will affect the student, which causes them to spread to other students. Control also includes tone of voice, body language, and facial expressions.
-
-Delving into this area further brings you into the world of psychology and subjects such as calibrated questions, leverage, empathy, negotiation, deflections, and more. Keep in mind that while negotiation and manipulation seem similar and have a shared goal, the methodology used to reach that goal is vastly different. Negotiation seeks mutual benefits and understanding amongst all parties whereas manipulation seeks control and tricks for one party to get what they want. Negotiation helps people while manipulation harms people.
+Delving into this area further brings you into the world of psychology and subjects such as calibrated questions, leverage, empathy, negotiation, deflections, and more. While negotiation and manipulation seem similar and have a shared goal, the methodology used to reach that goal is vastly different. Negotiation seeks mutual benefits and understanding amongst all parties whereas manipulation utilizes control and tricks for one party to get what they want. Negotiation helps people while manipulation harms people.
 
 ### **Automating your Workload**
 

@@ -1,9 +1,9 @@
 ---
-title: 16. “Contrast" Framework - An Educational System
+title: 16. “Contrast" Framework
 layout: default
 nav_order: 18
 ---
-# “Contrast" Framework - An Educational System
+# “Contrast" Framework
 
 ### [Previous Chapter](Z009_Communication_Design_Usability.html)
 
@@ -161,7 +161,7 @@ Though I did a 6/2/2 setup as an example, other subjects may need more time dedi
 If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on long-term projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered. **Regardless of your curriculum, never, *and I mean never*, completely disregard any of those three categories.**
 
 **Some further important notes on education:**
-1. It's ok for students to be bored sometimes.
+1. It's ok for students to be bored sometimes. Boredom can train creativity and patience when properly utilized.
 2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. It should accommodate most systems though!
 3. Modifications are expected and *will* happen in practice; plan for when they're needed.
 4. Sometimes old methods work better than new methods.
@@ -347,7 +347,7 @@ One important note about formative assessments, and assessments for reviewing an
 
 *Alternatively: 100% Summative*
 
-If you could do it, and it makes sense for the curricula, that may be preferred and I would do that myself if I could pull it off. Afterall, what matters are tests of proficiency to see if students understand the material taught to them.
+If you could do it, and it makes sense for the curricula, that may be preferred and I would do that myself if I could pull it off. Afterall, what matters are tests of proficiency to see if students understand the material taught to them and properly went through the learning process, right?
 
 Due to technological advancements, homework is increasingly easier to complete with assistance from third parties *without* getting caught. Without homework or other assignments to grade, that means less work to grade overall or have students claim there's nothing to work on, since they can always work on preparing for the upcoming quizzes and tests. You may also eliminate, or heavily reduce, missing work too. Lastly, students may skip the processing behind how many assignments they can skip and still pass if every assignment is now a quiz/test they cannot easily disregard without failing the course. 
 
@@ -357,6 +357,10 @@ Granted, you should conduct this with certain conditions.
 3. Grade recovery options in general are limited, or require a prerequisite that's hard or annoying to meet, such as completing X amount of work beforehand.
 
 One exception may be for projects and activities, but you can still treat them with the same seriousness as a typical quiz/test and grade them appropriately.
+
+From the student side, however, this may mean any homework you give in the future may not be taken seriously and not worth doing since there isn't an immediate payoff. That behavior can be taken along to other classrooms and education systems and create a cascading effect. 
+
+Even if quizzes and tests only sounds like a good idea, you still cannot neglect getting students into the habit of recognizing what is, and isn't, important to their own learning. If they get the impression nothing is important, that means they likely won't do anything towards education and not be bothered to do even simple tasks, even if it is to their own benefit. Remember: students will very likely only do *the minimum* of what is needed to pass and not much beyond that (especially if the only thing mattering is a "grade" at the end).
 
 ### **Retrospective (Teacher & Student)**
 

@@ -32,7 +32,7 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 
 ## **Long Answer**
 
-Every role requires communication skills.
+Every role requires communication skills. Education *especially* requires communication skills.
 
 **Before continuing, recognize that:**
 1. Someone else probably did what you want to do before.
@@ -40,9 +40,9 @@ Every role requires communication skills.
 
 *Reread those two things, then continue.*
 
-This isn't a means to dissuade you from creativity or teaching; it's a reality and something people may call "product research." Go ahead and do a Google search on any topic you want to do if you don't believe me.
+This isn't a means to dissuade you from creativity or teaching; it's a reality and something people may call "product research." Go ahead and do a Google search (or similar type of Internet/online/database search) on any topic you want to do if you don't believe me.
 
-Did a Google search and found your goal? Take a closer look, see how they did the topic, then guesstimate if you can do a better job than they did. What if you found something, but of poor quality, or you didn't find your topic? That's when you can flex your ability and creativity.
+Did a search and found your goal? Take a closer look, see how they did the topic, then guesstimate if you can do a better job than they did. What if you found something, but of poor quality, or you didn't find your topic? That's when you can flex your ability and creativity.
 
 **If you don't need to reinvent the wheel to teach your topic(s), then don't reinvent the wheel.**
 
@@ -56,14 +56,14 @@ You don’t always need to invent ideas. You need to be good at teaching ideas a
 ### **The User (Student) Experience**
 Imagine you're using a website or playing a video game for the first time. You may not know how to use it to its full potential, or you're going in with some knowledge of conventions and standards about how this website or game should operate. Some conventions are commonly known and understand, like what a stop sign is at a road interaction, and other conventions are less known.
 
-It's an easy assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing any of the following (Krug, 2014):
+It's an easy assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing any of the following such as (Krug, 2014):
 - Scanning text instead of reading text
 - Settling on a reasonable first solution
 - Stumbling through how something works
 
 Does this mean they're wrong? Not necessarily; it means the material and work you're giving them is something they want to get through quickly or there's potentially an error in how the work, assignment, etc. is designed.
 
-You'll find students go in with a goal in mind. That goal may be getting through the material as fast as possible. Another goal could be "What does X do?" In either case, they'll focus on that goal and tend to avoid materials that don't meet or satisfy their goal. To expand on what I mentioned earlier:
+You'll find students often go in with a goal in mind. That goal may be getting through the material as fast as possible. Another goal could be "What does X do?" In either case, they'll focus on that goal and tend to avoid materials that don't meet or satisfy their goal. To expand on what I mentioned earlier:
 - If they want to get done quickly, they'll opt for scanning rather than reading instructions, figuring out the best solution, or just brute-forcing their way through.
 - If they're figuring out how to perform a specific action, expect them to focus only on tasks that help them do that and potentially ignore everything else.
 
@@ -75,9 +75,10 @@ When in doubt, design materials to minimize unnecessary effort, but not *all* ef
 You can also teach new conventions and methods, but it may take students several iterations and exposures before they require less mental effort to think about how to do it correctly.
 
 ### **The Pareto Principle**
-You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: ~80% of the consequences come from ~20% of the causes is a commonly observed event. It's a generally accepted rule (NOT law) (Pareto, 1896).
+You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: ~80% of the consequences come from ~20% of the causes is a commonly observed event.
+- See Pareto's works (e.g. *Cours d'economie politique*) for more information (1896).
 
-**There are some misconceptions to correct.** The Pareto Principle describes a commonly seen distribution of events. Again, it is not a law, but a pattern. How this applies to you as a teacher is this: focus first on the serious problems before tackling the not-so-serious issues. 
+**There are some misconceptions to correct.** The Pareto Principle describes a commonly seen distribution of events and is an observed pattern, not a law. How this applies in education is this: focus first on the serious problems before tackling the not-so-serious issues. 
 
 If you don't know where to start identifying serious problems:
 1. Make a list of all potential issues

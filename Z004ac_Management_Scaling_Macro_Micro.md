@@ -87,7 +87,7 @@ It's why distracting opponents works as a defensive technique and a set-up for a
 
 ### **The Macro(management)**
 
-This is your backbone, your strategy, or your core build order. Whatever you wish to call it. 
+This is your backbone, your strategy, or your core build order. Whatever you wish to call it.
 
 It's the primary guide and routine you follow along with, or perhaps know by heart, to achieve victory and meet your goals. It should account for achieving constant production and efficient resource use. Ideally, there should be no blockers, no idle work, and no missed opportunities.
 
@@ -116,9 +116,9 @@ There *are* cases where extensive micro is useful, but it is rare and carries gr
 
 As stated before in macro, you still need to know theory and what your units are capable of. If you don't know what they can (or should) do, you cannot effectively micro(manage) them to reach full productivity and achieve your goals.
 
-There's also a term called "trading" where you're balancing the supply costs of your own units vs the opponent's units and determining your gains and losses by supply efficiency. 
+There's also a term called "trading" where you're balancing the supply costs of your own units vs the opponent's units and determining your gains and losses by resource efficiency. You win a trade if you lost fewer resources compared to your opponent, but lose a trade is you lost more resources compared to your opponent in an exchange, confrontation, encounter, etc. 
 - If you engage an opponent and you lose 12 dollaroos compared to their 8 dollaroos, you still lose based on how much value you lost (12 vs 8).
-- In other words, your opponent accomplished more with less and have a more efficient army.
+- In other words, your opponent is more efficient with their resources.
 
 ### **Bringing on New Assets**
 
@@ -126,9 +126,9 @@ There's also a term called "trading" where you're balancing the supply costs of 
 
 Resources and tools may become obsolete. It may not always be their fault, but over time you'll typically have better options. The decision to bring on new resources, upgrade existing resources, or eliminating lacking resources is something you'll also manage. 
 
-The costs to bring in, and get of, assets is typically really high so you want to be careful when doing so. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
+The costs to bring in new assets is typically really high, and may requiring restructing *before* you can do so, so you want to be careful. It isn't just paying a resource amount, but also the time taken, planning, and execution of tasks to reach that point. Doing this wrong can go very ugly, very quickly, and lead to you losing everything in the worst case.
 
-If this applies to real people, i.e. human beings, you're better off consulting with HR, or perhaps a legal expert, to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to. You want to avoid stepping on the legal trouble minefield.
+If this applies to real people, i.e. human beings, it's when I'd probably say you're better off consulting with HR, or perhaps a legal expert, to determine how to bring on and transition out people. There may be laws, processes, and regulations you're not privy to in your position, but a specialist would be. You want to avoid stepping on the legal minefield.
 
 In our simulation case, though, asset management happens as more resources, such as money, affect your strategies, tactics, and management priorities. You're evaluating based on performance, actions, and capabilities of assets rather than the assets itself. Mismanagement can cause issues and affect the productivity of the entire organization later. It may be tough to get rid of something, but sometimes eliminating something is the best course of action.
 

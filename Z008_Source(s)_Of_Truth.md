@@ -9,9 +9,12 @@ nav_order: 16
 
 ## **Short Answer**
 
-> "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in its entirety... effortlessly... that is what it means... to truly 'see.'"
+> "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest."
 
-- Soho Takuan to Musashi Miyamoto, *Vagabond* (2003, Translation)
+- Soho Takuan to Musashi Miyamoto, *Vagabond* (2003; Japanese to English Translation)
+
+> "Absence of evidence is not evidence of absence"
+- Mr. Dugald Bell (Sheppard, 1895, p. 132)
 
 ---
 
@@ -23,7 +26,7 @@ Last, but not least, your education system very likely doesn't need a shiny new 
 
 ## **Long Answer**
 
-Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit, as the author writing this, I've read more management books than education books. 
+Despite this being a book on education systems (and education in general) and any experience in the field of education, I'll admit, as the author writing this, I've read more books across *non-education* fields compared to education-specific books. 
 
 Funny how that works.
 
@@ -36,15 +39,9 @@ You'll also find many rules don't apply universally for determining a standard o
 
 There are two sources of truth I'll call out that you might work with: the knowledge you've already acquired vs the knowledge you need to acquire.
 
-For both ways, I like these two quotations:
+Former Secretary of Defense Donald Rumsfeld, in a DoD News Briefing, defines three explicit categories about the knowledge people have: known knowns, known unknowns, and unknown unknowns (U.S. Department of Defense, 2002).
 
-> "Absence of evidence is not evidence of absence"
-- Mr. Dugald Bell (Sheppard, 1895, p. 132)
-
-> "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones."
-- Former Secretary of Defense Donald Rumsfeld (U.S. Department of Defense, 2002)
-
-There are three explicit categories stated here: known knowns, known unknowns, and unknown unknowns. To sum each category:
+To sum each category:
 
 **Known Known**: Knowledge and skills gained through effort and time.
 
@@ -93,7 +90,7 @@ As an aside, also be careful when textbooks come with new "editions." These can 
 
 *Re: Alternate version of class materials.*
 
-If a technological update renders PDFs obsolete, pretend its the new thing instead here. I still think Ctrl+F (Control+F) on a keyboard may solve many problems, but that's me.
+If a technological update renders PDFs obsolete, pretend its the new thing/technology instead here. I still think Ctrl+F (Control+F) for search on a keyboard may solve many problems, but that's me.
 
 You may have a specific textbook (or assigned materials) for a particular class. It is possible there are other versions of all those materials available for use.
 

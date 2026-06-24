@@ -59,20 +59,19 @@ Across many of these policies, however, is the need for structure. Having no str
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people that are easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
 
-Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot reasonably overlook how that same disruptive student is denying 30+ (or however many) other students an education. 
-- If I didn't explicitly write that down here, someone will call it out I'm sure.
+Additionally, **while a student may be entitled to an education, they're not entitled to deny other students an education either.** If someone has an issue with a student being kicked out of a classroom for being a nuisance, they also cannot reasonably overlook how that same disruptive student is "leaving behind" and denying 30+ (or however many) other students an education. For dedicated research on the impact of what students can do, there is a body of research available spanning decades, such as Carrell et al.'s *The Long-Run Effects of Disruptive Peers* (2016) and Burgress et al.'s *The Influence of Social Contagion Within Education: A Motivational Perspective* (2018).  
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
 - Procedures and management strategies must scale up as more students are under your supervision
 - A 5 minute email can have the same, if not better, results than a 1 hour meeting
 - Prepare for the worst, but assume the best of students
-- All it takes is one disruptive, mismanaged student to ruin a classroom
+- All it takes is one disruptive, mismanaged student/peer/etc. to ruin a classroom or working environment
 - Time is your most valuable resource
-- Success is determined by the environment and resources available, your ability, and how well students perform
+- Success is often determined by the environment and resources available, your ability, and how well students perform
 - Learning proper classroom management requires experience and application
   - A book, guide, etc. alone will NOT be enough to get you experience, *but knowing the theory is at least better than knowing nothing*
 
-Lastly, there's also many different types of schools even within the public and private school umbrellas. They can vary in size, policy, student demographics, the reason students are there, the wealth available in the school, and many more factors. 
+Lastly, there's many different types of schools even within the public and private school umbrellas. They can vary in size, policy, student demographics, the reason students are there, the wealth available in the school, and many more factors. What may work in one school may not necessarily translate as well, or work as intended, in another school.
 
 *Alright, let's get into it.*
 
@@ -220,7 +219,7 @@ On the other hand, you remove a disruptive element affecting the learning of eve
 This is one case where the needs of many are more important than the needs of an individual, *especially* if your goal is to bring education to as many students as possible.
 
 Research into suspensions, as well as short-term and long-term student removals from classrooms and schools, strongly asserts "exclusionary discipline practices have large negative impacts on adult crime and educational attainment" (Bacher-Hicks et al., 2019). Ideally, we focus on creating a safe and positive environment for learning to discourage bad behaviors rather than focusing on punishing bad behaviors when they appear. In other words, education systems prefer a proactive vs reactive approach on punishments.
-- In the United States, these practices were addressed at the federal level by the [Obama Administration in 2014 (with revision in 2023 under Biden Administration)](https://www.ed.gov/sites/ed/files/policy/gen/guid/school-discipline/guiding-principles.pdf) and visited by the [Trump Administration in 2018](https://www.ed.gov/sites/ed/files/documents/school-safety/school-safety-reportpdf.pdf).
+- For example, in the United States, many practices were addressed at the federal level by the [Obama Administration in 2014 (with revision in 2023 under Biden Administration)](https://www.ed.gov/sites/ed/files/policy/gen/guid/school-discipline/guiding-principles.pdf) and reviewed by the [Trump Administration in 2018](https://www.ed.gov/sites/ed/files/documents/school-safety/school-safety-reportpdf.pdf).
 
 Many education systems and schools implement some form of MTSS (Multi-Tiered Systems of Support) and/or PBIS (Positive Behavioral Interventions and Supports) to remedy disciplinary issues. MTSS is generally effective at an international level, but still has room for improvement due to its complexity (Nitz et al., 2023). PBIS is also consistently showing, across multiple studies, how it reduces exclusionary discipline practices (María et al., 2023). By reducing the needs for issuing harsher punishments, it can positively influence attendance, grades, and culture within education systems.
 
@@ -228,7 +227,11 @@ Despite effectiveness with existing approaches, one must ensure issuing these pu
 
 Students that are suspended once have a higher probability of experiencing and causing issues when they get back into the classroom once again (National Institute of Justice, 2021). They may not have kept up with school, which means not keeping up with your class and curriculum. Because they're behind, they may disrupt the class again, the suspension process may repeat, and perpetuate a cycle.
 
-Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, it's unlikely a suspension will suddenly change that habit.
+Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, a suspension may not suddenly change that habit.
+
+Two common forms of suspensions are ISS (in-school suspension) and OSS (out-of-school suspension). OSS, while disruptive to *other* people involved in education, such as a student's parents, may not impart any real punishment or reflection on the student. This could be because it isn't taken seriously as a punishment by the student or said student was left unsupervised to do whatever they wanted in the first place away. In a way, OSS relies on inconveniencing other people enough it's made a problem for more people than just the student and it incites a resolution.
+
+ISS, on the other hand, requires *removing* the student away from a classroom and sent to a secure location on campus under the purview of the education system. This requires additional resources, such as a space and staff to overview it, which may strain systems with already low resources available. The same problems with OSS appear in ISS as well, if the punishment isn't taken seriously by the student(s), there's no remediation done to mitigate future problematic behaviors, and if they're rewarded instead of punished for taking away learning and opportunities from other students.
 
 ### **Address Student Accommodations?**
 
@@ -339,7 +342,7 @@ If nothing else works, then focus on those who still want to be taught, help tho
 
 As for other suggestions, let's start with focusing on relationships. This is, however, a long-term solution and requires proper investment to work. I don't mean just listening to students, but also sharing *appropriate* things with them in turn. You're setting up a feedback loop to showcase enthusiasm in a class and hope it improves the situation. Sometimes it does work and sometimes it doesn't.
 - If you show you care, it's harder for them to not want to care.
-- You cannot care more than they're willing to learn, however.
+- You cannot care more than they care, however. Like bringing a horse to water. 
 
 Another suggestion is providing incentives like candy or free time. Be careful with this, as you may promote extrinsic motivations instead of intrinsic motivations.
 
@@ -410,9 +413,9 @@ Exception may be if it's a mistake causing a full lesson interrupt. In that case
 
 *Alternatively: "Did we do anything yesterday?" and "Is this graded?"*
 
-You would be surprised how often this question comes up if you've never taught before. Keep in mind, in 2025 and beyond, there's a vast amount of technology specifically covering what students missed on previous sessions (and in some cases, cover in future sessions).
+You would be surprised how often this question comes up if you've never been in education before. Keep in mind, in 2025 and beyond, there's a vast amount of technology and means specifically covering what students missed on previous sessions (and potentially cover this session and future sessions).
 
-This is code for "do I have permission to not care about class today?" based on personal experience. Bluntly speaking, the student is finding reasons to not care and disengage.
+This is usually code for "do I have permission to not care about class today?" based on personal experience. Bluntly speaking, the student is finding reasons to not care and disengage.
 - There is the *rare* exception it is actually genuine, but this exception is based more on a *"tell"* than anything else.
 
 You can be curt, funny, or deadpan with your response so long as it doesn't violate any rules/laws or get you fired. As long as your answer isn't "No" or "We are not doing anything today," it works because it helps maintain your sanity.
@@ -467,6 +470,10 @@ What are ways to "fight" these battles? It depends on what you're allowed to say
 2. Bacher-Hicks, A., Billings, S., & Deming, D. (2019, August). *The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime.* [https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf](https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf)
 
 2. Budish, E. B., Cramton, P., & Shim, J. J. (2015). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
+
+3. Burgess, L. G., Riddell, P. M., Fancourt, A., & Murayama, K. (2018). *The Influence of Social Contagion Within Education: A Motivational Perspective.* Mind, Brain, and Education, 12(4), 164–174. [https://doi.org/10.1111/mbe.12178](https://doi.org/10.1111/mbe.12178)
+
+3. Carrell, S., Hoekstra, M., & Kuka, E. (2016). *The Long-Run Effects of Disruptive Peers.* [https://doi.org/10.3386/w22042](https://doi.org/10.3386/w22042)
 
 3. Dantes, R. B., Kaur H., Bouwkamp B. A., et al. (2023). *Sepsis Program Activities in Acute Care Hospitals — National Healthcare Safety Network, United States, 2022.* MMWR. Morbidity and Mortality Weekly Report, 72(34). [https://doi.org/10.15585/mmwr.mm7234a2](https://doi.org/10.15585/mmwr.mm7234a2)
 
