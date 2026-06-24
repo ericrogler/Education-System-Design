@@ -83,11 +83,11 @@ In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data 
 
 By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible one student, or multiple, can cause significant issues every single day of teaching. 
 
-Additionally, disciplinary actions recorded above do NOT include redirection, warnings, etc. that happened before the action is issued, as well as any time lost during instruction due to behaviors. This can potentially mean at least 2 things requiring further investigation:
+Additionally, disciplinary actions recorded above do NOT include redirection, warnings, etc. that happened before the disciplinary action is issued, as well as any time lost during instruction due to behaviors. This can potentially mean at least 2 things requiring further investigation:
 1. Disciplinary actions decreasing doesn't necessarily correlate with improved behaviors
 2. New systems implemented may affect how disciplinary actions are tracked to show things improved *only at the surface level.*
 
-In terms of the teaching role itself, from what I've seen and experienced in addition to [what I read from RAND](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf) (Doan, Steiner, & Pandey, 2024) and the [School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) (2025), I'd probably give you this ordered list in overall difficulty:
+In terms of the teaching role itself, from what I've seen and experienced in addition to [what I read from RAND](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf) (Doan, Steiner, & Pandey, 2024) and the [School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) (2025), I'd probably give you this ordered list in overall difficulty from most difficult to least difficult:
 - Special Education
 - Alternative/Disciplinary Education
     - Some overlap with special education or behavioral intervention
@@ -104,7 +104,7 @@ This ranking comes from many areas and metrics like:
 - How often you're expected to work "outside contract hours"
 - Pressure from external sources, like administration, parents, clients, etc.
 - How much time is available to perform work in the roles
-- How they're treated by society at large
+- How those educators are treated by society at large
 - Amount of stress in general
 - How often the work environment and initiatives change
 - Difficulties and/or lack of consequences with the students being taught
@@ -112,13 +112,13 @@ This ranking comes from many areas and metrics like:
 - The methods used to deliver content effectively and efficiently
     - E.g. [Online vs face-to-face teaching from CITE Journal](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course) (Stern, 2004)
 
-Teaching is not a role one can easily excel at, despite its perceived accessibility about how everyone *can* be a teacher. Even people in highly technical roles with vast domain knowledge may fail teaching due to lacking proper pedagogy (for adults, andragogy) to teach *and manage* students effectively.
+Teaching is not a role one can easily excel at, despite its perceived accessibility about how everyone *can* be a teacher. Even people in highly technical roles with vast domain knowledge may fail teaching due to lacking proper pedagogy or andragogy (and maybe heutagogy) to teach *and manage* students effectively.
 
 ### **What does a Manager do?**
 
 Manage resources and risk. That's the simple, pragmatic answer.
 
-People are part of resources and the source of many ideas and methods to perform well. Risk is unreliable, unpredictable, and chaotic, so a manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to safety, honesty, and trust, afterll. **Do *not* underestimate the importance of reliability.**
+People are part of these resources and the source of many ideas and methods to perform well. Time is also a resource to determine if what you want done fits within schedule and any deadlines. Risk is unreliable, unpredictable, and chaotic, so a manager wants to eliminate risk when feasible and make things reliable, smooth, and orderly. Being reliable leads to safety, honesty, and trust, afterll. **Do *not* underestimate the importance of reliability.**
 
 Any policies managers make should also be effective and efficient. If it looks good on paper, but terrible in practice, that policy should be eliminated or modified. This may include policies which are effective, but inefficient because they add unnecessary complexity and/or tension for those dealing with them.
 
@@ -147,7 +147,7 @@ Here's more examples of what a manager may do:
 - Ensuring everything is done legally
 - Protecting their team from unexpected overhead and workloads
 
-There's a lot of things here. It reinforces the point it's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of *every other element here*.
+There's a lot of things here. It reinforces the point it's counterintuitive to micromanage excessively because it means hyperfixating on one element at the potential detriment of *every other element here*.
 
 ### **Everyday Management**
 
@@ -171,22 +171,21 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 ### **Maintaining Appearances (Perception)**
 
+Good managers can turn chaos to order.
+
 There are four levels of managers from best to worst in most environments (from what I've been around):
 1. Competent and technical manager
-1. Incompetent, but technical manager
-1. Competent, but non-technical manager
-1. Incompetent and non-technical manager
+2. Incompetent, but technical manager
+3. Competent, but non-technical manager
+4. Incompetent and non-technical manager
 
 The first and last rankings are as expected. Competence means you do things well and "technical" means you have the background knowledge to properly inform your decisions. 
 
 When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. Technical managers, who are weak on the management part, may overcome the incompetence through educated reasoning on how to reach the finish line, mentoring along the way, researching how to manage people, and finding ways to hand-hold their employees when things go south. The issues occur when managers, technical or not, step in too much, micromanage, and dictate processes they're not well equipped to handle themselves. 
 
-Remember that managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact helps more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. 
+Remember that managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact may help more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. Despite all this, it doesn't contradict what I said earlier. Learning about technical skills, even just to understand business and project-specific needs, is absolutely essential.
 
-Good managers can turn chaos to order.
-- Despite all this, it doesn't contradict what I said earlier. Learning about technical skills, even just to understand business and project-specific needs, is absolutely essential.
-
-Now then, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
+Now then, let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix. In an instructional role, and many roles in education systems, you're "leadership." You might not have traditional employees if it's with teachers and students, but you're still managing people who are "beneath" you in a perceived power/knowledge structure.
 
 This means you need to do the things leaders also do without *weakening* authority, such as:
 1. Don't be an asshole.
@@ -198,29 +197,29 @@ This means you need to do the things leaders also do without *weakening* authori
 
 Despite how knowledgeable you might be, bad communication takes you down like a cat pouncing on a mouse. You can improve communication in less than a couple weeks if you put your mind and time to practice.
 
-It's *how* you say something, not just what you say, and getting people to *see* you do it right. For example, instead of saying "This is a good idea, I think we should do it." say "Let's do this." "I think" in the former instills doubt and makes someone believe you cannot stand behind your words. The latter cuts that doubt out almost entirely and makes it sound like you're sure and ready to act.
+It's *how* you say something, not just what you say, and getting people to *see* you do it right. For example, instead of saying "This is a good idea, I think we should do it." say "Let's do this." "I think" in the former instills doubt and makes someone believe you cannot stand behind your words. The latter cuts that doubt out almost entirely and makes it sound like you're sure and ready to act. Refining the art of communication is key to management.
 
-You also want to avoid thinking outpacing speaking. It's hard to detect at first, but an immediate example is those stop or gap words like "uh" and "um" *even when you don't want to say those.*
+You also want to avoid your thinking outpacing your speaking. It's hard to detect at first, but an immediate example is those stop or gap words like "uh" and "um" come out *even when you don't want to say those.*
 
-You can also pause for a bit. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. It'l help you. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
+You can also pause for a bit. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
 
-Last part here is communicating impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
+Last part here is communicating the impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
 
 ### **The Rule of Two [Contracts]**
 
 There's two things to remember when handling written communications:
-1. Replying in anger doesn't help your case. 
+1. Replying in anger usually doesn't help your case. 
 2. When in doubt, get life-changing issues, contracts, and important documents in writing.
 
-For point #2, that includes *all* of them... or as many as is reasonable to get.
+For point #2, that includes *all* of them... or as many as is reasonable and feasible to get.
 
 Trust me, you don't want to handle the fallout of not having your metaphorical ducks in a line with every t crossed and i dotted when the law comes knocking.
 
-As you scale up in size, you'll want to review any legal contracts you wrote with past employmees, agencies, etc. This ideally happens at least once, if not more than once, somewhere before you scale up more than three organizational layers in a given company.
+As you scale up in size, you'll want to review any legal contracts you wrote with past employmees, agencies, etc. This ideally happens at least once, if not more than once, somewhere before you scale up more than three organizational layers in a given organization.
 
-While a small company of a few friends may have contracts with lenient terms approved when everyone was a group of friends, that "group of friends" mentality is extremely difficult, if not outright impossible, to maintain as you scale in size.
+While a small group of a few friends may have contracts with lenient terms approved when everyone was a group of friends, that "group of friends" mentality is extremely difficult, if not outright impossible, to maintain as you scale up in size.
 
-I say this advice because you don't want to fire an employee, like one of your original founders, and then find out they have significant leverage and/or working knowledge of, well, many interal systems. For example, giving them ownership to the code, tools, infrastructure, designs, and licenses they leased out to the company that they could pull out easily and leave the entire company out to dry if they're no longer employed.
+I say this advice because you don't want to fire an employee, like one of your original founders, and then find out they have significant leverage and/or working knowledge of, well, many interal systems. For example, giving them ownership to the code, tools, infrastructure, designs, and licenses they leased out to the company which they could pull out easily and leave the entire company out to dry if they're no longer employed.
 
 While this may sound heavy-handed, it's also to protect everyone involved, ensure their importance is codified, and eliminate any single points of failure within your system. 
 
@@ -238,7 +237,7 @@ One single list will not solve all your problems. You'll need to adjust strategi
 - Remain calm.
 - Determine where "the line" is and do not move it unless necessary.
 - Do not carelessly give away rewards for good behavior, as they can be detrimental to intrinsic motivation by replacing it with extrinsic motivation.
-- Be prepared to have a reason for why something is done the way it is. If it's because "you said so," it's not something you should do.
+- Be prepared to have a reason for why something is done the way it is. If it's because "you said so," it's very likely not something you should do.
 - Even if restricted by what you may teach, getting students to choose what they want to learn may increase their desire to learn and motivation to do well. (similar topic: "stakeholder buy-in")
 - Calling out a student directly is more effective than simply stating "stop causing trouble" without calling out the person causing the trouble.
 - Use statements over orders. Short and precise is best. "Fix it, please." "Do [thing], please."
@@ -247,17 +246,17 @@ One single list will not solve all your problems. You'll need to adjust strategi
 - Be ready to "pull the trigger" when disciplining.
 - Decide where and how you want people to sit, stand, or otherwise in a classroom, whether by strict assignment or casually (i.e., "just sit in a chair")
     - For online teaching, decide what they need to set up on their computer, phone, etc. to receive information and do tasks you assign appropriately.
-- **Regulate the use of technology by students when reasonable and feasible.**
+- **Regulate the use of technology when reasonable and feasible.**
 
 ### **Attention Economy**
 
 The amount of time a student can focus depends on many factors, such as age, disposition, and personality. 
 
-Generally speaking, the younger students are, the less time they can maintain focus before needing a break. One rule of thumb example is a student's *maximum* attention span is 2 to 3 times their age (e.g., 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) (Cirillo, n.d.) is one example of a management method capitalizing on attention spans.
+Generally speaking, the younger students are, the less time they can maintain focus before needing a break. One rule of thumb example is a student's *maximum* attention span is 2 to 3 times their age (e.g., 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) is one example of a management method capitalizing on attention spans (Cirillo, n.d.).
 
-Consider short-form content like TikTok videos and YouTube shorts. They implement highly optimized psychological techniques to get your time and attention, which are also found in similar apps and software (Qin et al., 2022). Basically, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but you're starting at a hefty disadvantage.
+Consider short-form content like TikTok videos and YouTube shorts. They implement highly optimized psychological techniques to get your time and attention, which are also found in similar apps and software (Qin et al., 2022). Basically, maintaining focus in a classroom is set to Hard mode by default. It's not impossible, but many educators are starting at a hefty disadvantage due to factors outside their control.
 
-If a student wants to learn something, they'll at least try to learn something... which may not be what you're teaching at the same time. It's not always the case of the student intentionally and/or maliciously doing something bad. Something else caught their attention more at the time or they got confused and are now acting out.
+If a student wants to learn something, they'll at least try to learn something... which may not be what you're teaching at the same time. It's not always the case of the student intentionally and/or maliciously doing something bad. Something else simply caught their attention more at the time or they got confused and are now acting out.
 
 **Fighting for attention can be remedied with techniques like the following below.** They may not work perfectly and their effects vary depending on your audience, but it's significantly better than *not* doing anything.
 
@@ -342,7 +341,7 @@ To repeat once again: **As soon as a meeting is deemed invaluable, people will n
 
 There's multiple ways to do this.
 
-If you need to make a decision *now,* one of the fastest ways is allowing people to vote more than once. For example, you have 5 options people can choose from, but only the most popular option is selected. You don't need an agenda, timekeeper, scrum master, other random person, etc. to manage it. You go around, ask yes/no questions for each option, tally votes, and pick the option with the most votes.
+If you need to make a decision *now,* one of the fastest ways is allowing people to vote more than once. For example, you have 5 options people can choose from, but only the most popular option is selected. You don't need an agenda, timekeeper, scrum master, Steve from Accounting, etc. to manage it. You go around, ask yes/no questions for each option, tally votes, and pick the option with the most votes.
 - This can take less than a minute if done right across various group sizes.
 - Don't, however, use this method for critical or life-safe issues.
 
@@ -372,7 +371,7 @@ Negative behaviors are any behaviors that put you, the classroom, education syst
 
 1. Shut it down immediately.
     - All it takes is a few seconds for control to be lost, your authority diminished, and the rest of the class/audience to see an opportunity to make it worse.
-    - Best when, you know with certainty, something goes against the rules of the school/classroom, etc.
+    - Best when, you know with certainty, something goes against the rules of the school/classroom, etc. and you know exactly how to handle it correctly.
 2. Let it play out for a bit before deciding whether to ignore or act.
     - While this carries risk and can escalate a situation, it can provide context to the negative behavior, let you collect evidence, and give room to process the situation more clearly.
     - That delay may only be about 2 seconds before the situation becomes risky too.
@@ -396,7 +395,7 @@ If a student shows signs of one of the following, or something related, do not f
 - Bullying others in the classroom
 - Talking out of turn
 
-Even if you mitigate negative behaviors, it doesn't always mean they're gone entirely. There is a reason behind the negative behavior. It is up to you to figure it out and see if a feasible solution exists, or else the negative behavior will repeat. These negative behaviors also occur outside of a school setting and aren't limited to students; your fellow staff, other adults, and children may also show them.
+Even if you mitigate negative behaviors, it doesn't always mean they're gone entirely. There is still the reason behind the negative behavior. It is up to you to figure it out and see if a feasible solution exists, or else the negative behavior will repeat. These negative behaviors also occur outside of a school setting and aren't limited to students; your fellow staff, other adults, and children may also show them.
 
 Negative behaviors will rarely resolve in a single day as well. They can take a week, a month, or even years to fix–or at least get better compared to before. Controlling behaviors amongst students is an exercise in management you cannot avoid, nor should you avoid.
 
@@ -440,9 +439,9 @@ My rule of thumb is if something *can* be automated, it isn't as costly to do so
 
 You want to make sure you don't automate yourself out of a job, however. I'm assuming you'd probably want to get paid for your work now and in the future.
 
-For instructors, whatever you do should be optimized to free up more time. The more time you have, the more time you can dedicate to developing students further, improving your ability to conduct education, or matters outside of education like family and vacations.
+For instructors, you should find ways to free up more of your time. The more time you have available, then the more time you can dedicate to developing students further, improving your ability to conduct education, or handling matters outside of education like family and vacations.
 
-Automation, and AI (Artificial Intelligence) by extension, is not a one-size-fits-all solution. Not everything can–and should–be automated. If you're unsure of what existing technology can automate, I'll provide examples below:
+Automation, and AI (Artificial Intelligence) by extension, is not a one-size-fits-all solution. Not everything can, and should, be automated. If you're unsure of what existing technology can automate, I'll provide examples below:
 
 - Grading questions with discrete, well-defined, and objective answers, like the results of math equations
 - Progress report submission and filling
