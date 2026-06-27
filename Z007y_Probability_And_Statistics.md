@@ -11,7 +11,7 @@ nav_order: 15
 
 > "Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics. Perhaps it will be wise to approach the subject cautiously."
 
-- David L. Goodstein, States of Matter (2014)
+- David L. Goodstein, *States of Matter* (2014)
 
 ---
 
@@ -54,13 +54,9 @@ That said, lets go over concepts.
 
 ### **Probability vs Statistics**
 
-Probability is the likelihood an event occurs. That's it, but also not it.
+Probability is the likelihood an event occurs. That's it, but also not it. There's an inverse relationship between Probability and Statistics. 
 
-There's an inverse relationship between Probability and Statistics. 
-
-Probability uses a model (or hypothesis) to predict what may happen in practice. 
-
-Statistics starts with data obtained from practice (or experiments), observes what *has* happened, and figures out what the model/process is.
+Probability uses a model (or hypothesis) to predict what may happen in practice. Statistics starts with data obtained from practice (or experiments), observes what *has* happened, and figures out what the model/process is.
 
 People may typically learn Probability before Statistics. Probability doesn't need Statistics, but Statistics does need Probability for parts like inferential statistics. Though one may not need the other, they still complement each other. Some curricula may account for this relationship and teach both topics at the same time, such as showing the probabilistic object after talking about its theoretical definition.
 
@@ -73,18 +69,19 @@ For a quick answer: they are *both* important.
 There's at least a few ways people learn Statistics and Probability. One option is a formal course, such as one offered by a university in a classroom setting. Another option is buying guided/targeted materials for specific audiences like Sauro and Lewis' *Quantifying The User Experience* (2016) or using an alternative/online resource, free or paid, to get Statistics knowledge for certain job duties. A third option is self-studying the topics in general from independent sources like [3Blue1Brown](https://www.3blue1brown.com/) (2026) and [StatQuest](https://www.youtube.com/c/joshstarmer) (2025).
 - Aside: I've been through all three options.
 
-I'm sure there's other ways besides these three, but these are the most common ways I've seen. For the scope of this book, we'll approach Statistics and Probability as an introductory topic.
+I'm sure there's other ways besides these options, but these are the most common ways I've seen. For the scope of this book, we'll approach Statistics and Probability as an introductory topic.
 - As a warning, many statistical methods come with key assumptions. Do NOT ignore those assumptions when applying these methods!
 
-*Practical* Statistics is about knowing when to apply a statistical test (i.e. a formula/algorithm) to a given scenario. Factors deciding this include correlation vs comparison, the types of users in groups, the number of groups, whether or not you're estimating, binary data (yes/no type answers), and more. Essentially, you're looking at decision trees and determining the appropriate test to use when certain conditions are fulfilled.
+*Practical* Statistics is about knowing when to apply a statistical test (i.e. a formula/algorithm) to a given scenario. Factors deciding this include correlation vs comparison, the types of users in groups, the number of groups, whether or not you're estimating, binary data (yes/no type answers), and more. Essentially, you're looking at multiple decision trees and determining the appropriate test to use when certain conditions are fulfilled.
 
-After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a constant test of your intelligence *and* wisdom when it comes to learning and applying it.
+After you correctly decide a statistical test or method, what comes next is knowing the proper application. For example, you may know that "z = (x - μ) / σ" is the z-score equation, but if you don't know how to get x (observed value), μ (population mean), and σ (standard deviation), you'll still get an incorrect answer. Statistics is a test of your intelligence *and* wisdom when it comes to learning and applying it.
 
 As for concepts in statistics and probability you may encounter often, I'd assume at least some of the following in no particular order:
 - Discrete & Continuous Probability Distributions
 - Random Variables & Expected Values (i.e. E(X))
 - Sampling & Central Limit Theorem
 - The Law of Large Numbers
+- A/B Testing
 - Law of Total Probability
 - Statistical Inference
 - Conditional Probability & Dependence (e.g. Bayes' Rule)
@@ -92,7 +89,6 @@ As for concepts in statistics and probability you may encounter often, I'd assum
 - Markov Chains
 - Properties of Random Variables
 - Confidence Intervals
-- A/B Testing
 
 There are a few other concepts you may see in practice and workplace settings: descriptive statistics, regression, and correlation vs causation.
 
@@ -103,15 +99,15 @@ Regression is fitting a prediction against actual outcomes. The stronger the cor
 The relationship between correlation and causation is pretty straightforward. Firstly, correlation does *not* imply causation. Causation means one variable directly influences another variable, such as one variable increasing because another decreases. Correlation is only describing the relationship, or association, between variables. Correlation and causation *together* serve as scientific evidence; correlation alone cannot be used as evidence for conclusions. A proper conclusion requires correlation alongside context acquired from experimental design, strong controls, and/or domain knowledge to inform decisions and results.
 - Despite this explanation, establishing causation is more complex than I imply here.
 
-### **Set Operations and You**
+### **Set Operations, Variables, and You**
 
 I'm going to assume readers may not be versed with set operations before continuing onwards. They're common in books such as *Introduction to Probability* by Bertsekas and Tsitsiklis (2008) as well as *Statistical Inference* by Casella and Berger (2021).
 - Aside: These two specific books *do* assume students have Calculus knowledge.
 
-There are comprehensive (even if informal/secondary sources) lists of set operations on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to interpret this chapter.
+There are comprehensive (even if informal/secondary sources) lists of what the variables are and what set operations are on the Internet through sources like [Math Vault](https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/#Variables) (2025), ISO, and [GeeksforGeeks](https://www.geeksforgeeks.org/maths/set-operations/) (2025). If you wish to read through them, that is fine; you won't need them to interpret this chapter.
 - If those resources are down in the future, doing a search on the Internet (or similar technology) should uncover updated sources.
 
-Why am I calling out set operations in particular? It's because not knowing set operations is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
+Why am I calling out set operations and variables in particular? It's because not knowing these is like reading an English book without knowing English. You'll still "see" the symbols on paper but you won't "understand" the symbols, their context, and their applications. If you're unable to interpret what's in front of you, the knowledge cannot be properly utilized.
 
 ### **Statistical Quality Control (SQC)**
 
@@ -127,9 +123,9 @@ Like Statistics and Probability, SQC will assume you can at least navigate Algeb
 
 ### **Why Cover Analysis?**
 
-You may be wondering why a book on education dedicated so much real estate to math.
+You may *still* be wondering why a book on education dedicated so much real estate to math.
 
-Outside of author bias, the actual reason is simple: you need to know math to understand the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, in education anyways.
+Outside of author bias, the actual reason is simple: you need to know math to understand the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, if you're dealing with education anyways.
 
 Now we go onto analysis; an application of all that math with some science and social skills.
 
@@ -139,14 +135,16 @@ The bad news about data analysis is you need math skills to get the most out of 
 
 ### **Data Analysis Primer**
 
-**There's three "laws" of data analysis:**
+**The most important skills in data analysis are the ability to quicky learn domain knowledge (i.e. understand the "business"), exercise critical/analytical thinking, and properly communicate and work with other people and businesses.** Soft skills are more important than you may realize.
+
+**There's three "laws" of data analysis I'll establish here:**
 1. Data are objective. Interpretation is subjective.
 2. You can tell whatever story you want with data, if you know how to, for both good and evil.
 3. Numbers/data without context are virtually useless.
 
-A lot of analysis isn't really designing the fancy dashboard or displaying results for clients. That's still an important part though because an interface which looks good also affects the perception of it. It still must answer a specific question, or set of questions, someone has when looking through it.
+A lot of analysis isn't really designing the fancy dashboard or displaying results for clients. That's still an important part though as an interface which looks good also affects the perception and acceptance of it. It still must answer a specific question, or set of questions, someone has when looking through it.
 
-Most analysis comes from cleaning up data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the way to figure out what's actually there to then act upon it.
+Most analysis comes from cleaning up data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the way to figure out what's actually there for you and other people to then act upon it.
 
 All of the earlier math concepts are still important because they open up further advanced topics like optimization, linear (and nonlinear) programming, forecasting, regression, and more.
 
@@ -154,11 +152,11 @@ All of the earlier math concepts are still important because they open up furthe
 
 A database is a repository of data and it's structured in some way, shape, or form. Data consists of facts, figures, quantities, and details collected about the environment. The data itself can be structured, semi-structured, or unstructured. You could also set up a clean, isolated environment through containerization with software like Docker.
 
-Imagine now you work in a warehouse. There are specialized machines handling logistics inside the warehouse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehouse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
+Imagine you work in a warehouse. There are various, specialized machines handling logistics inside the warehouse and different machines handling logistics outside the warehouse. For example, you may use forklifts and cranes to transport and manipulate goods inside the warehouse, but you'd stick with trucks and vehicles to move goods outside the warehouse for other purposes. Using the equipment best suited for each environment ensures you remain effective and efficient.
 - To any data specialists reading this: "SQL inside the database; Python outside the database" is a decent, albeit debated, rule of thumb that hopefully doesn't age poorly.
     - Alternatively, Python is transportation and SQL is transformation in this case.
 
-Readers in 2026 may be familiar with spreadsheets through software like Google Sheets or Excel. That's structured data and organized into tables, worksheets, and cells. While spreadsheets *can* act as databases, it's not well-equipped to do so.
+Readers in 2026 may be familiar with spreadsheets through software like Google Sheets or Excel. That's structured data and organized into tables, worksheets, and cells. While spreadsheets *can* act as databases, they're not well-equipped to do so as they're intended for performing analytics instead of storage.
 
 Depending on what type of analysis you're doing, spreadsheets alone may not suffice and you'll need to delve into data warehouses and coding languages. This may be due to capacity restrictions, inability to perform desired functions, data restrictions, or lack of raw processing power. This is where people typically go from spreadsheets to the realm of Python, SQL, and similar programming languages.
 

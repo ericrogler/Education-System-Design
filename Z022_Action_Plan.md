@@ -126,7 +126,7 @@ This may include, but is not limited to:
 - Payment methods, payment plans, and monetary costs (if applicable)
 - Overview of classroom procedures and rules
 
-### **Lesson Plan**
+### **Lesson Plans**
 
 Lesson plans are a roadmap and a written record of what you're teaching. They keep you on track, provide documentation to show "proof of learning" if disputes arise, and outline methods used to teach your material. 
 
@@ -198,7 +198,7 @@ There's also two other rules of thumb for FAKs I prefer to follow:
 
 If you've ever hosted a dinner party for important guests, you may've taken extra care for how you set up the environment for guests and presentation of meals. For example, the area is presentable towards guests, the table(s) you're seated at is prepared with cutlery, napkins, and perhaps some condiments, and people are ready accommodate you with food and drink options, like a glass of water, while you wait for food to be fully served.
 
-Taking a similar approach to a classroom, this is like setting up desks for students to sit down at, preparing materials for your lectures, activities, and projects in advance, and the educator themselves is prepared to instruct at the designated classroom time.
+Taking a similar approach to a classroom, this is where you do things like arrange desks for students to sit down at and prepare materials for your lectures, activities, and projects in advance.
 
 *The First Days of School* by H.K. Wong and R.T. Wong also emphasize the importance of classroom preparations (2018). To paraphrase further examples from their book:
 - Do not overcrowd and clutter the area.
@@ -214,6 +214,8 @@ You'll also want to design the classroom in such a way to not make students thin
 - Placing furniture in such a way to not obscure vision and force students to move around often just to receive proper education.
 - Preparing pre-made guides, like list of materials for a classroom, you may hand to students so they have a copy handy.
   - You may also post them online or via email in case they're absent for this artifact.
+
+If your environment consists of certain technologies, such as computer stations, screen projectors, laptops, and machinery, ensure they are set up properly, able to be powered on/off, and function as intended. If you do this *before* any schooling starts, or between schooling periods, you can submit a request/ticket during a low-traffic period and potentially resolve those issues faster than usual.
 
 ### **What About Labs?**
 

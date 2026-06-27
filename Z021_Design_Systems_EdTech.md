@@ -180,7 +180,7 @@ Systems design and design systems don't work in isolation either. They're *both*
 - E.g. Something could look beautiful, but function poorly, and vice versa.
 - [The Aesthetic-Usability Effect](https://www.nngroup.com/articles/aesthetic-usability-effect/) is one way to make products "work" better by looking better (Moran, 2024).
 
-In both cases, you don't decide the tools before how you'll design the architecture. If you curious why, think about building a house without a blueprint. It's generally a bad idea to go in without a proper plan. Even when you decide on tools, you want to reevaluate those tools regularly on a yearly, or even bi-yearly, basis.
+In both cases, you don't decide the tools before how you'll design the architecture. If you curious why, think about building a house without a blueprint. It's generally a bad idea to go in without a proper plan. Even when you decide on tools, you want to reevaluate those tools regularly on a yearly, or even bi-yearly, basis. A re-evaluation mitigates the chance of the situation where, for example, an organization has 12 technologies they're dedicating resources to, but only 3 of them actually get used by the people inside of them.
 
 Many details behind system design assume technical knowledge existing outside the scope of this book and are often catered towards technical backgrounds like engineers and researchers. Two extensive resources, albeit more advanced readings, covering system design and data engineering I've seen are:
 - *Fundamentals of Data Engineering* by Reis & Housley (2022)
@@ -300,7 +300,7 @@ In education, they check for understanding of material presented by a teacher/in
 
 There are multiple types of tests, but we'll discuss some of the ones you may see in software you use. Integration tests, as called in the section title, are to ensure something *else* unwarranted/unexpected isn't causing a problem that affects software (i.e. affects the program's integrity). In education, this may be factors found in the students themselves, or the processes surrounding the test, you may've not accounted for but are external factors affecting how they're ran.
 
-Other types of tests (validation methods), to borrowing from programming linguistics, include but are not limited to:
+Other types of tests (i.e. validation methods), to borrow from programming terminology, include but are not limited to:
 - Unit (checking individual parts for expected performance)
 - Regression (verifying new changes didn't cause issues or decay)
 - Integration (checking for external dependencies causing issues)
@@ -348,7 +348,11 @@ For a more practical example, someone may explain how the entire architecture of
 
 Many rules and concepts you find in designing systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are not. Quality typically improves over time, but gaps and deficiencies persist between iterations of new products.
 
-Sometimes you're forced to use particular software to accomplish your goal. Software is a tool to achieve a task or solve a problem you have and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
+Even if EdTech is convenient for use with one party, you also need to consider whether or not it imposes tedious processes for other parties as well. For example, an organization may desire a new software that makes all of their dashboards easy to view and make decisions from, but not consider the sheer amount of data entry and data cleaning other employees, like engineers and educators, need to perform in the backend.
+
+Sometimes you're forced to use particular software to accomplish your goal. For example, you may not want to use a LMS (Learning Management System), but you need a way to publish and submit assignments, so that software is required. As another example, you may also need a SIS (Student Information System) to store contact information for students and parents, log and track attendance, and the means to reach the right people in case of emergencies. Some processes are required, if not outright mandated, to follow and software easing that workload is often seen as "necessary" even if its only clerical work.
+
+Software, and EdTech in general, should be treated as a tool to achieve a task or solve a problem you have adding value/benefits. You'll be better off knowing how to use a tool than not knowing how to use a tool in addition to limiting the number of tools you actually need. You don't need multiple tools if you only need and use one to a few tools. With any tool, however, they're only worth it if they'll be used and understood by the intended audience. 
 
 ### **What is an MVP?**
 
@@ -356,9 +360,7 @@ An MVP, in a design and engineering context, is a minimum viable product. It is 
 
 For example, you may want to design something and have it do a whole bunch of cool features. That's a *full* product.
 
-An MVP, on the other hand, is when you scale down that same product to do only one to a few things and could see using yourself (i.e. spending money on).
-
-MVPs are important because they're intentionally scoped down. They're ways to ship products and generate income and feedback on them quickly without heavily investing much time, cost, or resources into them.
+An MVP, on the other hand, is when you scale down that same product to do only one to a few things and could see using yourself (i.e. spending money on). It's still a "*finished*" product you could sell to users, but its available features are intentionally cut back. MVPs are one way to ship products and generate income and feedback on them quickly without going over deadlines and heavily investing too much time, cost, or resources into them.
 
 Some examples of potential MVPs include:
 - A company showcasing a demo video of a product using a simple webpage to go through the core process they scoped out.

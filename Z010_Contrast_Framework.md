@@ -27,7 +27,7 @@ Education always involves communication in some way, shape, or form, while anoth
 
 If you have 10 parts of time, you determine how many of those 10 parts of time are dedicated across three categories for every unit you need to cover. You can even do all three categories across those same 10 parts of time all in a single day!
 
-That's it. Simple and easy. 
+That's it. Simple and easy. You can apply this framework across one education system to millions of education systems. Simplicity scales and adapts more easily compared to complexity.
 
 You deal with dirty (or unfiltered) data and human variables. Designing instruction, and many parts of educational systems, is simply extracting the necessary information, transforming it for students to best learn the information, and load it into "lessons" for student consumption. From there, think about how you'll manage time and students. There are countless variables involved in these aspects, if you wish to delve deep into the details, but it's similar to a problem with optimization constraints: **there is no perfect education system.**
 - Think somewhat similar to dealing with CAP Theorem (attributed to Eric Brewer, 2000), for those same readers with data backgrounds.
@@ -251,16 +251,16 @@ When I did full lecture days, I alternated presentation of material and review *
 
 **With lectures, you need to focus on three areas *alongside* the material you're teaching: passion, knowledge, and entertainment.**
 
-**Passion is how much you care about what you're teaching.** If you can show you care–preferably in a genuine manner, but even an attempt is fine–then you can get students to care.
+**Passion is how much you care about what you're teaching.** If you can show you care–preferably in a genuine manner, but even an attempt is fine–then you can get students to care. Students caring about a lecture is what ensures they'll continue showing up to future lectures and investing more into their learning.
 
 **Knowledge is how much you know about the subject(s) you're teaching.** It's entirely possible to teach by reading out the material, straight from a textbook. Still, your students may question your teaching ability if you also cannot successfully answer their questions, which leads to disengagement and less effective teaching.
 
-**Entertainment is the ability to *hold* attention.** You don't need to dance like a monkey in front of students, or never let students get bored, but you also shouldn't be bland and monotone. If you're not able to hold a student's attention, they'll lose that attention. They may create problems for you *and* other students, negatively bringing down the classroom. 
+**Entertainment is the ability to *hold* attention.** You don't need to dance like a monkey in front of students, or never let students get bored, but you also shouldn't be bland and monotone. If you're not able to hold a student's attention, they'll lose that attention. They may create problems for you *and* other students, negatively bringing down the classroom. One method to solve this issue is to make the *presentation* of your lectures interesting and effective.
 - Steve Jobs' speech with the iPhone reveal, TED Talks, TikTok, social media applications, and YouTube shorts are examples of how to hold attention across all ages.
 
-The combination of these three areas, with your teaching material, culminates in storytelling; the ability to tell engaging stories (or "sell" something that students "buy" into with their attention and willingness to learn).
+The combination of these three areas, with the material you're teaching, culminates in storytelling; the ability to tell engaging stories (or "sell" something that students "buy" into with their attention and willingness to learn).
 
-Though some may criticize "sage on the stage" style lectures, with valid points, they are still highly effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you're teaching, provide models, conduct daily reviews for a few minutes before diving into content, and more. You can play off of student tangents relevant to your topic and have the tangent used as a question on a test, to keep students' attention by inserting the unexpected question here and there.
+Though some may criticize "sage on the stage" style lectures, with valid points, they are still highly effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you're teaching mid-way, provide models, conduct daily reviews for a few minutes before diving into content, and more. You can play off of student tangents relevant to your topic and have the tangent used as a question on a test, to keep students' attention by inserting the unexpected question here and there.
 
 In a way, you could liken many forms of effective lectures and direct instruction as "conversations" instead. If we condense this section down, lectures are a combinations of a few things:
 - Instructor's delivery of information to impart knowledge

@@ -101,9 +101,9 @@ If you've ever been in education and had to pay out-of-pocket, with your own mon
 
 If you haven't, think about it this way. I don't want to deny you access to information purely due to financial blockers. As long as you have a means to connect to the Internet and sufficient reading comprehension, you can read this.
 
-Though I list this book under a CC-BY license, due to certain content I reference for topics here, I hope you don't try and make a profit off any material presented or referenced here. I won't be angry if you do; just disappointed.
+Though I list this book under a CC-BY license, due to certain content I reference for topics here, I hope you don't try and make a profit off this book.
 
-As for an ulterior motive? It's a good talking point at least and it fits on a resume if needed. I don't have to flaunt about the book like a marketing campaign, but whenever education comes up I'll at least know more than the average bear.
+As for an ulterior motive? It's a good talking point at least and it fits on a resume if needed. I don't have to flaunt about the book like a marketing campaign, but whenever education comes up I'll at least know more than the average bear. This book is also what some readers may consider a "dead-tree" book or a loss leader; a way to bring in people to then illicit other services later.
 
 You'll soon know more than the average bear too. 😃
 

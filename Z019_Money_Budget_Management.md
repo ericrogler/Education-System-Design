@@ -143,7 +143,9 @@ What if, instead, you didn't feel any consequences? Would you still retain your 
 
 Much like a successful person may be shaped by the environment they're raised in, a person lacking morality may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are shaped by the environments they're in and they can change *as people* when their environments change too.
 
-The lesson is you can do many things with enough time and resources. You can do countless other things when you're also free from consequences.
+The lesson is you can do many things with enough time and resources. You can do countless other things when you're also free from consequences. 
+
+That leaves another question: how much money is enough? For many people, it could be you can pay your bills every month, have several months in savings and emergency funds, and can comfortably cover any necessary expenses for living. For other people, no amount of money is ever enough and they will do what they can to acquire more, even at the detriment of other people. And perhaps, for some people, enough money is where they can finally enter retirement (i.e. stop working) safely and achieve financial independence. The answer depends on who you ask.
 
 ### **Wealth Dynamics (for Education)**
 

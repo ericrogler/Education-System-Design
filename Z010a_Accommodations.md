@@ -15,8 +15,8 @@ nav_order: 19
 
 ---
 
-The quotation above isn't here to show I'm against accommodations. It's warning against treating accommodations as generosity over obligation and misapplying accommodations when they aren't needed, or bad, in the first place.
-- If I were to put it another way, will this accommodation make it harder to succeed outside of education where that accommodation no longer exists?
+The quotation above is me warning you against treating accommodations as generosity over obligation and misapplying accommodations when they aren't needed, or bad, in the first place.
+- If I were to put it another way, will this accommodation make it harder to succeed outside of education systems where that accommodation no longer exists?
 
 Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections. Lawsuits can be scary, so getting close to getting close to one may cause panic and affect how accommodations may be handled.
 
@@ -31,11 +31,10 @@ The whole point of accommodations is to provide equal opportunity for students t
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
-    - Opinion: students should not be permitted in "tough" classes without proof of competency and/or recommendation in the first place!
-- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does in practice is try to help their efforts in learning.
+- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does is try to help their efforts in learning.
 
-**Lastly, and this is the ONE takeaway every reader should remember if nothing else: Accommodations in educational systems do not mean anything outside of them.**
-- i.e. they won't get any freedom from the "find out" stage of "F around and find out."
+**Lastly, and this is the ONE takeaway every reader should remember if nothing else: Accommodations (and safeguards) in educational systems do not mean anything outside of them.**
+- i.e. they won't be protected from the "find out" stage of "F around and find out."
 
 ## **Long Answer**
 

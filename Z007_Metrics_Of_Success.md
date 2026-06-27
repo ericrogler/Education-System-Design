@@ -48,7 +48,9 @@ This chapter help explains why that joke is now reality.
 
 One part of that reality is **almost all data and information you work with and see is affected by bias.** Metrics are largely made up by humans for humans. For example, I sincerely doubt your Shiba Inu dog is concerned by the unending march and concept of time humans often use for measurements.
 
-It comes from decisions on how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
+Many decisions for readers come from how information is displayed, gathered, and omitted to name only a few ways. That same data is also prone to variance and being unstable, noisy, and messy, even though people generally like clean narratives and presentations. At the same time, things can normalize on their own without any intervention.
+
+Lastly, if you see any educational statistic about how reading levels, literacy rates, and comprehension are dropping/decreasing/lowering/etc. for where you reside at... *you should probably be worried.* That affects just about *everyone* inside and outside of education systems.
 
 ### **Why Metrics of Success?**
 
@@ -64,19 +66,14 @@ It is possible to convert qualitative data into quantitative data through method
 
 Details of these techniques are beyond this guide, but awareness helps if you decide to pursue deeper analysis later.
 
-Measuring data may allow bias to creep in through various means like sampling choices and demographics. Interpretations and student factors may also introduce bias. Several examples of bias include, but are not limited to, the following (Rogers & Jonker, 2024):
+Measuring data may allow bias to creep in through various means like sampling choices and demographics. Interpretations and student factors may also introduce bias. A few examples of bias include, but are not limited to, the following (Rogers & Jonker, 2024):
 
 - Confirmation bias
-- Observer bias
 - Selection bias
-- Recall bias
-- Reporting bias
 - Sampling bias
 - Survivorship bias
-- Measurement bias
-- Social bias
 
-Measures are intended to be objective and not influenced by bias or prejudice. The problem is **some bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias will lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. Some ways to reduce bias include strict verifications, transparency, and representative sampling over selective subsets.
+Measures are intended to be objective and not influenced by bias or prejudice. The problem is **some level of bias is unavoidable, unconscious or otherwise, and varies across person to person.** Unchecked and unaccounted bias may lead to detrimental effects. In the worst case, you may face legal and ethical consequences for inaccurate decisions made using the data collected and metrics produced. Some ways to reduce bias include strict verifications, transparency, and representative sampling over selective subsets.
 
 You may see two terms associated with metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs track progress and direction toward specific goals while KPIs monitor performance and outcomes over time. KPIs are better for recurring tasks while OKRs are better for one-off tasks. OKRs often use qualitative data while KPIs often use quantitative data.
 
@@ -237,7 +234,7 @@ Sometimes there's not a standard available for what you need to measure. Maybe i
 
 This situation may show up in research cases and fields, such as user experience (UX). For example, UX has many standardized scales like SUS (System Usability Scale) and SUPR-Q (Standardized User Experience Percentile Rank Questionnaire) which you may convert ad hoc data into (Lewis & Sauro, 2026). While you can covert these scores, you shouldn't compare these types of scores against each other despite them being quantitative metrics, as they're heavily subjective measurements derived from qualitative data.
 
-When converting, you need to consider the aspects of the data too, such as if there's a positively (a tail to the right) or negatively (a tail to the left) skewed distribution. This information can affect the median and percentile scores, such as how a 50th percently on a scale of 1-100 may be 68 on a negatively skewed dataset instead of 50 on a normally distributed dataset. These also determine where you should determine cutoff points and where a particular score may be "good" or "bad." Despite whatever cutpoints you set, remember to document it down so its meaning does not drift and cause issues in the future.
+When converting, you need to consider the aspects of the data too, such as if there's a positively (a tail to the right) or negatively (a tail to the left) skewed distribution. This information can affect the median and percentile scores, such as how a 50th percently on a scale of 1-100 may be 68 on a negatively skewed dataset instead of 50 on a normally distributed dataset. These also determine where you should determine cutoff points and where a particular score may be "good" or "bad." Despite whatever cutoffs you set, remember to document it down so its meaning does not simply drift away and cause issues in the future.
 
 ### **Evaluating Education (with Examples)**
 
@@ -342,9 +339,11 @@ State tests and standardized tests in general are usually the subjects of these 
 - Education goes from genuine learning, understanding, and discovery to a factory churning out high test scores.
 - Accountability may be sacrificed if it means increasing the metric.
 
-If you eliminate tying standardized test scores to funding, for example, you can remove a major perverse incentive treating them like a target rather than the metric as diagnostic. The same could be said for softer comparisons too, such as "how well I score on these tests determines how much candy I get." Even if you remove any wealth incentives, you still risk neglecting certain subjects and content to laser focus on test performance.
+If an education system prioritizes higher enrollment numbers, perhaps because there's a direct financial incentive to bring in as many students as possible, that system may decrease the standards students need to meet in order to either enroll into a class or pass a class. As an example, changing standards to lower the barrier of entry could be decreasing the minimum test score, or perhaps no longer requiring passing a standardized test, to enter a specialized program or university.
 
-To maximize this metric, you may risk the well-being of both high-performing and low-performing students, which indicates failure in equitable education for all students.
+If you eliminate tying standardized test scores to funding, for example, you can remove a major perverse incentive treating them like a target rather than the metric as diagnostic. The same could be said for softer comparisons too, such as "how well I score on these tests determines how much candy I get." Even if you remove any wealth incentives, you still risk neglecting certain subjects and content to laser focus on test performance, up to weeks, if not months or years, of instructional time lost for educators to focus on instruction instead of evaluation.
+
+To maximize this metric, you may risk the well-being of both high-performing and low-performing students, which indicates a failure in equitable education for all students. If you were to aim for a happy medium, you would still need standardized tests to evaluate learning, but could increase the number of low-stakes tests and sharply decrease the number of high-stakes tests. Low-stakes tests require *significantly* less time dedicated for them and are easier to set up and distribute across a population, which means educators earn back time for instruction. Keeping high-stakes test, rather than eliminating them, makes it less likely to compromise the baseline students need to reach to successfully progress along their learning journey.
 
 You may also see more instances of cheating, higher pressures on students to do well, and educators altering test scores to showcase higher results than actually earned. Many of these actions have real incentives promoting more desperate behaviors, such as college admissions, scholarships, company and job placements, and more based on test scores and performance.
 

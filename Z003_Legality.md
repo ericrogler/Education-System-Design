@@ -282,7 +282,7 @@ Lastly, I'll cover one situation where a data leak did happen: Discord. This isn
 
 Age verification systems don't even need *students* involved. Though the articles make no mention of age, you could reasonably assume adults were affected by the information breach too alongside children. Add onto this integrating age checks (which means storing and handling personal identifiers) with these types of programs and you're looking at another hefty risk. Uploading information on the Internet (and other public forums, etc.) *period* opens up people to data theft, therefore this information requires protection.
 
-Despite all of this, storing and handling this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate and control. The better option is usually to *not* store that information instead, so you can avoid any issues that come with its storage.
+Despite all of this, storing and handling this information is a necessary evil and future liability in education systems, but a liability you can at least take some measures to mitigate and control. **The better option is usually to *not* store anyone's personal information instead, so you can avoid any issues that come with its storage.**
 
 ### **"Redshirting"**
 

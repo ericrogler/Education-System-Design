@@ -9,7 +9,7 @@ nav_order: 10
 
 ## **Short Answer**
 
-> "I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous. I can be a tool of torture or an instrument of inspiration, I can humiliate or humor, hurt or heal. In all situations, it is my response that decides whether a crisis is escalated or de-escalated, and a person is humanized or de-humanized. If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming."
+> "If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming."
 
 - Haim G. Ginott, *Teacher and Child: A Book for Parents and Teachers* (1972)
 
@@ -20,7 +20,7 @@ nav_order: 10
 
 **The more people you have to manage, the more likely something can go wrong.** Anything that can go wrong *will* go wrong.
 
-**In my experience, you can fix most (80-90%) classroom management issues with three actions:** 
+**In my experience, you can fix most (80-90%+) classroom management issues with three actions:** 
 1. Consistently (and actually) enforcing discipline and consequences for actions
 2. Allowing students to fail
 3. Limiting the size of classrooms/number of students instructors manage
@@ -50,9 +50,9 @@ Having a reason also does not equal having permission. Even if a student explain
 
 If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now. If you told a typical teacher/instructor in a physical school setting (K-12, in this case) they had 40 students (their version of "direct reports"), they'd probably ask "total or per class" like it's another Tuesday.
 
-What seems normal and reasonable everywhere else for management is not the case in an education system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person.
+What seems normal and reasonable everywhere else for management is not the case in an education system, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You cannot implement one solution and expect perfection; the environment and students will change, which means revisiting the drawing board each cycle. You may also have affinity with a particular type of student, or students, or just be "good" across all disciplines and student types; it varies a lot person-to-person. Perhaps more importantly, educators *will* encounter behavior issues in every education system with the students they manage. What matters is how you handle behaviors and if an education system permits you handling them appropriately.
 
-Across many of these policies, however, is the need for structure. Having no structure is writing a recipe for disaster. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals.
+Across many of these policies is the need for structure. Having no structure is writing a recipe for disaster, even within "good" education systems. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals. You also need structure to scale up systems to accommodate thousands, tens of thousands, hundreds of thousands, and even millions or billions of students at once.
 
 **"Strong classroom management" requires enforcing rules and consequences instead of elimiating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through.
 
@@ -208,7 +208,7 @@ Also, if you ever hear or use the phrase "If it's okay with your teacher" when i
 2. It makes a student think it's ok to disregard one class to catch up in another class.  
 3. It implies the other teacher's class is not important, which is a sign of disrespect towards other professionals, and devalues the subject(s) they're teaching as a career.
 
-You should verify directly, with the other teacher(s), if it's ok or not in advance for writing passes to visit other teachers during a class period. Do NOT assume it is ok by default.
+You should verify directly, with the other teacher(s), if it's ok or not in advance for writing passes for students to visit other teachers during a class period. Do NOT assume it is ok by default.
 
 ### **Are Suspensions Worth It?**
 
@@ -367,11 +367,9 @@ How to control this? Treat access here as if you're running a club or security f
 3. Do not let anyone else, other than authorized individuals (e.g. teachers, administrators, etc.) into the classroom.
 4. If an unauthorized student gets in, then issue a warning to the student. If said student does not leave despite the warning, then eject said student from the "restricted" area as soon as possible.
 
-### **Handling Disruptive Students in a Classroom**
+### **Handling Disruptive Students**
 
-Ideally, administration or security removes them from the classroom despite multiple warnings and violations of classroom policy and school/facility rules.
-
-Practically, you're trading off winning a battle for potentially losing the war. You may also be restricted by legal statute for how long you can punish a student for too.
+Normally, you should strive to educate *all* students that are a part of your cohort, classroom, etc. Sometimes *students* make that process difficult, if not outright impossible. Inclusive classrooms and equity mean nothing in practice if the students themselves undermine the efforts to establish those types of policies.
 
 Say a teacher sends a student to administration due to bad behavior. They can:
 - A: Be absent for the rest of the period.
@@ -380,8 +378,25 @@ Say a teacher sends a student to administration due to bad behavior. They can:
 
 A and B are more ideal situations, whereas C is a worse situation to be placed in.
 
+Ideally, de-escalation solves the problem of disruptive behaviors and no further action is required. You also have procedures in place, that you've trained among students early on, to actively discourage those behaviors from appearing in the first place. Additionally, the education system itself, outside of any specific classroom management policy an educator can actually control, permits punishment and removal of students actively destroying the educational experience for other students.
+
+Practically, you're trading off winning a battle for potentially losing the war. You may also be restricted by legal statute for how long, and what, you can punish a student for too. An administration or security may have the means to them from the classroom following multiple warnings and violations of classroom policy and school/facility rules. 
+
+Parents, if involved here, may also be affected if their own child was a student affected by another student's disruptive behavior and start their own interventions to pressure the education system. Their interventions may encourage action by threat of litigation and get *multiple* people actively invested in cutting out disruptive behavior outside of only the people, such as teachers and students, receiving the direct effects of disruptions.
+
 Essentially, if the environment doesn't enforce disciplinary actions for bad behaviors, expect bad behaviors to occur. This environment includes administration, parents, other professionals responsible for discipline, and related roles.
 - If systemic support doesn't work, any options for management moving forward are heavily limited.
+
+Disruptive students also put a monetary strain on education systems. A non-disruptive student may not need any additional supports outside of a teacher in a classrom, but a disruptive student may require significant more supports, and resources with a monetary cost attached to them, in forms such as, but not limited to:
+- Psychologists
+- Security
+- Resource Specialists
+- 1-on-1 Aides
+- Lawyers
+- Behavior Management Plans
+- Outside Placement Plans
+
+While an education system may claim to have the resources to handle disruptive students, they may also cut corners and do the bare minimum or, worse, keep said disruptive student in the classroom and allow them to deprive other students of their education. If resources and the means are not available to cutting out disruptive behaviors, and even removing the disruptive students themselves, you risk lowering the quality of education you can deliver to students.
 
 ### **What Should I Do for Low-Energy Days Without Sacrificing Class Time?**
 

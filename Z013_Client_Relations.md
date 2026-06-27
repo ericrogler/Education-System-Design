@@ -454,14 +454,14 @@ It'll take practice, but simply put: it's like having a conversation and you don
 
 ### **Professional Developments (PD)**
 
-I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here. **In general, PD is good if it isn't a waste of time.**
+I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here. **In general, PD is good if it isn't a waste of time.** In practice, PD is typically a waste of time. The main exceptions to this are any mandated trainings, such as mandated reporter, shooter responses, workplace harassment, etc., but they may be separated from PD in some systems. The other noteable exception is the "the organization must do this to not be liable and/or protect themselves legally" types of trainings personnel go through.
 
-In every professional development or administrative presentation, I want the person *to just get to the point.* There's no reason to infantilize *other adults;* students or minors aren't attending these events, so learning methods should cater towards adults and not minors/children.
+In every professional development or administrative presentation, I want the person *to just get to the point.* There's no reason to infantilize *other adults;* students or minors aren't attending these events, so learning methods should cater towards adults and not minors/children. That also means not treating the adults as if they are children. The last thing you need to do is make PD become PTSD (post-traumatic stress order) for the people you're "developing."
 - It's why every chapter has a "Short Answer" section at the top in this book. I try to get to the point for those who want it! It's useful and desired!
 
 Professional development are typically electives/continuing education for *professionals* across multiple fields (i.e. teachers, support staff, contractors, etc.) and seen inside and outside of education systems. Teachers/instructors usually need X number of "hours" or sufficient credits to maintain a certificate, license, etc. PD is based around andragogy, adult learning, rather than pedagogy teachers may be used to, so you may experience a disconnect while attending them. Nevertheless, if you do go to a PD, be respectful to presenters and other attendees as (usually) everyone there are professionals like yourself.
 
-On one hand, some of these are extremely valuable to teachers and instructors. They could be also be designed by people with actual classroom/teaching experience, so they understand the context reasonably well too. They also focus *on the content* and avoid unneccessary fluff.
+On one hand, some PDs and trainings are extremely valuable to teachers and instructors. They could be also be designed by people with actual classroom/teaching experience, so they understand the context (i.e. have the technical knowledge) of those environments reasonably well too. They also focus *on the content* and avoid unneccessary fluff.
 - Sadly, in practice, these types are the *exception.*
 
 On the other hand, the PD sessions (not necessarily the presenters) are typically the bane of my existence for a variety of reasons:

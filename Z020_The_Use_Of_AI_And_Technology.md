@@ -63,7 +63,7 @@ Now then, let's talk about technology.
 
 ### **A Technology Overview**
 
-Maybe referencing *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section.
+Maybe alluding to *Fahrenheit 451* by Ray Bradbury (1953) is the way to start this section.
  
 I want you to imagine what happens when people choose, of their own free will, to dumb themselves down and offload thinking, become ignorant, and desire a constant preoccupation of their minds. All of that without any censorship or declaration from a third party involved forcing their hands. Perhaps the point afterall was people should avoid constantly watching television.
 
@@ -222,19 +222,19 @@ All of this roundabout effort to do what clients want and not actually what they
 
 Getting AI to do something also isn't the same as you doing something yourself. It's like a client from earlier describing what they want to your business. The client that wants the design made (the person utilizing the AI, in this case) *isn't* the designer; the business (you) fulfilling the request is. Following that logic, a client cannot, in good faith, claim themselves as a designer in this case. Intent is not authorship.
 
-Most AI use cases, at least with what I'm familiar with, involve *doing some form of work for someone else* and should not to be confused with someone getting the work done. In education, for example, if a student actually understands the content we're teaching them, they should not *need* AI to explain, defend, or interpret the content for them. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
+Most AI use cases, at least with what I'm familiar with education, involve *doing some form of work for someone else* and should not to be confused with someone getting the work done. In education, for example, if a student actually understands the content we're teaching them, they should not *need* AI to make the decisions for them and explain, defend, or interpret the content for them. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Depriving them of that may result in critical thinking and other important skills suffering.
 
-AI usage also risks fueling a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand, that just happens to work, and claiming you know what RegEx is all about. If you combine a substitute of mastery with a society diminishing the value of intelligence, honesty, integrity, and personal responsibility, humanity's educational level and ability to accomplish tasks is likely, if not certainly, liable to diminish over time.
+AI usage also risks fueling a dangerous, false sense of competency, like using RegEx (Regular Expressions) you don't understand and claiming you know what RegEx is all about. If you combine a substitute of mastery with a society diminishing the value of intelligence, honesty, integrity, and personal responsibility, humanity's educational level and ability to accomplish tasks is likely, if not certainly, liable to diminish over time.
 
 Now then, I have some questions for my readers:
 
 - "When should you use AI?"
 - "When should you NOT use AI?"
 - "How do you know what AI generates is true and correct?"
-- "When can you use a simpler method instead of an advanced AI tool to solve your problem?"
+- "When can you use a simpler method instead of more advanced technology, like AI, to solve your problem?"
 - "At what point(s) will AI fail to solve your problem(s)?"
 
-**If you cannot confidently answer these questions, that's OK, but I will say you shouldn't incorporate AI yet. If you do have solid answers, that's good.**
+**If you cannot confidently answer these questions, that's OK, but I will say you shouldn't incorporate AI yet. If you do have solid answers, that's good.** Your answers may also differ depending on your situation.
 
 For non-technical readers, here's how I thought of AI in plainer terms: Artificial Intelligence (AI) takes data and information, tries to find patterns and relationships within it based on prior knowledge (i.e. what it's trained on), and generates results from its findings.
 
@@ -286,35 +286,9 @@ The lack of a one-size-fits-all, easy solution is intentional for many tasks. On
 - Level of *ongoing* maintenance and cost required
 - Processes not mapped out or mapped out ineffectively
 
-To go back to eggs yet again: essential complexity, in this case, is the system and interactions of finding, preparing, and serving the eggs for human consumption. Accidental complexity is a countless array of other steps one could take to reach that same conclusion, such as substitutions, alternative cooking methods, and more. That complexity builds significantly faster when you automate a "generalist" to do everything rather than a "specialist" to do only a limited set of items. In all cases, automation complexity increases as the number of systems and interactions behind tasks in general also increase.
+To go back to the eggs example: essential complexity, in this case, is the system and interactions of finding, preparing, and serving the eggs for human consumption. Accidental complexity is a countless array of other steps one could take to reach that same conclusion, such as substitutions, alternative cooking methods, and more. That complexity builds significantly faster when you automate a "generalist" to do everything rather than a "specialist" to do only a limited set of items. In all cases, automation complexity increases as the number of systems and interactions behind tasks in general also increase.
 
 The very nature of cooking has complexity built into it no matter which steps you take. If you're careless, the entity doing the request will work based on what it knows, guess what it doesn't know, and try to meet requirements based on what you describe whether the result is good or bad. It doesn't stop at just cooking either; this example can span across myriad fields and situations.
-
-### **AI in Education**
-
-Where AI applies to education and students specifically is not likely to change easily. As technology advances, you may have to use certain tools to maintain productivity or a work/life balance with ever-increasing demands from education systems. 
-
-A lot of things AI can do, like automation, scripts, or macros, may work on simpler automation methods to achieve similar results at far cheaper costs and lower error rates. That's one of many reasons you don't need to use AI. 
-
-Here are some examples I've seen myself regarding AI inside education systems:
-
-**Examples of "Allowed" AI Use**
-- Editing tone within emails and written communications.
-- Streamlining administrative, data entry, and clerical work that's extremely time consuming when done manually instead.
-- Converting worksheets, documents, etc. across file types.
-- Comparing submissions to pre-made answer keys for quick grading. Remember scantrons?
-- Students with disabilities explicitly allowed as part of an accommodation, such as text-to-speech.
-- Filling out templates, provided enough context is supplied first.
-- Providing a list of examples for education quickly, which are later verified by a human.
-
-**Examples of "Prohibited" AI Use**
-- Completing assignments for students.
-- Feeding AI confidential or classified information.
-- Using it as a substitute and/or replacement for critical thinking and problem-solving.
-- Cheating.
-- Making AI videos of teachers/students.
-
-As a stern reminder, anything listed under "Allowed AI Use" should require a human to verify its accuracy and ensure the intended outcome(s).
 
 ### **How effective is AI Really?**
 
@@ -322,28 +296,28 @@ I want you to imagine the dumbest person you've ever known being told what they 
 
 Remember how I said technology is dangerous? I'll leave your imagination to work on that example.
 
-If we leave skepticism at the door, then my opinion is AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and can hold sway over many users. It can do things fast, but also make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without AI and advanced technology. Excessive technical debt can be avoided by not over-engineering something that doesn't matter in the next 6-12 months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future, as one example.
+If we leave skepticism at the door, then my opinion is AI's current implementation is not terribly effective (yet), but it has a knack for exceeding expectations in weird ways and can hold significant control over the lives of many users. It can do things fast, but also make mistakes just as fast. Improper use of AI (and technology in general) may mean significantly higher costs compared to if you did a solution without AI and advanced technology. Excessive technical debt can be avoided by not over-engineering something that doesn't matter in the next 6-12 months or doesn't need to service 1+ million, or 1+ billion, users in the foreseeable future, as one example.
 
 Basically: **simple automation beats complex automation that's never used every time.**
 
 Whether or not AI itself is inherently good or bad is a different argument concerning ethics. This applies to anything, depending on how it's used and affects people, like food, medicine, guns, and software. While you shouldn't ignore ethical implications, it's extremely difficult to sufficiently cover here in this book in any short time.
 
 What it can do *really* well is pattern based work. Even then, it's still unintelligent and requires a significant amount of time and data training to reach competency. This encompasses many types of specifically trained repetitions of tasks like speech-to-text, image generation, moderation, and embedding.
-- E.g. It may know tomato is a fruit, but may not know not to put it in fruit salad.
+- E.g. It may know tomato is a fruit, but may not know not to put it in fruit salad if not trained properly.
 
-AI also cannot understand like a human can. Overdependence on AI by humans breeds normalized incompetence, which will be a rapidly growing problem alongside ever-growing costs as data complexity increases. It can generate answers like a human can, which means it can generate *incorrect* answers and slip up like a human can too.
+AI also cannot understand like a human can. Overdependence on AI by humans breeds normalized incompetence, which will be a rapidly growing problem alongside ever-growing costs as data complexity increases and the cost of resources AI needs increases. It can generate answers like a human can, which means it can generate *incorrect* answers and slip up like a human can too. Taking everything it says purely at face value without thinking it through is putting yourself on the highway to incompetence.
 - AI models often give *an* answer, even under uncertainty, rather than say they don't know. They don't know what they don't know, or the unknown unknowns.
 - Cleaning up messes is generally harder than preventing messes in the first place.
 
-Another problem I see with AI is when people want to automate large projects or work at larger scales. Remember that the more things you automate, the amount of resources required to create *and maintain* that automation exponentially increase as well. If you really need to automate something, with or without AI involved, then I'd say examine four things before attempting it:
+Another problem I see with AI is when people want to automate large projects or work at larger scales. Remember that the more things you try to automate, the amount of resources required to create *and maintain* that automation exponentially increase as well. If you really need to automate something, with or without AI involved at any scale, then I'd say examine four things before attempting it:
 1. Start small. Extremely small. Start with one tiny problem.
 2. Assume whatever solution you make *will* experience issues in the future and you need to maintain it for a long time.
 3. Your operating costs may drastically increase using AI vs not using AI.
 4. Automation doesn't *have* to utilize AI.
 
-AI is at least "better" for people with prior domain expertise as they can differentiate right and wrong from its outputs and boost their own productivity with it. AI, however, is detrimental to those with lower domain knowledge as it's more likely to create outputs those users cannot distinguish between good or bad. This aligns with views I've seen from other professionals in the technology sector and their perspectives, such as [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
+AI is at least "better" for people with prior domain expertise. They can differentiate right and wrong from its outputs and boost their own productivity with it. AI, however, is far more likely to be detrimental to those with lower domain knowledge as those users cannot easily distinguish between good or bad from its outputs. This aligns with views I've seen from other professionals in the technology sector and their perspectives, such as [Denis Stetskov on his post in September 25, 2025](https://techtrenches.substack.com/p/ai-wont-save-us-from-the-talent-crisis).
 
-Despite that viewpoint, people can get *addicted* to AI, what it provides, and its capabilities the same as other technology. It enables the average user to interact with data and models with plain languages like English rather than coding languages like Python and R. It can solve problems in seconds what used to take some people days or longer to achieve. It can create life-saving medicines and discover methods humans may not normally achieve in their lifetimes. Overall, it allows someone unable to do something before, or lacked the will to figure about it, the ability to now do it and skip a *lot* of steps in the process.
+People can get *addicted* to AI, what it provides, and its capabilities the same as other technology. It enables the average user to interact with data and models with plain languages like English rather than coding languages like Python and R. It can solve problems in seconds what used to take some people days or longer to achieve. It can create life-saving medicines and discover methods humans may not normally achieve in their lifetimes. Overall, it allows someone unable to do something before, or lacked the will to figure about it, the ability to now do it and skip a *lot* of steps in the process.
 
 All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it. It's no surprise to me sudden and easy access to it may cause attachment and fascination with it.
 
@@ -365,11 +339,13 @@ The question you should be asking here is not whether or not to use AI, but inst
 
 In general, cost and latency (i.e. time taken) scale with scope. The larger or more general the scope, the more it costs. Automation is pretty expensive, but AI in particular is *extremely* expensive. Using either to do everything (or at least a lot of things) is certainly prohibitively expensive. 
 
-Automation differs from AI because automation is programmed to operate on set rules and procedures whereas AI is programmed to make its own choices from the data it's provided. Though automation isn't AI, it still suffers from similar issues and you may see these issues crop up amongst different technologies now and in the future.  
+The other major cost with AI, and many other technologies, is the amount of capital expenses (i.e. initial investment) and operating expenses (e.g. labor and maintenance) required. For AI specificially, you may need to purchase servers, processing units, and real estate to host the equipment as well as recruit staff to maintain the systems, oversee policies around its deployment, and administer its usage.
 
-Therefore, if you ever implement automation, AI, LLMs, etc. they should be used only for operations where its benefit outruns any present and potential future cost. If not, you risk spiraling into a financial deficit by reckless use of technology.
+Automation differs from AI because automation is programmed to operate on set rules and procedures whereas AI is programmed to make its own choices from the data it's provided to solve the problems/tasks you assign it. Though automation isn't AI, it still suffers from similar issues and you may see these issues crop up amongst different technologies now and in the future.
 
-Even if costs aren't an issue, we still have a knowledge and *human* problem. Overusing technology to replace human skills results in atrophy of those skills. For example, overusing AI to make decisions for us robs us of the ability of critical thinking and how to make decisions for ourselves.
+If you ever implement automation, AI, LLMs, etc. they should be used only for operations where its benefit outruns any present and potential future cost. If not, you risk spiraling into a financial deficit through reckless use of technology and needlessly affect the lives of people as well.
+
+Even if costs aren't an issue, we still have a knowledge and *human* problem to address. Overusing technology to replace human skills results in atrophy of those skills. For example, overusing AI to make decisions for us robs us of the ability of critical thinking and how to make decisions for ourselves.
 
 Drilling down further, the most straightforward cost is the sheer quantity of data required to train AI (i.e. to become "artificial intelligence") and how much time and resources it takes to create that data for training. It's millions, if not billions or even trillions, of data files, documents, text, images, videos, and more inputted into models for training. The "sufficient" amount needed for AI increases when there's more tasks you want AI to do and decreases with fewer tasks. As you add more data for AI to process, it also takes more time to process. This can mean months, if not *years,* of time required to train one model to sufficient standards.
 
@@ -390,8 +366,34 @@ There could be other situations, but those three above seem the most likely. Nev
 
 I'll emphasize this section only talks about cost and complexity in automation. It doesn't cover whether risk increases with complexity, the breakeven points of complexity with task automation vs manual tasking, the Pareto efficiency of adding more automation features, and many more applications. Underlying costs are important as it may be overshadowed by all the benefits AI could provide.
 
-You could also design your own AI instead of utilizing another AI service another provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay higher costs when using it, but you may lack the sheer processing power and quality of life a dedicated provider can afford with more resources and technology backing their models.
+You could also design your own AI instead of utilizing another AI service a third party provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay higher costs when using it, but you may lack the sheer processing power and quality of life a dedicated provider can afford with more resources and technology backing their models.
 - People may not even care if you can make a copy of a service for cheaper too, because it's not *that brand's product.* Name-brand recognition is very powerful.
+
+### **AI in Education**
+
+Where AI applies to education and students specifically is not likely to change easily. As technology advances, you may have to use certain tools to maintain productivity or a work/life balance with ever-increasing demands from education systems. 
+
+Automation, scripts, or macros may achieve similar results at far cheaper costs and lower error rates compared to any AI solution. That's one of many reasons you don't need to use AI and may need better processes instead of new technology.
+
+Here are some examples I've seen myself in practice regarding AI inside education systems:
+
+**Examples of "Allowed" AI Use**
+- Editing tone within emails and written communications.
+- Streamlining administrative, data entry, and clerical work that's extremely time consuming when done manually instead.
+- Converting worksheets, documents, etc. across file types.
+- Comparing submissions to pre-made answer keys for quick grading. Remember scantrons?
+- Students with disabilities explicitly allowed as part of an accommodation, such as text-to-speech.
+- Filling out templates, provided enough context is supplied first.
+- Providing a list of examples for education quickly, which are later verified by a human.
+
+**Examples of "Prohibited" AI Use**
+- Completing assignments for students.
+- Feeding AI confidential or classified information.
+- Using it as a substitute and/or replacement for critical thinking and problem-solving.
+- Cheating.
+- Making AI videos of teachers/students.
+
+As a stern reminder, anything listed under "Allowed AI Use" should require a human to verify its accuracy and ensure the intended outcome(s). You may get reprimanded for producing bad outputs even if AI is used to help you. Technology, including AI, should be viewed primarily as a way to speed up doing things you already know how to do here.
 
 ### **Potential Solution(s) to AI in Education**
 

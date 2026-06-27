@@ -74,7 +74,7 @@ You may come across other sets of standards (not to be confused with curricula!)
 
 **Let me emphasize four critical points:**
 
-- States and districts, in the United States, "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
+- States and districts, in the United States, may "require" teachers to cover the appropriate standards. Even if everything is done correctly, you may need to shorten or summarize certain standards to stay on schedule. That's not always a failure on your part, but a reality of teaching and managing high numbers of students.
 - A good set of standards can still make a poor curriculum.
 - The same set of standards and how they're implemented can vary widely from system to system, school to school, district to district, and state to state.
 - Sometimes standards are not solely based on what is best for learning, but as a response to the cultural and political environments they're developed in.
@@ -107,33 +107,27 @@ The process stays *mostly* consistent outside education systems too, but may dif
 
 ### **What About Standardized Tests?**
 
-*They're a necessary evil.*
+*They're a necessary evil,* but they're also "the devil you know" which you can work with toward a shared goal. They're not useless, but they should be limited.
 
 This is especially true on standardized tests hosted by third parties or enforced within your own education system. A test like this loses its importance if students can differentiate, opt out of it, and have no stakes if they fail.
 - Yes, not having any stakes counts as cutting corners.
 
 To give an example that applies, but isn't related to education for neutral context: Medical checkups.
 
-Imagine you go to the doctor's office for a checkup, and they need to prescribe you a blood test. There might not be anything *wrong* with you, but they're making sure and ruling out possibilities. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medical professionals generally know what the values on these metrics mean and how they're measured. They *could* be subjective on how they interpret results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified baseline they can reference and confirm results from.
+Imagine you go to the doctor's office for a physical checkup, and they decide to prescribe you a blood test. There might not be anything *wrong* with you, but there may be something they saw and they're making sure to rule out possibilities and uncover hidden issues. After you take the blood test, you'll get results and may see items like Albumin, Hemoglobin, MCV, and more (Cleveland Clinic, 2022). Medical professionals generally know what the values on these metrics mean and how they're measured. They *could* be subjective on how they interpret and evaluate blood work results, which may cause a Type I or II error (i.e. a false positive or false negative) if severe enough, but there's a known, verified baseline they can reference from and double check any results.
 
 Scores and metrics are a thing in about every field, major, study, or area of expertise; a baseline level to determine good vs bad, big vs small, etc. If that isn't there, or cannot be agreed upon, you get multiple competing standards and increase confusion on which standard(s) actually are valuable.
 - Or you might see there's 6 different standards, want to make your own, and now people have 7 different standards competing against each other.
 
-Put another way, you need a consistent way *people can agree on* to measure things. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). 
-- E.g. standardized test scores considered alongside school context for university admissions.
+Put another way, you need a consistent way *people can agree on* to measure competency. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
 
-The ideal system would prioritize evaluating many different traits from someone, but that may not be feasible due to the testing organization's own bias, resources, or political/social pressures. It may also not be prioritized simply because society, as a whole, doesn't value a particular skill or trait, so sees no need to evaluate based on it.
+The ideal system would prioritize evaluating many different traits from someone, but that may not be feasible due to the testing organization's own bias, resources and time available, or political/social pressures. It may also not be prioritized simply because society, as a whole, doesn't value a particular skillset or traits, so sees no need to evaluate based on them.
 
-Some people may be against them because it's a potential case of evaluating a fish on how well it climbs a tree like a monkey.
-- Alternatively, a difference in geographic and socioeconomic backgrounds may negatively affect experience preparing for a test.
+Some people may be against standardized tests because it's a potential case of evaluating a fish on how well it climbs a tree like a monkey. Other people may negate those same detractors by stating the student *is* the monkey and we have to see how well they can climb a tree because that's what they need to do to survive.
 
-Other people may negate those same detractors by stating the student *is* the monkey and we have to see how well they can climb a tree because that's what they need to do to survive.
+Standardized tests counter multiple issues with adhering to metrics (more on metrics in later chapters). For example, they can highlight discrepancies and issues such as a student getting padded scores/grades at their local school, but failing horribly on the standard test at the state/national level. It could also establish probable cause and prompt investigation into teachers, schools, etc. to ensure the curriculum students were supposed to get is what they're actually getting. In this case, a high-stakes standardized test as part of an admission process into a specialized program or university may be acceptable because it intentionally sets a strict baseline to reduce the likelihood incoming students won't have knowledge gaps, suffer problems, fall behind, fail, and waste their time, effort, and money.
 
-Additionally, standardized tests counters multiple issues with adhering to metrics (more on metrics in later chapters). For example, it would highlight discrepancies and issues such as a student getting padded scores at their local school, but failing horribly on the standard test at the state/national level. It could also bring an investigating into teachers, schools, etc. to ensure the curriculum students were supposed to get is what they're actually getting.
-
-You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
-
-Though standardized tests may force curricula to be more 'rigid', I also find they're less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
+At the same time, it is also possible to have *too* many standardized tests where the only thing educators can do is teach the "test" rather than teach the content. At the classroom level, educators need to focus on *instruction* over evaluation. You can still do standardized tests to check progression, but they need to be either low-stakes and frequently occurring (about once a year) or high-stakes and less frequent (once every two to three years). **Over-testing risks eliminating assessments that support learning and take away weeks, if not months or years, of instruction and supports students actually need to succeed.**
 
 ### **Grades & Grading System**
 
