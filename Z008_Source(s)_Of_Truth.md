@@ -14,6 +14,7 @@ nav_order: 16
 - Soho Takuan to Musashi Miyamoto, *Vagabond* (2003; Japanese to English Translation)
 
 > "Absence of evidence is not evidence of absence"
+
 - Mr. Dugald Bell (Sheppard, 1895, p. 132)
 
 ---
