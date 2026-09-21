@@ -5,7 +5,7 @@ nav_order: 13
 ---
 # Metrics Of Success
 
-### [Previous Chapter](Z006_Roadblocks_To_Teaching.html)
+### [Previous Chapter](Z005_Standards_Objectives.html)
 
 ## **Short Answer**
 > "When a measure becomes a target, it ceases to be a good measure."
@@ -291,7 +291,7 @@ In the United States, as of March 2026, there's multiple ways to evaluate learni
 TIMSS is an ongoing assessment handling mathematics and science. I'll reference the 2023 report made by von Davier et al (2024) for details. It's conducted every 4 years with some variation, evaluates 4th and 8th grade students, and is intentionally designed as a benchmark to compare results against other nations and discover ways to improve education. Specific topics include items like Measurement and Geometry, Data and Probability, Life Science, Physics, and other sciences typical of curriculms for those age groups at the time. The criteria for evaluation is straightforward; a point system where students earn more points based on their accuracy and precision across series of questions. This point system neatly compiles all scores, can be filtered down by specific questions or question types, and opens up further analysis into student learning outcomes.
 - There's also evaluations based on the environment, such as home environments vs school environments, to provide context and better interpret reasons for any results.
 
-PISA focuses on mathematics, reading, and science to test student's subject understanding "in and out of schools for their full participation in societies" (OECD, n.d.). Though PISA focuses on those subjects, they alternate which subject has the greatest focus on a given survey year and include minor topics, such as financial literacy and creative thinking. In most participating countries, its assessments and testing is done by student *age* (15-year-old students) as it's when they're nearing the end of compulsory education. Unique aspects compared to other assessments PISA achieves is similar to how data analysts approach data: finding ways to answer "business" questions. To summarize some examples what it aims to answer from OECD's own website (same OECD source as before, n.d.):
+PISA focuses on mathematics, reading, and science to test student's subject understanding "in and out of schools for their full participation in societies" (OECD, n.d.). Though PISA focuses on those subjects, they alternate which subject has the greatest focus on a given survey year and include minor topics, such as financial literacy and creative thinking. In most participating countries, its assessments and testing is done by student *age* (15-year-old students) as it's when they're nearing the end of compulsory education. Unique aspects compared to other assessments PISA achieves is similar to how data analysts approach data: finding ways to answer "business" questions through actionable insights. To summarize some examples what it aims to answer from OECD's own website (same OECD source as before, n.d.):
 - Are schools preparing young people for adult life?
 - Can students properly apply skills and knowledges to problems?
 - What are their motivations and beliefs for learning and self-improvement?
@@ -309,9 +309,9 @@ There's other forms of testing conducted by organizations aside from these. The 
 
 ### **Vitality Curve**
 
-As the author writing this book, I should declare bias explicitly here as I'll outright call this a bad practice. I wouldn't be the first (for example, see *Rank And Fire* by Greenwald (2001)) to criticize it nor expect to be the last to do so. Let's explore why together.
+As the author writing this book, I should declare bias explicitly here as I'll outright call this a bad practice. I wouldn't be the first either (for example, see *Rank And Fire* by Greenwald (2001)) to criticize it nor expect to be the last to do so. Let's explore why together.
 
-This has numerous other names it could be called, such as stack ranking, forced ranking, rank and yank, 20-70-10, five-point system, performance review, calibration, peer review, competition-and-elimination, and so on. There's many names in use in an attempt to mitigate a negative connotation and perception of this practice, even if an system were to utilize it anyways.
+This has numerous other names, such as stack ranking, forced ranking, rank and yank, 20-70-10, five-point system, performance review, calibration, peer review, competition-and-elimination, and so on. There's many names in use in an attempt to mitigate a negative connotation and perception of this practice, even if an system were to utilize it anyways.
 
 The practice is attributed to Jack Welch, a CEO (chief executive officer) of General Electric, in the 1980s. An evaluator, typically a manager, director, executive, or role with some authority, places employees into X number of groups. If we were to do three groups:
 - Group 1: top performance
@@ -332,7 +332,7 @@ In my opinion, this is a "joke" metric to use for success. The same applies for 
 
 100% graduation rate means you're telling me *every* student in the history of the school (or specific year, class, etc.) got passing grades on every subject they went through.
 
-If you see a high value on this metric, be skeptical. Be extra skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it. It's not impossible to achieve 100% on a metric like this, but it is certainly improbable.
+If you see a high value on this metric, the safe approach is to be skeptical. Be extra skeptical if it comes from a school with a large pipeline of students (i.e. a large sample/population size) going through it. It's not impossible to achieve 100% on a metric like this, but it is certainly improbable.
 - I'd also be at least a little skeptical of >= 95% as well, but that's my personal opinion.
 - You'd also want to reference standardized scores the school achieves for testing it cannot easily manipulate, like SAT and ACT scores.
 - One example of verifying skepticism is discovering a school has high graduation rates, but students currently there have low proficiency rates or there's a low number of students at grade level for particular subjects.

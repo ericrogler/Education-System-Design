@@ -18,22 +18,30 @@ nav_order: 31
 
 There's a lot of things to consider when designing educational systems.
 
-Many things have solutions you can find in the fields engineering and architecture. You may deal with physical buildings with physical humans, but also see concepts from these fields useful to improving processes inside these systems.
+Many problems have solutions found in the fields of engineering and architecture. Concepts from these fields are useful to improving processes inside education systems.
 
-As a more "personal" note, or if you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. That means you cannot shirk off any of the creativity, critical thinking, problem solving, and ingenuity required to succeed.
+As a more "personal" note, or if you happen to be a student reading this right now. If you want to be an engineer, architect, or technical professional (including an educator), expect to go above and beyond learning only what is taught in a classroom, video lecture, etc. and *genuinely* invest into your own education. That means you cannot shirk off any of the creativity, critical thinking, problem solving, and ingenuity required to succeed in this profession.
+
+Lastly, **engineering and architecture are deceptively simple fields. If you're not careful, you *will* be humbled and flipped over faster than pancakes on a griddle.** At the same time, some areas like rocket science do look hard and really are harder than they look.
+- If you're a student reading this, I suppose this is a formal warning, but you'll have to get in the water first to see if you can swim comfortably in it.
 
 ## **Long Answer**
 
 Remember: It's not stupid if it works. 
 
-Even if it is stupid.
+*Even if it is stupid.* 
 
-Also remember that the whole point of engineering is solving problems, not forcing every user to become the next best engineer since sliced bread. Keep it simple.
+95% of the role of an engineer could be learned about and done successfully by a non-engineer. The remaining 5% is why engineers exist: the expertise to know how to *correctly* solve problems. That's why they're important and why their skills extend beyond their own fields. The same could be said for architects too.
+
+For example, you could have pipe issues you don't know how to fix, call an plumber in, watch them perform a few simple fixes, wonder why you couldn't do that yourself, and then find yourself with a hefty bill later. That remaining 5%, or them *knowing* how to solve that problem and fix all the clean-up and plumbing issues you couldn't, is what's important.
+
+All of that is to say the main point of engineering is solving problems, not forcing every user to become the next best engineer since sliced bread.
 
 This chapter is going to have many technical terms. That's intentional. This is the chance for me to talk about a lot of engineering and architecture concepts I have education and experience with. Think of this chapter as various topics to reference to better design education systems. You may see some overlap and "repetition" of concepts here compared to other chapters as well.
-- Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is exceedingly versatile, specializes in complex systems and logistics, and many of its concepts could apply to nearly any industry to at least moderate effect.
 
-**I'm not saying anything here in this chapter, and book, as professional engineering or architectural advice**, even if I do have an engineering degree as some sort of veracity on what I talk about. That requires someone with a legally protected title, like "Engineer" or "Architect," and perhaps a "stamp" too depending on jurisdiction.
+Expect me to highlight Industrial Engineering concepts in particular because that subset of engineering is versatility personified, specializes in complex systems and logistics, and many of its concepts could apply to nearly any industry to at least moderate effect. IE includes relevant topics seen here and beyond, such as throughput, queue times, buffers, bottlenecks, resource allocation, and more.
+
+**I'm not saying anything here in this chapter, and book, as professional engineering or architectural advice**, even if I do have an engineering degree as some sort of veracity on what I talk about. That requires someone with a legally protected title, like "Engineer" or "Architect," and perhaps a "stamp" too depending on jurisdiction. Getting an engineering *degree* is not the same as becoming an engineer.
 - I say this even when considering any "industrial exemption" laws that shall permit it anyways, such as people who are "Software Engineers" or "Data Architects."
 
 The good news is you can do a lot with these disciplines and apply their concepts to many other fields. Engineering and architecture are not strictly limited to only engineering and architecture. For example, Donald "Don" Norman, who has an electrical engineering degree, created many design concepts for user experience and human-centered design still in use today, as of 2026, across various texts and books like *The Design of Everyday Things* (1988/2013). 
@@ -111,8 +119,8 @@ WITH evaluation AS (
     SELECT candidate_id,
         MAX(title) AS title,
         MAX(years_experience) AS years_experience,
-        MAX(location) AS location,
-        MAX(CASE WHEN title LIKE '%Senior Data Specialist%' THEN 10 ELSE 0 END)
+        MAX(location) AS location, --For "local" candidates
+        MAX(CASE WHEN title ILIKE '%Senior Data Specialist%' THEN 10 ELSE 0 END)
         + MAX(CASE WHEN years_experience >= 5 THEN 10 ELSE 0 END)
         + MAX(CASE WHEN location = 'United States' THEN 5 ELSE 0 END)
         AS score,
@@ -135,7 +143,7 @@ There are also times where you'll need to manually check through everything as w
 
 As an aside, adding a score here may initially seem unnecessary. I kept a score here in case I wanted to scale up or down the number of criteria or ease up on how *strict* I wanted my search to be. For example, maybe I still want all of these skills, but I'll consider people with lower experience so my score threshold is lowered to not filter them out automatically.
 
-The lesson is simple: **Learn and understand how search engines work, at least on a basic level. Search engines can both work for you and against you.** These systems may be stupider than you think, but can greatly alter how things operate. 
+The lesson is simple: **Learn and understand how search engines (and by extension some databases) work, at least on a basic level. Search engines can both work for you and against you.** These systems may be stupider than you think, but can greatly alter what could be affected inside of education, workplaces, and more.
 
 ### **Rubberducking**
 
@@ -151,7 +159,7 @@ Try it at least once. That's all I ask.
 
 ### **Tolerances**
 
-*Alternatively: Standardization is GOOD*
+*Alternatively: Standardization is Good*
 
 The concept of tolerances applies in about every industry, but how it does may not be immediately obvious. Sometimes your necessary tolerance can be anywhere from "hit with a hammer until it fits" to "if we're even a Planck off, we're in trouble."
 
@@ -255,6 +263,8 @@ There's plenty more to write about, but I'd rather not make too large a list her
 Much like mental math, you want to memorize information that quickly enables decision making and gets through frequently occurring work and problems you encounter. For harder problems to solve, or where you'll reference specific formulae, rules, etc. it is expected you'll look up what you need from time to time.
 
 ### **Graphics, Plans, and Schematics**
+
+*Alternatively: GD&T (Geometric dimensioning and tolerancing)*
 
 Shall I tell a story first?
 

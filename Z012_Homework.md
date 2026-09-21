@@ -49,12 +49,12 @@ Ideally, you create problems that are not easily solved, or don't know how to so
 
 Before making a decision on issuing more homework, there are two other important notes I'll cover.
 
-**Note 1: Some practice is needed for learning, which may require homework or classwork.**
+**Remember: some practice is needed for learning, which may require homework or classwork.**
 - To reference Brown, Roediger, and McDaniel (2014).
 
 Say I'm teaching electrical circuits. This may include topics like Ohm's Law (V = IR) and the Power Formula (P = IV). The theory is taught, equations are demonstrated, and understanding is checked for.
 
-At this point, a problem occurs: some students lack algebra skills to manipulate multivariable equations. There's no need to reteach the entirety of algebra then and there, but they still need guidance on how to properly manipulate and apply these equations in different scenarios.
+Some students may lack algebra skills to manipulate multivariable equations. There's no need to reteach the entirety of algebra then and there, but they still need guidance on how to properly manipulate and apply these equations in different scenarios.
 
 This combines two fields, math and science, into one: applied algebra remediation so students succeed on the current topic(s). I could do this with classwork and practice right then and there, but I may have to assign it as homework so I don't get too far behind and risk not staying on track with my curriculum and standards.
 
@@ -72,6 +72,14 @@ There were also "open book" tests. I reserved those tests for subjects and conce
 
 Overall, though, don't give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
+### **What about Technology?**
+
+Recent advances in automation and technology make "traditional" homework assignments obsolate, at least for work at undergraduate and lower levels. This is true as of this book's writing, at least according to the *Report of MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training* (2026).
+
+It's a cat-and-mouse game essentially. As new technologies emerge, methods to safeguard against technology's overreach when it comes to homework and practice may evolve alongside it. There are times policies are ahead and times technology is ahead in this aspect.
+
+Concerns should arise, however, when there's *rapid* changes in the learning environment. Education systems, due to their complexity and the relationships amongst professionals and methodologies employed within, are often slow to adapt to ever-evolving technologies. This is especially true when technology is utilized where no one understands how it works, therefore they cannot regulate, maintain, and/or deploy it as intended.
+
 ## **Bibliography**
 
 1. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
@@ -79,5 +87,7 @@ Overall, though, don't give out homework unless necessary. Try your best, as a t
 1. Guo, L., Li, J., Xu, Z., Hu, X., Liu, C., Xing, X., Li, X., White, H., & Yang, K. (2024). *The relationship between homework time and academic performance among K‐12: A systematic review.* Campbell Systematic Reviews, 20(3). [https://doi.org/10.1002/cl2.1431](https://doi.org/10.1002/cl2.1431)
 
 1. Hein, P. (1969). *Grooks 1 (Grooks, #1).* Doubleday & Company.
+
+1. MIT’s Ad Hoc Committee. (2026, August 13). *MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training.* Mit.Edu. [https://aiandeducation.mit.edu/report/](https://aiandeducation.mit.edu/report/)
 
 ## **[Next Chapter](Z013_Client_Relations.html)**

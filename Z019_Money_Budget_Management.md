@@ -19,7 +19,9 @@ There are three things you should take away from this chapter, if nothing else:
 2. **Money affords mistakes.**
 3. **It's easy to want, or do, something when you're not the one paying the bills for it.**
 
-If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam. Remember, the goal of a business (and financial operations) is *making* money, not saving money.
+The more resources you have available, the less you need to commit each resource to doing something. As an example, 1 volunteer may need to do all the work for a project, but 10 volunteers can split up all that work and decrease each individual's workload.
+
+If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives and biases, or even reveal it's a scam. Remember, the goal of a business (and financial operations) is *making* money, not saving money. A company with interests in a path, or future, benefitting them will make efforts to see that through.
 - Alternatively, think about how you might sell shovels when people say there's a gold rush.
 
 If you're deciding between two or more options to spend money on, the following factors should be examined for tie-breakers:
@@ -44,9 +46,9 @@ If you're trying to teach a student about wealth, consider going over the follow
 
 ## **Long Answer**
 
-*Notice: There is no financial or legal advice offered to the reader in this chapter. Assume everything here is informational and educational in nature only.*
+*Notice: There is no financial or legal advice offered to the reader in this chapter, outside of any examples to explain the content. Assume everything here is informational and educational in nature only.*
 
-Moving forward on wealth, you may discover many questions have a simple answer or at least one commonality behind their answer: wealth/money. Uncontrolled lifestyle creep, or spending more money as you make more money, is one such way to quickly eliminate any savings, investments, and wealth for the future by spending it away in the present.
+Moving forward on wealth, you may discover many questions have a simple answer or at least one commonality behind their answer: wealth/money. Uncontrolled lifestyle creep, or spending more money as you make more money, is one such way to quickly eliminate any savings, investments, and wealth for the future by spending it away in the present. If people aren't doing something, such as eating away from home, there's a chance they're "priced out" or find it too expensive to partake in.
 
 You may also be considered foolish, or dumb, to not take advantage of the resources available to you. This includes accepting help and whatever doors that help opens for you. It doesn't devalue you as a person to take advantage of them, so long as you acknowledge honestly you *did* take advantage of said resources, use whatever you receive for good in return (i.e. contributing back to society), and don't be an asshole about it. The problems come when someone is selfish, antagonistic, and/or pretends they did everything on their own and completely disregards the people and supports helping them along the way. If you want the benefits, you still have to accept any responsibility attached to those benefits. I cannot blame someone for circumstances of their birth and upbringing, but I can blame them for the actions they take.
 
@@ -158,11 +160,11 @@ If we take this same loop and apply it to education systems, there are some simi
 
 Before continuing, I want to talk about consequences. Not just for students or only people involved in education systems. For everyone. 
 
-What happens when you make a bad decision? You'd normally feel the consequences of it, right? 
+One of the quickest ways to change someone's moral and ethical standing is with sufficient "rewards" (i.e. wealth) against whatever risk is imposed upon them. What happens when you make a bad decision? You'd normally face the consequences of it, right? 
 
-What if, instead, you didn't feel any consequences? Would you still retain your senses of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? Would the constraints of a "normal life" even apply to you? And, out of my own curiosity, what would you do with all the newfound opportunities now open to you?
+What if, instead, you didn't face any consequences? Would you still retain your sense of responsibility, morality, and empathy? Would you simply want to feast without knowing how the food was made? Would the constraints of a "normal life" even apply to you going forward? And, out of my own curiosity, what would you do with all the newfound opportunities?
 
-Much like how a successful person may be shaped by the environment they're raised in, a person lacking morality and empathy may be created through the environment they're raised in. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are shaped by the environments they're in and they can change *as people* when their environments change too.
+Much like how a successful person may be shaped by the environment they're raised in, a person lacking morality and empathy may be created through the environment they're raised in. Extreme wealth is also an efficient consequence remover. Someone could also inherit or come into an environment as well, such as a person of low-wealth entering into the lives of people with extreme-wealth, and then later be shaped by it. The same could be said for the inverse situation, going from extreme-wealth to low-wealth, as a violent recalibration for one's values when resources are stripped away. People are shaped by the environments they're in and they can change *as people* when their environments change too.
 
 The lesson is two parts: 
 1. You can do many things with enough time and resources. 

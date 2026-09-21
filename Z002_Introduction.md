@@ -11,41 +11,57 @@ nav_order: 4
 
 I want to get a new teacher, instructor, presenter, educator etc. from 0-100 as fast as possible, without giving them any additional materials to copy and paste. Maybe I want to let someone who's interested in education, but hasn't start a career in it, also peer behind the curtains.
 
+I originally wrote this book to describe education, learning, communication, and the nuances in how an education system may function. Many references and a year later, it's closer to a management book with a focus on education. Funny how that works.
 
+**The very first thing people looking into education should know? Education is 90% *not* teaching and 10% teaching. This book explores aspects of the 90% *and* the 10%.**
 
-**The very first thing people looking into education should know? Education is 90% *not* teaching and 10% teaching. This book explores that 90% *and* the 10%.**
-
-The second thing, or *things*, you should know going in:
+The second thing, or *things* rather, you should know going in:
 - It's going to take you a long time to become an expert and you still need to learn the basics.
 - Will this book go against some conventional wisdom on education and teaching? Yes. 
 - Will this book support certain existing, tried-and-true, education methodology? Also yes.
-- Might this book be considered controversial to some readers? Very much so.
-- Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader.
+- Might this book be considered controversial to some readers? Very much so. It's written during a time period where inclusion was prioritized highly, to both positive and negative effect, and after a large-scale, world-wide pandemic affected how technology and education is handled.
+- Will this book often state the obvious that still need to be stated anyways? Quite so. What may be obvious to one reader may not be to another reader. You'll have to bear with me there.
 - Do you need to agree with *everything* presented here? No, and you don't have to either. Your situation may even *demand* you to not follow something presented here.
 
 Will some of this book not be perfect or 100% correct? Yes. This won't solve all your problems and you'd be bold for assuming I know *all* the solutions and edge cases involved. Improving education is an iterative process, afterall, even if that process loops back in "old" solutions to "new" problems. If I were to give a generous estimate about how many of these problems this book could solve? At least 99% of them. That remaining 1% is still a countless number of problems though!
 
 **Overall, think of this book as the Blåhaj ([ˈblôːhaj] or "bloh-hi") to your IKEA.** It's the companion covering the essentials, the marketing material to advertise the store, and what you can bring along with you as you explore the store (i.e. everything else related to education and education systems). From here, if you need to learn more about, or expand on, a topic, you'll have a better idea *which* topic(s) to further learn about insteading of floundering about. You'll also gain more domain knowledge in education as a bonus.
 - Granted, I'm also going to cater what products and services I provide, i.e. information and opinions on topics presented to you.
-    - At the very least, I'll be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have.
-    - It also means you should still read the contents of this book with a grain of salt, even with any good advice presented within. Your current situation may require modifications of what's suggested here and context will inform what you *should* do over many other factors.
+
+At the very least, I'll be the person that will speak to you frankly, filter through things, and attempt an honest assessment, which many powerful creatives should have. It also means you should still read the contents of this book with a grain of salt, even with any good advice presented within. Your current situation may require modifications of what's suggested here and context will inform what you *should* do over many other factors.
 
 An educator exists in many different forms and they come from many backgrounds to cover a vast array of topics. A data engineer may create a guide discussing ETL (Extract, Transform, and Load). A designer may touch upon Gestalt Principles and accessibility. An architect may explain why they use a 2x6 wall instead of a 2x4 wall on bathroom walls where the shower line is installed (hint: it's easy for plumbing and weather-proofing).
 
-While everyone can teach, people should be trained, or at least spend time figuring out, on how to educate students or else you'll get a blind leading the blind situation. The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
+People should be trained, or at least spend time figuring out, on how to educate students or else you'll get a blind leading the blind situation. Many people can teach, sure, but not necessarily be a good *teacher.* The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
+
+### **What's This Book's Value?**
+
+Great question. Let's start by saving millions of dollars (in 2026 years value), as I suppose that's a fair value trade for what you've may exchanged for this book, across many education systems.
+
+The first solution is easy, but requires the administrative layer to enforce it: replace most of your PD (professional development) days with more protected work time for educators to collaborate, grade, plan, and work on their own research/curricula. Most learning for educators occurs *in practice*, not inside of a lecture hall or even this book. The primary exception is training on laws and legal changes educators must follow.
+
+That's it. That alone potentially saves millions of dollars and cuts down the "cost" on part of more than 2 *billion* dollars per year in 2022-2024 from Title II-A grants spent towards K-12 teacher professional development amongst other expenses (GAO, 2026).
+
+Within, and beyond, secondary and primary education, there's three other solutions:
+1. Consistently (and actually) enforcing discipline and consequences for actions
+2. Allowing students to fail and letting them experience the consequences of failure
+3. Limiting classroom size/number of students instructors manage
+
+To go beyond that requires reading the rest of this book. You didn't think I'd tell you all the answers *that* quickly, did I?
 
 ### **What's The Goal Of This Book?**
 
 1. To increase the probability of success for professionals navigating a new or existing education system.
 2. To explain some of the nuances and practicalities present in education systems.
 3. To help others design their own education systems by drawing upon education and other professional disciplines.
-4. To explore some of the background and knowledge needed to understand the research and methodology shaping and influencing education.
+4. To explore some of the background, prerequisites, and knowledge needed to understand the research and methodology shaping and influencing education.
+    - This is why there's chapters on math and science, *despite* them seeming out of place initially.
 
 ### **What The Book Isn't**
 
 This book isn't an advocate for any particular technology, tool, or platform. If anything, technology can be quite dangerous and depends heavily on how its utilized and whether or not it even *can* be utilized.
 
-I will, however, mention specific technologies, resources, and methodologies based on what I personally found useful for myself and what helps explain the material presented here. One of my goals is present the material here as tool-agnostic as possible, yet ironically I need to talk about certain tools to get across my point sufficiently.
+I will, however, mention specific technologies, resources, and methodologies to help explain the material presented here. One of my goals is presenting the material here as tool-agnostic as possible, yet ironically I need to talk about certain tools to get across my point sufficiently.
 
 Technology rapidly evolves over time and what could be used today may no longer be used 5 years in the future from now. The same goes for education systems as well and there can be sweeping changes within only 5-10 years. There are some rare exceptions, such as the ongoing persistence and relevance of SQL in programming, the tenacity of the "I do, we do, you do" teaching style in education, and the use of pencils and paper for education, but they're *exceptions* and not the norm. Due to this propensity for change, some information may not map 1:1 perfectly in the future, but hopefully the base concepts maintain a sense of timelessness.
 
@@ -62,6 +78,8 @@ While advice may apply beyond education system, the focus is primarily on applic
 Overall, the goal is to be at least *somewhat* useful to anyone involved or curious about education and delivering education, regardless of context. As with any work focused on a specific domain, some concepts may translate more directly than others based on where they're applied to.
 
 If you're an administrator or district, state, or federal education professional and want to show your educators this book... honestly, just give them the summary (see the conclusion chapter for that part), talk about it for 10-15 minutes, then have the rest of time be alloted to doing their own work or working with their teams. Maybe have some food and drinks as well. You could even send an email too and avoid a meeting altogether! Educators will read it, care about it, and stick with it if they think it's valuable. Don't worry about that part.
+
+If you're currently a student, I won't tell you to not read this book, but I will warn you much of the content within may only make sense in hindsight.
 
 ### **Prerequisites**
 
@@ -112,5 +130,7 @@ In the event of references to any products or tools, they are included because I
 
 1. National Center on Education and the Economy (NCEE). (2024). *Blueprint: Designing Systems That Work.* (2024). National Center on Education and the Economy. 2000 Pennsylvania Avenue NW Suite 5300, Washington, DC 20006. Tel: 202-379-1800; Fax: 202-293-1560; e-mail: info@ncee.org; [http://www.ncee.org](http://www.ncee.org). [https://eric.ed.gov/?id=ED671660](https://eric.ed.gov/?id=ED671660)
     - Alternative Link: [https://ncee.org/blueprint/](https://ncee.org/blueprint/)
+
+1. United States Government Accountability Office (GAO). (2026). *GAO-26-107874, K-12 EDUCATION: Research on Effectiveness of Professional Development Is Mixed, but Teachers Find Collaborative Learning Most Useful.* Gao.Gov. [https://files.gao.gov/reports/GAO-26-107874/index.html](https://files.gao.gov/reports/GAO-26-107874/index.html)
 
 ## **[Next Chapter](Z003_Legality.html)**

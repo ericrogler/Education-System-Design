@@ -15,7 +15,15 @@ nav_order: 9
 
 ---
 
-Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
+The most effective leader doesn't excessively micromanage people.
+
+Let that sink in for a bit.
+
+Again: too much micromanagement is bad.
+
+If you know an administrator, manager, or leader who micromanages too much, or you are that excessive micromanager currently reading, this is me calling out those people now. Educators are also considered "managers" here.
+
+Management, at scale, shares many problems and logic with video games, simulations, and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
 
 Macro (Macromanagement): Strategy, such as resource allocation, system optimizations, workflows, and scaling infrastructure to support operations.
 
@@ -39,18 +47,18 @@ For most of this chapter, I'll write from the viewpoint of a RTS/strategy game p
 
 The purpose of this chapter is showing that, if you're a manager, you are meant to *guide* actions rather than dictate actions.
 
-Every employee is capable of doing work; you likely wouldn't bring them onboard in the first place if you thought they couldn't do the work you needed, right? Since they are capable, *you have to let them do the work.* When in doubt, trust in actions more than words.
+Every employee is capable of doing work; you likely wouldn't bring them onboard in the first place if you thought they couldn't do the work you needed, right? Since the employees under you are capable, *you have to let them do the work.* When in doubt, trust in actions more than words.
 
-You can assign tasks and you can set directions, but you're supposed to build up your group, organization, etc. and amplify its capabilities.
+You can assign tasks and you can set directions, that's still fine, but you're supposed to build up your group, organization, etc. and amplify its capabilities over time.
 
-Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're in charge of a team of engineers of varying skill levels. They may have different issues blocking them, such as:
+Let's say you're a manager with an extensive engineering background (10+ years, as a hypothetical). You're in charge of a team of engineers of varying skill levels. They may have different issues blocking them you'll need various solutions for, such as:
 - Juniors/new hires: unable to find resources, figure out problems to look for, or what should be done.
 - Mid-levels: how to transition into higher work and level up in their role.
 - Seniors/staff/principals: working in cross-team functions, perfecting their technical expertise, and/or perhaps transitioning to become managers like yourself.
 
-The more senior (or more experienced) someone is, the less you should *need* to check in with them. You'll still want to check in, though, to ensure they're on track and able to do their work, but not necessarily hand-hold them. For more inexperienced people, you might do a quick fly-by every day and more frequent 1:1 meetings, while more experienced people may be a meeting once a week and only as needed. 
+The more senior (or more experienced) someone is, the less you should *need* to check in with them. In an education system, this may be called a "walkthrough" or an "observation," where an administrator or similar role comes by to observe, firsthand, how an educator works in their environment. You'll still want to check in, though, to ensure they're on track and able to do their work, but not necessarily hand-hold them. For more inexperienced people, you might do a quick fly-by far more often and more frequent 1:1 meetings, while more experienced people may only be a meeting once a week or only as needed. 
 
-It is extremely tempting to go in and do the work for your direct reports, *especially* if you have requisite domain knowledge, but you should avoid that as your first option. That's micromanagement; you want to limit that. You have separate goals and tasks from your subordinates and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of; that's why they're there.
+It is extremely tempting to go in and do the work for your direct reports, *especially* if you have requisite domain knowledge. This is more true if your direct report is doing things incorrectly. Nevertheless, you should typically avoid that as your first course of action. That's micromanagement, which you want to limit. You have separate goals and tasks from your subordinates and need to look at the overall strategy and not just the tactics employed. Let your "team" handle (most of) the tasks they're capable of, as that's why they're there, and help them through the blockers (like encountering issues in their own work) so they can perform as intended.
 
 ### **Rock, Paper, Scissors**
 

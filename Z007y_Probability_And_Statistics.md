@@ -34,11 +34,11 @@ Statistical significance does not imply practical significance.
 
 ## **Long Answer**
 
-Statistics and Probability are where you realize a 50% success rate sounds bad at first, until you remember the last 50 times we went through we came out just fine. 
+Statistics and Probability are where you realize a 50% success rate sounds bad at first, until you remember the last 50 times we went through it were successful. 
 
 Learning Statistics and Probability, beyond a high-level overview, typically requires an advanced mathematical foundation before beginning. This is usually 1-2 years of Calculus, with all of its prerequisites, and/or Linear Algebra; often accomplished around late high school/early college age for students (17-21 years old) as of 2025.
 
-Do Statistics and Probability *require* Calculus? For their applied versions, no. For the math and theory behind it, I'd say yes. 
+Do Statistics and Probability *require* Calculus? For their applied versions, no. For fully understanding the math and theory behind it, I'd say yes. 
 
 Should you still learn them? Personally, yes. It's learning a matter of perspective and new line of reasoning.
 
@@ -134,9 +134,11 @@ The bad news about data analysis is you need math skills to get the most out of 
 2. You can tell whatever story you want with data, if you know how to, for both good and evil.
 3. Numbers/data without context are virtually useless.
 
-A lot of analysis isn't designing the fancy dashboard or displaying results for clients, but is still an important part. An interface which looks good also affects the perception and acceptance of it. It still must answer a specific question, or set of questions, someone has when looking through it however.
+The ideal goal is to figure out a 1-2 sentence summary on an insight you can present in a meeting, lecture, and so on. For example, "Looking at this trend over the past 5 years, enrollment is down 10% and steadily decreasing at about 2% per year." There's no need to present all the numbers, equations, parameters, technical details, and so on in a presentation. You should, however, have these details available as a reference, and proof of work, when subject to further inquiries.
 
-Most analysis work is in cleaning up and sorting through data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the way to figure out what's actually there for you and other people to then act upon it.
+A lot of analysis isn't designing the fancy dashboard or displaying results for clients, but is still an important part. An interface which looks good also affects the perception and acceptance of it. It still must answer a specific question, or set of questions, someone has when looking through it however. If your analysis doesn't result in actionable insights and answers what we can do about it, it may be wasted effort.
+
+Most analysis work is in cleaning up and sorting through data, understanding your user's (or student's) needs, understanding business objectives, actually analyzing the data, and storytelling. In other words, you're paving the way to figure out what's actually there for you and other people to then act upon it. Acting upon bad information may lead to more deadly results than acting on no information.
 
 All of the earlier math concepts are still important because they open up further advanced topics in analysis like optimization, linear (and nonlinear) programming, forecasting, regression, and more.
 
@@ -197,7 +199,7 @@ The biggest requirement is you need to be able to interpret figures, tables, cha
 
 You may also notice some terminology crop up more often, or less often, depending on the field. "Noninferior" is one example you may find common in medical research compared to other fields.
 
-For readers newer to scientific literature, Carey et al developed [ten simple rules for reading a scientific paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/) which succinctly describe how to *start* reading them properly for even non-technical audiences (2020).
+On scientific literature in particular, Carey et al developed [ten simple rules for reading a scientific paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/) which succinctly describe how to *start* reading this research properly for even non-technical audiences (2020).
 
 **To copy the headers (rules) verbatim from the source above ([which is CC-BY](https://creativecommons.org/licenses/by/4.0/)) (Carey et al, 2020):**
 > 1. Pick your reading goal

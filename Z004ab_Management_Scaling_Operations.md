@@ -156,7 +156,9 @@ Outside of the above details, detachment training is similar to Basic/MOS, but t
 
 As a warning, since they may be considered "special" units within an organization, detachments may give rise to "elitism" (i.e. a superiority complex). People in a detachment may view themselves above non-detachment personnel regardless of rank. If your organization does not account for and curb this issue, it will deteriorate the overall organization's culture and well-being, which leads to internal issues and potentially stagnation and decline.
 
-In a typical education system, my closest comparison here may be with selecting teaching assistants from students who passed with high marks in the relevant classes before and were vetted by staff. These roles may require administrative approval, like principal sign-off, to ensure it won't cause issues with a student's education on top of their existing responsibilities. While they don't hold as much authority (and likely knowledge) as a teacher, they are still specialists in a given area of expertise.
+To bring this back into education, think of the difference between a teacher only good at teaching and a teacher good at every aspect in education like the difference between a marksman and a sniper. Pretend the only goal to meet is to hit stationary targets out at only 1000+ yards in a calm environment and whatever basics help achieve that.
+
+A few days of calibrated, intense training can make just about anyone who can follow instructions a marksman reliably hitting targets at 1000+ yards. A few years of specialized training results in a sniper who can do everything a marksman can, in addition to everything else an operation demands of them reliably to overcome whatever issues they face. If the MOS training only trains up the marksman skills, the detachment training is needed to create a sniper.
 
 ### **Leadership (NCO/Officer) Training**
 
@@ -265,7 +267,7 @@ It's also common to use acronyms, abbreviations, markings, and symbols to commun
 
 Whenever I participated in milsim scenarios, I usually joined the reconnaissance units/elements. As for why I was usually allowed into those groups, it was because I was good at math, precise with spotting, knew how to stay silent and undetected, and was accurate across extreme distances. More importantly, I could work within a specialized team and interpret the signs, symbols, landmarks, and *read* maps and terrain accurately and precisely with limited (or non-functional) technology. Land navigation was a surprisingly neglected skill in practice, despite technologies like a GPS handling the heavy lifting for most people. Working at extreme distances also means dealing with the armanents to cover those ranges and handling issues like projectile drops, transonic effects, Coriolis effect, wind, and far more variables many short range interactions get to "ignore" entirely.
 
-If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications in these specialist groups where conservations need to be concise, clear, and descriptive all at once. *Brevity above all here.* The simpler it is, the easier it is, so to speak.
+If I were in a "manager" role, like a squad or team leader, I would establish three rules for *all* communications. Conservations need to be concise, clear, and descriptive all at once. *Brevity is the goal.* The simpler it is, the easier it is, so to speak.
 
 10 seconds was set as the hard limit for each communication, order, etc. sent out. If it's longer than that, minds may drift and information complexity risks being too high. You can get the necessary information transmitted in that timeframe, despite how short it may seem, so long as it follows those three rules.
 
@@ -296,10 +298,43 @@ As an example of a squad net and its corresponding team net structure utilizing 
 
 As milsim groups occasionally allow international people to join, communication should accommodate ESL (English as a Second Language) speakers by default. The ICAO phonetic alphabet was implemented to address these concerns and is accessible for, at a minimum, English, French, and Spanish speakers (Geneva, 1959). For speakers of languages beyond those three, they still followed ICAO, or something similar, while in the milsim organization.
 
-### **Operation Preparation (Example)**
+### **The E-4 Mafia**
 
-Say an operation starts at 1100 for a given platoon and an OPORD (Operations Order) was already made in advance by the platoon covering many of the mission details. An example schedule before it starts may look like the following:
-- 1000: Prepare a staging area
+In a milsim, this is typically at the E-4 rank, or a "Specialist" rank, like the section's title here. 
+
+In terms of competency, there are few above them at what they do in a standard organization. This level of competency insulates them from getting into trouble from above because they proved they can get things done. That proof also leads to less micromanagement and oversight because a senior leader or manager knows they can ask you something, without telling you how, and leave the onus to you on how to solve it. Even if an E-4 *did* mess up, they may only get a slap on the wrist because they have no real responsibilities yet. They also have ways to get what you need, creatively "circumvent" authority, paperwork, and regulations, and strategically transfer equipment to alternate locations. 
+
+As people advance in seniority, position, rank, etc. inside an organization, there comes a point where they can no longer climb the ladder they're on. To reach a higher rank, they must deviate from an individual contributor to a "manager" (or go to a commissioned/non-commissioned officer rank). E-5 may sometimes be included here, despite falling under an officer classification, depending on the type of organization.
+
+A leader managing people in the E-4 mafia has key challenges to face:
+1. Do you risk your operational capability by restricting or reprimanding them?
+2. Who will take the heat (i.e. blame) if something goes wrong?
+3. How do you get them to do what you need done?
+
+#1 is the easiest of all these. Simply put, don't reprimand unless they break *an explicitly written* rule of the organization and there's proof beyond a reasonable doubt. It can take months, if not years, to replace whatever good-will or talent is damaged or lost as a result of careless management.
+
+#2 is either easy or difficult depending on the leader themselves. Leaders should recognize that blame goes across layers, so if *their* guys are causing issues, the leader's "boss" will target blame at the leader as a result. If they don't, and your subordinates know they're going to get blamed for *your* orders/requests, it shouldn't be a surprise if they refuse, or only reluctantly, go through with the orders. 
+
+#3 may be the most difficult part here and employs the art of negotiation. Many people prefer to receive a reward for their services. People in the E-4 mafia, since they're at the top of their ladder, also apply to this concept. Rewards may include many things, such as food and drink, off-duty time, favorable work assignments, and other perks and benefits. While a reward won't work every time, finding ways to align their own interests with the unit's needs still works quite often.
+
+Across all three points, just remember: maintaining plausible deniability on *how* things get done, and not asking too many questions, is critical here.
+
+### **Cooperation vs Coordination**
+
+There is a stark difference between cooperation and coordination. Cooperation is neither necessary nor sufficient for coordination, and vice versa, but having both can result in a greater net benefit. Managing many people at once requires understanding this distinction and how to use both. 
+
+This is an area explored in depth in fields such as game theory, with nuances beyond the scope of this book, so I'll stay brief here.
+
+Cooperation is a willingness for parties to work together. You can incentivize cooperation in many ways, such as rewarding people for certain actions, convincing them of the benefits involved, or demonstrating shared interests and goals among parties. Cooperation without coordination occurs when parties are willing to work together but not necessarily agreeing on how. For example, two teams are both willing to help finish a project, but never agree on how work is divided, so work is duplicated or dropped. The phrase "enemy of my enemy is my friend" is also a practical example of cooperation without coordination, when rival factions help each other against a common enemy but don't agree on how to help.
+
+Coordination is a set of shared expectations about how to act, such as conventions, rules, or roles, so everyone's efforts work together. You don't need a central authority for coordination, but one may be established to directly influence, or control, each party's efforts to function as a single entity. An example of coordination without cooperation is drivers following the same rules of the road to keep traffic moving, but each driver has their own destination and little, if any, interest in helping other drivers.
+
+Many problems require both coordination and cooperation, but some problems only need one. Knowing which to focus on, and which one is missing, tells you what needs to be fixed, such as clarifying organization and roles for low coordination and incentives and shared goals for low cooperation. The difficulty with cooperation and coordination increases as you scale up in size and complexity, as relationships increase with more people and more risk in a system failure.
+
+### **Operation Preparation Example**
+
+Say an operation starts at 1100 for a given platoon and an OPORD (Operations Order) was made by the platoon leader covering the mission details. This schedule may look like the following:
+- 1000: Prepare staging area
 - 1020: Open access into the area
 - 1030: NCO/CO Meeting
 - 1045: Squad Debrief
@@ -353,7 +388,7 @@ Most communication occurs three ways here: squad net, team net, and off-radio vo
 
 Each squad may have its own culture developed by the squad leader and the members of the squad. That culture can stay consistent over a long time, but is likely to change as people come and go and the experience of individuals grows. After-action reviews also occur after each operation for members to review what was good, bad, and/or needs improvement.
 
-**How to apply to instruction**
+**Back to Education**
 
 This is the scale of one teacher to many students. That teacher may assign group leaders from their students (team leaders), note "good" students (medics) to help in class, and perhaps have a student to send out of the room in certain situations (RTO). Teachers design lesson plans (tactics) for students to navigate the curriculum (strategy) defined by higher authorities (company+ or platoon+) and managed by principals (e.g. a platoon leader).
 
@@ -412,7 +447,7 @@ Culture, like with squads, is the lifeblood of a platoon. You're checking squads
 
 Platoons also conduct after-action reviews. The personnel invited to platoon-level reviews are typically like platoon staff, squad leaders, and detachment leaders, but follow a similar format to squad after-action reviews.
 
-**How to apply to instruction**
+**Back to Education**
 
 To tie this into teaching and instruction, there's two examples as parallels:
 1. A grade level team overseeing multiple classrooms
@@ -468,9 +503,9 @@ The company leader is ultimately responsible for signing off on platoons actions
 
 Designations become slightly more complex as well. If you were previously "1-6" as a platoon leader, you're now "Lemur-6" as a company leader as companies and beyond use name identification more than numbers or Alpha/Bravo/etc. As for why "lemur" specifically, it sounded nice and is purely an example. Essentially, as you go higher in management layers, you just add the higher elements levels at the beginning of the designation.
 
-**How to apply to instruction**
+**Back to Education**
 
-Let's tie this section back to class settings. This is where complexity noticeably starts exponentially increasing and further compounds as you scale up further in size. 
+This is where complexity noticeably starts exponentially increasing and further compounds as you scale up further in size. 
 
 Say you are a principal (company leader). You are more removed by design from students compared to teachers (squad leaders), department heads/deans and assistant principals (platoon headers), and other leadership and staff below you. You may interact with students occasionally, but you’re often not directly on the frontlines teaching or handling lesson plans. Your focus is instead on strategy, like curriculums, management of managers and leaders, and keeping the school running.
 

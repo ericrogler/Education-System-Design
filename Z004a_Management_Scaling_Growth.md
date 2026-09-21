@@ -15,6 +15,8 @@ nav_order: 7
 
 ---
 
+This chapter could be summarized in two sentences: If you want your education system to grow, you must structure it so it can grow. This means implementing items like standardization, good management practices and structures, and the logistics to ensure smooth and continued operations. 
+
 If you're going into management, or transitioning from an individual contributor (employee) to manager, here's the shortened version:
 - You have to learn to let go of what you were good at; you're doing a *different* job now by managing people, amplifying employee talents, and giving credit where it's due.
 - The people working for you/beneath you are probably smarter than you.
@@ -36,6 +38,8 @@ A 5 minute email can have the same, if not better, results than a 1 hour meeting
 **If you don't know why your manager (or superior in general) wants something, it's usually ok to just ask them once why it is important.**
 
 An "optimal" breakpoint is around 4-5 direct reports per manager. From five on, relationships and group management rise exponentially in complexity. If the work someone does doesn't infringe heavily into other people's work, larger numbers may be better controlled. At this stage, it's you, the manager, and the other employees as ICs.
+
+Lastly, due to the degree of separation in larger organizations, don't be too surprised if someone near the bottom layer doesn't recognize someone near the top layer and vice versa.
 
 ## **Long Answer**
 

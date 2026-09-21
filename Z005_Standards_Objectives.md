@@ -13,6 +13,10 @@ nav_order: 11
 
 - Antoine de Saint-Exupéry, *Wind, Sand and Stars* (1939)
 
+> "And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things, because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new."
+
+- Niccolò Machiavelli,  *The Prince* (2006)
+
 ---
 
 *Notice: This chapter is catered more towards teachers.*
@@ -22,11 +26,12 @@ Standards for learning depend on what, where, and how you teach. There may be ma
 **Your main goal with standards is to sufficiently meet (or exceed) all of the relevant items imposed in them.**
 - Despite this goal, sometimes what matters more is not the material in the curriculum, but how you present the material in the curriculum.
 
-What should be common knowledge, if it is not already, is teachers have a widely varying range of autonomy on which standards to follow and how they implement their curricula. The same applies to the level of support and resources they're provided as well. Some teachers have a nonexistent level of autonomy which means they follow a chosen curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards (i.e. "meets the baseline"). Teacher autonomy goes anywhere from nonexistent to ever present.
-- This isn't to say all standardization is *bad*, but it does trade off differentiation.
+What should be common knowledge, if it is not already, is educators have a widely varying range of autonomy on which standards to follow and how they implement their curricula. The same applies to the level of support and resources they're provided as well. Some teachers have a nonexistent level of autonomy which means they follow a "scripted" curriculum as is, without significant modification, including dotting all the i's and crossing the t's. Other teachers have near 100% professional autonomy and are free to do what they need/want so long as it satisfies any established standards (i.e. "meets the baseline") and other requirements. Teacher autonomy goes anywhere from nonexistent to ever present.
+- Not all standardization is *bad*, but it does trade off differentiation.
+- Also remember standards are usually *minimums* and you can go deeper into them.
 
 If you're transitioning or changing into new standards or curricula, be aware you typically cannot solve every problem by doing so. Any change, however, should solve at least *some* of your major pain points.
-- i.e. Achieve a "net benefit."
+- i.e. Achieve a "net benefit" related to the quality of education students receive.
 - This also applies to many things in life where you need to weigh the benefits vs costs.
 - In practice, sometimes the "best method" to teach something may not be a method supported by standards.
 
@@ -34,9 +39,11 @@ If you're transitioning or changing into new standards or curricula, be aware yo
 
 Can you question and go against established standards? Of course.
 
-*Should* you? If you have the time, effort, and resources (like money) required to see it through, or there's a legitimate concern about said standards, then maybe so. You could further develop a case doing it *your* way is more effective, but that requires data collection and convincing other people to adhere to that viewpoint.
+*Should* you? Probably not. 
 
-Remember though: **do not cut corners with standards and objectives for any curriculum!** Having at least *some* expectations and covering the core subjects and concepts are important. There are several reasons why:
+Routines, predictability, and standards are surprisingly desirable. Carelessly changing them, especially without consideration for how it affects other parts of a system, is a risky endeavor. You must overcome the burden of proof that your way is beyond a reasonable doubt a better and more correct way. 
+
+Also remember to **avoid cutting corners with standards and objectives!** A shortcut can become a dead end here. Having at least *some* expectations and covering the core subjects and concepts are important. There are several reasons why:
 
 - It's hard to build a good curriculum, or a learning experience in general, without any standards or plan
 - Some educational materials may not align with standards, which adds noise when you need signals
@@ -177,11 +184,9 @@ They also have differing goals: formative checks where improvements are needed t
 
 These assessments are not things to be completely avoided. It's expected to find and develop these in just about every curriculum in some way, shape, or form and they are a reliable way to track and affirm progress.
 
-### **Is Funding Tied to Standards?**
+### **Tying Funding & Wealth to Standards**
 
-Generally speaking, **yes.**
-
-For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the company needs to meet these standards and figure out ways to either recoup losses or cut costs. Their users not giving money to purchase inadequate products/services means a business may not generate profits and likely go bankrupt and out of business.
+For a business, if their products and services don't meet the standards of their users and/or other metrics they define, the business needs to revisit these standards and figure out ways to either recoup losses or cut costs. Their users not giving them money to purchase inadequate products/services means a business may not generate profits and likely go bankrupt and out of business.
 
 You may think it's harsh, but I'll ask a question of the reader: Would you knowingly and willingly stick with a brand or product that wasn't good by your own standards?
 - What about if there were no alternatives?
@@ -203,6 +208,137 @@ Even if the better method is self-studying, self-studying *still* requires evide
 
 Send this message to the student. Send it to their parent/guardian too if they're relevant here. Send it to any other party that needs to explicitly understand this concept. You can reasonably believe a student is gifted if they *show* they're gifted. Accountability doesn't go away.
 
+### **An Overview on Blockers (i.e. "Constraints")**
+
+In a teaching environment, you'll experience several types of blockers I'll address below. Some blockers are manageable while other blockers may partially or entirely restrict different ways to reach your goals. As a "funny" example, a school may mandate going back to paper and pencil, but not supply any paper, so you're blocked due to a lack of resources *in addition to* a policy change. 
+
+For simplicity's sake, I'll sort blockers into several categories.
+
+- Technical
+- Physical
+- Monetary
+- Interpersonal
+- Knowledge
+
+Blockers depend on many variables like whether you teach in person/online, equipment you have, budget, and students’ disposition/education. The path of least resistance is tempting. If there's a way to do something quickly and achieve the same result compared to another method, someone may opt for the quicker method to do less work overall.
+
+### **Technical Blockers**
+
+Some education systems are made in a garage or a shed. Other education systems are given a sizeable grant to conduct research on (and possibly make a business/profit out of teaching said system). Then there's systems with more barriers to success compared to others due to available resources.
+
+**"Old school" style teaching, or teaching without fancy tech, gadgets, widgets, etc. is perfectly fine (and sometimes encouraged!). If this is the case for you, you may have fewer technical blockers.**
+- This also includes fancy tech, but opting for less technical options anyways. It's whatever provides the best learning experience for students in your educational system.
+- Personally speaking, I'd use pencil and paper when I could, but technology, like computers, for things I cannot reasonably do with low tech solutions.
+- Each new person using technology is one more person you may have to troubleshoot issues for.
+
+In one sentence: is there a technology that cannot perform the tasks I need for teaching?
+
+*If no, proceed with whatever plans you have; you're good.*
+
+*If yes, it's a blocker and you either:*
+
+- Cannot use it
+- Need to find an alternative fitting the technical requirements
+
+**Be warned, though:** using alternative technology may not meet all of your needs and standards, or accurately do what is needed to meet your objectives. As long as Plan B works and meets your needs, it's good enough. You can always supplement other materials related to the subject(s) to fill in gaps.
+
+The only time you are *stuck* with a given technology is if you're trying to get students to earn a certification, licensure, or a proof of competency with it. You definitely cannot use alternatives with those, as you must use the required technology or they cannot get the certification or license. Some technology may require the teacher to also hold a license to teach or administer tests related to the technology, so double-check first.
+
+Even if technology is available, whether gifted, bought, or contractually obliged to use, it's still a question of *should* students have access to technology vs *can* students have that access.
+
+Additionally, with any new technology, there's also a learning curve. Some technology you'll have to know about, like emails or a CMS (content management system). Others you may not have to know much about. There's also technology where it's nice to know about, and can enhance learning, but requires some investment before it provides a return.
+
+**The Typical Solution to Tech Problems**
+
+It's simple.
+
+1. Turn it off and on again.
+2. If that doesn't work, Google the problem.
+
+### **Physical Blockers**
+
+These blockers refer to the space you're teaching in or from and human physical limits.
+
+For example, you need a specific type of equipment but the rooms lacks support, like gas lines, space, or high-voltage outlets, for your equipment. Some blockers, like moving desks around, are easy to fix and other blockers, like installing custom windows, are not easy to fix.
+
+Creativity and ingenuity can overcome some physical blockers to make them less restrictive, but may still affect student performance and behavior. You could teach an entire classroom with everyone standing, but then taking notes, drawing, or writing is significantly impaired. You could also place people across the room in rows, clusters, etc., to influence how they interact with each other and you.
+
+You may consider peer assistance first before alternative learning forms as well. The other solutions are either legally complicated or may be infeasible due to numerous obstacles like space, money, etc.
+
+There are countless more cases of physical blockers. Still, your overall goal with any space is this: Rearrange the physical space to deliver best the material and expertise you want to teach.
+
+For online teaching, you'll still need guardrails to keep students focused on you and the material.
+
+### **Monetary Blockers**
+
+You can accomplish a lot with sufficient funding. More often than not, you don't have enough funds to do everything you want.
+
+When funding is limited, be ready to resort to low-cost or free alternatives or omit types of learning that require online or physical payments. Fortunately, new technology allows low-cost or free options like Notion, Google Documents, Google Sheets, DBeaver, pgAdmin, QGIS, GRASS, SAGA, Postgres, PostGIS, and Visual Studio. Some education planning and scheduling tools are also low-cost or free.
+- Past a low to moderate amount of data, usage, scale, etc. however, even free options may cost monetary resources.
+
+There are multiple types of websites–government, commercial, non-profit, and personal–with free simulations and interactive software available for student and public use, such as [NASA's Eyes](https://science.nasa.gov/eyes/) for solar systems and [USGS TopoView](https://ngmdb.usgs.gov/topoview/) for topographic map viewing and manipulation.
+
+With some software, you may need to purchase Educational and Student Licenses. These may *not* be cheap, but typically more affordable compared to business, personal, and professional use.
+- As an example, per Autodesk as of September 2025 ([Further Reading](https://www.autodesk.com/solutions/revit-subscription-faq)), the standard Revit Individual subscription is one example of an expensive license for an expansive software. For qualified educators and students, you could get it for free instead (with terms and conditions).
+
+Businesses typically have strict definitions for educational institution qualifications. If you don't qualify, you'll need other options or have to pay the license price of another category (typically higher vs education).
+
+### **Interpersonal Blockers**
+
+There include societal issues, cultural fit, gender, political affiliations, and more often outside your control. There's plenty of red tape and blockers you cannot avoid, so be mindful of how you navigate the many relationships you have with coworkers, students, peers, and more.
+
+If you have a HR (human resources) department, follow their guidelines and you should be fine.
+
+If you do not have HR, or an equivalent department, then I'd tell you to avoid the following as a general guideline:
+
+- Politics
+- Religion
+- Sexism
+- Harassment
+- Anything causing physical harm, intentional or not.
+- Bullying and bringing down people through your words and actions
+- Relationships with students
+- Relationships (personal/romantic)
+- Inappropriate comments towards students
+
+To sum it up: keep personal beliefs out of the classroom/workplace but do not tolerate unwanted behaviors.
+
+There are *rare* exceptions to the above, such as if I need to talk about the potential physical harms of chemicals in a lab I'm doing for class or religion in a historical context, but it's under the heavy caveat it's specifically related to education and a part of the curriculum/lesson plans.
+
+In short: maintain a safe, acceptable, professional, and respectable distance between you and your students. You're a professional; you (hopefully) have standards.
+
+### **Knowledge Blockers**
+
+These are issues students have because they don't have the requisite knowledge acquired before taking a specific class. There's always a chance that since student didn't know topic A, they may not know about topic B.
+
+To give a straightforward example, it's like having a student who doesn't know basic math jump immediately into postdoctoral and graduate level mathematics.
+
+Remedying knowledge blockers is exponentially difficult as it scales based on how large the knowledge gap is. For about 1-2 grades or semesters worth of difference it's possible to review and get students mostly ready, despite being behind before. For 3 or more grades/semesters deficit, I found this difficult without specialized assistance as it becomes too cumbersome or costly to handle those students.
+- This may also be a capacity blocker instead of a knowledge blocker, where someone cannot structurally perform at a given level regardless of their intelligence.
+
+You may also encounter knowledge blockers, or deficiencies, in people managing the education system, such as teachers and administrators, instead of the students. I'd consider this more dangerous towards the goal of education compared to any one student. Let me illustrate with an analogy: it is expected to get a bad result from time to time, but it's an issue if bad results are consistently generated. Incompetent, non-student parties in education systems are like machines that lack the precision and accuracy to make high-quality students *because they don't have the knowledge to do their roles!*
+
+These knowledge blockers can be subtle or obvious too. To give an obvious example: Your English/Literature teacher messes up protagonist and antagonist, two distinctly different and critical terms, without any attempt to correct themselves later on. To give a subtle example: trying to distinguishing between weaponized incompetence and plain ineptitude.
+
+Even if knowledge blockers don't exist, the opposite problem can creep up as well: the hubris of accomplishment, where you assume acknowledge in one thing (such as being called a genius) translates to success in everything. Ironically, that hubris can turn into its own blocker as resistance towards being proven wrong and changing to correct what's wrong.
+
+If knowledge blockers *are* encountered, the next question is whether or not the intent to learn is present. If someone truly cared to learn, or even make things right, it's reasonable to assume they would put in the effort to learn. Even with effort, they may not still get it perfectly right, but it's far more difficult to fault someone who genuinely tries and still get it wrong over someone confidently staying wrong and/or forcing you to pick up after their mistakes.
+
+### **Resource Management**
+
+To showcase how various blockers together may affect implementation, let's go over an example: resource conservation policies.
+
+While you, the reader, may make efforts towards conservation of resources, other people may not. You could do everything right within your means, such as recycling, no wanton discarding of waste products, and more, but another person nearby may not do the same. You are aware you are doing what is correct to preserve the environment, but other parties either cannot, and/or will not, show the same care. 
+
+You can try and convince them to change their ways with the proper people skills, but you also need management, regulation, the removal of blockers, and a system allowing them to change. Without regulation and management, stopping them from returning to their old ways (or perhaps exploiting a looping) is nigh inevitable. 
+
+Without the appropriate system supports, you can get their willingness to want change but not their ability to enact change. To illustrate an example: say there is a program to reduce the effect on climate change by a system requesting it's population to increase the AC temperature in summer (e.g. 22 Celsius to 24 Celsius) and decrease the AC temperature in winter (e.g. 22 Celsius to 20 Celsius). Some things may happen as a result:
+- It was a request, not a regulation with a strict punishment if not followed, so it may be ignored.
+- Hospitals and other critical functions need stable AC to ensure patient health
+- People cannot stand the heat/stand the cold, so even with a punishment involved they may refuse anyways
+- There may be no new technological advancements to provide the benefits of AC without incurring all of it's costs
+
+
 ## **Bibliography**
 
 1. Cleveland Clinic. (2022, December 6). *Blood Tests: Types, Results & How They Work.* Cleveland Clinic. [https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests](https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests)
@@ -217,13 +353,22 @@ Send this message to the student. Send it to their parent/guardian too if they'r
 
 3. Gamage, K. A. A., Dehideniya, D. M. S. C. P. K., & Ekanayake, S. Y. (2021). *The role of personal values in learning approaches and student achievements.* Behavioral Sciences, 11(7), 1–23. [https://doi.org/10.3390/bs11070102](https://doi.org/10.3390/bs11070102)
 
-5. National Science Teaching Association. (n.d.). *Science standards*. [https://www.nsta.org/science-standards](https://www.nsta.org/science-standards)  
+4. Machiavelli, N. (2006). *The Prince.* W. K. Marriott (Trans.), Project Gutenberg. [https://www.gutenberg.org/ebooks/1232](https://www.gutenberg.org/ebooks/1232)
+    - Of particular note: CHAPTER VI. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’S OWN ARMS AND ABILITY
 
-6. NextGenScience. (n.d.). *Next Generation Science Standards*. [https://www.nextgenscience.org/](https://www.nextgenscience.org/) 
+5. National Science Teaching Association. (n.d.). *Science standards*. [https://www.nsta.org/science-standards](https://www.nsta.org/science-standards)
+
+1.  NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
+
+6. NextGenScience. (n.d.). *Next Generation Science Standards*. [https://www.nextgenscience.org/](https://www.nextgenscience.org/)
+
+3. *Revit Subscription and License FAQs - Autodesk.* (2025). Autodesk.com. [https://www.autodesk.com/solutions/revit-subscription-faq](https://www.autodesk.com/solutions/revit-subscription-faq)
 
 1. Saint-Exupéry, Antoine. (1939). *Wind, Sand and Stars*. Translated by Lewis Galantière. New York: Houghton Mifflin Harcourt, 2002.
     - Translated by Lewis Galantiere.
 
 2. The White House. (2012). *Race to the Top.* The White House. [https://obamawhitehouse.archives.gov/issues/education/k-12/race-to-the-top](https://obamawhitehouse.archives.gov/issues/education/k-12/race-to-the-top)
 
-## **[Next Chapter](Z006_Roadblocks_To_Teaching.html)**
+3. U.S. Geological Survey. (n.d.). *USGS TopoView*. [https://ngmdb.usgs.gov/topoview/](https://ngmdb.usgs.gov/topoview/)
+
+## **[Next Chapter](Z007_Metrics_Of_Success.html)**

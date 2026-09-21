@@ -5,7 +5,7 @@ nav_order: 27
 ---
 # Maintaining Health
 
-### [Previous Chapter](Z017_Other_Additional_Duties.html)
+### [Previous Chapter](Z016_Passporting_Information_Transfer.html)
 
 ## **Short Answer**
 
@@ -41,9 +41,15 @@ Both ways are valid. Being good at something and liking something are two *very*
 
 *Disclaimer: All items in this chapter are not professional medical advice nor should be interpreted as such.*
 
-I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. What you and I can probably agree on though, despite any differences, is good food boosts morale and everyone is going to be hungry on a diet.
+Don't be fooled by this chapter's name. It may look like I'm petitioning for you, but the biggest advocate for you is... well, *you.* There's only so much I can do. I'm a book. 
 
-Alternatively, I could talk about how nurses and certain licensed medical staff can know exactly what is wrong with someone, and know how to fix it, yet not have permission/authority to diagnose/fix someone themselves. That authority may also reside in organizations that are not medical professionals themselves, such as people in a health insurance company, but are telling medical professionals how to dispense medicine, procedures, and treatments.
+If you've been around medical professionals before, you've probably observed they don't beat around the bush and go straight to blunt truths. It cuts through the unnecessary fluff and says what matters while they're still careful with their words. For example, only saying "I'm sorry, your dog has died" signifies finality, isn't really open to interpretation, and an implication they truly did all they could to prevent that death. If I were to say "I wish we did more." or "I'm sorry for your loss." it opens me up to a probable, and potentially dangerous, misunderstanding I do *not* want for anyone involved.
+
+There's also times where you say you broke your leg in three places and a doctor can say not to 
+
+On a lighter note, I could talk about how good junk food is and not many people would care too much about that. The moment I talk about health food though, people scrutinize the nutritional information, the chemicals and ingredients within it, whether it's part of a balanced diet or actually healthy, and so on. What you and I can probably agree on though, despite any differences, is good food boosts morale and everyone is going to be hungry on a diet.
+
+I could also talk about how nurses and certain licensed medical staff can know exactly what is wrong with someone, and know how to fix it, yet not have permission/authority to diagnose/fix someone themselves. That authority may also reside in organizations that are not medical professionals themselves, such as people in a health insurance company, but are telling medical professionals how to dispense medicine, procedures, and treatments.
 
 As for any students reading this: yes, your educators have lives and interests outside of school/class. Shocking, I'm sure.
 

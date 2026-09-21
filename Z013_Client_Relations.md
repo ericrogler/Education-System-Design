@@ -23,9 +23,9 @@ nav_order: 22
 
 ---
 
-**Being likeable is IMPORTANT.** Be careful with kindness, but don't be an asshole. If someone is supposed to hate you, ask if they are. If someone asks for help, you may simply help because they asked. There's always a choice to be better, even if it seems like a bad choice at first.
+**Being likeable is IMPORTANT.** Be careful with kindness, but don't be an asshole. If someone is supposed to hate you, ask if they are. If someone asks for help, you may simply help because they asked. There's a choice to be better, even if it seems like a bad choice at first.
 
-The environment you work in significantly affects your happiness, productivity, etc. You could be great at what you do, but made miserable, ineffective, or inefficient because of the people you work with and the system(s) in place. For example, most people crave structure, places where rules and procedures are clear, and routines that let them do what they need to do without running into issues. All of these together result in a safe, secure, and stable environment.
+The environment you work in significantly affects your happiness, productivity, and many other aspects of your life. You could be great at what you do, but made miserable, ineffective, or inefficient because of the people you work with and the system(s) you deal with. For example, most people crave structure, places where rules and procedures are clear, and routines that let them do what they need to do without running into issues. All of these together result in a safe, secure, and stable environment.
 
 Education involves working with people. It's relationship management with those below, alongside, and above you. If you cannot do this well, you'll struggle not just inside education systems, but outside of them too. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and significantly determine how good or bad a job is in a given environment.
 
@@ -53,15 +53,27 @@ Lastly, professional development is only good if it isn't a waste of time for th
 
 *Notice: This chapter is written from the perspective of an educator/instructor.*
 
-Guess what: you need social skills. 
+Some of the most incompetent people I've ever seen across 30+ years of life are extremely wealthy, in positions of power and influence like heads of companies and organizations, and living in relative luxury compared to the rest of the population.
 
-There, I said it. Let's move on.
+To this day, *they are still quite stupid.*
+
+This is my anecdotal evidence that competency isn't all you need, but likeability, networking, and relationships are also important. A good name can buy what money (and other resources) cannot. 
+
+Thus, an entire chapter is needed for this topic.
+
+### **A Brief Overview**
+
+Many education systems are reliant on people putting in the work to support what needs to be done. For example, educators could have the best new framework for delivering education to their students, but have it fall apart due to a lack of administrative support. Administrators may have a good plan to manage the school and bring out the best in their educators, but be hamstrung by parents, other stakeholders, or even the students themselves.
+
+**In short: social skills are important.**
 
 We've talked about the golden rule of management before: don't be an asshole.
 
-There's a *second* golden rule as well: Be an asshole, *only* when there is no other method to do what's needed allowed by the system. False politeness and toxic positivity can harm relationships, which is why this rule exists as an exception. Navigating that second rule is far more difficult, however, hence why I dedicate *an entire chapter* to relationships here.
+There's a *second* golden rule as well: Be an asshole, *only* when there is no other method to do what's best for the education system. False politeness and toxic positivity can harm relationships, which is why this rule exists as an exception. Navigating that second rule is far more difficult and risky though.
 
-If there's any one thing a fantasy villain may be right about, it's that anyone, or anything, with unchecked power and zero oversight is a significant problem. Often *how* they address that problem is, ironically, part of what leads to their undoing. They may still be wrong, even with the best of intentions, and they themselves are not immune to that same problem. How far someone is willing to go to be good may also incite evil.
+### **Types of Problems**
+
+If there's any one thing a fantasy villain may be right about, it's that anyone, or anything, with unchecked power and zero oversight is a significant problem. Often *how* they address that problem is, ironically, what may lead to their undoing. They may still be wrong, even with the best of intentions, but they themselves are not fully immune to that same problem. How far someone is willing to go to be good may also incite evil.
 - Therefore, *anyone* mentioned here could be part of the problem in a faulty system. Not everything is solely the teacher's fault.
 
 Moving away from villanry, however, you may find many people in general don't always know what they're doing. They could simply be muddling through life, faking it until they make it, and/or "winging it" (i.e. improvising) with whatever tools and knowledge they have and it somehow gets them by just fine. Knowing this may be what you need to boost your own confidence.
@@ -72,7 +84,7 @@ This chapter is also where we acknowledge socioeconomics is indeed important, an
 - E.g. Teachers and administrators completely resolving problems that students have at home or with money they cannot control vs resolving problems that help students get a quality education they can control.
 - E.g. A school can provide a clean facility, competent staff, and appropriate learning materials, but cannot resolve a student's housing crisis, crippling debt, or income stream issues.
 
-Every person is different. Knowing how relations work amongst people, and the ability to navigate "politics" amongst people within systems, provides you a layer of protection. There are as many rattlesnakes wanting to inject venom into you as there are golden retriever dogs wanting to hug you, so to speak. That said, you could also be the sort to view no one as your enemy as well.
+Every person is different. Knowing how relations work amongst people, and the ability to navigate "politics" amongst people within systems, provides you a layer of protection. There are as many rattlesnakes wanting to inject venom into you as there are golden retriever dogs wanting to hug you, so to speak. You could also be the sort to believe you have no enemies.
 
 You might get by just fine without these skills, as being a social butterfly is not a requirement to being likeable with other people. You could also get by (and keep your job/role/position/etc.) by keeping your head down, shutting up, documenting issues to protect yourself, and making your leadership look good.
 
@@ -82,12 +94,12 @@ The majority of people you may encounter in life *aren't bad.* If you think ever
 
 Outside of that, have you ever seen an uncharismatic person propose a genuinely good idea or solution, but people don't care for it (or even actively go against it)? What about when someone tolerates you, but never chooses you, and switches to a "polite" attitude with zero warmth behind it?
 
-Likeability can help fix these issues. **While likeability is important, remember it is a multiplier to whatever competence and skills you have.** It's basically your Charisma attribute. It is not a replacement for respect or competency. Likeability without any substance or meaning behind it is tantamount to manipulation or performance and may only mask problems rather than solve them. You may not get things done *on your own*, but with a party of people? Perhaps a community or entire movement of people? Things are far more likely to get done with more people on the same page who like, or at least tolerate, each other. It can also help combat the silent killer of relationships that is contempt, or the quiet erosion of respect. 
+Likeability can help fix these issues. **While likeability is important, remember it is a multiplier to whatever competence and skills you have.** It's basically your Charisma attribute. It is not a replacement for respect or competency. Likeability without any substance or meaning behind it is tantamount to manipulation or performance and may only mask problems rather than solve them. It can also help combat the silent killer of relationships that is contempt, or the quiet erosion of respect. 
 
 People care about other human beings being decent human beings. In interviews and conversations, one way to verify this is the "airport test" (Indeed Editorial Team, 2025). You decide from one of many people with equal capabilities, status, etc. based on if you want to be stuck together with them in an airport for a long period of time. Succeeding here could simply be that someone else, or a group of people, didn't hate working with you and/or being around you. If you get rid of the person everyone likes? People may follow after them, so you want to find out who is someone people will like and stay around.
-- **I have personally seen people, even the most competent and reliable people, not be hired, or fired, purely because they were difficult to work with and/or could not acclimate to the environment they operate in.**
+- **I have personally seen people, even the most competent and reliable people, not be hired, or fired, purely because they were difficult to work with, people did not want to work with them, or they could not acclimate to the work environment.**
 
-When dealing with people, it's often easier to get along with someone you like instead of someone you hate. Maybe even the enemy of your enemy is your friend too. You may interview, date, or hang around someone who has all the skills and capabilities you need, but reject them because you don't want to be around, or work with, this person (especially on a daily basis!). You might non-renew or eliminate someone from a position depending on if you like them too. The ability to collaborate and work together is important afterall!
+When dealing with people, it's usually easier to get along with someone you like instead of someone you don't like. Maybe the enemy of your enemy is your friend too. You may interview, date, or hang around someone who has all the skills and capabilities you need, but reject them because you don't want to be around, or work with, this person (especially on a daily basis!). You might non-renew or eliminate someone from a position depending on if you like them too. The ability to collaborate and work together is important afterall!
 - Phrases you may've heard before, such as "culture fit" or "marry your best friend," also relate back to this concept.
 
 While being likeable is important, as people often cannot choose who they get to work with or even be around, there's two other aspects to consider: trustworthiness and competence. Remember how I said likeability cannot replace respect? This is where it applies. Trustworthiness means you can trust someone to go through with what they say they'll do. Trust leads to reliability and respect, which should in turn lead to less risk. Many business relationships are also built upon trust; the kind where you can expect someone to work without watching them and/or not have them backstab you.
@@ -101,6 +113,8 @@ Of these three aspects, likeability, trustworthiness, and competence, I'd genera
 Someone could be extremely competent at their job, so an organization or system considers them a "valuable asset" they cannot financially afford to lose as well. That also means they're too valuable to *move* from their current role, which may mean getting passed over for promotions and any career advancement. These people could disregard the other two aspects, as their skills are what matters, but they may also be considered a single point of failure, or even a *risk*, in organizations. Were that competency to ever decline, able to be replaced, or no longer be a prohibitive cost to deal with, those people will quickly become replaceable rather than irreplaceable.
 
 ### **Handling Rejection**
+
+Many relationships amongst professionals are temporary. Above and below you in organizational layers are far more transient compared to relationships you may have with co-workers in the same layer as yourself. Most important, relationships are a two-way street; what works for you should work for others and vice versa or else you'll expect friction and conflict.
 
 Even if you're the most likeable person in the room, you won't always win everyone over. That's part of getting rejected, and experiencing rejection is normal and surprisingly common for people. It can happen in personal relationships, business relationships, trying for approval to do something, and many other cases. 
 
@@ -152,7 +166,7 @@ Gender shapes people's perceptions of teachers, whether people admit it or not. 
 
 With gender, teachers and professors may not fall under a "bona fide occupational qualification" (BFOQ), which means you may not discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982). Despite any legal protections that are made, perceptions and stereotypes may still persist. Additionally, BFOQ is often an *exception* to existing laws, [like Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) (U.S. Equal Employment Opportunity Commission, 2009).
 
-In addition to gender, as another example of perceptions, age may affect your authority in the classroom as well. Younger teachers, or teachers that look young, may *appear* to have less experience, so students may question their authority and be more openly hostile compared to an older teacher. 
+In addition to gender, as another example of perceptions, age and appearances may affect your authority in the classroom as well. Younger teachers, or teachers that look young, may *appear* to have less experience, so students may question their authority and be more openly hostile compared to an older teacher. Someone who's attractive, but in an poorly-kept outfit, may also *seem* less effective than a well-tailored outfit on a less attractive person.
 
 ### **The First Impression**
 
@@ -176,11 +190,11 @@ When evaluating claims about consequences, rigor, and standards in education, th
 
 ### **External Stakeholders and Investors/Donators**
 
-An educator may call stakeholders (and administrators) "fireflies" or people who wear a suit inside an office all day, hence their suits are shiny and fresh.
+An educator may call stakeholders (and administrators by extension) "fireflies" or people who wear a suit inside an office all day, hence their suits are shiny and fresh.
 
 You could include "higher ups" here if you wish. I won't mind and it's likely close enough anyways. You could also view them as people who don't "do the work," but can block any work done, if you prefer a negative connotation instead.
 
-A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education.
+A stakeholder, investor, or donator here can be either individuals or organizations from inside or outside education systems, but have at least committed (hopefully in writing) resources towards education. **Always assume any stakeholders are FOR-PROFIT, not non-profit, unless proven otherwise beyond a reasonable doubt.** They will expect, if not demand, to see a return on their investment and push for methods to see said profit.
 
 Stakeholders can include a broad and diverse group of people. In the context of this book, these are generally people who can influence education without being directly integrated into an education system. Stakeholders may also include decision makers often far removed from typical classroom settings (i.e. the "frontlines"). This may include politicians, members of the State, government officials, consumer organizations, district-level employees like superintendents and directors, testing organizations, vendors, school boards, publishers, and more. They often hold the authority to make decisions affecting those classrooms, schools, education systems, etc. for better or worse. This includes, but is not limited to, imposing budgeting decisions like eliminating hot lunches or limiting/increasing resources for the next fiscal year in certain regions and facilities.
 
@@ -210,6 +224,8 @@ Whether or not there is a lack of classroom management skills, if that's a conce
 - As covered before in this book: excessive micromanagement is *bad* and quite often goes against the goals of a manager.
 
 Much like how employees have bosses/managers, if you're a teacher/instructor and have a good administrator, you'll just "know." It's hard to describe the sensation in text and is something you'll have to experience yourself to fully understand, but you will appreciate a good "boss" when they're there. Good administration *alone* is significant enough, though sadly uncommon, to determine what educators and other staff may tolerate in a given environment. If you have a bad administrator, however, a lack of administrative support is a significant reason why educators leave. People quit managers, not jobs, so to speak.
+
+Unfortunately, a good administrator may be rare not because it is hard to be one, but because the education system does not support the policies, attributes, resources, etc. to sustain one. They may also be removed from service as they don't follow an "agenda" pushed by the stakeholders above them in a given hierarchy.
 
 Administrators have a lot of real, tangible power to affect education systems, but also often have their hands tied on issues beyond their control. They may recognize where things need, and should, be changed but the problems are systemic and outside their personal control. Perhaps they're not allowed to be honest about the problems either at risk of removal. Other reasons may include blockers like state and federal regulations and strict legal consequences for many actions. It shouldn't be a complete surprise if they have to enforce a decision they, and their direct reports, disagree with and know is foolish, but is mandated regardless from an "outside" authority.
 
@@ -330,7 +346,9 @@ Much like parents, this category of students is the next closest thing you'll ge
 
 In terms of classroom management, educators may even be allowed to let adult students "dig their own graves" so to speak. They're likely paying for their own tuition and education costs, so if they lack any maturity and foresight to treat that investment seriously, that's a student issue. In this case, educators fulfill their roles by giving students the materials and means to succeed, but put the responsibility of achieving that success squarely on the students.
 
-For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have more legal responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for their own decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy *but* also more reponsibility for their own actions.
+This is why, from a student's perspective, professors and post-secondary education may seem more relaxed. Educators at these levels don't need to deal with minors, or underage students, and those myriad laws no longer apply to adult students. "Strict" classroom management may be loosened up due to societal expectations from adults as well.
+
+For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say and there's generally a lot more leeway, but everyone, teacher and student, have both more responsibility and freedom compared to younger students. Boundaries and professional demeanor still matters. *Both* teacher and student can face adult consequences for their actions. These students are also old enough to sign off on and hold responsibility for their own decisions, documents, agreements, etc. without a parent or guardian, which results in more autonomy *but* also more reponsibility for their own actions.
 
 Compared to younger students, adult students may vary even more widely in demographic features, such as age, gender, and more. There may also be a technology gap, such as one group of adult students not even knowing what tech savvy means and another group who eat and breathe the latest technology for breakfast *together in the same class*. Said technology gap may be a blocker to *how* you deliver education to those students.
 
@@ -338,25 +356,26 @@ Their motivations are generally more towards achieving a specific goal. This may
 
 ### **Non-adult Students (Minors)**
 
-**Why do these students fall under clients? It's because they also receive educational services!** 
+**Why do these students fall under clients? It's because they receive the educational services!** 
 
-You might think only parents are "stakeholders" for their children/the students. That's not quite the case. The education system has society as a whole as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals so they can contribute back to society later in their lives. Considering "society" encompasses the entire human population, society should have a vested interest in a student's education and ensuring resources are available for students.
+You might think only parents are "stakeholders" for their children/the students. That's not quite the case. Society as a whole acts as the student's stakeholders. Education, especially *public* education, provides learning opportunities to individuals so they can contribute back to, and function inside of, society later in their lives. Considering "society" encompasses the entire human population, society as a whole should have a vested interest in a student's education and ensuring available resources for students.
 
-That's where the comparison to clients stops with them, because this section talks about students strictly considered children (i.e. minors) under the legal, adult age in a jurisdiction.
+That's where the comparison to clients stops. This section talks about students strictly considered children (i.e. minors) under the legal, adult age in a given jurisdiction.
 
-Minors and non-adult students don't follow all the same rules as adults when it comes to education systems. Students may be genuinely wonderful and doing things beyond your expectations. Students may also be "assholes" to adults too, even if said adults display and show nothing but kindness and care towards these students. Don't be afraid to get higher, legal authorities involved if that's the case and they truly cause issues. Remember, however, many younger students genuinely do not know any better because they haven't been *taught* any better. This is why it's important for educators to establish any procedures and rules for their students *from the beginning.*
+Minors and non-adult students don't follow all the same rules as adults when it comes to education systems. Students may be genuinely wonderful and doing things beyond your expectations. Students may also be "assholes" to adults too, even if said adults display and show nothing but kindness and care towards these students. Don't be afraid to get higher, legal authorities involved if students truly cause issues. Remember, however, many younger students genuinely do not know any better because they haven't been *taught* any better. This is why it's important for educators to establish any procedures and rules for their students *from the beginning.* It's also why it's important administrators, parents, and other stakeholders reinforce these procedures so all students learning journeys are not compromised. remember that it is not *solely* the educator's fault.
 
-There are some consistent patterns I observed with students (young *and* adult) in classes as an educator:
+There are some consistent patterns I observed with students (mostly young, but also adult) in classes as an educator:
 1. The best students are held accountable at school, home, *and* outside of school in general.
 2. Students may lie to avoid doing "work" and to avoid consequences.
+    - Students also may actively seek opportunities to avoid doing work.
     - One major reason why I say to maintain records, collect evidence, and document events and interactions.
-3. They deal with many of the same problems you had as a child (assuming the reader is an adult here), but with somewhat different mechanisms depending on their environment.
-4. Students (i.e. Minors) cannot control whether or not they come to school. Parents and legal mandates do.
+3. They deal with many of the same problems you may've had (assuming the reader is an adult here), but with somewhat different mechanisms depending on their environment.
+4. Many students (i.e. Minors) cannot control whether or not they go to school or engage with education. Parents and legal mandates affect that here.
 5. Students are always testing you.
 
-If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. If a student were truly smart or benevolent, they'd also know not to cause behavioral issues. I've also seen cases where people were extremely good at manipulation of staff, peers, etc. to get what they want too.
+If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. Much like how a king shouldn't need to say they're a king, if a student were truly smart or benevolent, you'd likely know because they aren't displaying behavioral issues. I've also seen cases where people were extremely good at manipulation of staff, peers, etc. to get what they want too, so appearances can be deceiving.
 
-As for managing students in the shoes of an educator, teacher, etc. I may sound harsh here, but **don't smile until Christmas.** That doesn't mean don't literally smile or be an asshole, but instead maintain structures, routines, and high expectations with students. You shouldn't be "friends" with students, because all it takes is one uncomfortable student (or someone telling someone else that'd be uncomfortable with it) and that can end an educator's career pretty quickly. If you don't want a comment, action, or conversation plastered over social media or the news that affects your livelihood, *you should probably avoid it.*
+As for managing students in the shoes of an educator, teacher, etc., I may sound harsh here but **don't smile until Christmas.** That doesn't mean don't literally smile or be an asshole, but instead maintain structures, routines, and high expectations with students. You shouldn't be "friends" with students, because all it takes is one uncomfortable student (or someone telling someone else that'd be uncomfortable with it) and that can end an educator's career pretty quickly. If you don't want a comment, action, or conversation plastered over social media or the news that affects your livelihood, *you should probably avoid it.*
 
 Additionally, the more things students are kept busy with or doing inside of a classroom, the fewer behavior problems they might cause because you're redirecting their attention. It's harder to cause issues elsewhere when they're dealing with "problems" right in front in them, so to speak.
 

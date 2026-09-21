@@ -22,12 +22,14 @@ nav_order: 10
 
 **In my experience, you can fix most (80-90%+) classroom management issues with three actions:** 
 1. Consistently (and actually) enforcing discipline and consequences for actions
-2. Allowing students to fail
+2. Allowing students to fail and letting them experience the consequences of failure
 3. Limiting classroom size/number of students instructors manage
 
 While educator competence and ensuring a safe and secure environment are also important aspects, this chapter is focusing on *management* problems.
 
 A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, students, etc.). It's a reality whatever plan you establish may experience failure due to factors outside your control. Additionally, once there is a certain amount of troublemakers among students, no management plan can reliably save any teacher and they can only do the best they can at that point.
+
+As an example, say I want to manage the attendance of students (i.e. "where are they at"). They enter a facility, area, etc. managed by administrators, but later go into a classroom where teachers are located. Teachers here record and monitor attendance *in their classroom*. Administrators (and any support staff assisting) oversee student presence and attendance *in the facility*. Students (and parents bringing in students for K-12 education) are responsible for getting to the facility and later getting to the exact part in said facility, like a classroom, where they should be. Each level of granularity has its own responsibilities, however, so shifting blame solely towards one party is a faulty approach. Gaps between layers need responders to address those gaps, however, or you get diffusion-of-responsibility issues as a result. You also need ways to check for discrepancies, such as verifying student status between carding in at 08:00 and arriving to the classroom at 08:10.
 
 Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
 - It's so significant I'd recommend you find out *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
@@ -51,7 +53,7 @@ What seems normal and reasonable everywhere else for management is normally not 
 
 Across many of these policies is the need for structure. Having no structure is writing a recipe for disaster, even within "good" education systems. You could have the best lesson plans and content in the world, but it means nothing if there's not a structure to handle punishments for students (i.e. consequences for actions) and write referrals. You also need structure to scale up systems to accommodate thousands, tens of thousands, hundreds of thousands, and even millions or billions of students at once.
 
-**"Strong classroom management" requires enforcing rules and consequences instead of eliminating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter any out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through.
+**"Strong classroom management" requires enforcing rules and consequences instead of eliminating rules and consequences *at every level in an education system*.** Good management can *mitigate* risk and issues, but not fully eliminate the chance of them occurring and fully deter any out-of-control factors. Positive intervention practices (e.g. PBIS) are one method to mitigate issues in the present and future, but you still need other methods to handle serious infractions and when "Plan A" falls through. Due to this shortcoming, PBIS without proper resources to support it and altering expectations of those involved is a risky maneuver in education.
 
 Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment. Perhaps they become simpler or more boring too, which is fine as long as it works positively. You could also have people easy to "manage," but difficult to work with. Generally speaking, I find the older the students are, the easier they are to teach.
 - E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
@@ -226,9 +228,23 @@ Students that are suspended once have a higher probability of experiencing and c
 
 Many students who already do their work anyways, but cause issues, will likely do work while suspended anyways. If students wouldn't do work anyways, a suspension may not suddenly change that habit.
 
-Two common forms of suspensions are ISS (in-school suspension) and OSS (out-of-school suspension). OSS, while disruptive to *other* people involved in education, such as a student's parents, may not impart any real punishment or reflection on the student. This could be because it isn't taken seriously as a punishment by the student or said student was left unsupervised to do whatever they wanted in the first place away. In a way, OSS relies on inconveniencing other people enough it's made a problem for more people than just the student and it incites a resolution.
+Two common forms of suspensions are ISS (in-school suspension) and OSS (out-of-school suspension). OSS, while disruptive to *other* people involved in education, such as a student's parents, may not impart any real punishment or reflection on the student. This could be because it isn't taken seriously as a punishment by the student or said student was left unsupervised to do whatever they wanted in the first place away. One could even say this is an issue on the *parent's* fault, or their surrounding environment, because the suspension put them in a place they wanted to be at anyways. For it to have any teeth, OSS relies on inconveniencing other people too so it's made a problem for more people than just the student and it incites a faster resolution.
 
 ISS, on the other hand, requires *removing* the student away from a classroom and sent to a secure location on campus under the purview of the education system. This requires additional resources, such as a space and staff to overview it, which may strain systems with already low resources available. The same problems with OSS appear in ISS as well, if the punishment isn't taken seriously by the student(s), there's no remediation done to mitigate future problematic behaviors, and if they're rewarded instead of punished for taking away learning and opportunities from other students.
+
+### **Remote Learning**
+
+Technology affects how education is delivered and handled across nearly every layer and part of an education system. Sometimes adapting technologies and processes is accelerated, to potentially unexpected and/or undesired effects, due to problems like significant disasters and public health emergencies. One notable example is the spread of the COVID-19 virus (CDC, 2024).
+
+I'll define remote learning as any learning done where teachers and students don't share a physical space at the same time. The mediums for delivery may vary over time, but both teachers and students utilize various technologies capable of recording and transmitting video, sound, images, files, and more.
+
+Problems arise when you remove physical learning environments from the equation. While it may be easier for teachers to deliver the learning material and any content to students, despite any initial and forced curricula changes, *managing* those students becomes significantly more difficult. 
+
+Education systems cannot reasonably guarantee any sort of equity, accessibility, and technology is provided to students for the remote learning environment. The lack of a physical environment also means fewer opportunities and means to interact with peers and teachers as well. Students (and children) also need redirection from distractions and supervision. Parent/guardian interventions and oversight is strongly encouraged in K-12 education, if not outright required, due to physical separations between teacher and students. 
+
+Students can also disable certain features on their end, without an educator/administrator doing so for them, such as showing their face on camera, to mask any behavior, learning, or participation issues. This risks decreasing instructional time and lowering the amount of learning for the student that could be done *through no fault of the teacher's.* The willingness to go through with these actions is the student's responsibility here. Any typical physical interventions, such as sending a student to an administrator in some K-12 education, are also transformed and may conflict with regulations on tracking student attendance/presence inside the "school" here.
+
+Is remote learning *good* though? It can be, but if you remove consequences, expectations, standards, and responsibilities from the students, they may suffer behaviorally and academically.
 
 ### **Addressing Student Accommodations**
 
@@ -292,7 +308,7 @@ Even for mild complaints, it's still worth double checking at a later point beca
 
 ### **What About Allowing Cell Phones (and Similar Technology) in Classrooms?**
 
-**Don't.** **For colleges and K-12 classrooms, *especially* no.** 
+**Don't.** **For K-12 classrooms, *especially* don't.** 
 
 Even if it proves to be yet another logistical challenge to enforce, the benefits of not allowing cell phones far outweigh the costs. This answer still remains the same, in the future, if another type of technology replicates much, if not all, of the functionality of cell phones in 2025.
 
@@ -485,6 +501,8 @@ What are ways to "fight" these battles? It depends on what you're allowed to say
 3. Burgess, L. G., Riddell, P. M., Fancourt, A., & Murayama, K. (2018). *The Influence of Social Contagion Within Education: A Motivational Perspective.* Mind, Brain, and Education, 12(4), 164–174. [https://doi.org/10.1111/mbe.12178](https://doi.org/10.1111/mbe.12178)
 
 3. Carrell, S., Hoekstra, M., & Kuka, E. (2016). *The Long-Run Effects of Disruptive Peers.* [https://doi.org/10.3386/w22042](https://doi.org/10.3386/w22042)
+
+3. Centers for Disease Control and Prevention. (2024, June 13). *About COVID-19.* CDC. [https://www.cdc.gov/covid/about/index.html](https://www.cdc.gov/covid/about/index.html)
 
 3. Dantes, R. B., Kaur H., Bouwkamp B. A., et al. (2023). *Sepsis Program Activities in Acute Care Hospitals — National Healthcare Safety Network, United States, 2022.* MMWR. Morbidity and Mortality Weekly Report, 72(34). [https://doi.org/10.15585/mmwr.mm7234a2](https://doi.org/10.15585/mmwr.mm7234a2)
 

@@ -42,6 +42,8 @@ Last, but not least: **the best managers are the ones who know when to pick thei
 
 Though a common solution is smacking about someone with a large trout, more civilized approaches are necessary for rapport and management.
 
+Proper management is also how we avoid, or at least mitigate, getting instantly crushed by a metaphorical Delta P scenario.
+
 The vast majority of education is actually management and paperwork. If the Legality chapter showcased what you *may* do in education systems and some restrictions involved, the management chapters peer into what you *can* do with the people you work with, including students. We'll look at management in many ways to help you inform practices in education, such as management in general, scaling systems, handling operations, and management at the classroom level.
 
 If a good manager leaves, good people under them may follow soon after. Good leadership is hard to find and can be the one thing keeping people around even during hard times.
@@ -174,11 +176,13 @@ There are rules (that are more like "guidelines") you should follow with every m
 
 **Many rules that work with one group of students/people may not translate over to another group of students/people.** Teachers across grades and school types operate in different teaching, management, development, and accommodation contexts. Adapting your rules to fit these contexts is necessary.
 - Example 1: A Kindergarten teacher and a 12th grade teacher may share some classroom management rules and procedures, but how they're best executed, written, and taught vary significantly enough it's like handling two completely different groups of people.
-- Example 2: Accounting for differences in culture, resources, and student behavior between Title 1 schools and affluent schools require different types of rules, rule enforcements, and accommodations for learning.
+- Example 2: Accounting for differences in culture, resources, and student behavior between less affluent schools and more affluent schools require different types of rules, methods of enforcing rules, and accommodations for learning.
 
-### **Maintaining Appearances (Perception)**
+One example of the above is with [Title 1 schools in the United States](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/title-I) that include low-income students (U.S. Department of Education, 2020). Disadvantaged, at-risk, or underachieving/low-achieving students require specialized learning, different management methods, and additional resources to support their operations compared to other systems *without* those students involved.
 
-Good managers can turn chaos to order.
+### **Maintaining Appearances (i.e. Perception)**
+
+Good managers can manage chaos.
 
 There are four levels of managers ranked from best to worst in most environments (from what I've been around):
 1. Competent and technical manager
@@ -188,7 +192,7 @@ There are four levels of managers ranked from best to worst in most environments
 
 The first and last rankings are as expected. Competence means you do things well and "technical" means you have the background knowledge to properly inform your decisions. 
 
-When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. Technical managers, who are weak on the management part, may overcome the incompetence through educated reasoning on how to reach the finish line, mentoring along the way, researching how to manage people, and finding ways to hand-hold their employees when things go south. The issues occur when managers, technical or not, step in too much, micromanage, and dictate processes they're not well equipped to handle themselves. 
+When competence and technical skills aren't aligned, that's when things get messy. Non-technical managers are good if they can trust their team to make technical decisions and know when they should be hands off vs hands on. Technical managers, who are weak on the management part, may overcome the incompetence through educated reasoning on how to reach the finish line, mentoring along the way, researching how to manage people, and finding ways to hand-hold their employees when things go south. The issues occur when managers, technical or not, step in too much, micromanage, and dictate processes they're not well equipped to handle themselves. Generally speaking, I find it's easier to refine how you manage people and communicate instead of spending the time to get all the technical knowledge needed for roles, hence my positioning on rank 2 and 3.
 
 Remember that managing is a different job. Engineers may manage computers, tasks, and technical know-how, but managers manage *people*. Managers understanding the human element and the business impact may help more than knowing all the functions of a particular tool. They should get their team(s) the reach and resources to accomplish goals, justify why they're worth the money/ROI to administration, and ensure their employees/peers/subordinates/etc. thrive in their positions. They also need to know when to divert, invest, or push back against queries and work for their team alongside meeting schedules and deadlines so their problems don't run downhill to their employees. Despite all this, it doesn't contradict what I said earlier. Learning about technical skills, even just to understand business and project-specific needs, is absolutely essential.
 
@@ -490,6 +494,8 @@ The third part concerns not what is said, but *how* it is said. Some emergencies
 5. School Pulse Panel - Interactive Results. (2025). Nces.ed.gov. [https://nces.ed.gov/surveys/spp/results.asp](https://nces.ed.gov/surveys/spp/results.asp)
 
 6. Stern, B.S. (2004). *A Comparison of Online and Face-To-Face Instruction in an Undergraduate Foundations of American Education Course*. Contemporary Issues in Technology and Teacher Education, 4(2), 196-213. [https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course](https://citejournal.org/volume-4/issue-2-04/general/a-comparison-of-online-and-face-to-face-instruction-in-an-undergraduate-foundations-of-american-education-course)
+
+7. U.S. Department of Education. (2020). *Title I.* U.S. Department of Education. [https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/title-I](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/title-I)
 
 7. Voss, C., & Raz, T. (2016). *Never split the difference: Negotiating as if your life depended on it*. Harper Business. [https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews)  
 

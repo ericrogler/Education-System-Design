@@ -29,11 +29,11 @@ Mathematics is both absolutely necessary and extremely unimportant at the same t
 
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
-Applying math is what makes money and affords goods and services to keep you alive.
+Math is primarily the exploration into *how and why* things work, creativity, and problem solving. *Applying* math is what help makes money and afford goods and services to keep you alive. The more math you know, the more problems you can solve and the easier *nearly everything* becomes.
 
-If you need to know "why is math important," then there's your answer: you need math to apply it to many problems you need to solve.
+If you needed to know "why is math important," then there's your answer. Just learn math please.
 
-Does that mean you need to be a genius at math to survive? Of course not. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
+Does that mean you need to be a genius at math? Of course not. Much like how everyone who takes history classes won't become historians and scholars, everyone taking mathematics isn't later on a mathematician as a profession.
 
 The field is so incredibly diverse that no one single person will likely ever perfect mathematics in their lifetimes, but everyone can at least show appreciation for mathematics. That appreciation could be shown by students taking the initiative to try and solve problems themselves and flex their creativity instead of only being told how to solve it. Much of the history and discovery process behind math in education is thrown to the wayside in favor of getting straight to the applications of math.
 
@@ -107,7 +107,7 @@ Basics includes items like functions, decimals, percentages, fractions, times ta
 
 It also includes concepts like how an equals sign (=) means replaceable, the nature of numbers and number sense, order of operations (e.g. PEMDAS or GEMS) and what a percent actually means. Basics also includes physical manipulatives for activities, like counting out coins and cash when people pay, because you can interact with them *and* they cross language barriers.
 
-In educating, I found it a touch concerning when I cover a topic and people don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition. Cognitive outsourcing shouldn't ever become a default state for students when it comes to the basics. To give more examples of cases I've seen which result in blank stares, wildly incorrect answers, or resorting to a calculator:
+In education, I find it a touch concerning when I cover a elementary topic and students don't know division, fractions, decimals, and percents are related to each other, if not different ways to write the same thing. For reference, this is middle school and beyond students (grades 6-8+) where many of these concepts should be reinforced far earlier (grades 3-5). It's even more concerning when students who are adults, or almost adults, cannot perform simple mental math and struggle with the basics like subtraction and addition. Cognitive outsourcing shouldn't ever become a default state for students when it comes to the basics. To give more examples of cases I've seen which result in blank stares, wildly incorrect answers, or resorting to a calculator:
 - What is the same number as three?
 - What is one half of ten?
 - What happens when two letters (i.e. variables) are next to each other?
@@ -233,7 +233,7 @@ That might sound really confusing at first and validly so. I will confirm, howev
 
 When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know, and cannot avoid, *proof(s).* You have to argue *why* an equation, formulae, or theorem works the way it does. These proofs are not necessarily exclusive to higher math, and could be learned at an early age, but are definitely more abundant in higher math. Depending on how math was taught to students, someone may've experienced proofs far earlier in their learning journey.
 
-Why proofs matter is because you need to convince people that something is true. You need *proof*. Getting into the dark underbelly of proofs *too* early is counterproductive though, like an untrained person trying to tackle the nuances of an attorney on their first day. You may be fine with simple proofs initially, however, especially when an instructor's goal is seeing if you can reason through them from day one rather than waiting 2-3+ years before more complex proofs are introduced.
+Why proofs matter is because you need to convince people that something is true. You cannot do this well, or at least easily, unless you've gone beyond memorization of procedures and exercised your creative thinking skills. An educator cannot do all this for a student, as the student themselves must put in sufficient time and practice to be ready. You *will* need to solve problems you've never seen before and have to fall back on your creative thinking and problem solving skills you hopefully built up by now. Getting into the dark underbelly of proofs and higher math *too* early is counterproductive though, like an untrained attorney trying to tackle all the nuances of a courtroom on their first day. You may be fine with simple proofs initially, however, especially when an instructor's goal is seeing if you can reason through them from day one rather than waiting 2-3+ years before more complex proofs are introduced.
 
 A lot of earlier math is taught based around several proofs and assumptions as well, such as "X is used to solve this problem, so X is the correct formula to do so." Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it follows the rules and constraints its bound by.
 - In other words, a lot of higher math is learning more how you can make your own proofs to solve things without numbers readily available and deterministic models unavailable.

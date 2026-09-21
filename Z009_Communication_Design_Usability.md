@@ -13,6 +13,14 @@ nav_order: 17
 
 - Herbert Simon (1971)
 
+> Megamind: "Oh, you're a villain, alright! Just not a SUPER one!"
+>
+> Titan: "Oh, yeah? What's the difference?"
+>
+> Megamind: "PRESENTATION!"
+
+- Megamind & Titan, *Megamind* (McGrath, 2010)
+
 ---
 
 Being a teacher also means being a designer. Materials extend and enhance your teaching and communication. 
@@ -32,7 +40,15 @@ When in doubt, design for clarity and simplicity over consistency. Designing goe
 
 ## **Long Answer**
 
-Every role requires communication skills. Even the ones where communication *seems* sidelined in technical jobs, such as programming, analysis, and engineering. Education *especially* requires communication skills. Curricula fall apart when it cannot be communicated in simple enough terms, afterall.
+If there's one problem that will always exist inside, and outside, of education systems, it's getting the information you need and other people not saying what they need (e.g. "business requirements") clearly. Hopefully, this doesn't mean your superiors say "Landline" or "take this off call" so they can chew you out without it being on record.
+
+A second problem is how you label yourself. A teacher does share many of the same skills as an engineer, manager, analyst, and other technical roles, but you may not realize it at first or communicate that to others when the time comes to do so.
+
+Therefore, every role requires communication skills. Even the ones where communication *seems* sidelined in technical jobs, such as programming, analysis, and engineering. Education *especially* requires communication skills. Curricula fall apart when it cannot be communicated in simple enough terms, afterall.
+
+Lastly, if you're ever curious about the effect of employee or user feedback in an education system? Ask about the last thing a person, organization, etc. implemented based on employee/customer feedback communicate to them and the impact it had.
+
+### Reinventing The Wheel
 
 **Before continuing, recognize that:**
 1. Someone else probably did what you want to do before.
@@ -56,7 +72,7 @@ You don’t always need to invent new ideas, but you do need to be good at teach
 ### **The User (Student) Experience**
 Imagine you're using a website or playing a video game for the first time. You may not know how to use it to its full potential, or you're going in with some knowledge of conventions and standards about how this website or game should operate. Some conventions are commonly known and understand, like what a stop sign is at a road interaction, and other conventions are less known.
 
-It's an easy assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing any of the following such as (Krug, 2014):
+It's an easy, but not always correct, assumption to think students know how to navigate through the content like the designer/teacher does. In reality, that couldn't be farther from the truth. You may find your students, and maybe you, doing at least some of the following such as (Krug, 2014):
 - Scanning text instead of reading text
 - Settling on a reasonable first solution
 - Stumbling through how something works
@@ -174,6 +190,8 @@ It's entirely possible for something to be good for someone or something, but th
 2. Simon, H. (1971). *Designing Organizations for an Information-rich World.* Baltimore, MD: Johns Hopkins University Press. pp. 37–52.
 
 2. Krug, S. (2014). *Don’t make me think.* Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
+
+1. McGrath, T. (2010). *Megamind.* Paramount Pictures.
 
 2. New York State Education Department (NYSED). (2018). *Culturally Responsive-Sustaining Education Framework*. [https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf](https://www.nysed.gov/sites/default/files/programs/crs/culturally-responsive-sustaining-education-framework.pdf)
 

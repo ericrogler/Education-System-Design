@@ -31,7 +31,7 @@ In general:
 6. You could be an amazing educator, but if the system doesn't support you and/or students don't engage with your instruction or what you're providing, then you're fighting an uphill, or even losing, battle constantly.
 7. **Rigor requires maintaining standards and allowing the possibility of failure for ALL students.**
 
-**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. In practice, when designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), which means you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
+**Lessons should NOT be differentiated without good reason,** such as language acquisition issues or professionally diagnosed medical disorders. This viewpoint may be overly pragmatic and run contrary to a modern perspective advocating for differentiating instead. In practice, when designing learning for any given content, you only have a limited amount of time and resources to cover what you need to cover. This means fighting depth vs breadth (how specific vs how general) and academic rigor vs inclusion (for whom), so you're defining scope... *like a manager would.* Differentiation can risk affecting educational quality negatively and *not* meeting standards.
 - It's extremely difficult and complex to scaffold and differentiate for every *individual* student as well, but you could still scaffold for *groups* of students. This issue quickly compounds and doesn't scale well as you increase the number of students under a given teacher.
 
 ## **Long Answer**
@@ -44,7 +44,7 @@ As for other opinions, students with behavior problems should be outright separa
 
 I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles) (Riener, Willingham, 2010)). There are optimal ways to learn topics, sure, but there are different ways across different topics and you can teach in multiple ways at once. For examples, this includes the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.), flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/). Direct instruction is also an effective way of learning when done well.
 
-Sleep is also important. You should not neglect sleep because it affects learning. If you don't get enough sleep, you won't enhance your learning ability (Walker, 2017).
+Sleep is also important. If you don't get enough sleep, you won't enhance your learning ability (Walker, 2017).
 
 Sometimes a student might complain that all they ever do is work, and they're right. That's the teacher's job, to teach in a class to students. Learning *is* work. If you don't put any work into it, whatever you're learning about likely won't stick for long. 
 
@@ -53,8 +53,8 @@ Were every day a free day, students wouldn't get any real learning done. If you'
 
 *All that said, let's approach this subject carefully.*
 
-Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other parallels:
-- It is far easier (and usually lower cost) to limit variety and handle the production for 1 type of hamburger vs 30+ types of hamburgers.
+Before we dive into further topics, I want to emphasize one point: **It is significantly easier to teach multiple students at the same level vs multiple students across widely different levels.** If this sounds "harsh," consider these other, non-education parallels:
+- It is far easier (and also usually lower cost) to limit variety and handle the production for 1 type of hamburger vs 30+ types of hamburgers.
 - Logistics are typically easier transporting 60 people to one location vs 60 people to multiple locations.
 - It's less taxing on employees to maintain one version of an application rather than developing backwards compatibility and/or cross-functionality on multiple, different operating systems.
 - Assembly lines are easily configured to optimize production on one product compared to setting up multiple production lines for multiple products.

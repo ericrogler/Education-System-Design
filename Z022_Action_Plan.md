@@ -7,9 +7,9 @@ nav_order: 32
 
 ### [Previous Chapter](Z021a_Engineering_Architecture.html)
 
-This section intentionally does not have a short answer/long answer format like other chapters. It is a "guide" for educators setting up classes for the first time, taking into consideration all the other information from previous chapters.
+This section intentionally does not have a short answer/long answer format like other chapters. It is a "guide" for educators setting up classes and learning experiences for the first time, taking into consideration all the other information from previous chapters.
 
-Remember that what you encounter in education today may be *drastically* different from when you yourself went through education as a student. Don't say I didn't warn you! Reality may do a number on you.
+What you encounter in education today may be *drastically* different from when you went through education yourself as a student. Reality may do a number on you, as teaching is a job that only *sounds* easy.
 
 Fortunately, or perhaps *unfortunately*, teaching is one of those professions where what you may do year 1 is the same as year 30. The job at its core is surprisingly complex, but there's also little graduation in responsibility and duties outside of any external factors, like new regulations, a sudden pandemic, or new technologies, altering them significantly. The *teaching* part is often the easiest part amongst everything you may deal with.
 
@@ -35,7 +35,7 @@ For myself, a period of three years, massively oversimplifying, in education wen
 
 Some readers may draw similarities to the Dunning-Kruger effect, which is nearly exactly what's illustrated above (Kruger & Dunning, 1999). You're starting with little experience and think you have more knowledge than you really do. It includes how much you overestimate you're getting better and underestimate the amount of practice you actually need. The road to competency, especially in the first year, will likely, if not certainly, be fraught with failures and mishaps to humble this false confidence before you start improving and actually get competent.
 
-**If this is your first year teaching, you're going to struggle with management. That's not meant to scare you off, but a lot of people falsely assume teachers just teach and that couldn't be farther from the truth.** If you're a first year educator, employee, etc. you may also be subject to more observations and sometimes pushed to do things to avoid termination, rather than an educator with many years of experience. Precisely because you do not have a proven track record, or perhaps won the political game, you may be handed the most troublesome students to educate, which raises the difficulty of education for you, those students, and everyone else in that particular classroom.
+**If this is your first year in education, you're going to struggle with management. Do not falsely assume teachers just teach.** If you're a first year educator, employee, etc. you may also be subject to more observations and sometimes pushed to do things to avoid termination, rather than an educator with many years of experience. Precisely because you do not have a proven track record, or perhaps won the political game, you may be handed the most troublesome students to educate, which raises the difficulty of education for you, those students, and everyone else in that particular classroom.
 - The first year for many jobs typically involves struggling, which is normal, but especially so with teaching.
 - *This is why I made several chapters dedicated to management alone in a book on education!*
 - Do not be everything to everyone; focus on teaching and managing students.
@@ -54,7 +54,7 @@ Secondly, it's a misrepresentation of a George Bernard Shaw stage play scene rel
 
 Thirdly, another popular, but related quotation, "Those who can, do. Those who understand, teach." is often misattributed to Aristotle despite its likely origins from Lee Shulman talking about Aristotlean views (1986).
 
-Lastly, teaching, and by extension education, *isn't* just teaching. It's also management and a slew of concepts from multiple fields all packaged alongside teaching/education.
+Lastly, teaching, and education in general, *isn't* just teaching. It's also management and a slew of concepts from multiple fields all packaged alongside teaching to culminate in an education system.
 
 ### **"Office Politics" Primer**
 
@@ -62,12 +62,12 @@ Lastly, teaching, and by extension education, *isn't* just teaching. It's also m
 
 There are four critical parts to help ensure survival:
 1. Figure out what's legal and illegal.
-    - For education specifically, this includes SPED, intervention protocols, and accommodations.
+    - For education specifically, this includes SPED, intervention protocols, accommodations, etc.
 2. Establish management and procedures.
 3. Do the roles you're supposed to do.
-4. If given a week to do something, use that whole week.
+4. If given a week to do something, take advantage of that whole week.
 
-You're going to make mistakes. It's only a matter of when and how you deal with them, such as a mage carrying mana potions when they run out of mana: a resource to cast spells.
+You're going to make mistakes. It's only a matter of when and how you deal with them, such as a mage carrying mana potions for when they run out of mana (a resource to cast spells).
 
 Remember that first impressions are important. You're being *professional* here. It is critical you do not bite the hand that feeds you in the beginning. If you establish likeability early on, it is easier to maintain it. One small, half-second burst of uncontrolled anger or rage could even ruin your entire life afterall.
 
@@ -314,7 +314,7 @@ When templates are set up, every new assignment takes half the time to complete 
 
 ## **By Year 1**
 
-By end of Year 1, you should have your bearings in the classroom and an idea of your teaching style. You'll know which activities work, which activities don't, and how you prefer to deliver lectures, tests, quizzes, and more. You may have also formed initial impressions, conscious or not, of many students as well.
+By the end of Year 1, you should have your bearings in the classroom and an idea of your teaching style. You'll know which activities work, which activities don't, and how you prefer to deliver lectures, tests, quizzes, and more. You may have also formed initial impressions, conscious or not, of many students as well.
 
 At this point, focus on refinement and continuous improvement of teaching systems. Teaching combines many roles into one and you'll want to develop yourself professionally. Advice from here only helps if you put it into practice and implement it.
 

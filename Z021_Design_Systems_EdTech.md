@@ -283,6 +283,8 @@ A "suite" in this context typically refers to software or at least items 2 and 3
 
 A suite is an anchor to get you to use and purchase the company's products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing all parts of a suite. It's like a penthouse suite in real life. It comes with a lot of features you may or may not use during your stay. That's ok though, as you pay the upfront cost for the *opportunity* to have all these features bundled up nicely for you in case you *do* want/need to use them.
 
+Another way to design a suite is to make it so only your organization's parts function with what you provide. I'll use power tools and machinery as an example. Each tool functions with its own separate, but still essential parts, like yellow batteries only working with yellow tools, despite having a near identical shape, feel, and function to its red tool and orange tool competitors. In this way, you're "forced" to buy the yellow tool's other products to fully utilize the vast array of tools under its suite, which can enforce brand loyalty and continued revenue from users. There may also be a market soon after for adapters letting you use parts across different suites as a side-effect too.
+
 ### **Why Do We Need Integration Tests?**
 
 *Alternatively: Why Tests Matter*

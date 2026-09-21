@@ -1,9 +1,9 @@
 ---
-title: 23. Passporting & Information Transfer
+title: 23. Passporting, Information Transfer, & Other Duties
 layout: default
 nav_order: 25
 ---
-# Passporting & Information Transfer
+# Passporting, Information Transfer, & Other Duties
 
 ### [Previous Chapter](Z015_Guest_Teachers_Presenters.html)
 
@@ -32,7 +32,8 @@ In a position (e.g. teacher, educator, and instructor) where you often need all 
     - It's possible to earn significant enough wealth doing so too.
 - They're not willing to work with other people out of habit, pride, or similar disposition.
     - By extension, they may make it *more difficult* for you as well.
-- They cannot assist you, despite any desire to do so, due to a capacity problem with lacking time and/or expertise.
+- They cannot assist you, despite any desire or goodwill to do so, due to a capacity problem with lacking time, resources, and/or expertise.
+    - You might also not understand whatever help they provide either.
 - They are unable or unwilling to serve in a mentor role.
 
 Passporting isn't exclusive to education systems. The health of a community may be determined by its willingness to help out and bring on newcomers. Any toxic or bad community, fan base, group, organization, system, etc. can stagnate future growth and therefore invalidate their own complaints about them not keeping people around and getting new people in. 
@@ -133,7 +134,7 @@ Generally, this is handled at the administrative layer rather than the educator 
 
 In short, *everyone* follows the same rules or they don't play with each other.
 
-### **Substitute "Binder"**
+### **Substitute & Guest Teacher "Binder"**
 
 This is the one-stop-shop for everything a substitute teacher needs. Some items are review and you likely know about already while other items I'll cover more in-depth later. **Your goal is assembling a "binder" (or similar item/process) that, ideally, takes no more than 5-10 minutes to scan through in its entirety.** A summary, if you will.
 - When in doubt, and within reason, provide details about anything that may not be easily understood.
@@ -151,12 +152,23 @@ This binder may be expected to contain the following items accessible inside of 
 - Schedules
 - Staff Contact Information
 - Emergency Substitute Teacher Plans (In case of time/resource issues)
-- Regular Substitute Teacher Plans (Lesson Plans)
+- Regular Substitute Teacher Plans (Lesson plans & itinerary of classes they teach throughout the day(s))
 - Medical Information / Special Notes (IEPs, 504s, special conditions of students, etc.)
 - Special Education
 - Substitute Reflection Sheet
     - Often provided by other staff rather than teachers
     - If not provided, then 1-2 blank sheets of paper to write how their days went in case other contact methods unavailable or don't work.
+- Access credentials, such as a card, key, passcode, badge, etc.
+
+If a binder like the above is not feasible, then you may be fine with a leaner approach. For this example, assume we have a presenter with no knowledge of the area, no idea who else is here, and unsure what their accommodations are. All they know is they are doing X activity at Y location across X days.
+
+To alleviate issues, passporting guest educators, whether for an event or not, should still include at least the following items:
+- Where they will be staying (if they need lodging)
+- Locations of accommodations, like a cafeteria, bathroom, work rooms, etc.
+- Points of Entry/Exit
+- Access credentials, such as a card, key, passcode, badge, etc.
+- A map of the facility, building, site, etc. if able
+- An itinerary or schedule showing an hour-by-hour breakdown, at a minimum, of what is expected to happen across each relevant day the guests are here.
 
 ### **Emergency Substitute Teacher Plans**
 
@@ -302,10 +314,58 @@ If you want substitute teachers to actually cover for you now and in the future,
 
 Now, if the substitute teacher decides to ignore everything here, not bother following the plan(s), and even let the students do whatever they want, then you can absolutely document it, collect the evidence, and file reports to administration/HR against them.
 
+### **Additional Duties In Education**
+
+This is one of the shortest chapters.
+
+Depending on your assignment, you may have work outside of teaching your assigned subjects. This can include, but is not limited to:
+
+**Campus Duties**
+
+- Hall duty
+- Lunch/meal duty 
+- Before/after school duty
+
+**Instructional Duties**
+
+- Proctoring
+- Substitute Teaching (as a teacher)
+- Homeroom teacher
+
+**Student Activity Responsibilities**
+- Chaperone
+- Extra-curriculars
+- Field trips
+- Community service
+
+**Other Administrative Tasks**
+- Marketing materials
+- Point of contact for events
+- Research & grant requests
+
+Not every educator has to do ALL of these, but there's a high chance you'll do at least 1 of these, if not several, during your tenure.
+
+Most of these are self-explanatory (e.g., lunch duty = duties during lunch time, etc.), while others aren't as obvious. I'm also writing primarily from my own experience, so I fully expect differences between states, districts, and even school to school.
+
+**Homeroom teachers** are the primary teachers for specific grade levels, or student groups, and differ from general subject teachers. The exact duties of a homeroom teacher vary across education systems. It's where many administrative tasks may be handled at once related to students. Some schools may treat this as a brief, administrative period instead of a designated role for an educator, and can vary widely in implementation.
+
+The groups meeting their homeroom teachers are typically at the start or end of the school day. You're also a point of contact for parents, staff, and more for the students assigned to you, and you may need to attend meetings with non-students concerning your students.
+
+**Extracurriculars,** as a working definition, are anything not a part of standard curriculums. These are clubs, athletic groups, organizations, etc. There's one or more adults present amongst all students acting as supervisor and point of contact. For certain activities, like sports, you don't necessarily need a current teacher to be a coach, but requirements vary by state and sport. You employ similar tactics to teaching, but your goal is to excel in an activity, such as a chess club.
+- By "vetted" adult, that's typically who's passed the appropriate certifications, trainings, etc. for a jurisdiction *and* permitted by the educational facilities.
+
+**Field trips** are part "in the name" and part deceptively simple. Field trips require a significant amount of time to prepare beforehand to sort things such as getting enough funds, permissions from guardians/parents, administrative approvals, and transportation/lodging arrangements. Other factors depend on your exact situation which I won't list here.
+
+Means of transportation may be surprisingly strict in education. For example, teachers may not transport students in personal vehicles due to liability issues outside of rare, pre-approved emergencies. While staff can be vetted for transportation, they may still be restricted due to liability and on what vehicles they may use. Alternatively, a school may use contracted services like buses, shuttles, boats, planes, and trains.
+
+**Proctoring** is when you're observing students taking a test and is typically done through state standard tests, college admission tests like ACT and SAT, advanced tests like AP and IB, online proctor testing, and traditional room/exam hall testing.
+
+For traditional testing and tests for subjects in your classroom, you define how you monitor student activity, what is allowed, and what is not allowed. For tests used to transfer into higher education or state assessments, expect a proctor guide on how to monitor students taking the test, including the test schedule, time allotments, break schedules, and the arrangement of students and desks in the testing area. 
+
 ## **Bibliography**
 
 1. Electronic Code of Federal Regulations. (2025, August 18). *34 CFR 300.323 When IEPs must be in effect.* Code of Federal Regulations. [https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300/subpart-D/subject-group-ECFR28b07e67452ed7a/section-300.323)
 
 2. United States Code. (2025). *20 U.S.C. 1232g - Family educational and privacy rights.* Govinfo.gov. [https://www.govinfo.gov/app/details/USCODE-2024-title20/USCODE-2024-title20-chap31-subchapIII-part4-sec1232g](https://www.govinfo.gov/app/details/USCODE-2024-title20/USCODE-2024-title20-chap31-subchapIII-part4-sec1232g)
 
-## **[Next Chapter](Z017_Other_Additional_Duties.html)**
+## **[Next Chapter](Z018_Maintaining_Your_Health.html)**

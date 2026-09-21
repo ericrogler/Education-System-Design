@@ -1,9 +1,9 @@
 ---
-title: 17. Accommodations
+title: 17. Accommodations (and Modificiations)
 layout: default
 nav_order: 19
 ---
-# Accommodations
+# Accommodations (and Modifications)
 
 ### [Previous Chapter](Z010_Contrast_Framework.html)
 
@@ -15,9 +15,11 @@ nav_order: 19
 
 ---
 
-Many accommodations are not purely acts of good-will. They have legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they're likely under strict, legal protections and carry swift, significant consequences for breaking those protections. Lawsuits can be scary, so getting close to getting close to one may cause panic and affect how accommodations may be handled. Even if these rules don't actually exist, better to be safe than sorry and pretend they do.
+There's days I've seen a list of accommodations in front of me and I pointed out there's nothing there permitting the student to be an asshole. I wanted to get that off my chest at least, as straightforward clarity is often a kindness.
 
-There are unreasonable accommodations, of course, which you could push back against as permitted by law/policy. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. There's even accommodations made purely to avoid litigation, which are likely dubious in intent and distort the spirit of accommodations, but probably need to be followed anyways.
+Many accommodations are not purely acts of good-will. They have various legal protections, ethical necessities, and are often non-negotiable. You also may not openly disclose accommodations for any students as they may also be under strict, legal protections and carry swift, significant consequences for breaking those protections. Litigation can be scary, so getting close to violating accommodations one may cause panic and affect how future accommodations are handled. Even if these rules don't actually exist, better to be safe than sorry and pretend they do.
+
+There are unreasonable accommodations, of course, which you could push back against as permitted by law/policy. They should not enable or allow bad and poor behaviors from students to thrive, as an example justification. There's also accommodations you should support, fight for, and defend to not jeopardize a student's learning journey. Another type is accommodations made purely to avoid litigation, which are likely dubious in intent and further distort the spirit of accommodations, but probably need to be followed anyways.
 
 Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student in every context. This is not a moral failure, but a system limitation. **You can accommodate many needs easily, but you cannot address every need easily.**
 
@@ -28,7 +30,7 @@ Accommodations should provide equal opportunity for students to succeed in educa
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
-- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does is try to help their efforts in learning.
+- Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers. Its purpose is better supports and accessibility for learning.
 
 **Lastly, and this is the ONE takeaway every reader should remember if nothing else: Accommodations (and safeguards) in educational systems do not mean anything outside of them.**
 - i.e. they won't be protected from the "find out" stage of "fuck around and find out."
@@ -103,9 +105,9 @@ Several categories cover most accommodations you may see (Center for Accessible 
 - Setting (how environment is set up)
 - Timing/Scheduling (when work gets completed)
 
-These accommodations are commonly met through affecting the environment itself, assignment modifications, and curriculum modifications. Accommodations are quite different from modifications. Accommodations focus on *how* students learn, whereas modifications affect *what* students learn.
+These accommodations are commonly met through affecting the environment itself, assignment modifications, and curriculum modifications. Accommodations, however, are quite different from modifications. Accommodations focus on *how* students learn, whereas modifications affect *what* students learn.
 
-You may see many accommodations and modifications across plans like the IEPs and 504s mentioned earlier in the book. This chapter focuses on accommodations because modifications typically involve alternative assessments, work provided at lower difficulty, and/or complexity changes. I want to focus on what levels the playing field over changing it.
+You may see many accommodations and modifications across plans like the IEPs and 504s mentioned earlier in the book. This chapter focuses on accommodations because modifications typically involve alternative assessments, work provided at lower difficulty, and/or complexity changes. I want to focus on what levels the playing field over changing it. I will note, however, proving an accommodation is actually a modification may be grounds for not implementing a given unreasonable accommodation.
 
 To showcase their differences with examples:
 - Accommodation: highlighting text on assignments for a student

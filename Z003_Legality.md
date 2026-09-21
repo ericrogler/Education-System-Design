@@ -23,18 +23,20 @@ nav_order: 5
 
 *Notice: All information in this chapter is NOT legal advice.*
 
-There are at least two ways laws can be followed: by the letter of the law and by the spirit of the law. In either case, assume society's interpretation and disposition towards these laws is based on how a "reasonable" person may adhere to them. Additionally, what rules you must follow depends on location, subject, context, and employer.
+When rules are broken in public or out loud, one may not help but question what rules are then broken in private or quietly.
 
-Self-regulation in practice often works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from third parties and higher authorities exist.
-- More often than not, regulations are written in blood.
+There are two common ways laws are interpreted: by the letter of the law and by the spirit of the law. In either case, assume society's interpretation and disposition towards these laws is based on how a "reasonable" person may adhere to them. Additionally, what rules you must follow depends on location, subject, context, and employer.
 
-Tertiary education (colleges, universities, etc.) and secondary education offering college courses may operate under different rules compared to primary and secondary education as well.
+Self-regulation in practice often works about as well as you'd expect (i.e. poorly), which is why regulations and enforcements from third parties and higher authorities exist. **More often than not, regulations are written in blood.**
+- As a crude example: strict bathroom policies for students may exist because, in the past, bathrooms, and any related privileges, were exploited and became dens of violence, drugs, truancy, and vandalism threatening the sanctity of the learning environment.
+
+Tertiary education (colleges, universities, etc.) and secondary education offering college courses often operate under different rules compared to primary and secondary education as well.
 
 ## **Long Answer**
 
 *Repeat Notice: All information in this chapter is NOT legal advice.*
 
-If you must ask why a solution is not implemented, despite it being an obvious solution, that's when you need to look into the environment and underlying causes. Consider it may've been thought of and discarded before. Many policies you will see and implement, despite any extra work they make, are there to "cover your ass" ("CYA"). In case something goes wrong, you can point back to them and establish a defense in case of issues.
+If you must ask why a solution is not implemented, despite it being an obvious solution, that's when you need to look into the environment and any underlying causes. Consider it may've been thought of and discarded. Many policies you will see and implement, despite any extra work they make, are there to "cover your ass" ("CYA"). In case something goes wrong, you can point back to them and establish a defense in case of issues.
 
 Before we go into education itself, we must explore and address many of the underlying nuances and details hidden beneath the surface of education. Only then can you truly make any meaningful changes towards the future of education. Teaching students is just a miniscule part of the whole. Of these parts, the first I address is legality as it constrains what you *may* do, not just *can* do.
 
@@ -52,7 +54,7 @@ What is a law is still a law you follow in education. There's a lot of laws, but
 
 As for the less obvious, it depends on your area's jurisdiction. I'm most familiar with the state of Colorado in the United States, so many examples are from there and I will use Colorado as my primary reference for this chapter. Other states may have different organizations and/or the same organizations serving the same roles. If outside the United States, other bodies like a national education department or judicial group(s) may serve these roles instead.
 
-Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws listed out below. I don't expect to list, remember, or describe every organization, act, and law here, because that would be its own book, if not several books, on those alone.
+Using the State of Colorado as an example, I had some level of interaction with these types of organizations and laws listed out below as an educator. I don't expect to list, remember, or describe every organization, act, and law here, because that would be its own book, if not several books, on those topics alone.
 
 Here is a "small" sampling:
 - U.S. Department of Education
@@ -81,6 +83,7 @@ Here is a "small" sampling:
 - Software Organizations
 - Service Agencies
 - Contractors and "Subs" (sub-contractors)
+- ADA (Americans with Disabilities Act)
 
 For high schools with specialized tracks, colleges, universities, and specialist/certification programs, your list may include, but is not limited to, accreditations necessary for licensing and job requirements, such as:
 
@@ -94,7 +97,7 @@ For high schools with specialized tracks, colleges, universities, and specialist
 
 At the time of writing, education is considered a responsibility of the state, including its public and private organizations, to establish, fund, and maintain schools and education (Colorado Department of Education, 2022). "State" in this instance means states like New York, Kansas, and Colorado, not the United States as a sovereign "state" in this case. For other countries, this may be called something like provinces.
 
-I'll use state of Colorado regulations as my examples.
+I'll use the state of Colorado regulations as my examples.
 
 Of the organizations listed, the CDE at state level plays the broadest role in Colorado education. District offices and school boards oversee individual public, private, and charter schools, but the CDE sits above them in legal hierarchy. The CDE serves multiple roles, such as (Colorado Department of Education, 2025a, 2025d):
 - Defining and regulating different school types
@@ -449,6 +452,8 @@ For example, with intellectual property, a contract may make a distinction about
 38. U.S. Department of Justice. (2024, June 11). *Rights of juveniles*. [https://www.justice.gov/crt/rights-juveniles](https://www.justice.gov/crt/rights-juveniles)
 
 39. U.S. Department of Justice. (2025, March 24). *Title VI of the Civil Rights Act of 1964.* [https://www.justice.gov/crt/fcs/TitleVI](https://www.justice.gov/crt/fcs/TitleVI)
+
+40. U.S. Department of Justice Civil Rights Division. (2020). *The Americans with Disabilities Act (ADA).* Ada.Gov. [https://www.ada.gov/](https://www.ada.gov/)
 
 1. U.S. Department of Labor. (2025). *Retaliation - U.S. department of labor.* Www.dol.gov. [https://www.dol.gov/agencies/whd/retaliation](https://www.dol.gov/agencies/whd/retaliation)
 

@@ -15,7 +15,7 @@ nav_order: 18
 
 ---
 
-The name "IPA" is based upon one of my father's favorite types of drinks: India pale ales. IPAs.
+The name "IPA" is based upon one of my father's favorite types of drinks: India pale ales, aka IPAs.
 
 I built this framework in mind for secondary and tertiary education. Elementary school/primary education may need extensive adjustments beyond what is presented here. It is also designed to be independent of any subject(s) taught. **I fully expect you to modify this framework in some way(s) if you choose to follow it in your own education systems, because your situation may be different than the situation I've gone through.** 
 
@@ -37,7 +37,11 @@ Basically: IPA. Instruction, Practice, Assessment. You can apply this framework 
 
 ## **Long Answer**
 
-Education is learning. Teaching is a *form* of learning.
+It's great to advocate for an individual's learning.
+
+However, we're designing for many students at once. Many education systems deal with hundreds, thousands, millions, or perhaps even billions of students in the future. Servicing at those scales means compressing what individualization you can provide capable of survival as you're dealing with more and more students.
+
+Think of it as deciding what toppings to put on a hamburger. A system may have multiple products available for its users, but also limits the variety and production methods involved to ensure it's many users can afford and access those products. 
 
 Keep in mind the following information in this chapter is a *framework.* Not a system, curriculum, etc. but a structure to organize content for student delivery.
 

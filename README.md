@@ -27,22 +27,20 @@ Surprisingly though, it has more benefits than expected:
 - Operations At Scale
 - Macro[management] & Micro[management]
 - Classroom & Behavior Management
-- Standards / Objectives
-- Roadblocks To Education
+- Standards, Objectives, & Blockers
 - Metrics Of Success
 - Math, Calculus, and Beyond
 - Probability, Statistics, and Analysis
 - Source(s) of Truth
 - The User Experience
-- “Contrast" Framework
+- IPA Framework
 - Accommodations
 - Learning Methodologies and Teaching Methods
 - Homework
 - Client Relations
 - Assistant Teachers
 - Guest Teachers & Educators
-- Passporting & Information Transfer
-- Other Additional Duties
+- Passporting, Information Transfer, & Other Duties
 - Maintaining Work Health
 - Money and Budget Management
 - Technology and AI
