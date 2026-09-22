@@ -207,6 +207,14 @@ Rather than these subsets following the "typical" 5 layer list in our example ea
 
 You may see this setup across multiple examples, such as a small team answering directly to the head of an organization, a head of state, a general in a military, and so on. Though that team's leader is considered a "direct report" to a particular manager, that team lies outside the typical "chain of command" like the rest of the organization. This is similar to creating specialized departments and teams like in the earlier breakpoints, except they don't need to go all the way to the bottom layer to function.
 
+### **The Profit Motive**
+
+Imagine you run a business. You generate a sizable revenue, but still have expenses to cover, and come out with a modest profit. Your financial operations met their goal by making you money.
+
+If you were to bring on someone new into the system or organization, one of the biggest questions to ask yourself is how much money this person can generate and/or save me? Afterall, the goal of a business is to make money and another hire is another expense to manage and consider against your revenue.
+
+This isn't a phenomenon exclusive to managers and leaders either. A layman may browse a variety of products, see what their benefits and drawbacks are, and pick the option with the greatest net benefit. They may also track their own budgets and salary against their own expenses in a personal/professional life to see how they're doing financially.
+
 ### **Should You Flatten Organizations?**
 
 **Short(er) answer:** 

@@ -9,10 +9,6 @@ nav_order: 16
 
 ## **Short Answer**
 
-> "It is such a quiet thing, to fall. But far more terrible is to admit it."
-
-- Kreia, *Star Wars Knights of the Old Republic II: The Sith Lords* (2004)
-
 > "Absence of evidence is not evidence of absence"
 
 - Mr. Dugald Bell (Sheppard, 1895, p. 132)
@@ -55,13 +51,13 @@ To sum each category:
 
 ### **Exploring Outside Your Field**
 
-For curricula and meeting any standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching (known knowns). For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. 
+For curricula and meeting any standards, you'll deal with mainly known knowns and known unknowns. 
 
-In the process of researching, you'll eventually come upon information that you may or may not use in teaching, but didn't know about before, existed, or initially thought relevant to your subject(s) (unknown unknowns). 
+You're able to teach because you know what you're teaching (known knowns). For parts you're uncertain about on the subjects you're covering, you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching  (known unknowns). In the process of researching, you'll eventually come upon information that you may or may not use in teaching, but didn't know about before, existed, or initially thought relevant to your subject(s) (unknown unknowns). 
 
-Say, for example, you're teaching introduction to engineering. Considering looking into examples from unrelated fields like management, finance, communication, and more. Tie these fields into your current material, showcase new perspectives, and show real world applications reinforcing why the information matters and how what you're teaching is used elsewhere.
+Say, for example, you're teaching introduction to engineering and want to see "outside" perspectives. That means looking into examples from unrelated fields like management, finance, communication, and more to answer problems and questions in your own field. You can tie these fields into your current material, showcase new perspectives, and show real world applications reinforcing why the information matters and how what you're teaching is "useful" to students.
 
-Here are some books, both related and not related to education, I've used to help design curricula and lesson plans. Despite my credentials and focus on science and engineering, I found insights in various types of literature outside those fields.
+For my own instruction, here are some books, both related and not related to education, I've used to help design curricula and lesson plans. Despite my past credentials and focus on science and engineering, I did find insights in various types of literature outside those fields as anecdotal proof it helps.
 
 - Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The science of successful learning.* Harvard University Press. ([Amazon Link](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M))
 - Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee. ([Amazon Link](https://www.amazon.com/Uncommon-Sense-Teaching-Practical-Insights-ebook/dp/B08M5Y7PV5?dib=eyJ2IjoiMSJ9.GgECxYy92Qi8NjZ8fH8FvoPqjNRtwLrBQr4HS82V326H5J4ey8xxu76UNDVJVFcLzRiTsBNdY03DjRE0IFPLmZlTUpErCk5E_AFnUO-eQ6D8eieubMYhSMOO2bbAjD_uU-iBicj-EjXEKsO-AvCOC_EjMUzuArETOoiz-Dg-viaH7v-8AK1gC0OMR4aIh220M7a7VPs70F8LGDP9-e9iNmxVnZQ-sgI2Xeo0XsLGMjY.TP6B4w8t1R_rWECeJWMq5Tome8kK7NDVhw8tXDELLhs&dib_tag=AUTHOR))
@@ -86,7 +82,7 @@ A textbook designed at a national level and not at the state level is one reason
 Though a textbook may not provide all necessary information (or even too much information), they're still a "source of truth" to satisfy the standards and objectives teachers and instructors need to cover. Because they do provide information to satisfy multiple standards, it's not always necessary for a teacher to fully cover every detail inside of one textbook for a given class; especially if some parts don't align with your standards.
 - For 1:1 instruction, specialized groups, and private tutoring, the entire textbook *may* be covered instead, but that's more doable for that specific environment compared to typical classrooms.
 
-As an aside, also be careful when textbooks come with new "editions." These can range from changing only a couple things in errata to complete rewrites which may or may not justify its cost. Sometimes this means staying up to date means repurchasing textbooks (which the companies writing and publishing likely want because what business doesn't want to make money, right?). This could also mean an old textbook from 10+ years ago still meets standards with a bit of scaffolding and supplements, with many of them potentially free, added in here and there.
+Be careful when textbooks come with new "editions." These can range from changing only a couple things in errata to complete rewrites which may or may not justify its cost. Sometimes this means staying up to date means repurchasing textbooks (which the companies writing and publishing likely want because what business doesn't want to make money, right?). This could also mean an old textbook from 10+ years ago still meets standards with a bit of scaffolding and supplements, with many of them potentially free, added in here and there.
 - To give a "fun" example of when you may upgrade editions: a tabletop RPG with Pathfinder 1e vs Pathfinder 2e.
     - Multiple, significant changes exist between the two editions, so you should get a copy of the new edition to stay updated and accommodate players who need/want to use the new rules and systems.
 
@@ -126,7 +122,7 @@ There are also reasons why I criticize using it as a source for essays and paper
 
 Additionally, **a Wikipedia article does not hold the same weight as another primary source, *even if they have the exact same information*, because you normally shouldn't cite encyclopedias anyway.** Nevertheless, I'd prefer a Wikipedia citation over an AI-generated (or similar technology) citation.
 
-However, while you're not *supposed* to cite encyclopedias over original research and other primary sources, at least Wikipedia has revision histories, discussion methods, and is checked quite often by humans (as of originally writing this on December 2025).
+While you're not *supposed* to cite encyclopedias over original research and other primary sources, at least Wikipedia has revision histories, discussion methods, and is checked quite often by humans (as of originally writing this on December 2025).
 
 Despite Wikipedia's benefits and drawbacks, a student may inevitably use it, like they would any other encyclopedia, if not at least look at it. To counter this, consider implementing the following for work where students do research:
 
@@ -222,9 +218,6 @@ You should accept subject matter experts into helping design an education system
 12. National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science.* In www.ncbi.nlm.nih.gov. National Academies Press (US). [https://www.ncbi.nlm.nih.gov/books/NBK547524/](https://www.ncbi.nlm.nih.gov/books/NBK547524/)
 
 13. Oakley, B., Rogowsky, B., & Sejnowski, T. (2021). *Uncommon sense teaching: Practical insights in brain science to help students learn.* TarcherPerigee.
-
-14. Obsidian Entertainment. (December 6, 2004). *Star Wars Knights of the Old Republic II: The Sith Lords* (PC Version) [Video game]. LucasArts.
-    - Lead Writer is Chris Avellone.
 
 14. Python Graph Gallery. (n.d.). *The Python graph gallery.* [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
 
