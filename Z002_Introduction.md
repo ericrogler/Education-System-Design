@@ -34,21 +34,6 @@ An educator exists in many different forms and they come from many backgrounds t
 
 People should be trained, or at least spend time figuring out, on how to educate students or else you'll get a blind leading the blind situation. Many people can teach, sure, but not necessarily be a good *teacher.* The students you teach could become future lawyers, engineers, doctors, musicians, artists, and more, so you want to manage and minimize the risk of messing up their learning journey. That may mean removing a problematic student to save the education of every other student in a classroom, as well as failing students and holding them back if they're not ready to move onto the next stage of their journey.
 
-### **What's This Book's Value?**
-
-Great question. Let's start by saving millions of dollars (in 2026 years value), as I suppose that's a fair value trade for what you've may exchanged for this book, across many education systems.
-
-The first solution is easy, but requires the administrative layer to enforce it: replace most of your PD (professional development) days with more protected work time for educators to collaborate, grade, plan, and work on their own research/curricula. Most learning for educators occurs *in practice*, not inside of a lecture hall or even this book. The primary exception is training on laws and legal changes educators must follow.
-
-That's it. That alone potentially saves millions of dollars and cuts down the "cost" on part of more than 2 *billion* dollars per year in 2022-2024 from Title II-A grants spent towards K-12 teacher professional development amongst other expenses (GAO, 2026).
-
-Within, and beyond, secondary and primary education, there's three other solutions:
-1. Consistently (and actually) enforcing discipline and consequences for actions
-2. Allowing students to fail and letting them experience the consequences of failure
-3. Limiting classroom size/number of students instructors manage
-
-To go beyond that requires reading the rest of this book. You didn't think I'd tell you all the answers *that* quickly, did I?
-
 ### **What's The Goal Of This Book?**
 
 1. To increase the probability of success for professionals navigating a new or existing education system.
@@ -130,7 +115,5 @@ In the event of references to any products or tools, they are included because I
 
 1. National Center on Education and the Economy (NCEE). (2024). *Blueprint: Designing Systems That Work.* (2024). National Center on Education and the Economy. 2000 Pennsylvania Avenue NW Suite 5300, Washington, DC 20006. Tel: 202-379-1800; Fax: 202-293-1560; e-mail: info@ncee.org; [http://www.ncee.org](http://www.ncee.org). [https://eric.ed.gov/?id=ED671660](https://eric.ed.gov/?id=ED671660)
     - Alternative Link: [https://ncee.org/blueprint/](https://ncee.org/blueprint/)
-
-1. United States Government Accountability Office (GAO). (2026). *GAO-26-107874, K-12 EDUCATION: Research on Effectiveness of Professional Development Is Mixed, but Teachers Find Collaborative Learning Most Useful.* Gao.Gov. [https://files.gao.gov/reports/GAO-26-107874/index.html](https://files.gao.gov/reports/GAO-26-107874/index.html)
 
 ## **[Next Chapter](Z003_Legality.html)**

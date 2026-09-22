@@ -38,7 +38,7 @@ Statistics and Probability are where you realize a 50% success rate sounds bad a
 
 Learning Statistics and Probability, beyond a high-level overview, typically requires an advanced mathematical foundation before beginning. This is usually 1-2 years of Calculus, with all of its prerequisites, and/or Linear Algebra; often accomplished around late high school/early college age for students (17-21 years old) as of 2025.
 
-Do Statistics and Probability *require* Calculus? For their applied versions, no. For fully understanding the math and theory behind it, I'd say yes. 
+Do Statistics and Probability *require* higher math like Calculus? For their applied versions, no. For fully understanding the math and theory behind it, I'd say yes. 
 
 Should you still learn them? Personally, yes. It's learning a matter of perspective and new line of reasoning.
 
@@ -119,7 +119,7 @@ Like Statistics and Probability, SQC will assume you can at least navigate Algeb
 
 You may *still* be wondering why a book on education dedicated so much real estate to math. Analysis is an application of all that math with some science and social skills.
 
-Outside of author bias, the actual reason is simple: you need to understand math to interpret the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, if you're an educator anyways.
+Outside of author bias, the actual reason is simple: you need to understand math to interpret the research which influences policies and decisions affecting the field of education and, well, just about *every other field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well, or at least practicing, regardless of your role.
 
 The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind any charts and numbers though, which is why learning math and acquiring domain knowledge is important. 
 
@@ -127,7 +127,7 @@ The bad news about data analysis is you need math skills to get the most out of 
 
 ### **Data Analysis Primer**
 
-**The most important skills in data analysis are the ability to quicky learn domain knowledge (i.e. understand the "business"), exercise critical/analytical thinking, and properly communicate and work with other people and businesses.** Soft skills are more important than you may realize and competency alone does not always lead to success.
+**The most important skills in data analysis are the ability to quicky learn domain knowledge (i.e. understand the "business"), exercise critical/analytical thinking, and properly communicate and work with other people and businesses.** Soft skills are important and competency alone does not always lead to success.
 
 **There's three "laws" of data analysis I'll establish here:**
 1. Data are objective. Interpretation is subjective.
