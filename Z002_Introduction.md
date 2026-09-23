@@ -109,7 +109,7 @@ If you're in education or an educator, I'll assume you're at least dealing with 
 
 Sources used are listed and divided by chapter. Sources are directly cited if I'm quoting challengeable text, numbers, figures, etc. or linking directly to text to explain a point. There may be indirect citations if I can cite, in-text, a link directly to the source(s) for reference or further reading. (e.g. "Here's a [blank hyperlink]() showcasing X idea(s)." and "Here's an idea ([Further Reading]())")
 
-In the event of references to any products or tools, they are included because I found them useful in writing this book, they better explain a point I would write about anyway, and/or they were useful for when I went through education.
+In the event of references to any products or tools, they are included because I found them useful in writing this book, they better explain a point I would write about anyway, and/or they were useful while going through education.
 
 ## **Bibliography**
 
