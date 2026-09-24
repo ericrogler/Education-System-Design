@@ -1,5 +1,5 @@
 ---
-title: 18. Learning Methodologies and Teaching Methods
+title: 17. Learning Methodologies and Teaching Methods
 layout: default
 nav_order: 20
 ---

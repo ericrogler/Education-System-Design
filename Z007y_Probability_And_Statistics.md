@@ -1,5 +1,5 @@
 ---
-title: 13. Probability, Statistics, and Analysis
+title: 12. Probability, Statistics, and Analysis
 layout: default
 nav_order: 15
 ---

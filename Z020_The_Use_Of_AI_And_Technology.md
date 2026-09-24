@@ -1,5 +1,5 @@
 ---
-title: 27. Technology
+title: 25. Technology
 layout: default
 nav_order: 29
 ---

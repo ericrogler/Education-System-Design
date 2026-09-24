@@ -1,5 +1,5 @@
 ---
-title: 25. Maintaining Health
+title: 23. Maintaining Health
 layout: default
 nav_order: 27
 ---

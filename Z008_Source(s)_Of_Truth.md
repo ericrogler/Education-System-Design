@@ -1,5 +1,5 @@
 ---
-title: 14. Source(s) of Truth
+title: 13. Source(s) of Truth
 layout: default
 nav_order: 16
 ---

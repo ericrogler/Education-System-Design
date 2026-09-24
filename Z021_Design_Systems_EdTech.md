@@ -1,5 +1,5 @@
 ---
-title: 28. Design Systems and EdTech
+title: 26. Design Systems and EdTech
 layout: default
 nav_order: 30
 ---

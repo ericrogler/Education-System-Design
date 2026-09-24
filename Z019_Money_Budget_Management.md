@@ -1,5 +1,5 @@
 ---
-title: 26. Money, Wealth, & Budgets
+title: 24. Money, Wealth, & Budgets
 layout: default
 nav_order: 28
 ---

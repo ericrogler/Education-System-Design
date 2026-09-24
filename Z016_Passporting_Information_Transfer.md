@@ -1,5 +1,5 @@
 ---
-title: 23. Passporting, Information Transfer, & Other Duties
+title: 22. Passporting, Information Transfer, & Other Duties
 layout: default
 nav_order: 25
 ---
