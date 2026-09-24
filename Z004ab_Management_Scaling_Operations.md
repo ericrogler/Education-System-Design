@@ -31,7 +31,7 @@ As for emergencies, you can "wind the clock" back for all but the most serious e
 
 ## **Long Answer**
 
-*Notice: As I'm not active military or ever been part of the military, I cannot accurately describe their organizations from first-hand experiences nor will I pretend to do so.*
+*Notice: As I'm not active military or ever been part of the military, I cannot accurately describe their organizations from first-hand experiences nor will I pretend to do so. I'm also not endorsing any real military here.*
 
 This is the second parallel that may seem unusual at first: military organization and communications in a milsim (military simulation) group context. Despite its unusual appearance here, there are parallels you can observe and learn about related to education systems.
 
