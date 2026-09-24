@@ -8,6 +8,8 @@ Welcome to *Education System Design*. Included is the license involved with this
 
 Yea! It's unconventional to host a book on this platform. I was against it at first and almost developed my own website instead.
 
+However: **You are reading an unofficial manuscript.** Hence why it's free.
+
 Surprisingly though, it has more benefits than expected:
 - Version control capabilities
 - Text styles
@@ -15,7 +17,6 @@ Surprisingly though, it has more benefits than expected:
 - Converts Markdown into HTML, CSS, etc. automatically
 - Can be converted further from here
 - It's self-published, so no middle man
-- It's free for you: the user/reader
 
 ## **Navigation by Chapter**
 
