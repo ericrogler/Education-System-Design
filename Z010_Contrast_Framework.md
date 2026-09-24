@@ -37,11 +37,11 @@ Basically: IPA. Instruction, Practice, Assessment. You can apply this framework 
 
 ## **Long Answer**
 
-It's great to advocate for an individual's learning.
+Pedagogy and education theory swings back and forth on what's good, bad, or indifferent. Instead, my goal is to just stick with what worked for me, which is what you're reading here now.
 
-However, we're designing for many students at once. Many education systems deal with hundreds, thousands, millions, or perhaps even billions of students in the future. Servicing at those scales means compressing what individualization you can provide capable of survival as you're dealing with more and more students.
+In this book, we're designing for many students at once. Many education systems will deal with hundreds, thousands, millions, or perhaps even billions of students in the future. Servicing at those scales means compressing what individualization you can provide as you're dealing with more and more students.
 
-Think of it as deciding what toppings to put on a hamburger. A system may have multiple products available for its users, but also limits the variety and production methods involved to ensure it's many users can afford and access those products. 
+Think of it as deciding what toppings to put on a hamburger. A system may have multiple products available for its users, but also limits the variety and production methods involved to ensure its many users can afford and access those products. 
 
 Keep in mind the following information in this chapter is a *framework.* Not a system, curriculum, etc. but a structure to organize content for student delivery.
 
